@@ -1,0 +1,35 @@
+name: Market Summary
+
+on:
+  schedule:
+    # Časy jsou v UTC a GitHub cron neřeší letní/zimní čas.
+    # 06:00 / 11:00 / 18:00 UTC = 08:00 / 13:00 / 20:00 SELČ (letní čas, CEST, UTC+2).
+    # V zimě (CET, UTC+1) tak přijdou zprávy o hodinu později (9:00/14:00/21:00).
+    # Pokud to vadí, dvakrát ročně tu čísla uprav o 1.
+    - cron: "0 6 * * *"
+    - cron: "0 11 * * *"
+    - cron: "0 18 * * *"
+  workflow_dispatch: {}
+
+jobs:
+  send-market-summary:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repozitáře
+        uses: actions/checkout@v4
+
+      - name: Nastavit Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Nainstalovat závislosti
+        run: pip install -r requirements.txt
+
+      - name: Spustit bota
+        run: python main.py
+        env:
+          FINNHUB_API_KEY: ${{ secrets.FINNHUB_API_KEY }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
