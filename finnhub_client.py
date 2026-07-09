@@ -16,7 +16,7 @@ def _get(endpoint, params):
 
 
 def get_quote(symbol):
-    """Vrátí aktuální cenu a % změnu oproti včerejšímu zavíracímu kurzu."""
+    """Vrátí aktuální cenu, % změnu a denní rozpětí (high/low/open)."""
     try:
         data = _get("/quote", {"symbol": symbol})
         price = data["c"]
@@ -24,7 +24,14 @@ def get_quote(symbol):
         change_pct = 0.0
         if previous_close:
             change_pct = (price - previous_close) / previous_close * 100
-        return {"symbol": symbol, "price": price, "change_pct": change_pct}
+        return {
+            "symbol": symbol,
+            "price": price,
+            "change_pct": change_pct,
+            "day_high": data.get("h"),
+            "day_low": data.get("l"),
+            "day_open": data.get("o"),
+        }
     except Exception as error:
         print(f"[finnhub] Nepodařilo se stáhnout cenu pro {symbol}: {error}")
         return None
@@ -39,7 +46,7 @@ def _filter_recent(news_items, cutoff_timestamp):
             "summary": item.get("summary", ""),
             "source": item.get("source", ""),
         }
-        for item in recent[:5]
+        for item in recent[:8]
     ]
 
 

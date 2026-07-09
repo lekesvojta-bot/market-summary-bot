@@ -8,11 +8,17 @@ import telegram_sender
 
 def collect_stock_data():
     stocks = []
-    for symbol in config.TICKERS:
-        print(f"Stahuji data pro {symbol}...")
-        quote = finnhub_client.get_quote(symbol)
-        news = finnhub_client.get_company_news(symbol, config.NEWS_LOOKBACK_HOURS)
-        stocks.append({"symbol": symbol, "quote": quote, "news": news})
+    for ticker in config.TICKERS:
+        symbol = ticker["symbol"]
+        # finnhub_symbol umožňuje stahovat data pod jiným symbolem, než se
+        # zobrazuje (např. VUAA se sleduje přes americké SPY, viz config.py).
+        finnhub_symbol = ticker.get("finnhub_symbol", symbol)
+        print(f"Stahuji data pro {symbol} ({finnhub_symbol})...")
+        quote = finnhub_client.get_quote(finnhub_symbol)
+        news = finnhub_client.get_company_news(finnhub_symbol, config.NEWS_LOOKBACK_HOURS)
+        stocks.append(
+            {"symbol": symbol, "quote": quote, "news": news, "note": ticker.get("note")}
+        )
     return stocks
 
 

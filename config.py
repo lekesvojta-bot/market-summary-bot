@@ -12,8 +12,26 @@ ANTHROPIC_API_KEY = os.environ["ANTHROPIC_API_KEY"]
 TELEGRAM_BOT_TOKEN = os.environ["TELEGRAM_BOT_TOKEN"]
 TELEGRAM_CHAT_ID = os.environ["TELEGRAM_CHAT_ID"]
 
-# Akcie, které bot sleduje.
-TICKERS = ["NVDA", "AMD", "GOOGL", "META", "AAPL"]
+# Akcie/ETF, které bot sleduje. "finnhub_symbol" a "note" jsou volitelné -
+# použijí se, když se zobrazovaný symbol liší od symbolu ve Finnhubu
+# (typicky proto, že Finnhub free tier neumí evropské burzy).
+TICKERS = [
+    {"symbol": "NVDA"},
+    {"symbol": "AMD"},
+    {"symbol": "GOOGL"},
+    {"symbol": "META"},
+    {"symbol": "AAPL"},
+    {"symbol": "MSFT"},
+    {
+        "symbol": "VUAA",
+        "finnhub_symbol": "SPY",
+        "note": (
+            "VUAA je evropský ETF na S&P 500 (LSE/Xetra), Finnhub free tier "
+            "ale evropské burzy nepodporuje. Cena a novinky jsou proto z "
+            "amerického ETF SPY, který sleduje stejný index 1:1."
+        ),
+    },
+]
 
 # Kolik hodin zpátky brát novinky. Bot běží zhruba každých 5-7 hodin,
 # 8 hodin je bezpečná rezerva, aby nevznikla mezera bez pokrytí.
