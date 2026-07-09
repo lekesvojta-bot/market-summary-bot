@@ -55,4 +55,9 @@ def generate_summary(stocks, macro_news):
         max_tokens=1024,
         messages=[{"role": "user", "content": prompt}],
     )
-    return message.content[0].text
+    # Odpověď může kromě textu obsahovat i "thinking" blok (interní úvahu
+    # modelu), takže hledáme konkrétně blok typu "text", ne jen content[0].
+    for block in message.content:
+        if block.type == "text":
+            return block.text
+    raise ValueError("Odpověď od Claude neobsahuje žádný textový blok.")
