@@ -3,12 +3,16 @@ name: Market Summary
 on:
   schedule:
     # Časy jsou v UTC a GitHub cron neřeší letní/zimní čas.
-    # 06:00 / 11:00 / 18:00 UTC = 08:00 / 13:00 / 20:00 SELČ (letní čas, CEST, UTC+2).
-    # V zimě (CET, UTC+1) tak přijdou zprávy o hodinu později (9:00/14:00/21:00).
+    # 06:05 / 11:05 / 18:05 UTC = cca 08:05 / 13:05 / 20:05 SELČ (letní čas, CEST, UTC+2).
+    # V zimě (CET, UTC+1) tak přijdou zprávy o hodinu později (9:05/14:05/21:05).
     # Pokud to vadí, dvakrát ročně tu čísla uprav o 1.
-    - cron: "0 6 * * *"
-    - cron: "0 11 * * *"
-    - cron: "0 18 * * *"
+    #
+    # Minuta je schválně 5, ne 0: GitHub Actions varuje, že spouštění přesně
+    # na celou hodinu je nejvytíženější čas a naplánovaný běh se pak může
+    # zpozdit nebo úplně přeskočit (přesně to se stalo ranní zprávě 10.7.).
+    - cron: "5 6 * * *"
+    - cron: "5 11 * * *"
+    - cron: "5 18 * * *"
   workflow_dispatch: {}
 
 jobs:
