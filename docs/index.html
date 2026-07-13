@@ -1,55 +1,858 @@
 <!DOCTYPE html>
 <html lang="cs">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Přehled trhu</title>
-  <link rel="stylesheet" href="style.css">
-  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.3/dist/chart.umd.min.js"></script>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Přehled trhu</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600;9..144,700&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,500;1,8..60,400&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --bg:#0f1620;
+    --bg-elevated:#161f2c;
+    --bg-elevated-2:#1c2634;
+    --text:#e9e6de;
+    --text-dim:#8b96a5;
+    --text-faint:#5a6576;
+    --line:#26313f;
+    --gain:#4fd1a5;
+    --gain-bg:rgba(79,209,165,0.1);
+    --loss:#e2694b;
+    --loss-bg:rgba(226,105,75,0.1);
+    --amber:#d9a441;
+    --amber-bg:rgba(217,164,65,0.1);
+  }
+  *{box-sizing:border-box;}
+  html{scroll-behavior:smooth;}
+  body{
+    margin:0;
+    background:var(--bg);
+    color:var(--text);
+    font-family:'Source Serif 4', serif;
+    line-height:1.5;
+    -webkit-font-smoothing:antialiased;
+  }
+  .mono{font-family:'IBM Plex Mono', monospace;}
+  a{color:inherit;}
+
+  /* ---------- Ticker tape (signature element) ---------- */
+  .tape{
+    background:#0a0f16;
+    border-bottom:1px solid var(--line);
+    overflow:hidden;
+    white-space:nowrap;
+    padding:9px 0;
+  }
+  .tape-track{
+    display:inline-flex;
+    animation:scroll 38s linear infinite;
+  }
+  .tape:hover .tape-track{animation-play-state:paused;}
+  @keyframes scroll{
+    from{transform:translateX(0);}
+    to{transform:translateX(-50%);}
+  }
+  .tape-item{
+    font-family:'IBM Plex Mono', monospace;
+    font-size:12.5px;
+    letter-spacing:0.02em;
+    padding:0 22px;
+    display:inline-flex;
+    align-items:baseline;
+    gap:8px;
+    color:var(--text-dim);
+    border-right:1px solid var(--line);
+  }
+  .tape-item b{color:var(--text); font-weight:600;}
+  .tape-item .up{color:var(--gain);}
+  .tape-item .down{color:var(--loss);}
+
+  @media (prefers-reduced-motion: reduce){
+    .tape-track{animation:none;}
+  }
+
+  /* ---------- Masthead ---------- */
+  .wrap{max-width:1040px; margin:0 auto; padding:0 28px;}
+  header.masthead{
+    padding:44px 0 30px;
+    border-bottom:1px solid var(--line);
+    display:flex;
+    justify-content:space-between;
+    align-items:flex-end;
+    flex-wrap:wrap;
+    gap:16px;
+  }
+  .masthead h1{
+    font-family:'Fraunces', serif;
+    font-weight:600;
+    font-size:38px;
+    letter-spacing:-0.01em;
+    margin:0 0 6px;
+  }
+  .masthead .sub{
+    color:var(--text-dim);
+    font-size:15px;
+    font-style:italic;
+  }
+  .masthead .meta{
+    text-align:right;
+    font-family:'IBM Plex Mono', monospace;
+    font-size:12px;
+    color:var(--text-faint);
+    line-height:1.7;
+  }
+  .masthead .meta .dot{
+    display:inline-block; width:6px; height:6px; border-radius:50%;
+    background:var(--gain); margin-right:6px;
+    box-shadow:0 0 6px var(--gain);
+  }
+  .masthead .meta .dot.err{ background:var(--loss); box-shadow:0 0 6px var(--loss); }
+
+  /* ---------- Section labels ---------- */
+  .eyebrow{
+    font-family:'IBM Plex Mono', monospace;
+    font-size:11px;
+    letter-spacing:0.12em;
+    text-transform:uppercase;
+    color:var(--text-faint);
+    display:flex;
+    align-items:center;
+    gap:10px;
+    margin-bottom:18px;
+  }
+  .eyebrow::after{
+    content:"";
+    flex:1;
+    height:1px;
+    background:var(--line);
+  }
+
+  section{padding:46px 0;}
+  section + section{border-top:1px solid var(--line);}
+  .hidden{display:none;}
+
+  /* ---------- Weekly recap (editorial) ---------- */
+  .recap p{
+    font-size:18px;
+    line-height:1.75;
+    color:#d8d4ca;
+    max-width:760px;
+  }
+  .recap p:first-of-type::first-letter{
+    font-family:'Fraunces', serif;
+    font-size:56px;
+    font-weight:600;
+    float:left;
+    line-height:0.8;
+    padding:6px 8px 0 0;
+    color:var(--amber);
+  }
+
+  /* ---------- Ticker grid ---------- */
+  .grid{
+    display:grid;
+    grid-template-columns:repeat(3, 1fr);
+    gap:14px;
+  }
+  @media (max-width:760px){ .grid{grid-template-columns:1fr;} }
+
+  .card{
+    background:var(--bg-elevated);
+    border:1px solid var(--line);
+    border-radius:3px;
+    padding:20px;
+    transition:border-color 0.15s ease, transform 0.15s ease;
+  }
+  .card:hover{ border-color:#37455a; transform:translateY(-1px); }
+
+  .card-top{
+    display:flex;
+    justify-content:space-between;
+    align-items:flex-start;
+    margin-bottom:10px;
+  }
+  .card-top .sym{
+    font-family:'IBM Plex Mono', monospace;
+    font-weight:600;
+    font-size:16px;
+    letter-spacing:0.01em;
+  }
+  .card-top .name{
+    display:block;
+    font-family:'Source Serif 4', serif;
+    font-size:12.5px;
+    color:var(--text-faint);
+    margin-top:2px;
+  }
+  .card-top .price{
+    text-align:right;
+    font-family:'IBM Plex Mono', monospace;
+  }
+  .card-top .price .p{font-size:16px; font-weight:600;}
+  .card-top .price .chg{display:block; font-size:12px; margin-top:2px;}
+
+  .spark{ width:100%; height:36px; display:block; margin:12px 0; }
+
+  .badge{
+    display:inline-block;
+    font-family:'IBM Plex Mono', monospace;
+    font-size:10.5px;
+    letter-spacing:0.06em;
+    text-transform:uppercase;
+    padding:3px 8px;
+    border-radius:2px;
+    margin-bottom:10px;
+  }
+  .badge.gain{ color:var(--gain); background:var(--gain-bg); }
+  .badge.loss{ color:var(--loss); background:var(--loss-bg); }
+  .badge.neutral{ color:var(--text-dim); background:rgba(139,150,165,0.1); }
+  .badge.week{ color:var(--text-dim); background:rgba(139,150,165,0.1); margin-left:6px; }
+
+  .card .note-label{
+    font-family:'IBM Plex Mono', monospace;
+    font-size:10px;
+    letter-spacing:0.08em;
+    text-transform:uppercase;
+    color:var(--text-faint);
+    margin:0 0 6px;
+  }
+  .earnings{
+    display:flex;
+    justify-content:space-between;
+    gap:12px;
+    background:var(--bg-elevated-2);
+    border:1px solid var(--line);
+    border-radius:2px;
+    padding:10px 12px;
+    margin:0 0 14px;
+    font-family:'IBM Plex Mono', monospace;
+  }
+  .earnings .col{ flex:1; min-width:0; }
+  .earnings .lbl{
+    font-size:9.5px;
+    letter-spacing:0.06em;
+    text-transform:uppercase;
+    color:var(--text-faint);
+    display:block;
+    margin-bottom:4px;
+  }
+  .earnings .val{
+    font-size:12.5px;
+    color:var(--text);
+  }
+  .earnings .col + .col{
+    border-left:1px solid var(--line);
+    padding-left:12px;
+  }
+  .earnings .beat{ color:var(--gain); }
+  .earnings .miss{ color:var(--loss); }
+  .card .note{
+    font-size:14px;
+    color:#c7c3ba;
+    line-height:1.6;
+    margin:0 0 8px;
+  }
+  .card .note.collapsed{
+    display:-webkit-box;
+    -webkit-line-clamp:3;
+    -webkit-box-orient:vertical;
+    overflow:hidden;
+  }
+  .note-toggle{
+    background:none;
+    border:none;
+    padding:0;
+    cursor:pointer;
+    font-family:'IBM Plex Mono', monospace;
+    font-size:11px;
+    letter-spacing:0.04em;
+    color:var(--amber);
+    margin:0 0 14px;
+    display:block;
+  }
+  .note-toggle:hover{ text-decoration:underline; }
+  .card .news{
+    font-family:'IBM Plex Mono', monospace;
+    font-size:11.5px;
+    color:var(--text-faint);
+    border-top:1px solid var(--line);
+    padding-top:10px;
+    display:block;
+    text-decoration:none;
+  }
+  .card .news + .news{ border-top:none; padding-top:6px; }
+  .card .news:hover{ color:var(--text-dim); }
+
+  /* ---------- Macro ---------- */
+  .macro-item{
+    display:flex;
+    gap:16px;
+    padding:16px 0;
+    border-bottom:1px solid var(--line);
+  }
+  .macro-item:last-child{border-bottom:none;}
+  .macro-item .time{
+    font-family:'IBM Plex Mono', monospace;
+    font-size:12px;
+    color:var(--text-faint);
+    white-space:nowrap;
+    padding-top:2px;
+    min-width:44px;
+  }
+  .macro-item .body h3{
+    font-family:'Fraunces', serif;
+    font-weight:600;
+    font-size:17px;
+    margin:0 0 6px;
+  }
+  .macro-item .body p{
+    font-size:14.5px;
+    color:#c7c3ba;
+    margin:0 0 6px;
+    line-height:1.6;
+  }
+  .macro-item .body a{
+    font-family:'IBM Plex Mono', monospace;
+    font-size:11.5px;
+    color:var(--text-faint);
+    text-decoration:none;
+  }
+  .macro-item .body a:hover{ color:var(--amber); }
+
+  /* ---------- Two-col: tips + term ---------- */
+  .split{
+    display:grid;
+    grid-template-columns:1.4fr 1fr;
+    gap:22px;
+  }
+  @media (max-width:760px){ .split{grid-template-columns:1fr;} }
+
+  .tips-list{
+    display:flex;
+    flex-direction:column;
+    gap:12px;
+  }
+  .tip-card{
+    display:flex;
+    gap:14px;
+    align-items:flex-start;
+    padding:14px 0;
+    border-bottom:1px solid var(--line);
+  }
+  .tip-card:last-child{border-bottom:none;}
+  .tip-card .tip-sym{
+    font-family:'IBM Plex Mono', monospace;
+    font-weight:600;
+    font-size:14px;
+    min-width:58px;
+    flex-shrink:0;
+    padding-top:1px;
+  }
+  .tip-card .tip-body h4{
+    font-family:'Fraunces', serif;
+    font-weight:600;
+    font-size:15px;
+    margin:0 0 4px;
+  }
+  .tip-card .tip-body p{
+    font-size:13.5px;
+    color:#c7c3ba;
+    margin:0;
+    line-height:1.55;
+  }
+  .tip-card .tip-tag{
+    font-family:'IBM Plex Mono', monospace;
+    font-size:10px;
+    letter-spacing:0.06em;
+    text-transform:uppercase;
+    color:var(--text-faint);
+    display:block;
+    margin-top:5px;
+  }
+  .disclaimer{
+    font-size:12px;
+    color:var(--text-faint);
+    font-style:italic;
+    margin-top:14px;
+  }
+
+  .term{
+    background:var(--bg-elevated);
+    border:1px solid var(--line);
+    border-left:2px solid var(--amber);
+    padding:20px;
+    border-radius:2px;
+  }
+  .term .eyebrow{margin-bottom:12px;}
+  .term h3{
+    font-family:'Fraunces', serif;
+    font-size:20px;
+    margin:0 0 8px;
+    color:var(--amber);
+  }
+  .term p{ font-size:14.5px; color:#c7c3ba; margin:0; line-height:1.6;}
+
+  /* ---------- Archive ---------- */
+  .archive{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    flex-wrap:wrap;
+    gap:12px;
+  }
+  .archive-list{
+    display:flex;
+    gap:10px;
+    flex-wrap:wrap;
+  }
+  .archive-list a{
+    font-family:'IBM Plex Mono', monospace;
+    font-size:12px;
+    color:var(--text-dim);
+    text-decoration:none;
+    border:1px solid var(--line);
+    padding:6px 12px;
+    border-radius:2px;
+    cursor:pointer;
+  }
+  .archive-list a:hover{ border-color:var(--amber); color:var(--amber); }
+  .archive-list a.active{ border-color:var(--amber); color:var(--amber); }
+
+  footer{
+    padding:30px 0 50px;
+    font-family:'IBM Plex Mono', monospace;
+    font-size:11.5px;
+    color:var(--text-faint);
+    display:flex;
+    justify-content:space-between;
+    flex-wrap:wrap;
+    gap:10px;
+  }
+  footer a{ color:var(--text-dim); text-decoration:none; }
+  footer a:hover{ color:var(--amber); }
+</style>
 </head>
 <body>
-  <header>
-    <h1>📊 Přehled trhu</h1>
-    <div class="header-meta">
-      <span id="last-update">Načítám…</span>
-      <select id="archive-select" title="Zobrazit starší běh"></select>
+
+  <!-- Ticker tape -->
+  <div class="tape">
+    <div class="tape-track" id="tapeTrack"></div>
+  </div>
+
+  <div class="wrap">
+
+    <header class="masthead">
+      <div>
+        <h1>Přehled trhu</h1>
+        <div class="sub" id="subline">Denní čtení pro watchlist</div>
+      </div>
+      <div class="meta">
+        <div><span class="dot" id="statusDot"></span><span id="updatedAt">načítám data…</span></div>
+        <div>data: Finnhub · analýza: Claude · 3× denně</div>
+      </div>
+    </header>
+
+    <!-- Weekly recap -->
+    <section class="recap hidden" id="recapSection">
+      <div class="eyebrow">Týdenní rekapitulace</div>
+      <div id="recapBody"></div>
+    </section>
+
+    <!-- Watchlist -->
+    <section>
+      <div class="eyebrow">Sledované tickery</div>
+      <div class="grid" id="tickerGrid"></div>
+    </section>
+
+    <!-- Macro -->
+    <section>
+      <div class="eyebrow">Makro</div>
+      <div id="macroList"></div>
+    </section>
+
+    <!-- Tips + term of the day -->
+    <section>
+      <div class="split">
+        <div class="tips">
+          <div class="eyebrow">Tipy k prozkoumání</div>
+          <div class="tips-list" id="tipsList"></div>
+          <div class="disclaimer">Jen nápady k vlastnímu průzkumu založené na obecných tržních trendech — NEJDE o investiční doporučení. Než cokoliv koupíš, udělej si vlastní analýzu.</div>
+        </div>
+        <div class="term hidden" id="termBox">
+          <div class="eyebrow">Pojem dne</div>
+          <h3 id="termName"></h3>
+          <p id="termText"></p>
+        </div>
+      </div>
+    </section>
+
+    <!-- Archive -->
+    <section>
+      <div class="archive">
+        <div class="eyebrow" style="margin:0; flex:none;">Archiv běhů</div>
+        <div class="archive-list" id="archiveList"></div>
+      </div>
+    </section>
+
+    <footer>
+      <div>Data: Finnhub · Analýzy: Claude · Aktualizace 3× denně</div>
+      <div><a href="https://github.com/lekesvojta-bot/market-summary-bot">GitHub repozitář ↗</a></div>
+    </footer>
+
+  </div>
+
+<script>
+// Dashboard čte skutečná data generovaná botem (main.py -> storage.py):
+//   data/latest.json          poslední běh
+//   data/history.json         vývoj cen pro sparkline grafy
+//   data/archive/index.json   seznam starších běhů
+// Kód počítá se současnou strukturou dat a zároveň umí využít bohatší
+// pole (outlook, macro jako seznam, earnings s časem...), až je bude
+// backend generovat.
+
+const COMPANY_NAMES = {
+  NVDA: "NVIDIA Corp.",
+  AMD: "Advanced Micro Devices",
+  GOOGL: "Alphabet Inc.",
+  META: "Meta Platforms",
+  AAPL: "Apple Inc.",
+  MSFT: "Microsoft Corp.",
+  VUAA: "S&P 500 (přes SPY)",
+};
+
+const EARNINGS_HOUR = {
+  amc: "po zavření trhu",
+  bmo: "před otevřením trhu",
+  dmh: "během obchodování",
+};
+
+let history = [];
+
+function esc(value) {
+  const div = document.createElement("div");
+  div.textContent = value == null ? "" : String(value);
+  return div.innerHTML;
+}
+
+function fmtMoney(value) {
+  return "$" + Number(value).toFixed(2);
+}
+
+function fmtPct(value) {
+  return (value >= 0 ? "+" : "") + Number(value).toFixed(2) + "%";
+}
+
+function fmtPragueDateTime(isoString) {
+  return new Date(isoString).toLocaleString("cs-CZ", {
+    timeZone: "Europe/Prague",
+    day: "numeric", month: "numeric", year: "numeric",
+    hour: "2-digit", minute: "2-digit",
+  });
+}
+
+function fmtCzDate(dateString) {
+  return new Date(dateString + "T00:00:00Z").toLocaleDateString("cs-CZ", {
+    day: "numeric", month: "numeric", year: "numeric",
+  });
+}
+
+function sparkPath(vals) {
+  const w = 100, h = 32, min = Math.min(...vals), max = Math.max(...vals);
+  const range = (max - min) || 1;
+  return vals.map((v, i) => {
+    const x = (i / (vals.length - 1)) * w;
+    const y = h - ((v - min) / range) * h;
+    return (i === 0 ? "M" : "L") + x.toFixed(1) + "," + y.toFixed(1);
+  }).join(" ");
+}
+
+// Odhad dopadu: preferuj strukturované pole od Claude (až bude backend
+// generovat), jinak odvoď z denní změny ceny.
+function outlookOf(stock) {
+  const known = { gain: "Růst", loss: "Pokles", neutral: "Neutrální" };
+  if (stock.outlook && known[stock.outlook]) {
+    return { cls: stock.outlook, label: known[stock.outlook] };
+  }
+  const chg = stock.quote ? stock.quote.change_pct : 0;
+  if (chg > 0.15) return { cls: "gain", label: "Růst" };
+  if (chg < -0.15) return { cls: "loss", label: "Pokles" };
+  return { cls: "neutral", label: "Neutrální" };
+}
+
+function nextEarningsText(stock) {
+  // Budoucí formát: {date, hour}; současný: earnings_date (string).
+  const next = stock.next_earnings || (stock.earnings_date ? { date: stock.earnings_date } : null);
+  if (!next) return null;
+  const hour = EARNINGS_HOUR[next.hour];
+  return fmtCzDate(next.date) + (hour ? ` (${hour})` : "");
+}
+
+function renderCard(stock, idx) {
+  const card = document.createElement("div");
+  card.className = "card";
+  const quote = stock.quote;
+  const color = quote && quote.change_pct < 0 ? "var(--loss)" : "var(--gain)";
+  const outlook = outlookOf(stock);
+  const name = COMPANY_NAMES[stock.symbol] || "";
+
+  const points = history
+    .map((rec) => rec.prices[stock.symbol])
+    .filter(Boolean)
+    .map((entry) => entry.price)
+    .slice(-30);
+
+  const nextEarnings = nextEarningsText(stock);
+  const last = stock.last_earnings; // zatím backend negeneruje, viz návrh
+
+  let earningsHtml = "";
+  if (nextEarnings || last) {
+    earningsHtml = `<div class="earnings">
+      ${nextEarnings ? `<div class="col">
+        <span class="lbl">Příští výsledky</span>
+        <span class="val">${esc(nextEarnings)}</span>
+      </div>` : ""}
+      ${last ? `<div class="col">
+        <span class="lbl">Poslední výsledky (${esc(fmtCzDate(last.date))})</span>
+        <span class="val ${last.beat ? "beat" : "miss"}">EPS $${esc(last.actual)} vs odhad $${esc(last.estimate)} — ${last.beat ? "nad odhadem" : "pod odhadem"}</span>
+      </div>` : ""}
+    </div>`;
+  }
+
+  const newsLinks = (stock.news || []).slice(0, 3).map((item) =>
+    `<a class="news" href="${esc(item.url)}" target="_blank" rel="noopener">${esc(item.source)} — ${esc(item.headline)} →</a>`
+  ).join("");
+
+  card.innerHTML = `
+    <div class="card-top">
+      <div>
+        <span class="sym">${esc(stock.symbol)}</span>
+        <span class="name">${esc(name)}</span>
+      </div>
+      <div class="price">
+        <span class="p">${quote ? esc(fmtMoney(quote.price)) : "—"}</span>
+        <span class="chg" style="color:${color}">${quote ? esc(fmtPct(quote.change_pct)) : "cena nedostupná"}</span>
+      </div>
     </div>
-  </header>
+    ${points.length >= 2 ? `<svg class="spark" viewBox="0 0 100 32" preserveAspectRatio="none">
+      <path d="${sparkPath(points)}" fill="none" stroke="${color}" stroke-width="1.6"/>
+    </svg>` : ""}
+    <span class="badge ${outlook.cls}">${outlook.label}</span>
+    ${stock.week_change_pct != null ? `<span class="badge week">7 dní: ${esc(fmtPct(stock.week_change_pct))}</span>` : ""}
+    ${earningsHtml}
+    <p class="note-label">Co se děje</p>
+    <p class="note collapsed" id="note-${idx}">${esc(stock.analysis || "Analýza není k dispozici.")}</p>
+    <button class="note-toggle" id="toggle-${idx}">Zobrazit více ↓</button>
+    ${newsLinks}
+  `;
 
-  <main>
-    <section id="weekly-recap" class="panel recap hidden">
-      <h2>🗓 Týdenní rekapitulace</h2>
-      <p id="weekly-recap-text"></p>
-    </section>
+  const note = card.querySelector(`#note-${idx}`);
+  const toggle = card.querySelector(`#toggle-${idx}`);
+  toggle.addEventListener("click", () => {
+    note.classList.toggle("collapsed");
+    toggle.textContent = note.classList.contains("collapsed") ? "Zobrazit více ↓" : "Skrýt ↑";
+  });
+  // Krátký text se do 3 řádků vejde celý - tlačítko by nemělo co dělat.
+  requestAnimationFrame(() => {
+    if (note.scrollHeight <= note.clientHeight + 2) toggle.style.display = "none";
+  });
+  return card;
+}
 
-    <section id="stocks"></section>
+function renderMacro(run) {
+  const list = document.getElementById("macroList");
+  list.replaceChildren();
 
-    <section class="panel">
-      <h2>🌍 Makro</h2>
-      <p id="macro-analysis"></p>
-      <details>
-        <summary>Zdrojové makro novinky</summary>
-        <ul id="macro-news" class="news-list"></ul>
-      </details>
-    </section>
+  // Budoucí formát: run.macro = [{time, title, body, url, source}].
+  // Současný: run.macro_analysis (jeden text) + run.macro_news (zdroje).
+  let items;
+  if (Array.isArray(run.macro) && run.macro.length) {
+    items = run.macro;
+  } else {
+    items = [{
+      time: "",
+      title: "Souhrn makro situace",
+      body: run.macro_analysis || "Makro analýza není k dispozici.",
+    }];
+  }
 
-    <section class="panel">
-      <h2>💡 Tipy k prozkoumání</h2>
-      <p class="disclaimer">Jen nápady k vlastnímu průzkumu založené na obecných trendech — NEJDE o investiční doporučení.</p>
-      <ul id="tips"></ul>
-    </section>
+  for (const macroItem of items) {
+    const div = document.createElement("div");
+    div.className = "macro-item";
+    div.innerHTML = `
+      <div class="time mono">${esc(macroItem.time || "")}</div>
+      <div class="body">
+        <h3>${esc(macroItem.title)}</h3>
+        <p>${esc(macroItem.body)}</p>
+        ${macroItem.url ? `<a href="${esc(macroItem.url)}" target="_blank" rel="noopener">${esc(macroItem.source || "zdroj")} ↗</a>` : ""}
+      </div>`;
+    list.appendChild(div);
+  }
 
-    <section class="panel glossary">
-      <h2>📖 Pojem dne</h2>
-      <p><b id="glossary-term"></b> — <span id="glossary-explanation"></span></p>
-    </section>
-  </main>
+  // Odkazy na zdrojové novinky pod souhrnem (jen ve fallback režimu).
+  if (!Array.isArray(run.macro) && (run.macro_news || []).length) {
+    const div = document.createElement("div");
+    div.className = "macro-item";
+    div.innerHTML = `<div class="time mono"></div><div class="body" id="macroSources"><h3>Zdroje</h3></div>`;
+    const body = div.querySelector("#macroSources");
+    for (const item of run.macro_news.slice(0, 6)) {
+      const p = document.createElement("p");
+      if (item.url) {
+        const a = document.createElement("a");
+        a.href = item.url;
+        a.target = "_blank";
+        a.rel = "noopener";
+        a.textContent = (item.source ? item.source + " — " : "") + item.headline + " ↗";
+        p.appendChild(a);
+      } else {
+        p.textContent = item.headline;
+      }
+      body.appendChild(p);
+    }
+    list.appendChild(div);
+  }
+}
 
-  <footer>
-    Data: Finnhub · Analýzy: Claude · Aktualizace 3&times; denně ·
-    <a href="https://github.com/lekesvojta-bot/market-summary-bot">GitHub</a>
-  </footer>
+function renderTips(run) {
+  const list = document.getElementById("tipsList");
+  list.replaceChildren();
+  for (const tip of run.tips || []) {
+    const div = document.createElement("div");
+    div.className = "tip-card";
+    div.innerHTML = `
+      <span class="tip-sym mono">${esc(tip.ticker)}</span>
+      <div class="tip-body">
+        ${tip.name ? `<h4>${esc(tip.name)}</h4>` : ""}
+        <p>${esc(tip.reason)}</p>
+        ${tip.tag ? `<span class="tip-tag">${esc(tip.tag)}</span>` : ""}
+      </div>`;
+    list.appendChild(div);
+  }
+}
 
-  <script src="app.js"></script>
+function renderRun(run) {
+  document.getElementById("updatedAt").textContent =
+    "aktualizováno " + fmtPragueDateTime(run.timestamp);
+  document.getElementById("subline").textContent =
+    "Denní čtení pro watchlist " + run.stocks.map((s) => s.symbol).join(" · ");
+
+  // Ticker tape (zdvojený kvůli plynulé smyčce).
+  const tapeSet = run.stocks.filter((s) => s.quote).map((s) => {
+    const dir = s.quote.change_pct < 0 ? "down" : "up";
+    return `<span class="tape-item"><b>${esc(s.symbol)}</b> ${esc(fmtMoney(s.quote.price))} <span class="${dir}">${esc(fmtPct(s.quote.change_pct))}</span></span>`;
+  }).join("");
+  document.getElementById("tapeTrack").innerHTML = tapeSet + tapeSet;
+
+  const recapSection = document.getElementById("recapSection");
+  if (run.weekly_recap) {
+    const body = document.getElementById("recapBody");
+    body.replaceChildren();
+    for (const paragraph of run.weekly_recap.split(/\n\n+/)) {
+      const p = document.createElement("p");
+      p.textContent = paragraph;
+      body.appendChild(p);
+    }
+    recapSection.classList.remove("hidden");
+  } else {
+    recapSection.classList.add("hidden");
+  }
+
+  const grid = document.getElementById("tickerGrid");
+  grid.replaceChildren();
+  run.stocks.forEach((stock, idx) => grid.appendChild(renderCard(stock, idx)));
+
+  renderMacro(run);
+  renderTips(run);
+
+  const termBox = document.getElementById("termBox");
+  if (run.glossary && run.glossary.term) {
+    document.getElementById("termName").textContent = run.glossary.term;
+    document.getElementById("termText").textContent = run.glossary.explanation;
+    termBox.classList.remove("hidden");
+  } else {
+    termBox.classList.add("hidden");
+  }
+}
+
+function archiveLabel(fileName) {
+  // "2026-07-13-1717.json" -> čas v Praze + část dne
+  const match = fileName.match(/^(\d{4})-(\d{2})-(\d{2})-(\d{2})(\d{2})/);
+  if (!match) return fileName;
+  const utc = new Date(Date.UTC(+match[1], +match[2] - 1, +match[3], +match[4], +match[5]));
+  const pragueHour = Number(utc.toLocaleString("en-GB", { timeZone: "Europe/Prague", hour: "2-digit", hour12: false }));
+  const part = pragueHour < 11 ? "ráno" : pragueHour < 17 ? "odpoledne" : "večer";
+  const day = utc.toLocaleDateString("cs-CZ", { timeZone: "Europe/Prague", day: "numeric", month: "numeric" });
+  return `${day} ${part}`;
+}
+
+async function loadJson(path) {
+  const response = await fetch(path, { cache: "no-store" });
+  if (!response.ok) throw new Error(`Nelze načíst ${path} (HTTP ${response.status})`);
+  return response.json();
+}
+
+function buildArchive(archiveIndex) {
+  const list = document.getElementById("archiveList");
+  list.replaceChildren();
+  const VISIBLE = 4;
+  let expanded = false;
+
+  function selectChip(chip) {
+    for (const link of list.querySelectorAll("a")) link.classList.remove("active");
+    chip.classList.add("active");
+  }
+
+  function addChip(label, title, loader) {
+    const chip = document.createElement("a");
+    chip.textContent = label;
+    if (title) chip.title = title;
+    chip.addEventListener("click", async () => {
+      try {
+        renderRun(await loader());
+        selectChip(chip);
+      } catch (error) {
+        alert("Tento běh se nepodařilo načíst: " + error.message);
+      }
+    });
+    list.appendChild(chip);
+    return chip;
+  }
+
+  function rebuild() {
+    list.replaceChildren();
+    const latestChip = addChip("Nejnovější", null, () => loadJson("data/latest.json"));
+    latestChip.classList.add("active");
+    const shown = expanded ? archiveIndex : archiveIndex.slice(0, VISIBLE);
+    for (const name of shown) {
+      addChip(archiveLabel(name), name, () => loadJson("data/archive/" + name));
+    }
+    if (archiveIndex.length > VISIBLE) {
+      const more = document.createElement("a");
+      more.textContent = expanded ? "Skrýt starší ←" : "Zobrazit vše →";
+      more.addEventListener("click", () => { expanded = !expanded; rebuild(); });
+      list.appendChild(more);
+    }
+  }
+  rebuild();
+}
+
+async function init() {
+  try {
+    const [latest, hist, archiveIndex] = await Promise.all([
+      loadJson("data/latest.json"),
+      loadJson("data/history.json").catch(() => []),
+      loadJson("data/archive/index.json").catch(() => []),
+    ]);
+    history = hist;
+    renderRun(latest);
+    buildArchive(archiveIndex);
+  } catch (error) {
+    document.getElementById("updatedAt").textContent =
+      "data se nepodařilo načíst — " + error.message;
+    document.getElementById("statusDot").classList.add("err");
+  }
+}
+
+init();
+</script>
 </body>
 </html>
