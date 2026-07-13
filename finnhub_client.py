@@ -77,9 +77,12 @@ def get_company_news(symbol, hours):
 
 
 def get_next_earnings(symbol):
-    """Vrátí datum (YYYY-MM-DD) nejbližších kvartálních výsledků do 21 dnů, jinak None."""
+    """Vrátí nejbližší kvartální výsledky do 90 dnů jako {"date", "hour"}, jinak None.
+
+    "hour" od Finnhubu: amc = po zavření trhu, bmo = před otevřením, dmh = během dne.
+    """
     date_from = datetime.utcnow().strftime("%Y-%m-%d")
-    date_to = (datetime.utcnow() + timedelta(days=21)).strftime("%Y-%m-%d")
+    date_to = (datetime.utcnow() + timedelta(days=90)).strftime("%Y-%m-%d")
     try:
         data = _get(
             "/calendar/earnings", {"symbol": symbol, "from": date_from, "to": date_to}
@@ -87,7 +90,8 @@ def get_next_earnings(symbol):
         events = data.get("earningsCalendar", [])
         if not events:
             return None
-        return min(event["date"] for event in events)
+        nearest = min(events, key=lambda event: event["date"])
+        return {"date": nearest["date"], "hour": nearest.get("hour")}
     except Exception as error:
         print(f"[finnhub] Nepodařilo se stáhnout earnings pro {symbol}: {error}")
         return None

@@ -19,7 +19,7 @@ def collect_stock_data(history):
         print(f"Stahuji data pro {symbol} ({finnhub_symbol})...")
         quote = finnhub_client.get_quote(finnhub_symbol)
         news = finnhub_client.get_company_news(finnhub_symbol, config.NEWS_LOOKBACK_HOURS)
-        earnings_date = finnhub_client.get_next_earnings(finnhub_symbol)
+        next_earnings = finnhub_client.get_next_earnings(finnhub_symbol)
         week_change = storage.get_week_change(
             history, symbol, quote["price"] if quote else None
         )
@@ -29,7 +29,9 @@ def collect_stock_data(history):
                 "quote": quote,
                 "news": news,
                 "note": ticker.get("note"),
-                "earnings_date": earnings_date,
+                # earnings_date (jen datum) čte prompt, next_earnings (i s časem) web.
+                "earnings_date": next_earnings["date"] if next_earnings else None,
+                "next_earnings": next_earnings,
                 "week_change_pct": week_change,
             }
         )

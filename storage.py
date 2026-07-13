@@ -86,6 +86,7 @@ def save_run(stocks, macro_news, ai_output, timestamp):
                 "news": stock["news"],
                 "note": stock.get("note"),
                 "earnings_date": stock.get("earnings_date"),
+                "next_earnings": stock.get("next_earnings"),
                 "week_change_pct": stock.get("week_change_pct"),
                 "analysis": ai_output["stocks"].get(stock["symbol"], ""),
             }
