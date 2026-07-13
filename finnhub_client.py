@@ -56,6 +56,7 @@ def _filter_recent(news_items, cutoff_timestamp):
             "summary": item.get("summary", ""),
             "source": item.get("source", ""),
             "url": item.get("url", ""),
+            "datetime": item.get("datetime"),
         }
         for item in recent[:8]
     ]
@@ -94,6 +95,32 @@ def get_next_earnings(symbol):
         return {"date": nearest["date"], "hour": nearest.get("hour")}
     except Exception as error:
         print(f"[finnhub] Nepodařilo se stáhnout earnings pro {symbol}: {error}")
+        return None
+
+
+def get_last_earnings(symbol):
+    """Vrátí poslední zveřejněné kvartální výsledky, nebo None (např. u ETF).
+
+    Formát: {"date", "actual", "estimate", "beat"} - beat=True znamená
+    zisk na akcii (EPS) nad odhadem analytiků.
+    """
+    try:
+        data = _get("/stock/earnings", {"symbol": symbol})
+        if not data:
+            return None
+        latest = max(data, key=lambda event: event.get("period", ""))
+        actual = latest.get("actual")
+        estimate = latest.get("estimate")
+        if actual is None or estimate is None:
+            return None
+        return {
+            "date": latest["period"],
+            "actual": round(actual, 2),
+            "estimate": round(estimate, 2),
+            "beat": actual >= estimate,
+        }
+    except Exception as error:
+        print(f"[finnhub] Nepodařilo se stáhnout minulé earnings pro {symbol}: {error}")
         return None
 
 

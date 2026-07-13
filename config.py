@@ -16,14 +16,15 @@ TELEGRAM_CHAT_ID = os.environ["TELEGRAM_CHAT_ID"]
 # použijí se, když se zobrazovaný symbol liší od symbolu ve Finnhubu
 # (typicky proto, že Finnhub free tier neumí evropské burzy).
 TICKERS = [
-    {"symbol": "NVDA"},
-    {"symbol": "AMD"},
-    {"symbol": "GOOGL"},
-    {"symbol": "META"},
-    {"symbol": "AAPL"},
-    {"symbol": "MSFT"},
+    {"symbol": "NVDA", "name": "NVIDIA Corp."},
+    {"symbol": "AMD", "name": "Advanced Micro Devices"},
+    {"symbol": "GOOGL", "name": "Alphabet Inc."},
+    {"symbol": "META", "name": "Meta Platforms"},
+    {"symbol": "AAPL", "name": "Apple Inc."},
+    {"symbol": "MSFT", "name": "Microsoft Corp."},
     {
         "symbol": "VUAA",
+        "name": "S&P 500 (přes SPY)",
         "finnhub_symbol": "SPY",
         "note": (
             "VUAA je evropský ETF na S&P 500 (LSE/Xetra), Finnhub free tier "

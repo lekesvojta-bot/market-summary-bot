@@ -75,25 +75,42 @@ def get_week_change(history, symbol, current_price):
     return (current_price - old_price) / old_price * 100
 
 
+def _stock_entry(stock, ai_output):
+    # Claude vrací pro akcii objekt {"analysis", "outlook"}; starší verze
+    # promptu vracela jen string - obojí umíme zpracovat.
+    ai_stock = ai_output["stocks"].get(stock["symbol"], "")
+    if isinstance(ai_stock, dict):
+        analysis = ai_stock.get("analysis", "")
+        outlook = ai_stock.get("outlook")
+    else:
+        analysis = ai_stock
+        outlook = None
+    return {
+        "symbol": stock["symbol"],
+        "name": stock.get("name"),
+        "quote": stock["quote"],
+        "news": stock["news"],
+        "note": stock.get("note"),
+        "earnings_date": stock.get("earnings_date"),
+        "next_earnings": stock.get("next_earnings"),
+        "last_earnings": stock.get("last_earnings"),
+        "week_change_pct": stock.get("week_change_pct"),
+        "analysis": analysis,
+        "outlook": outlook,
+    }
+
+
 def save_run(stocks, macro_news, ai_output, timestamp):
     """Uloží kompletní data běhu pro web: latest.json + kopii do archivu."""
+    # "macro" je nově pole položek pro feed; kdyby přišel string (stará
+    # verze), uloží se do macro_analysis, se kterým web také umí pracovat.
+    macro_value = ai_output.get("macro", "")
     run_data = {
         "timestamp": timestamp,
-        "stocks": [
-            {
-                "symbol": stock["symbol"],
-                "quote": stock["quote"],
-                "news": stock["news"],
-                "note": stock.get("note"),
-                "earnings_date": stock.get("earnings_date"),
-                "next_earnings": stock.get("next_earnings"),
-                "week_change_pct": stock.get("week_change_pct"),
-                "analysis": ai_output["stocks"].get(stock["symbol"], ""),
-            }
-            for stock in stocks
-        ],
+        "stocks": [_stock_entry(stock, ai_output) for stock in stocks],
         "macro_news": macro_news,
-        "macro_analysis": ai_output.get("macro", ""),
+        "macro": macro_value if isinstance(macro_value, list) else None,
+        "macro_analysis": macro_value if isinstance(macro_value, str) else "",
         "tips": ai_output.get("tips", []),
         "glossary": ai_output.get("glossary"),
         "weekly_recap": ai_output.get("weekly_recap"),

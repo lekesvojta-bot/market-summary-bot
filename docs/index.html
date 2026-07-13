@@ -593,7 +593,7 @@ function renderCard(stock, idx) {
   const quote = stock.quote;
   const color = quote && quote.change_pct < 0 ? "var(--loss)" : "var(--gain)";
   const outlook = outlookOf(stock);
-  const name = COMPANY_NAMES[stock.symbol] || "";
+  const name = stock.name || COMPANY_NAMES[stock.symbol] || "";
 
   const points = history
     .map((rec) => rec.prices[stock.symbol])

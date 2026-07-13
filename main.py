@@ -20,18 +20,21 @@ def collect_stock_data(history):
         quote = finnhub_client.get_quote(finnhub_symbol)
         news = finnhub_client.get_company_news(finnhub_symbol, config.NEWS_LOOKBACK_HOURS)
         next_earnings = finnhub_client.get_next_earnings(finnhub_symbol)
+        last_earnings = finnhub_client.get_last_earnings(finnhub_symbol)
         week_change = storage.get_week_change(
             history, symbol, quote["price"] if quote else None
         )
         stocks.append(
             {
                 "symbol": symbol,
+                "name": ticker.get("name"),
                 "quote": quote,
                 "news": news,
                 "note": ticker.get("note"),
                 # earnings_date (jen datum) čte prompt, next_earnings (i s časem) web.
                 "earnings_date": next_earnings["date"] if next_earnings else None,
                 "next_earnings": next_earnings,
+                "last_earnings": last_earnings,
                 "week_change_pct": week_change,
             }
         )
