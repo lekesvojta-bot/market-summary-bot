@@ -1,0 +1,530 @@
+{
+ "timestamp": "2026-07-13T17:05:50.766048+00:00",
+ "stocks": [
+  {
+   "symbol": "NVDA",
+   "quote": {
+    "symbol": "NVDA",
+    "price": 204.6,
+    "change_pct": -3.014789533560871,
+    "day_high": 210.57,
+    "day_low": 204.32,
+    "day_open": 207.685
+   },
+   "news": [
+    {
+     "headline": "Why Did Nio Stock Jump Today?",
+     "summary": "One Wall Street firm sees more than 45% upside for Nio stock.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=2d15258bd633f6e5e548e63bfacc6fdfa192fd876931aec2fa6f77641c1145f1"
+    },
+    {
+     "headline": "Here's What a $5,000 Investment in SpaceX Could Be Worth by 2028",
+     "summary": "The analyst community is optimistic about SpaceX, but retail investors should look at more than just their price targets when making investment decisions.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=a086067b29b475d9dfd58e1d35fe78461a346248c8501945f2a392aefa167d0a"
+    },
+    {
+     "headline": "Starbucks Wants to Cut $400 Million in Software Costs. Toast Investors Should Pay Attention.",
+     "summary": "Starbucks is ditching legacy software vendors for homegrown AI tools. Here's why that could eventually benefit companies like Toast.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=f4b4a30532608ef8b362265bbfbc2a6c248f2efeb5cb70310e2afdea54a27c6d"
+    },
+    {
+     "headline": "The Dip Is Here for Bloom Energy. Here's Whether to Buy It or Walk Away.",
+     "summary": "Bloom Energy is trading about 30% lower than its 52-week high. Is this your buying window?",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=0bffd59498261c314701b11b2e51b4cb1265dd35d500702d4e49e8899b39e962"
+    },
+    {
+     "headline": "Jim Cramer Explains Why NVIDIA Is the Most Proprietary Chip Company in History",
+     "summary": "NVIDIA Corporation (NASDAQ:NVDA) was among Jim Cramer’s stock calls on Mad Money, as he advised investors to stick with the largest tech companies in the market. Talking about an analyst raising the price on SNDK and what investors do when they see a rally in the complex, Cramer said: Two, they put in orders for […]",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=85a624978de67638a5c7c0a4bdaaae5d2a9496c28c3c30f401d8874022730d0d"
+    },
+    {
+     "headline": "Why I Won’t Buy A Rivian",
+     "summary": "Rivian keeps winning SUV awards, but a growing list of red flags is making at least one longtime car shopper walk away for good. The quality scores, the pricing, the service gaps, and the CEO's pay package all tell a troubling story.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=c4cefd876783c1709fa9fd25b96b861946843f66d694607f24427dd43782dbdf"
+    },
+    {
+     "headline": "SpaceX and AST SpaceMobile Fall 5%, Rocket Lab Sheds 4% as China Rocket Milestone and Oil Spike Hit Space Stocks",
+     "summary": "A surprise milestone from China's space program just cracked the story Wall Street told itself about American rocket dominance, and it sent shockwaves through a sector already rattled by spiking oil prices.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=cc6a1ca3d17f92488568a9ac74327961123c804a1366bb6e69c354617c4490c1"
+    },
+    {
+     "headline": "2 Stocks So Cheap It's Like Christmas in July",
+     "summary": "There are still bargains to be had these days. The first name will surprise you.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=12faa92dcc1d1093d7c6415b78388ea4edd8ee456ba860cb0651ff4feac8cf0a"
+    }
+   ],
+   "note": null,
+   "earnings_date": null,
+   "week_change_pct": null,
+   "analysis": "Nvidia dnes klesla o 3 % v rámci širšího výprodeje čipového sektoru, poté co jihokorejský SK Hynix vydal varování ohledně ziskovosti, což vyvolalo obavy z přehřátí AI investičního cyklu. Zprávy o čínském raketovém milníku dodatečně zvýšily nervozitu na trzích spojených s technologiemi a vesmírem, což zasáhlo i sentiment kolem AI hardwaru. Jim Cramer nicméně zůstává dlouhodobě pozitivní a Nvidii označuje za nejvíc proprietární čipovou firmu v historii. Investoři by měli sledovat, zda tento pokles je jen krátkodobá korekce po silném růstu, nebo signál širší změny nálady vůči AI sektoru. Klíčové bude i to, jak se vyvine geopolitická situace kolem Hormuzského průlivu, protože zvýšené ceny energií mohou tlačit na náklady datacenter."
+  },
+  {
+   "symbol": "AMD",
+   "quote": {
+    "symbol": "AMD",
+    "price": 537.2,
+    "change_pct": -3.708616393912768,
+    "day_high": 551.87,
+    "day_low": 526.92,
+    "day_open": 538.645
+   },
+   "news": [
+    {
+     "headline": "The 1 Reason Jim Cramer Won’t Stop Buying Nvidia",
+     "summary": "Jim Cramer keeps pounding the table on one chip stock even as rivals flood the AI market with competing silicon. The reason he gives sounds almost too simple, but the financials suggest he has a point.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=b68c019528300c6a1fcd3515a7725db8cc1a98d0bb07651700aa4ee6169397b3"
+    },
+    {
+     "headline": "Cathie Wood Bought $54 Million Worth Of SpaceX Stock Last Week",
+     "summary": "Cathie Wood's ARK Invest was extremely active last week, adding SpaceX and Meta, while selling AMD and Robinhood stock.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=f9b778750087e7257dcaa89a698cc3abdd980ec775cf51eb75bfbabbca689d65"
+    },
+    {
+     "headline": "SK Hynix, Sandisk, Apple, Meta, and More Stocks That Explain Today’s Market",
+     "summary": "AI stocks tumble as investors wonder how much longer Big Tech companies can maintain their aggressive spending plans.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=586e8588a44f92cb7f321b1f956de95dae9c5dbf0b2188f884d47df9251d4159"
+    },
+    {
+     "headline": "Intel, AMD, and Applied Materials Drop 4% as SK Hynix Rout and Oil Spike Hit Chip Stocks",
+     "summary": "A surprise profit warning out of South Korea sent shockwaves through the chip sector Monday, and the fallout is hitting equipment makers and AI hardware names in ways that point to a much bigger risk lurking beneath a historic rally.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=0cee8abb0d20b5988c77c39c7daf35d45369fc7369724a880803129957c78a73"
+    },
+    {
+     "headline": "How Investors Are Reacting To Advanced Micro Devices (AMD) Sector-Wide AI Chip Pullback And Valuation Jitters",
+     "summary": "In recent days, Advanced Micro Devices has been caught in a broad pullback across semiconductor and AI-related stocks, as investor profit-taking, macro uncertainty, and sector-wide worries about rich valuations and future earnings weighed on chipmakers globally. While AMD-specific news such as ARK Invest trimming its position and growing concern over intense AI competition have added to bearish sentiment, the company’s fundamentals and AI roadmap remain unchanged, highlighting how wider...",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=06e48d00e4bcdf213d21af8da73f9f89a5a9cffac4171400005a5284fd811647"
+    },
+    {
+     "headline": "What Investors Keep Asking About NVDA",
+     "summary": "After a historic run, the critical questions for NVIDIA are no longer about this quarter's numbers but where the next layers of growth will come from and if the company can actually execute on its breathtakingly complex roadmap.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=3a43a767393e7cdaedd4c585709c54ef3d516cdcb6d69313ca190619a178dd6c"
+    },
+    {
+     "headline": "Nvidia, Broadcom, AMD Lead AI Chip Stock Selloff After SK Hynix Slump",
+     "summary": "Semiconductor Stocks Tumble as SK Hynix Weakness Ripples Through the Sector",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=a2e564263f3cea202159b0eff6135e9ca59a291bb7bc141be230c1991ac0c69d"
+    },
+    {
+     "headline": "Update: US Equity Futures Drop Pre-Bell as Iran Says Strait of Hormuz Closed Once Again, Oil Prices Jump",
+     "summary": "(Updates with recent oil price movement, world markets' overview and corporate stock movements.)",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=734257c65af1e4a45e054a81f546b19b506aa280c7ec495b4ea647dd16f3139c"
+    }
+   ],
+   "note": null,
+   "earnings_date": null,
+   "week_change_pct": null,
+   "analysis": "AMD zaznamenalo jeden z nejvýraznějších poklesů mezi sledovanými tituly, téměř -3,71 %, v důsledku rozsáhlého výprodeje v polovodičovém sektoru. Hlavním spouštěčem bylo profitové varování SK Hynixu, které se rychle přeneslo na Intel, Applied Materials i další čipové firmy. Cathie Wood navíc minulý týden prodávala akcie AMD ve prospěch nákupu SpaceX, což může signalizovat přesun kapitálu investorů k jiným AI příběhům. Trh momentálně řeší, jestli vysoké valuace v AI segmentu odpovídají realitě výdajů a marží firem. Pro investory je klíčové sledovat, zda se sentiment stabilizuje, nebo zda bude pokračovat širší korekce technologického sektoru."
+  },
+  {
+   "symbol": "GOOGL",
+   "quote": {
+    "symbol": "GOOGL",
+    "price": 355.47,
+    "change_pct": -0.4787502099781566,
+    "day_high": 358.13,
+    "day_low": 354.11,
+    "day_open": 356.235
+   },
+   "news": [
+    {
+     "headline": "European Equities Mixed in Monday Trading; Eni to Fuel BMW Corporate Fleets With Renewable Diesel",
+     "summary": "European stock markets closed mixed in Monday trading with the Stoxx 600 down 0.1%, Germany's DAX fr",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=295240b390fbcd2980dda163a0bed032ba1aea83cec61bf4c8b03dbdfd2fb521"
+    },
+    {
+     "headline": "SpaceX & Google will boost big bank earnings, but can the AI-driven supercycle really last?",
+     "summary": "Big banks are kicking off second quarter earnings season on Tuesday, with reports from JPMorgan (JPM), Goldman Sachs (GS), Wells Fargo (WFC), Bank of America (BAC), and Citigroup (C). Morgan Stanley (MS) posts its results on Wednesday. Yahoo Finance Senior Reporter David Hollerith explains what investors need to know.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=c15605a42b726a1f7c51bef8509a385e013b67e41b8aa21df86d208c70c254dd"
+    },
+    {
+     "headline": "Jim Cramer Says “Don’t Sell Apple”",
+     "summary": "Apple Inc. (NASDAQ:AAPL) was among Jim Cramer’s stock calls on Mad Money, as he advised investors to stick with the largest tech companies in the market. Cramer discussed the company’s AI strategy, as he said: You know what held back Apple for ages? Its lack of data centers spending, lack of it… See, all that’s […]",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=9f87cd589a9872efa32657a33a5459340e42b437e1415ce2c32d6eac3ed19fbd"
+    },
+    {
+     "headline": "Jim Cramer Explains Why He Thinks Google Can Defeat Competitors in AI",
+     "summary": "Alphabet Inc. (NASDAQ:GOOGL) was among Jim Cramer’s stock calls on Mad Money, as he advised investors to stick with the largest tech companies in the market. Cramer highlighted the company’s position in the AI race, as he commented: How about Google? Alright, now, they raised a ton of money recently and basically capped the terrific […]",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=08b536e53271c320e1deeee969c0b9647b4cc13780104e17392993f88d7f50db"
+    },
+    {
+     "headline": "Jim Cramer on Meta: “Zuckerberg’s Not a Bozo, You Can Quote Me on That”",
+     "summary": "Meta Platforms, Inc. (NASDAQ:META) was among Jim Cramer’s stock calls on Mad Money, as he advised investors to stick with the largest tech companies in the market. Cramer discussed the company’s competition, as he stated: Consider what each of these companies really is. Hey, why don’t we start with Meta? Okay, that’s become a real […]",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=8d9ccff30c741a1b1c46e2a5de384772074b91ff36d1966bd70b5b7b4ee189f5"
+    },
+    {
+     "headline": "Nvidia, Micron, and other chip players are poised to become cash-producing machines",
+     "summary": "Chip players are churning out cash while hyperscalers spend big on the AI build-out.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=651787bdd01e7d4809925eeb1e95c1b3609221087f45b49985fb5b262b744e23"
+    },
+    {
+     "headline": "Tech Sell-Off: How investors should navigate the market",
+     "summary": "Yahoo Finance Executive Editor Brian Sozzi sits down with Visible Alpha Head of TMT Research Melissa Otto to discuss how investors should navigate the technology sector following its recent market sell-off.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=8435df224924bad4944dc0a5aef0ec056b6d0b638902ab7f23030a7cf0bf2e08"
+    },
+    {
+     "headline": "Alphabet’s $1 Trillion Ad Dominance Is Facing New Threats",
+     "summary": "Alphabet is pouring more cash into AI infrastructure each year than most companies generate in a lifetime, and the ad empire funding that bet is showing cracks in places investors have not had to worry about before.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=22a4bf3071000df7f15142c764d02a366cc444d5a1917a6f74619377182950de"
+    }
+   ],
+   "note": null,
+   "earnings_date": "2026-07-22",
+   "week_change_pct": null,
+   "analysis": "Alphabet drží relativně stabilní pozici s poklesem jen o 0,48 %, což je výrazně mírnější než u čipových firem. I přesto se objevují varovné signály – Alphabet investuje do AI infrastruktury více, než mnoho firem vydělá za celou svou historii, což vyvolává otázky o budoucí ziskovosti reklamního byznysu, který tyto investice financuje. Zprávy zmiňují, že velké banky i technologické firmy zahajují výsledkovou sezónu, přičemž Alphabet a další hyperscaleři budou pod drobnohledem investorů. Blížící se earnings 22. 7. 2026 přinesou důležité informace o tempu AI investic a jejich návratnosti. Investoři by měli sledovat marže cloudového segmentu a případné komentáře vedení k výdajům na infrastrukturu."
+  },
+  {
+   "symbol": "META",
+   "quote": {
+    "symbol": "META",
+    "price": 658.25,
+    "change_pct": -1.6377519762107613,
+    "day_high": 676.62,
+    "day_low": 654.2,
+    "day_open": 661.315
+   },
+   "news": [
+    {
+     "headline": "Top Midday Stories: Trump Says US to Be Guardian of Hormuz Strait; Meta to Invest Over $50 Billion in Louisiana Data Center Expansion",
+     "summary": "All three major US stock indexes were down in late-morning trading Monday, as the US and Iran exchan",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=6540b5fb8052448f14bf5973c176f6a4ba2b01c2b79d32c66fb9dacef24aba89"
+    },
+    {
+     "headline": "European Equities Mixed in Monday Trading; Eni to Fuel BMW Corporate Fleets With Renewable Diesel",
+     "summary": "European stock markets closed mixed in Monday trading with the Stoxx 600 down 0.1%, Germany's DAX fr",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=295240b390fbcd2980dda163a0bed032ba1aea83cec61bf4c8b03dbdfd2fb521"
+    },
+    {
+     "headline": "Wall Street’s Bar for Big Tech Is on the Floor, and That Could Spark the Next Rally",
+     "summary": "Wall Street is bracing for the worst out of Big Tech's Q2 earnings, and that gap between dread and reality may be exactly what sends the next rally higher. Five hyperscalers report soon, starting with Microsoft on July 29, and the setup looks nothing like the fear priced in.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=93c1e4fd22bc08ec1dd6fcdb14b96431ef6b10bfb02197469439ccbfe6ab48c8"
+    },
+    {
+     "headline": "Jim Cramer on Meta: “Zuckerberg’s Not a Bozo, You Can Quote Me on That”",
+     "summary": "Meta Platforms, Inc. (NASDAQ:META) was among Jim Cramer’s stock calls on Mad Money, as he advised investors to stick with the largest tech companies in the market. Cramer discussed the company’s competition, as he stated: Consider what each of these companies really is. Hey, why don’t we start with Meta? Okay, that’s become a real […]",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=8d9ccff30c741a1b1c46e2a5de384772074b91ff36d1966bd70b5b7b4ee189f5"
+    },
+    {
+     "headline": "Nvidia, Micron, and other chip players are poised to become cash-producing machines",
+     "summary": "Chip players are churning out cash while hyperscalers spend big on the AI build-out.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=651787bdd01e7d4809925eeb1e95c1b3609221087f45b49985fb5b262b744e23"
+    },
+    {
+     "headline": "The 1 Reason Jim Cramer Won’t Stop Buying Nvidia",
+     "summary": "Jim Cramer keeps pounding the table on one chip stock even as rivals flood the AI market with competing silicon. The reason he gives sounds almost too simple, but the financials suggest he has a point.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=b68c019528300c6a1fcd3515a7725db8cc1a98d0bb07651700aa4ee6169397b3"
+    },
+    {
+     "headline": "Tech Sell-Off: How investors should navigate the market",
+     "summary": "Yahoo Finance Executive Editor Brian Sozzi sits down with Visible Alpha Head of TMT Research Melissa Otto to discuss how investors should navigate the technology sector following its recent market sell-off.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=8435df224924bad4944dc0a5aef0ec056b6d0b638902ab7f23030a7cf0bf2e08"
+    },
+    {
+     "headline": "Meta Vs. Nvidia: Meta Has Quietly Emerged as the Strongest Mega-Cap Alternative This Summer",
+     "summary": "Both Meta and NVIDIA delivered blowout quarters on the same AI wave, yet investors treated the two stocks very differently this summer. One company quietly flipped its biggest cost line into a potential revenue stream, and that changes the comparison entirely.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=221f52333c8f5e936e515c4d390fbb457ef442d24dd4e8e8fe476c764eaa6be8"
+    }
+   ],
+   "note": null,
+   "earnings_date": "2026-07-29",
+   "week_change_pct": null,
+   "analysis": "Meta klesla o 1,64 %, ale zároveň oznámila masivní investici přes 50 miliard dolarů do datacentra v Louisianě, což potvrzuje pokračující agresivní expanzi do AI infrastruktury. Někteří analytici ji dokonce označují za silnější alternativu k Nvidii, protože se jí daří přeměňovat vysoké náklady na potenciální konkurenční výhodu. Aktuální tržní nálada vůči velkým technologickým firmám je před výsledkovou sezónou velmi opatrná, což vytváří prostor pro pozitivní překvapení, pokud čísla překonají nízko nastavená očekávání. Blížící se earnings 29. 7. 2026 budou klíčové pro potvrzení, zda se investice do AI již promítají do výnosů. Investoři by měli sledovat i vývoj reklamního byznysu a uživatelského růstu napříč platformami."
+  },
+  {
+   "symbol": "AAPL",
+   "quote": {
+    "symbol": "AAPL",
+    "price": 316.2,
+    "change_pct": 0.2790815679309893,
+    "day_high": 323.45,
+    "day_low": 315.91,
+    "day_open": 316.4975
+   },
+   "news": [
+    {
+     "headline": "This Stock is My Biggest Bet For 2026",
+     "summary": "One stock keeps earning a larger slice of my portfolio every quarter, and it is not because the thesis is obvious. Here is the specific combination of forces that keeps pulling my money back.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=e47431b901daf5d93911d90b701edb811cba4c9b4888bf987c68d733def16004"
+    },
+    {
+     "headline": "Jim Cramer Says “Don’t Sell Apple”",
+     "summary": "Apple Inc. (NASDAQ:AAPL) was among Jim Cramer’s stock calls on Mad Money, as he advised investors to stick with the largest tech companies in the market. Cramer discussed the company’s AI strategy, as he said: You know what held back Apple for ages? Its lack of data centers spending, lack of it… See, all that’s […]",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=9f87cd589a9872efa32657a33a5459340e42b437e1415ce2c32d6eac3ed19fbd"
+    },
+    {
+     "headline": "Apple Hits New All-Time High. Here’s Why It Will Top $5 Trillion and Nvidia",
+     "summary": "Apple just hit an all-time high, and the same forces that once looked like threats to its business may now be the very things that push it past Nvidia to become the world's most valuable company.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=63a739158001b646d58f04dab6d07f119f7be9f07d369a62f29077ecafa574e2"
+    },
+    {
+     "headline": "Apple sues OpenAI, former employees over alleged trade secret theft tied to AI hardware",
+     "summary": "Apple Inc (NASDAQ:AAPL, XETRA:APC) has filed a lawsuit in the US District Court for the Northern District of California accusing OpenAI (Unlisted:OPAI), its hardware subsidiary io Products, and two former Apple employees of misappropriating trade secrets related to the development of OpenAI's...",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=8536e4181e7acc186d299b5aa2fb514d47bdb2b6c14c8d45deb7970510701b29"
+    },
+    {
+     "headline": "SK Hynix, Sandisk, Apple, Meta, and More Stocks That Explain Today’s Market",
+     "summary": "AI stocks tumble as investors wonder how much longer Big Tech companies can maintain their aggressive spending plans.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=586e8588a44f92cb7f321b1f956de95dae9c5dbf0b2188f884d47df9251d4159"
+    },
+    {
+     "headline": "Apple Stock Rises. Why This Analyst Just Hiked Price Target to $365.",
+     "summary": "Citi Research raises its price target on Apple shares, asserting the iPhone maker will continue to snap up market share.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=e8fc26bd40b1f8832627dc97ba88ba94d58e369106e05624431b4413d350f3ce"
+    },
+    {
+     "headline": "Apple Sued OpenAI for Stealing Secrets, Elon Musk Couldn’t Resist Piling On",
+     "summary": "Apple just accused OpenAI of running a coordinated theft operation targeting its most sensitive hardware secrets, and the lawsuit landed at the worst possible moment for a company quietly preparing the most anticipated AI IPO in history.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=a73d716cc2071b9462b785c637d96553f07f613d68d5f9032d85b146724c79f7"
+    },
+    {
+     "headline": "Musk and Altman Clash Again",
+     "summary": "The rivalry now spans lawsuits, AI models and competing business plans.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=4b9cd6ea5bc7ae0be926cfd4397e402dd98f864697d2f8d4d0d35e4dc5267d99"
+    }
+   ],
+   "note": null,
+   "earnings_date": "2026-07-30",
+   "week_change_pct": null,
+   "analysis": "Apple je dnes jedním z mála titulů v zeleném, s růstem 0,28 %, poté co Citi Research zvýšila cílovou cenu na 365 dolarů kvůli očekávanému růstu podílu na trhu s iPhony. Akcie se navíc pohybuje poblíž svých historických maxim a někteří analytici spekulují o cestě k 5 bilionům dolarů tržní kapitalizace. Firma zároveň žaluje OpenAI kvůli údajné krádeži obchodních tajemství týkajících se AI hardwaru, což přitahuje značnou pozornost médií i komentáře od Elona Muska. Blížící se earnings 30. 7. 2026 budou klíčové pro potvrzení silného momentum a strategie v oblasti AI. Investoři by měli sledovat vývoj právního sporu i případné dopady na reputaci a partnerství firmy."
+  },
+  {
+   "symbol": "MSFT",
+   "quote": {
+    "symbol": "MSFT",
+    "price": 392.87,
+    "change_pct": 2.017657751233441,
+    "day_high": 393.36,
+    "day_low": 384.15,
+    "day_open": 387.1025
+   },
+   "news": [
+    {
+     "headline": "Why I Can’t Stop Buying Amazon Stock",
+     "summary": "Every time Wall Street panics over Amazon's massive capital spending tab, one investor hits the buy button again. Here is the contrarian case that the loudest critics are confusing a bill for a bet they cannot afford to miss.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=c7e8a32c91016cd9d09899d907cf257c4f029492d8f08380fa53195be771abeb"
+    },
+    {
+     "headline": "Wall Street’s Bar for Big Tech Is on the Floor, and That Could Spark the Next Rally",
+     "summary": "Wall Street is bracing for the worst out of Big Tech's Q2 earnings, and that gap between dread and reality may be exactly what sends the next rally higher. Five hyperscalers report soon, starting with Microsoft on July 29, and the setup looks nothing like the fear priced in.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=93c1e4fd22bc08ec1dd6fcdb14b96431ef6b10bfb02197469439ccbfe6ab48c8"
+    },
+    {
+     "headline": "Starbucks Wants to Cut $400 Million in Software Costs. Toast Investors Should Pay Attention.",
+     "summary": "Starbucks is ditching legacy software vendors for homegrown AI tools. Here's why that could eventually benefit companies like Toast.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=f4b4a30532608ef8b362265bbfbc2a6c248f2efeb5cb70310e2afdea54a27c6d"
+    },
+    {
+     "headline": "Jim Cramer on Meta: “Zuckerberg’s Not a Bozo, You Can Quote Me on That”",
+     "summary": "Meta Platforms, Inc. (NASDAQ:META) was among Jim Cramer’s stock calls on Mad Money, as he advised investors to stick with the largest tech companies in the market. Cramer discussed the company’s competition, as he stated: Consider what each of these companies really is. Hey, why don’t we start with Meta? Okay, that’s become a real […]",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=8d9ccff30c741a1b1c46e2a5de384772074b91ff36d1966bd70b5b7b4ee189f5"
+    },
+    {
+     "headline": "Nvidia, Micron, and other chip players are poised to become cash-producing machines",
+     "summary": "Chip players are churning out cash while hyperscalers spend big on the AI build-out.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=651787bdd01e7d4809925eeb1e95c1b3609221087f45b49985fb5b262b744e23"
+    },
+    {
+     "headline": "Tech Sell-Off: How investors should navigate the market",
+     "summary": "Yahoo Finance Executive Editor Brian Sozzi sits down with Visible Alpha Head of TMT Research Melissa Otto to discuss how investors should navigate the technology sector following its recent market sell-off.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=8435df224924bad4944dc0a5aef0ec056b6d0b638902ab7f23030a7cf0bf2e08"
+    },
+    {
+     "headline": "Buy, Sell or Hold: My View On Microsoft As AI Capex Costs Rise",
+     "summary": "Microsoft has fallen 20% this year while its AI business accelerates at a triple-digit clip and its commercial backlog swells past half a trillion dollars, which raises an uncomfortable question about whether the market is punishing the wrong variable.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=609684cfa2ea7f71fbd584e847816edc43178d7587ed92943a3e0a016e8509f6"
+    },
+    {
+     "headline": "SpaceX at All-Time Low a Month After IPO: Time to Buy SPCX or Wait?",
+     "summary": "SPCX has fallen 35% from its peak, but Starlink profits, Starship progress and AI ambitions support a hold-and-watch approach.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=3afc2faa40f164c9e120a28585bc7070190b5e1922c96b840581f66beb0ea0c5"
+    }
+   ],
+   "note": null,
+   "earnings_date": "2026-07-29",
+   "week_change_pct": null,
+   "analysis": "Microsoft dnes roste o 2,02 % a patří tak k vítězům dne navzdory širšímu výprodeji technologického sektoru. Akcie letos sice celkově ztratily přes 20 % kvůli obavám z rostoucích kapitálových výdajů na AI, ale komerční zakázky firmy přesáhly půl bilionu dolarů, což naznačuje silnou dlouhodobou poptávku po jejích cloudových a AI službách. Otázkou zůstává, zda vysoké investice do infrastruktury přinesou odpovídající návratnost v krátkodobém horizontu. Blížící se earnings 29. 7. 2026 budou klíčové pro vyjasnění tempa růstu AI byznysu vůči rostoucím nákladům. Investoři by měli sledovat marže cloudového segmentu Azure a komentáře vedení k budoucím investicím."
+  },
+  {
+   "symbol": "VUAA",
+   "quote": {
+    "symbol": "SPY",
+    "price": 749.87,
+    "change_pct": -0.6728922445195099,
+    "day_high": 753.9105,
+    "day_low": 748.93,
+    "day_open": 752.47
+   },
+   "news": [
+    {
+     "headline": "Jim Cramer Says Buy IBM Right Now: Here Is Why Arvind Krishna Has This Stock Undervalued",
+     "summary": "At $292.59, International Business Machines (NYSE:IBM) is a Buy, echoing Jim Cramer’s call on Mad Money after a viewer asked for a verdict on the stock. Cramer called IBM inexpensive, praised CEO Arvind Krishna’s execution, and told viewers to buy some now and add on any panic dips. IBM sits at the intersection of enterprise ... Jim Cramer Says Buy IBM Right Now: Here Is Why Arvind Krishna Has This Stock Undervalued",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=6ae510df02490782a7a2dc97a60bfa11780ec385654ef1fc7f553894fa8fedc9"
+    },
+    {
+     "headline": "Buy, Sell or Hold: My View On Microsoft As AI Capex Costs Rise",
+     "summary": "Microsoft has fallen 20% this year while its AI business accelerates at a triple-digit clip and its commercial backlog swells past half a trillion dollars, which raises an uncomfortable question about whether the market is punishing the wrong variable.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=609684cfa2ea7f71fbd584e847816edc43178d7587ed92943a3e0a016e8509f6"
+    },
+    {
+     "headline": "Stock Market Today: Nasdaq Slides On New U.S.-Iran Strikes; SK Hynix Plunges (Live Coverage)",
+     "summary": "Stock Market Today: The Dow Jones index rose, while the Nasdaq dropped Monday on new U.S.-Iran strikes. SK Hynix plunged in morning trading.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=966ddaa9c15b770e7f6d3115e2029d65a80125f510369fc96d9fabeec4db5130"
+    },
+    {
+     "headline": "How Much Palo Alto Networks (PANW) Do You Own By Accident?",
+     "summary": "Your diversified ETFs may have quietly made a concentrated bet on this single cybersecurity stock for you.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=1f64ae09b086f5a7c52abdf48156737a5ddb230cf55b3c1beee088a2a6cdc6df"
+    },
+    {
+     "headline": "QUAL Is At A Record. Don't Make The Obvious Mistake.",
+     "summary": "A new peak for this quality-focused fund feels like a moment to act, but the smartest move might be the one that requires the most patience.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=d0b8d3024c959a6867b6b7601447cafde56839a1f0b0f8ae5199d0aa6467827c"
+    },
+    {
+     "headline": "Big Banks to Hit Earnings Season With High Hopes: ETFs in Focus",
+     "summary": "Big bank earnings are here. Positive Earnings ESPs, and healthy fundamentals put financial ETFs like IYG, KBE and VFH in focus. Can the rally last?",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=48b6a2133ec52e302fccd2e6d41c093237b44685921b2b97c8808ed6d970d4d2"
+    },
+    {
+     "headline": "Exchange-Traded Funds, Equity Futures Lower Pre-Bell Monday as Renewed US-Iran Conflict Lifts Oil Prices",
+     "summary": "The broad market exchange-traded fund SPDR S&P 500 ETF Trust (SPY) was down 0.4%, and the actively t",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=ca81152adf8ac7aefaeb16e459cd5d937efbf4f329fe34fbc7e1e0a9709004fc"
+    },
+    {
+     "headline": "What's Inside ICLN Decides If This Dip Recovers",
+     "summary": "The clean energy fund is down, but its own history shows that buying a dip here has been anything but a sure thing.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=51a9cc210469338bcd48d22fc27d32cc21ba3d0404682e63d860549259374326"
+    }
+   ],
+   "note": "VUAA je evropský ETF na S&P 500 (LSE/Xetra), Finnhub free tier ale evropské burzy nepodporuje. Cena a novinky jsou proto z amerického ETF SPY, který sleduje stejný index 1:1.",
+   "earnings_date": null,
+   "week_change_pct": null,
+   "analysis": "VUAA je evropský ETF sledující index S&P 500, obchodovaný na LSE a Xetra; vzhledem k technickému omezení dat je zde uvedena cena a novinky z amerického ETF SPY, který kopíruje stejný index 1:1. Dnešní mírný pokles o 0,67 % odráží celkovou náladu na americkém trhu, ovlivněnou napětím kolem Íránu a rostoucími cenami ropy. Široký index je také zasažen výprodejem v čipovém sektoru, který táhne dolů celkovou výkonnost technologických akcií zahrnutých v indexu. Pro dlouhodobé investory do ETF je krátkodobá volatilita méně podstatná, klíčové je sledování celkového směru trhu a makroekonomických trendů. Diverzifikace napříč sektory v S&P 500 by měla tlumit dopad výkyvů jednotlivých odvětví."
+  }
+ ],
+ "macro_news": [
+  {
+   "headline": "Houthis accuse Saudi Arabia of striking Sanaa airport, vow retaliation - Reuters",
+   "summary": "Houthis accuse Saudi Arabia of striking Sanaa airport, vow retaliation  Reuters",
+   "source": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQV2Q4MUdSUXZ0ZWdUWnM4SFNoV0lqYlBHTy1PMURKeFA1TS02RWRjbVZDYzJTY29obkdIa29MV2Y1WjZta2c5TXRzTEdNRjc3alR0MGtNV3QzUXpoanJyLWQ4VHV4NlM2WloyaWZaenV1Y1hqUjY1dHNaaXRiWnoxdmxLYWtyNURVQlRfblZjaFBYTmdXNDVVVFFlM1BWS3M2SzFOcm5MakVrYWNwM01aT0s2UThnckpQRDlSUjdqRjlMaWM4eTJtRG5JZU9FQQ?oc=5"
+  },
+  {
+   "headline": "Trump: Iran blockade reinstated, US to charge 20% on Strait of Hormuz cargo - Reuters",
+   "summary": "Trump: Iran blockade reinstated, US to charge 20% on Strait of Hormuz cargo  Reuters",
+   "source": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMV9vbjgzc3lGdFhGN0tRekRlTDItNXRiUnN1OV90MG5VeXVsRzRXNVItYUZPLWdPZlZtVUVFYTBaQlhhUkFTU1JTQzVfSVhoMHV1VUhQUmhtelBMMllPQk40dUhjWW16dEpaaWc0bVpjazBLWmRvakxGUEtkNHExcmlmRTBMRGxaSDF3VGk3d3BqZTNRU3pZRkUzTENvUk5KYVg5Rk4tUjZ1dw?oc=5"
+  },
+  {
+   "headline": "S&P 500, Nasdaq decline as Iran tensions jolt sentiment; chip stocks fall - Reuters",
+   "summary": "S&P 500, Nasdaq decline as Iran tensions jolt sentiment; chip stocks fall  Reuters",
+   "source": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSUxJelN2M2lFYXd0QzZIdkhQVGdKTFl2clAtSllTMzIxZ0xudk9CeFpNNVV5MVNVSTdhb251ZjZYbWZ3UFQxWGl0ZWRBRXc3NFVvbXpRT1pPUjZxWUw5VDhtZ2s0bDZVT2VrWEp6M01qeTgwcWFtdmxOcFBYdmQxU1J6anlGbURld1ZmdnloOFBOaTJYbUFxNGo0dTFvbEl1bFdZTXIwcjMtRldFd1BMTw?oc=5"
+  },
+  {
+   "headline": "UK bans support for two Iranian groups over antisemitic attacks in Britain - Reuters",
+   "summary": "UK bans support for two Iranian groups over antisemitic attacks in Britain  Reuters",
+   "source": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQWhXdHRncXZPOURpc2ZuRVNjWWRFVjhiN1hEQzhicm41WGZzbFR4Zkk0ZWtYMTRXeFMwVW9xOEhVWVpyc3oyeFhGZWJyMFRfXzFDczhQalczWGNRQUxzMUxZdTNvLXhVUmVSejUxT1Q2NE1ZNVh0OS1Yc3NIV18tWFVKaHFiWHZlVUxxa0trMzZXV3haelpfZEtrRF96U0M2NWNEbDhyQWVFTHNkX1E?oc=5"
+  },
+  {
+   "headline": "European shares edge lower amid renewed US-Iran tensions - Reuters",
+   "summary": "European shares edge lower amid renewed US-Iran tensions  Reuters",
+   "source": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQY2NNZnVVOGcySHZsNTZmbktYVlYzbTlxTU5tNHFDSWtqV19rT0dWeUdBaktuOU1FQl9wNkdHZmQ3QWpsX3ZmVktaa1dwZzJqQ1lHNi1ncFpic0UwTzhSUzgzdGdONXV0Vm9fMWQ5SEpIZ2FDZ0VycVlfMmc0ZGVRR2VIYWJjVDVPT1c4UnNGZndTcFE3UmctMy1QeWs?oc=5"
+  },
+  {
+   "headline": "Jim Cramer's top 10 things to watch in the stock market Monday",
+   "summary": "Chip stocks are selling off, and Apple lands a big price target hike.",
+   "source": "CNBC",
+   "url": "https://www.cnbc.com/2026/07/13/jim-cramers-top-10-things-to-watch-in-the-stock-market-monday.html"
+  },
+  {
+   "headline": "Trump: U.S. should be reimbursed for guarding Strait of Hormuz",
+   "summary": "The Strait of Hormuz is a major oil-shipping route and the epicenter of the U.S. and Israel's ongoing war with Iran.",
+   "source": "CNBC",
+   "url": "https://www.cnbc.com/2026/07/13/trump-iran-hormuz-strait-charge-reimburse.html"
+  },
+  {
+   "headline": "We're buying more of Jim Cramer's new favorite chip stock on the dip",
+   "summary": "We're picking up more shares, consistent with the game plan we laid out in Friday's Morning Meeting.",
+   "source": "CNBC",
+   "url": "https://www.cnbc.com/2026/07/13/were-buying-more-of-jim-cramers-new-favorite-chip-stock-on-the-dip.html"
+  }
+ ],
+ "macro_analysis": "Trh dnes ovlivňuje především opětovná eskalace napětí mezi USA a Íránem, kdy Trump oznámil obnovení blokády a zavedení 20% poplatku na náklad procházející Hormuzským průlivem, klíčovou trasou pro světové dodávky ropy. Tato zpráva vedla ke skokovému růstu cen ropy, což zvyšuje obavy z inflačních tlaků a dodatečných nákladů pro firmy závislé na energii, včetně technologických datacenter. Situaci dále komplikují zprávy o úderech Saúdské Arábie na cíle Húsíů v Jemenu a hrozby odvety, což prohlubuje geopolitickou nejistotu na Blízkém východě. Na akciových trzích se to projevilo poklesem S&P 500 i Nasdaqu, přičemž nejvíce byly zasaženy čipové firmy po varování jihokorejského SK Hynixu ohledně budoucích zisků. Investoři navíc vstupují do výsledkové sezóny velkých technologických firem s velmi nízkými očekáváními, což by paradoxně mohlo vytvořit prostor pro pozitivní překvapení a následný odraz trhu. Zvýšená volatilita v následujících týdnech je pravděpodobná vzhledem ke kombinaci geopolitických rizik a blížících se firemních výsledků.",
+ "tips": [
+  {
+   "ticker": "IBM",
+   "reason": "Jim Cramer označuje akcii za podhodnocenou s kvalitním vedením – zajímavý tip k vlastnímu prozkoumání, nejde o investiční doporučení."
+  },
+  {
+   "ticker": "SK Hynix",
+   "reason": "Firma je aktuálně v centru dění kvůli varování ohledně zisků, které rozhýbalo celý čipový sektor – stojí za sledování vývoje."
+  },
+  {
+   "ticker": "Toast",
+   "reason": "Mohla by profitovat z trendu, kdy firmy jako Starbucks přecházejí od tradičního softwaru k moderním AI řešením."
+  }
+ ],
+ "glossary": {
+  "term": "Hyperscaler",
+  "explanation": "Hyperscaler je označení pro obří technologické firmy jako Microsoft, Google, Meta či Amazon, které provozují obrovské datacentrové a cloudové kapacity potřebné pro AI a další výpočetně náročné služby."
+ },
+ "weekly_recap": null
+}

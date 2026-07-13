@@ -1,8 +1,19 @@
 # Tržní notifikační bot
 
-Python bot, který 3x denně stáhne ceny a novinky pro NVDA, AMD, GOOGL, META a AAPL
-z Finnhub API, nechá Claude API vygenerovat krátké české shrnutí s odhadem dopadu
-a pošle ho na Telegram. Běží automaticky přes GitHub Actions.
+Python bot, který 3x denně stáhne ceny a novinky pro NVDA, AMD, GOOGL, META, AAPL,
+MSFT a VUAA (přes SPY) z Finnhub API, nechá Claude API vygenerovat české shrnutí
+s odhadem dopadu a pošle ho na Telegram. Běží automaticky přes GitHub Actions.
+
+Součástí je i **webový dashboard** (GitHub Pages) s podrobnějšími analýzami,
+grafy vývoje cen, novinkami s odkazy a archivem starších běhů:
+**https://lekesvojta-bot.github.io/market-summary-bot/**
+
+Jak web funguje: každý běh bota uloží data do `docs/data/` a workflow je
+commitne do repa. GitHub Pages servíruje statickou stránku `docs/index.html`,
+která tato JSON data načítá JavaScriptem. Žádný server není potřeba.
+
+Když jakýkoliv běh selže, bot pošle na Telegram upozornění s odkazem na log
+(krok "Upozornit na selhání" ve workflow).
 
 ## 1. Založení Anthropic (Claude) API klíče
 

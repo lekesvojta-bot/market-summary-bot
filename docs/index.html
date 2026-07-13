@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Přehled trhu</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.3/dist/chart.umd.min.js"></script>
+</head>
+<body>
+  <header>
+    <h1>📊 Přehled trhu</h1>
+    <div class="header-meta">
+      <span id="last-update">Načítám…</span>
+      <select id="archive-select" title="Zobrazit starší běh"></select>
+    </div>
+  </header>
+
+  <main>
+    <section id="weekly-recap" class="panel recap hidden">
+      <h2>🗓 Týdenní rekapitulace</h2>
+      <p id="weekly-recap-text"></p>
+    </section>
+
+    <section id="stocks"></section>
+
+    <section class="panel">
+      <h2>🌍 Makro</h2>
+      <p id="macro-analysis"></p>
+      <details>
+        <summary>Zdrojové makro novinky</summary>
+        <ul id="macro-news" class="news-list"></ul>
+      </details>
+    </section>
+
+    <section class="panel">
+      <h2>💡 Tipy k prozkoumání</h2>
+      <p class="disclaimer">Jen nápady k vlastnímu průzkumu založené na obecných trendech — NEJDE o investiční doporučení.</p>
+      <ul id="tips"></ul>
+    </section>
+
+    <section class="panel glossary">
+      <h2>📖 Pojem dne</h2>
+      <p><b id="glossary-term"></b> — <span id="glossary-explanation"></span></p>
+    </section>
+  </main>
+
+  <footer>
+    Data: Finnhub · Analýzy: Claude · Aktualizace 3&times; denně ·
+    <a href="https://github.com/lekesvojta-bot/market-summary-bot">GitHub</a>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>

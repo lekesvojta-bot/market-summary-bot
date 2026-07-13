@@ -1,12 +1,15 @@
-from datetime import datetime
+from datetime import datetime, timezone
 
 import claude_summary
 import config
 import finnhub_client
+import storage
 import telegram_sender
 
+WEB_URL = "https://lekesvojta-bot.github.io/market-summary-bot/"
 
-def collect_stock_data():
+
+def collect_stock_data(history):
     stocks = []
     for ticker in config.TICKERS:
         symbol = ticker["symbol"]
@@ -16,28 +19,56 @@ def collect_stock_data():
         print(f"Stahuji data pro {symbol} ({finnhub_symbol})...")
         quote = finnhub_client.get_quote(finnhub_symbol)
         news = finnhub_client.get_company_news(finnhub_symbol, config.NEWS_LOOKBACK_HOURS)
+        earnings_date = finnhub_client.get_next_earnings(finnhub_symbol)
+        week_change = storage.get_week_change(
+            history, symbol, quote["price"] if quote else None
+        )
         stocks.append(
-            {"symbol": symbol, "quote": quote, "news": news, "note": ticker.get("note")}
+            {
+                "symbol": symbol,
+                "quote": quote,
+                "news": news,
+                "note": ticker.get("note"),
+                "earnings_date": earnings_date,
+                "week_change_pct": week_change,
+            }
         )
     return stocks
 
 
-def main():
-    print(f"=== Spouštím tržní shrnutí: {datetime.now().isoformat()} ===")
+def is_weekly_recap_time(now):
+    """Páteční večerní běh (po 15:00 UTC) přidává týdenní rekapitulaci."""
+    return now.weekday() == 4 and now.hour >= 15
 
-    stocks = collect_stock_data()
+
+def main():
+    now = datetime.now(timezone.utc)
+    timestamp = now.isoformat()
+    print(f"=== Spouštím tržní shrnutí: {timestamp} ===")
+
+    history = storage.load_history()
+    stocks = collect_stock_data(history)
 
     print("Stahuji makro novinky...")
     macro_news = finnhub_client.get_general_market_news(config.NEWS_LOOKBACK_HOURS)
 
-    print("Generuji shrnutí přes Claude API...")
-    summary = claude_summary.generate_summary(stocks, macro_news)
+    weekly_recap = is_weekly_recap_time(now)
+    print(f"Generuji shrnutí přes Claude API... (týdenní recap: {weekly_recap})")
+    ai_output = claude_summary.generate_summary(stocks, macro_news, weekly_recap)
 
-    header = f"📊 <b>Přehled trhu — {datetime.now().strftime('%d.%m.%Y %H:%M')}</b>\n\n"
-    message = header + summary
+    local_time = datetime.now().strftime("%d.%m.%Y %H:%M")
+    header = f"📊 <b>Přehled trhu — {local_time}</b>\n\n"
+    footer = f'\n\n📎 <a href="{WEB_URL}">Podrobnosti a grafy na webu</a>'
+    message = header + ai_output["telegram_message"] + footer
+    if ai_output.get("weekly_recap"):
+        message += "\n\n🗓 <b>Týdenní rekapitulace</b>\n" + ai_output["weekly_recap"]
 
     print("Posílám na Telegram...")
     telegram_sender.send_message(message)
+
+    print("Ukládám data pro web...")
+    storage.save_run(stocks, macro_news, ai_output, timestamp)
+    storage.append_history(stocks, timestamp)
 
     print("Hotovo.")
 

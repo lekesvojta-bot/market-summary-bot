@@ -15,6 +15,11 @@ on:
     - cron: "5 18 * * *"
   workflow_dispatch: {}
 
+# Workflow potřebuje právo zapisovat do repa, protože po každém běhu
+# commitne čerstvá data pro webový dashboard (docs/data/).
+permissions:
+  contents: write
+
 jobs:
   send-market-summary:
     runs-on: ubuntu-latest
@@ -35,5 +40,30 @@ jobs:
         env:
           FINNHUB_API_KEY: ${{ secrets.FINNHUB_API_KEY }}
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+
+      - name: Commitnout data pro web
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/data
+          # Commit jen když se něco změnilo, jinak by git commit spadl.
+          if git diff --cached --quiet; then
+            echo "Žádná nová data ke commitnutí."
+          else
+            git commit -m "Data z běhu $(date -u +'%Y-%m-%d %H:%M') UTC"
+            git push
+          fi
+
+      # Hlídací pes: když cokoliv výše selže, pošli prostou zprávu na Telegram,
+      # ať se o problému ví hned a ne až podle chybějícího přehledu.
+      - name: Upozornit na selhání
+        if: failure()
+        run: |
+          curl -s "https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage" \
+            -d "chat_id=${TELEGRAM_CHAT_ID}" \
+            -d "text=⚠️ Bot spadl, přehled trhu nedorazí. Log: https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}"
+        env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}

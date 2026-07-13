@@ -10,9 +10,19 @@ BASE_URL = "https://finnhub.io/api/v1"
 
 def _get(endpoint, params):
     params = {**params, "token": FINNHUB_API_KEY}
-    response = requests.get(f"{BASE_URL}{endpoint}", params=params, timeout=10)
-    response.raise_for_status()
-    return response.json()
+    # Finnhub občas neodpoví včas (timeout) - zkusíme až 3x, mezi pokusy
+    # krátká pauza. Až když selžou všechny pokusy, pustíme chybu dál.
+    last_error = None
+    for attempt in range(3):
+        try:
+            response = requests.get(f"{BASE_URL}{endpoint}", params=params, timeout=15)
+            response.raise_for_status()
+            return response.json()
+        except Exception as error:
+            last_error = error
+            print(f"[finnhub] Pokus {attempt + 1}/3 pro {endpoint} selhal: {error}")
+            time.sleep(3)
+    raise last_error
 
 
 def get_quote(symbol):
@@ -45,6 +55,7 @@ def _filter_recent(news_items, cutoff_timestamp):
             "headline": item.get("headline", ""),
             "summary": item.get("summary", ""),
             "source": item.get("source", ""),
+            "url": item.get("url", ""),
         }
         for item in recent[:8]
     ]
@@ -63,6 +74,23 @@ def get_company_news(symbol, hours):
     except Exception as error:
         print(f"[finnhub] Nepodařilo se stáhnout novinky pro {symbol}: {error}")
         return []
+
+
+def get_next_earnings(symbol):
+    """Vrátí datum (YYYY-MM-DD) nejbližších kvartálních výsledků do 21 dnů, jinak None."""
+    date_from = datetime.utcnow().strftime("%Y-%m-%d")
+    date_to = (datetime.utcnow() + timedelta(days=21)).strftime("%Y-%m-%d")
+    try:
+        data = _get(
+            "/calendar/earnings", {"symbol": symbol, "from": date_from, "to": date_to}
+        )
+        events = data.get("earningsCalendar", [])
+        if not events:
+            return None
+        return min(event["date"] for event in events)
+    except Exception as error:
+        print(f"[finnhub] Nepodařilo se stáhnout earnings pro {symbol}: {error}")
+        return None
 
 
 def get_general_market_news(hours):
