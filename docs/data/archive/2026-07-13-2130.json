@@ -1,0 +1,658 @@
+{
+ "timestamp": "2026-07-13T21:30:42.278392+00:00",
+ "stocks": [
+  {
+   "symbol": "NVDA",
+   "name": "NVIDIA Corp.",
+   "quote": {
+    "symbol": "NVDA",
+    "price": 203.53,
+    "change_pct": -3.5219946909366735,
+    "day_high": 210.57,
+    "day_low": 203,
+    "day_open": 208.54
+   },
+   "news": [
+    {
+     "headline": "Sector Update: Tech Stocks Fall Late Afternoon",
+     "summary": "Tech stocks were lower late Monday afternoon, with the State Street Technology Select Sector SPDR ET",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=d3927ad54ef25f09ff2a8f43ecda858078566e0b5bbae035ea2c3d6088df6690",
+     "datetime": 1783972540
+    },
+    {
+     "headline": "Citi Has a Stark Message for Nvidia Stock Fans",
+     "summary": "Nvidia Faces Fresh Investor Questions as Citi Weighs AI Outlook",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=8e47f9d600300fd872551dcba2ded3243f223ffebefbfc7b71f52bf6da532141",
+     "datetime": 1783972333
+    },
+    {
+     "headline": "Why AI Investors Can Finally Buy the World's Top HBM Maker Directly",
+     "summary": "SK Hynix's historic Nasdaq debut finally gives U.S. investors direct access to the world's AI memory leader, but is the opportunity still worth buying after its record run?",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=ad05a47ef83e1268953774bf1c23fe26145ddcb6f76b067e9aea758338d103f7",
+     "datetime": 1783972200
+    },
+    {
+     "headline": "Google Takes Aim at Nvidia's AI Chip Market",
+     "summary": "The company is looking beyond its own data centers as it tries to sell more TPUs to outside cloud providers.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=1c47fd978ef50b1d7f48cbd8ba7fd12125e7ecb8088533e5f061528a165b88d4",
+     "datetime": 1783971396
+    },
+    {
+     "headline": "Jensen Huang Slammed a $2.5 Billion Chip-Smuggling Scheme at Nvidia's Stockholder Meeting",
+     "summary": "One scheme won't stop the huge momentum Nvidia has picked up over the past few years.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=f4eb5206f2995f5dbb86c5e90d43f9a2baab3e3e596b5c77cf0175092f8b0b50",
+     "datetime": 1783971300
+    },
+    {
+     "headline": "AppLovin Stock Tumbles 12% Amid Broader Selloff",
+     "summary": "AppLovin is cratering 12% on Monday with no company-specific news to blame, leaving investors to wonder whether the selloff signals real trouble or just a high-beta name taking the brunt of a cooling AI trade.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=9e244e162af819017c81ae6b1f201cada720b87a2ef0adb4c41fb52ffd7633cc",
+     "datetime": 1783971130
+    },
+    {
+     "headline": "Google Takes TPUs Deeper Into Neoclouds",
+     "summary": "TPU sales push targets fast-growing neocloud providers",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=dfe66b9fee80d9b62a15407c3ee5c4adf12d02c1f8227c8b31f9756fcbf53db2",
+     "datetime": 1783970830
+    },
+    {
+     "headline": "Energy Transfer Could Spend Up to $5.9 Billion on Growth Capex This Year. Here's Why That Matters for Investors.",
+     "summary": "The company has big infrastructure spending plans but still says it will raise dividends by 3% to 5% annually.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=f870064c3cc14f72782cbfc4fb2347ac409e1f1823ba1d7662678b0eea4524c6",
+     "datetime": 1783970700
+    }
+   ],
+   "note": null,
+   "earnings_date": "2026-08-25",
+   "next_earnings": {
+    "date": "2026-08-25",
+    "hour": "amc"
+   },
+   "last_earnings": {
+    "date": "2026-06-30",
+    "actual": 1.87,
+    "estimate": 1.79,
+    "beat": true
+   },
+   "week_change_pct": null,
+   "analysis": " a",
+   "outlook": "loss"
+  },
+  {
+   "symbol": "AMD",
+   "name": "Advanced Micro Devices",
+   "quote": {
+    "symbol": "AMD",
+    "price": 534.39,
+    "change_pct": -4.212299915754001,
+    "day_high": 551.87,
+    "day_low": 526.92,
+    "day_open": 537.5
+   },
+   "news": [
+    {
+     "headline": "AMD Seen Posting Strong Quarter",
+     "summary": "Bank of America expects AMD to beat earnings estimates and raise guidance.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=4225243a43bdffd9fae46addeb4a047d2dffd3a627627b8e3ae55487b26ecaa1",
+     "datetime": 1783971685
+    },
+    {
+     "headline": "AMD Gets Bigger AI Target From BofA",
+     "summary": "Exceptional server demand could drive another earnings beat",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=d84d4ded513c1b9ca494bf7d7a44ba3eec782f28b0fe224924297fbb82b66f61",
+     "datetime": 1783971336
+    },
+    {
+     "headline": "AppLovin Stock Tumbles 12% Amid Broader Selloff",
+     "summary": "AppLovin is cratering 12% on Monday with no company-specific news to blame, leaving investors to wonder whether the selloff signals real trouble or just a high-beta name taking the brunt of a cooling AI trade.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=9e244e162af819017c81ae6b1f201cada720b87a2ef0adb4c41fb52ffd7633cc",
+     "datetime": 1783971130
+    },
+    {
+     "headline": "Bank of America Resets AMD Stock Price Target Ahead of Earnings",
+     "summary": "AMD Stock Has a New Bull. Here's Why Bank of America Sees More Upside",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=a4937fa9af1859715e3efab4dae3caa467c5949a8a8ed36ef9df4c551f0a62b0",
+     "datetime": 1783970262
+    },
+    {
+     "headline": "SK Hynix, Sandisk, AppLovin, Intuit, Meta, SpaceX, and More Stocks That Explain Today’s Market",
+     "summary": "AI stocks tumble as investors wonder how much longer Big Tech companies can maintain their aggressive spending plans.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=772af12dc47ae60b953e939e1c02cc7e57fe8ee97810c5e78ebbb634d6f27926",
+     "datetime": 1783967220
+    },
+    {
+     "headline": "TSMC Revenue Tops Forecasts on AI Strength",
+     "summary": "June growth strengthens expectations ahead of full earnings",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=6756bc5530cb851d6301adadda33bd8f6239179445506f905405a6289ae47040",
+     "datetime": 1783963185
+    },
+    {
+     "headline": "Cathie Wood Loads Up on SpaceX, Meta, Eli Lilly and Circle Group",
+     "summary": "Cathie Wood Unveils Major Portfolio Reset With SpaceX, Meta Buys and AMD Cuts",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=4485315c448a89a6ae42a93ee1eff88cb436b1981d6da3cd995a10471ecdc57d",
+     "datetime": 1783961547
+    },
+    {
+     "headline": "Nvidia, AMD, Microsoft Partnerships — And These Clues — Fuel Dell Stock",
+     "summary": "After shocking Wall Street with a huge earnings beat, Dell stock rocketed higher, lifting it toward a breakout.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=b741a944009d38a4681244c247a27869f8663ffbb7645aa36c99eb3d79ca4dc8",
+     "datetime": 1783961064
+    }
+   ],
+   "note": null,
+   "earnings_date": "2026-08-04",
+   "next_earnings": {
+    "date": "2026-08-04",
+    "hour": "amc"
+   },
+   "last_earnings": {
+    "date": "2026-03-31",
+    "actual": 1.37,
+    "estimate": 1.31,
+    "beat": true
+   },
+   "week_change_pct": null,
+   "analysis": " A",
+   "outlook": "loss"
+  },
+  {
+   "symbol": "GOOGL",
+   "name": "Alphabet Inc.",
+   "quote": {
+    "symbol": "GOOGL",
+    "price": 352.51,
+    "change_pct": -1.3074640237415354,
+    "day_high": 358.13,
+    "day_low": 351.75,
+    "day_open": 356.19
+   },
+   "news": [
+    {
+     "headline": "Sector Update: Tech Stocks Fall Late Afternoon",
+     "summary": "Tech stocks were lower late Monday afternoon, with the State Street Technology Select Sector SPDR ET",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=d3927ad54ef25f09ff2a8f43ecda858078566e0b5bbae035ea2c3d6088df6690",
+     "datetime": 1783972540
+    },
+    {
+     "headline": "Google Takes Aim at Nvidia's AI Chip Market",
+     "summary": "The company is looking beyond its own data centers as it tries to sell more TPUs to outside cloud providers.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=1c47fd978ef50b1d7f48cbd8ba7fd12125e7ecb8088533e5f061528a165b88d4",
+     "datetime": 1783971396
+    },
+    {
+     "headline": "Google Takes TPUs Deeper Into Neoclouds",
+     "summary": "TPU sales push targets fast-growing neocloud providers",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=dfe66b9fee80d9b62a15407c3ee5c4adf12d02c1f8227c8b31f9756fcbf53db2",
+     "datetime": 1783970830
+    },
+    {
+     "headline": "Google holds steady as Claude, Gemini surge in June user growth",
+     "summary": "Google maintained steady user and traffic growth in June while rivals Claude and Gemini extended sharp gains, according to a new note from Bank of America. BofA reiterated its Buy rating on Alphabet Inc (NASDAQ:GOOG), pointing to comments from Google executives describing an \"expansionary...",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=096f688455cc00c3aeb41ea2c60a453657df43eeb414e237863f9f193da11c42",
+     "datetime": 1783970640
+    },
+    {
+     "headline": "Apple Sat Out the AI Arms Race. It’s the Only Magnificent 7 Stock Near All-Time Highs.",
+     "summary": "Every other Magnificent 7 stock sits far below its all-time high, yet Apple kept climbing while rivals splurged on AI. Whether that gap reflects genuine strength or a valuation trap worth avoiding is the question every investor needs to answer before July 30.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=2a8c54e4dbca10ef19a65c8c6747ed2dc82a9fef9da23d6756dd13cdad9be689",
+     "datetime": 1783970506
+    },
+    {
+     "headline": "Alphabet Vs. Broadcom: Rotate Out of AVGO and into GOOG as a Custom Chip Creator and Hyperscaler Partner",
+     "summary": "Broadcom just posted 143% AI revenue growth, yet its stock shed a quarter of its value in a single month while a founder quietly dumped over a million shares. The hyperscaler quietly disintermediating its own chip suppliers may explain why.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=49b7e1095fa42e39a4fe4840723ad9b6d36904d309207fad9dfec309a18347ae",
+     "datetime": 1783968556
+    },
+    {
+     "headline": "2 Profitable Stocks with Solid Fundamentals and 1 We Turn Down",
+     "summary": "Not all profitable companies are built to last - some rely on outdated models or unsustainable advantages. Just because a business is in the green today doesn’t mean it will thrive tomorrow.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=95d8385b175893b33fb0ee564169a6c921967c8c1442a31b90be4aac1c4c6259",
+     "datetime": 1783965519
+    },
+    {
+     "headline": "A Generational Transfer Is Happening: Amazon, Google, Microsoft Are the Losers. NVIDIA and Micron the Winners.",
+     "summary": "Hyperscaler giants are hemorrhaging cash while two chip names absorb every dollar they spend, but only one of those chipmakers belongs in a retirement portfolio and the answer may surprise you.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=db342a0be2bc2e470676a6afdb55918020024f1959d2c7840ad222b36da82e30",
+     "datetime": 1783964301
+    }
+   ],
+   "note": null,
+   "earnings_date": "2026-07-22",
+   "next_earnings": {
+    "date": "2026-07-22",
+    "hour": "amc"
+   },
+   "last_earnings": {
+    "date": "2026-03-31",
+    "actual": 2.62,
+    "estimate": 2.71,
+    "beat": false
+   },
+   "week_change_pct": null,
+   "analysis": " A",
+   "outlook": "neutral"
+  },
+  {
+   "symbol": "META",
+   "name": "Meta Platforms",
+   "quote": {
+    "symbol": "META",
+    "price": 656.73,
+    "change_pct": -1.8648854619626152,
+    "day_high": 676.62,
+    "day_low": 654.2,
+    "day_open": 661.38
+   },
+   "news": [
+    {
+     "headline": "Sector Update: Tech Stocks Fall Late Afternoon",
+     "summary": "Tech stocks were lower late Monday afternoon, with the State Street Technology Select Sector SPDR ET",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=d3927ad54ef25f09ff2a8f43ecda858078566e0b5bbae035ea2c3d6088df6690",
+     "datetime": 1783972540
+    },
+    {
+     "headline": "Google Takes Aim at Nvidia's AI Chip Market",
+     "summary": "The company is looking beyond its own data centers as it tries to sell more TPUs to outside cloud providers.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=1c47fd978ef50b1d7f48cbd8ba7fd12125e7ecb8088533e5f061528a165b88d4",
+     "datetime": 1783971396
+    },
+    {
+     "headline": "Apple Sat Out the AI Arms Race. It’s the Only Magnificent 7 Stock Near All-Time Highs.",
+     "summary": "Every other Magnificent 7 stock sits far below its all-time high, yet Apple kept climbing while rivals splurged on AI. Whether that gap reflects genuine strength or a valuation trap worth avoiding is the question every investor needs to answer before July 30.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=2a8c54e4dbca10ef19a65c8c6747ed2dc82a9fef9da23d6756dd13cdad9be689",
+     "datetime": 1783970506
+    },
+    {
+     "headline": "Meta Spends $50 Billion More on AI. Is That a Good Thing?",
+     "summary": "Meta stock has been boosted by signs it is becoming more competitive in AI, but JP Morgan isn’t convinced yet.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=b9fbf4083e8e0dbaf244e5fa5e43f044331191609af15af71796a4c3454f24fa",
+     "datetime": 1783968780
+    },
+    {
+     "headline": "AI Leaders Shift to Lower-Cost Models as OpenRouter Secures $100 Million+",
+     "summary": "OpenAI, Meta and SpaceXAI emphasize affordability as businesses tighten AI spending and scrutinize usage costs.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=dd2811bdb6f3a1eb4cf84223a66abff57bc8920f5f9e8783ce66b71eea2cbd7d",
+     "datetime": 1783967837
+    },
+    {
+     "headline": "SK Hynix, Sandisk, AppLovin, Intuit, Meta, SpaceX, and More Stocks That Explain Today’s Market",
+     "summary": "AI stocks tumble as investors wonder how much longer Big Tech companies can maintain their aggressive spending plans.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=772af12dc47ae60b953e939e1c02cc7e57fe8ee97810c5e78ebbb634d6f27926",
+     "datetime": 1783967220
+    },
+    {
+     "headline": "This Is Why I Keep Buying Meta Stock",
+     "summary": "Most AI investments force a choice between owning the infrastructure and cashing in on the product. One company has quietly collapsed that tradeoff in a way that changes the math on every other position in the sector.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=8203f642247e1b09d5d7b7787bf71c265455e5035a37d0bbc8208a340ea874cd",
+     "datetime": 1783966988
+    },
+    {
+     "headline": "A Generational Transfer Is Happening: Amazon, Google, Microsoft Are the Losers. NVIDIA and Micron the Winners.",
+     "summary": "Hyperscaler giants are hemorrhaging cash while two chip names absorb every dollar they spend, but only one of those chipmakers belongs in a retirement portfolio and the answer may surprise you.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=db342a0be2bc2e470676a6afdb55918020024f1959d2c7840ad222b36da82e30",
+     "datetime": 1783964301
+    }
+   ],
+   "note": null,
+   "earnings_date": "2026-07-29",
+   "next_earnings": {
+    "date": "2026-07-29",
+    "hour": "amc"
+   },
+   "last_earnings": {
+    "date": "2026-03-31",
+    "actual": 7.31,
+    "estimate": 6.92,
+    "beat": true
+   },
+   "week_change_pct": null,
+   "analysis": " A",
+   "outlook": "neutral"
+  },
+  {
+   "symbol": "AAPL",
+   "name": "Apple Inc.",
+   "quote": {
+    "symbol": "AAPL",
+    "price": 317.31,
+    "change_pct": 0.6311049092984933,
+    "day_high": 323.45,
+    "day_low": 315.78,
+    "day_open": 317.015
+   },
+   "news": [
+    {
+     "headline": "Apple Gets Stunning Price Target Hike from Citi Ahead of Phone 18",
+     "summary": "Apple's Pricing Power Wins Praise as Citi Raises Price Target",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=607282363dec621635fe771e997b34b8dd1f002dcfb4b8dbb5c0702d3ea54d05",
+     "datetime": 1783972080
+    },
+    {
+     "headline": "Google Takes Aim at Nvidia's AI Chip Market",
+     "summary": "The company is looking beyond its own data centers as it tries to sell more TPUs to outside cloud providers.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=1c47fd978ef50b1d7f48cbd8ba7fd12125e7ecb8088533e5f061528a165b88d4",
+     "datetime": 1783971396
+    },
+    {
+     "headline": "Google Takes TPUs Deeper Into Neoclouds",
+     "summary": "TPU sales push targets fast-growing neocloud providers",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=dfe66b9fee80d9b62a15407c3ee5c4adf12d02c1f8227c8b31f9756fcbf53db2",
+     "datetime": 1783970830
+    },
+    {
+     "headline": "Apple Sat Out the AI Arms Race. It’s the Only Magnificent 7 Stock Near All-Time Highs.",
+     "summary": "Every other Magnificent 7 stock sits far below its all-time high, yet Apple kept climbing while rivals splurged on AI. Whether that gap reflects genuine strength or a valuation trap worth avoiding is the question every investor needs to answer before July 30.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=2a8c54e4dbca10ef19a65c8c6747ed2dc82a9fef9da23d6756dd13cdad9be689",
+     "datetime": 1783970506
+    },
+    {
+     "headline": "Apple’s iPhone cost problem reveals AI’s hidden bill",
+     "summary": "Apple’s next iPhone problem may not be demand. It may be the price of making demand profitable. Hardware costs are rising, and Apple has drastically decreased its demand projections for the regular iPhone 17, according to a recent report from MacRumors, citing the Weibo account Fixed Focus Digital. ...",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=5f349741512d33d04c3b68e7ecd142202c65a836768ce79a71ab8de8826cf5db",
+     "datetime": 1783969980
+    },
+    {
+     "headline": "SK Hynix, Sandisk, AppLovin, Intuit, Meta, SpaceX, and More Stocks That Explain Today’s Market",
+     "summary": "AI stocks tumble as investors wonder how much longer Big Tech companies can maintain their aggressive spending plans.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=772af12dc47ae60b953e939e1c02cc7e57fe8ee97810c5e78ebbb634d6f27926",
+     "datetime": 1783967220
+    },
+    {
+     "headline": "Elon Musk trolls OpenAI CEO Sam Altman over Apple trade secrets suit",
+     "summary": "Elon Musk took aim at OpenAI CEO Sam Altman on X following Apple's lawsuit against the AI startup.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=67e32860d457aaad4963dc10d62fd7d2082d49a421b794e7cfc0076f91e62479",
+     "datetime": 1783966276
+    },
+    {
+     "headline": "Stay informed about the most active stocks in the S&P500 index on Monday's session.",
+     "summary": "Stay informed about the most active S&P500 stocks in today's session as we take a closer look at what's happening on the US markets on Monday. Discover the stocks that are generating the highest trading volume and driving market activity.",
+     "source": "ChartMill",
+     "url": "https://finnhub.io/api/news?id=2688322ca92f5d3c1483ed79195c577694d4737e96ae3a9fb8e5d3ea5d3e792a",
+     "datetime": 1783965900
+    }
+   ],
+   "note": null,
+   "earnings_date": "2026-07-30",
+   "next_earnings": {
+    "date": "2026-07-30",
+    "hour": "amc"
+   },
+   "last_earnings": {
+    "date": "2026-03-31",
+    "actual": 2.01,
+    "estimate": 1.99,
+    "beat": true
+   },
+   "week_change_pct": null,
+   "analysis": " A",
+   "outlook": "gain"
+  },
+  {
+   "symbol": "MSFT",
+   "name": "Microsoft Corp.",
+   "quote": {
+    "symbol": "MSFT",
+    "price": 390.99,
+    "change_pct": 1.5294728641911155,
+    "day_high": 393.65,
+    "day_low": 384.15,
+    "day_open": 387.745
+   },
+   "news": [
+    {
+     "headline": "Apple Sat Out the AI Arms Race. It’s the Only Magnificent 7 Stock Near All-Time Highs.",
+     "summary": "Every other Magnificent 7 stock sits far below its all-time high, yet Apple kept climbing while rivals splurged on AI. Whether that gap reflects genuine strength or a valuation trap worth avoiding is the question every investor needs to answer before July 30.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=2a8c54e4dbca10ef19a65c8c6747ed2dc82a9fef9da23d6756dd13cdad9be689",
+     "datetime": 1783970506
+    },
+    {
+     "headline": "Nvidia, Amazon, and Microsoft Stocks Just Did Something for the First Time in at Least 5 Years. Here's What History Says Will Happen Next",
+     "summary": "Oh, how the mighty have fallen.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=3a9054a950c410e249837c914b1ed52d5d45aed64efbc14a9558fc7d5d18598d",
+     "datetime": 1783970200
+    },
+    {
+     "headline": "Uncover the latest developments among dow jones stocks in today's session.",
+     "summary": "Curious about the dow jones stocks that are in motion on Monday? Join us as we explore the top movers within the dow jones index during today's session.",
+     "source": "ChartMill",
+     "url": "https://finnhub.io/api/news?id=f13399f677cd7c71aafcdc84abe74809c39d947570bc4629e20caf0d44034b59",
+     "datetime": 1783969804
+    },
+    {
+     "headline": "This Is Why I Keep Buying Meta Stock",
+     "summary": "Most AI investments force a choice between owning the infrastructure and cashing in on the product. One company has quietly collapsed that tradeoff in a way that changes the math on every other position in the sector.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=8203f642247e1b09d5d7b7787bf71c265455e5035a37d0bbc8208a340ea874cd",
+     "datetime": 1783966988
+    },
+    {
+     "headline": "Elon Musk trolls OpenAI CEO Sam Altman over Apple trade secrets suit",
+     "summary": "Elon Musk took aim at OpenAI CEO Sam Altman on X following Apple's lawsuit against the AI startup.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=67e32860d457aaad4963dc10d62fd7d2082d49a421b794e7cfc0076f91e62479",
+     "datetime": 1783966276
+    },
+    {
+     "headline": "Tech View: Record Profits, Insider buying, & Cheap Valuations",
+     "summary": "Backed by historic corporate profits, insider buying, and bargain valuations, tech stocks are proving that the 2026 rally is built on rock-solid fundamentals, not hot air.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=48cb9deb827217d3c8df140b208da9e5fa6c111f13a7ef32b7559da090aefa9d",
+     "datetime": 1783965060
+    },
+    {
+     "headline": "The Vanguard S&P 500 ETF Is Unstoppable, but This 1 Investment Could Be Safer Right Now",
+     "summary": "It's time to start thinking about ways to diversify away from tech concentration while maintaining equity market upside.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=6b78ee3d2e6a897c80c72ae5748bf557d649b5142135e7ca9f9552a9aa09f391",
+     "datetime": 1783965000
+    },
+    {
+     "headline": "A Generational Transfer Is Happening: Amazon, Google, Microsoft Are the Losers. NVIDIA and Micron the Winners.",
+     "summary": "Hyperscaler giants are hemorrhaging cash while two chip names absorb every dollar they spend, but only one of those chipmakers belongs in a retirement portfolio and the answer may surprise you.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=db342a0be2bc2e470676a6afdb55918020024f1959d2c7840ad222b36da82e30",
+     "datetime": 1783964301
+    }
+   ],
+   "note": null,
+   "earnings_date": "2026-07-29",
+   "next_earnings": {
+    "date": "2026-07-29",
+    "hour": "amc"
+   },
+   "last_earnings": {
+    "date": "2026-03-31",
+    "actual": 4.27,
+    "estimate": 4.14,
+    "beat": true
+   },
+   "week_change_pct": null,
+   "analysis": " A",
+   "outlook": "gain"
+  },
+  {
+   "symbol": "VUAA",
+   "name": "S&P 500 (přes SPY)",
+   "quote": {
+    "symbol": "SPY",
+    "price": 749.17,
+    "change_pct": -0.7656136167958256,
+    "day_high": 753.9105,
+    "day_low": 748,
+    "day_open": 752.47
+   },
+   "news": [
+    {
+     "headline": "The ‘Boring’ Dividend ETF Everyone Ignored Just Crushed the S&P 500 This Year",
+     "summary": "While everyone chased AI darlings, a quiet dividend ETF sat ignored for three years and just staged a comeback that has income investors asking whether the whole playbook needs to change.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=47afd28511653d992c92d5e3d9a90abbc3ec7526ce1e4f8c705998ee26fd46be",
+     "datetime": 1783973153
+    },
+    {
+     "headline": "JEPI Is Falling While the S&P 500 Soars. Is That Fat 8% Yield Actually a Trap?",
+     "summary": "JEPI's 8% yield lands in your checking account every month like clockwork, but price-only holders watching the S&P sprint higher are quietly paying a price that never shows up on the fact sheet.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=698f19407400276cdd405a2e968dcdddd4a102eddfb3cd0a4846dfe21cc0a933",
+     "datetime": 1783969551
+    },
+    {
+     "headline": "Visa’s $700 Billion Payments Empire Faces New Disruption Risks",
+     "summary": "Visa processed nearly 70 billion transactions in a single quarter, yet something beneath those blockbuster numbers is quietly shrinking the bottom line. Four consecutive quarters of nine-figure litigation charges tell one story, but stablecoins, real-time rails, and digital wallets are writing another.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=3ec6d694f22027a6d627339beb560a010b594515fd1a7049ca35a4322e250a94",
+     "datetime": 1783967447
+    },
+    {
+     "headline": "When The Market Dropped, XLU ETF Held Its Ground",
+     "summary": "True diversification goes beyond owning different stocks to provide a cushion when the market gets rough.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=8e3eb0edb27a16d187041a3bf6e6d8ad77a606988a9d5ca23e7a89ba73ca2ebb",
+     "datetime": 1783966391
+    },
+    {
+     "headline": "The Best AI Opportunities For The Second Half Of 2026",
+     "summary": "Big tech hyperscalers (AMZN, MSFT, META, GOOGL) may outperform as AI CapEx turns into free cash flow post-2028.",
+     "source": "SeekingAlpha",
+     "url": "https://finnhub.io/api/news?id=f9b61bc73553478d578e292c69fd6c80df1ce431424ecc9a517f053bfea295af",
+     "datetime": 1783962019
+    },
+    {
+     "headline": "Live On The Hugh Hewitt Show, President Trump On Iran, Says Going To Hit Them Hard Tonight, Tomorrow; Iran MOU Was A Test, They Did Not Honor It; I Get Along With Netanyahu Very Well, I Disagree With Netanyahu Sometimes And I Let Him Know",
+     "summary": "- Reuters Citing Hugh Hewitt Show",
+     "source": "Benzinga",
+     "url": "https://finnhub.io/api/news?id=6fd8cdea0264396dcb9cf72bfb9594763e943ac139b2b2fde48364803acbe8ad",
+     "datetime": 1783959619
+    },
+    {
+     "headline": "Jim Cramer Says Buy IBM Right Now: Here Is Why Arvind Krishna Has This Stock Undervalued",
+     "summary": "At $292.59, International Business Machines (NYSE:IBM) is a Buy, echoing Jim Cramer’s call on Mad Money after a viewer asked for a verdict on the stock. Cramer called IBM inexpensive, praised CEO Arvind Krishna’s execution, and told viewers to buy some now and add on any panic dips. IBM sits at the intersection of enterprise ... Jim Cramer Says Buy IBM Right Now: Here Is Why Arvind Krishna Has This Stock Undervalued",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=6ae510df02490782a7a2dc97a60bfa11780ec385654ef1fc7f553894fa8fedc9",
+     "datetime": 1783959022
+    },
+    {
+     "headline": "When Great Earnings Become A Market Problem",
+     "summary": "Despite the Middle East war, rising inflation expectations, weaker GDP forecasts and a market that's gone from expecting interest rate cuts to expecting hikes, stocks have continued climbing",
+     "source": "SeekingAlpha",
+     "url": "https://finnhub.io/api/news?id=272f62af4e5bc9b6cade2f3da3f8e5b016649bb0890ceb5965b24ff091545d74",
+     "datetime": 1783958700
+    }
+   ],
+   "note": "VUAA je evropský ETF na S&P 500 (LSE/Xetra), Finnhub free tier ale evropské burzy nepodporuje. Cena a novinky jsou proto z amerického ETF SPY, který sleduje stejný index 1:1.",
+   "earnings_date": null,
+   "next_earnings": null,
+   "last_earnings": null,
+   "week_change_pct": null,
+   "analysis": " A",
+   "outlook": "neutral"
+  }
+ ],
+ "macro_news": [
+  {
+   "headline": "Wall Street ends lower as Iran tensions dampen risk appetite; chipmakers drop - Reuters",
+   "summary": "Wall Street ends lower as Iran tensions dampen risk appetite; chipmakers drop  Reuters",
+   "source": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSUxJelN2M2lFYXd0QzZIdkhQVGdKTFl2clAtSllTMzIxZ0xudk9CeFpNNVV5MVNVSTdhb251ZjZYbWZ3UFQxWGl0ZWRBRXc3NFVvbXpRT1pPUjZxWUw5VDhtZ2s0bDZVT2VrWEp6M01qeTgwcWFtdmxOcFBYdmQxU1J6anlGbURld1ZmdnloOFBOaTJYbUFxNGo0dTFvbEl1bFdZTXIwcjMtRldFd1BMTw?oc=5",
+   "datetime": 1783973810
+  },
+  {
+   "headline": "Chipotle is opening its first restaurant in Mexico",
+   "summary": "Fast casual chain Chipotle announced Monday that it is opening its first location in Mexico in the Monterrey area.",
+   "source": "CNBC",
+   "url": "https://www.cnbc.com/2026/07/13/chipotle-opening-first-restaurant-in-mexico.html",
+   "datetime": 1783973401
+  },
+  {
+   "headline": "Houthis fire missiles at Saudi Arabia, breaking years of calm - Reuters",
+   "summary": "Houthis fire missiles at Saudi Arabia, breaking years of calm  Reuters",
+   "source": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQV2Q4MUdSUXZ0ZWdUWnM4SFNoV0lqYlBHTy1PMURKeFA1TS02RWRjbVZDYzJTY29obkdIa29MV2Y1WjZta2c5TXRzTEdNRjc3alR0MGtNV3QzUXpoanJyLWQ4VHV4NlM2WloyaWZaenV1Y1hqUjY1dHNaaXRiWnoxdmxLYWtyNURVQlRfblZjaFBYTmdXNDVVVFFlM1BWS3M2SzFOcm5MakVrYWNwM01aT0s2UThnckpQRDlSUjdqRjlMaWM4eTJtRG5JZU9FQQ?oc=5",
+   "datetime": 1783972526
+  },
+  {
+   "headline": "Lawmakers demand Pentagon release findings from probe of Iran school strike - Reuters",
+   "summary": "Lawmakers demand Pentagon release findings from probe of Iran school strike  Reuters",
+   "source": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPaFpXV2hLVHVQMmdvSC1Zd2JjNjZRMlFXN3ltcFFMOVRobWdwUjNKb1hkUnlyUnZ2RUZ1MEtqbTNkUkp3RkxIaEh5N3Fzb290QnhjeWdrVVJJNFlGNGJPLURERnpnM09tTVF5T0tDQ3ZoWEdHdngxQlVhcXA2cGN4MWVhT3kta245Sm5LN3dqT1ZVcGdtbS1GQ2sxMmJ0Q2xUaXZTXzNIWXNaYUlGODlwX0ZwbUtPSnRjbm1TMg?oc=5",
+   "datetime": 1783971824
+  },
+  {
+   "headline": "A toxic stew drags stocks lower as we look at what can get the AI trade back on track",
+   "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+   "source": "CNBC",
+   "url": "https://www.cnbc.com/2026/07/13/a-toxic-stew-drags-stocks-lower-as-we-look-at-what-can-get-the-ai-trade-back-on-track.html",
+   "datetime": 1783969682
+  },
+  {
+   "headline": "UN maritime agency opposes Hormuz transit fees after Trump demands protection money",
+   "summary": "The security situation in Hormuz has deteriorated since Iran attacked multiple commercial ships transiting the strait over the past week.",
+   "source": "CNBC",
+   "url": "https://www.cnbc.com/2026/07/13/imo-maritime-organization-strait-hormuz-tolls-trump-iran.html",
+   "datetime": 1783967284
+  },
+  {
+   "headline": "US to begin enforcing maritime blockade on Iran on Tuesday - Reuters",
+   "summary": "US to begin enforcing maritime blockade on Iran on Tuesday  Reuters",
+   "source": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPOHhfWjBMY0wxWWV6RkVYbWw0bXN6LTFSX25HY1FDNXFwb0I5MndOZ2RSSmhjengxS2xKdFdmRi1Yd1J4ZnZkR3lHaTlabTZFbFl4dkdvOHh1MUs0cTNVc2NhOWc3OTJNbVhLa3NRQ0RzRkNUUlVGdk91eHlLX1hkRFBkYndhTjlfU3BCYzUwVHZlT0ZNZHBSV3NESmZjNXItY3Z2bTJ3?oc=5",
+   "datetime": 1783967099
+  },
+  {
+   "headline": "UN shipping agency opposes fees for any strait, after Trump plans Hormuz charge - Reuters",
+   "summary": "UN shipping agency opposes fees for any strait, after Trump plans Hormuz charge  Reuters",
+   "source": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNei1BMHZIWThUNUlpYVYtTlhWcGdOSjZVdDdJWGpCT1FpRm1ab2NkbDJxM1l3WmdOSHlvUjRWbE5QZmRYeEVldWdrSm5SZVI1V05KdTZFWUtOMmlPWXozRWhhWVZCRVJqZHU2Sk9vQkw0TGg5NUFaQ3ZfRmZnaU1nTWZXc2dRTTZ1aHVlNG1zSmE5TDJEQmczcUhTb0tXM2dzVVF2UlNzMlRXLXl1Ui1OT1hiaEU0c1VrNHNSclU1RnFpN21hbU84?oc=5",
+   "datetime": 1783962086
+  }
+ ],
+ "macro": [],
+ "macro_analysis": "",
+ "tips": [],
+ "glossary": {
+  "term": " A",
+  "explanation": " A"
+ },
+ "weekly_recap": null
+}
