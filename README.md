@@ -1,8 +1,9 @@
 # Tržní notifikační bot
 
-Python bot, který 3x denně stáhne ceny a novinky pro NVDA, AMD, GOOGL, META, AAPL,
-MSFT a VUAA (přes SPY) z Finnhub API, nechá Claude API vygenerovat české shrnutí
-s odhadem dopadu a pošle ho na Telegram. Běží automaticky přes GitHub Actions.
+Python bot, který jednou denně večer stáhne ceny a novinky pro NVDA, AMD, GOOGL,
+META, AAPL, MSFT a VUAA (přes SPY) z Finnhub API, nechá Claude API vygenerovat
+české shrnutí s odhadem dopadu a pošle ho na Telegram. Běží automaticky přes
+GitHub Actions.
 
 Součástí je i **webový dashboard** (GitHub Pages) s podrobnějšími analýzami,
 grafy vývoje cen, novinkami s odkazy a archivem starších běhů:
@@ -61,9 +62,8 @@ Když jakýkoliv běh selže, bot pošle na Telegram upozornění s odkazem na l
 ## 5. Automatický běh
 
 Jakmile ruční test projde, není potřeba nic dalšího dělat — workflow poběží
-sám 3x denně podle rozvrhu v `.github/workflows/market-summary.yml`
-(8:00 / 13:00 / 20:00 českého letního času; v zimě o hodinu později, viz
-komentář v souboru).
+sám jednou denně večer podle rozvrhu v `.github/workflows/market-summary.yml`
+(cca 20:05 českého letního času; v zimě o hodinu později, viz komentář v souboru).
 
 ## Struktura projektu
 
