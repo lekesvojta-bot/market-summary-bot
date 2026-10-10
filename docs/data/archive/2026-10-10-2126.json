@@ -1,0 +1,459 @@
+{
+ "timestamp": "2026-10-10T21:26:50.419532+00:00",
+ "stocks": [
+  {
+   "symbol": "NVDA",
+   "name": "NVIDIA Corp.",
+   "quote": {
+    "symbol": "NVDA",
+    "price": 229.28,
+    "change_pct": -0.520652551197496,
+    "day_high": 233.92,
+    "day_low": 229.11,
+    "day_open": 233.835
+   },
+   "news": [
+    {
+     "headline": "2 Cryptocurrencies Poised to Surge 100% in the Coming Years That Savvy Investors Are Already Buying",
+     "summary": "It can make sense to check out what big investors are doing with their money.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=14c18f2b4928acb0441085673740898e8ae9a94e25c0b29030fe8127ec023cf4",
+     "datetime": 1791661260
+    },
+    {
+     "headline": "‘Big Short’ investors split over the AI risk that matters most",
+     "summary": "Steve Eisman says Michael Burry may be looking at the wrong weakness in the artificial-intelligence boom.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=cbdfc812c36a45772b50e46513f505a99ebed7bceeff3b04dfa4afd7dcd88994",
+     "datetime": 1791659580
+    },
+    {
+     "headline": "Could $1,000 Invested in Bitcoin Help You Retire a Millionaire?",
+     "summary": "At one time, Bitcoin had 1,000x upside potential. But is that still the case?",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=897947f1c75f6c3e5bf0adf4e81ea33faf69c695d6cd90c133dbf8a32585287c",
+     "datetime": 1791659220
+    },
+    {
+     "headline": "Is It Too Late to Buy Palantir Stock?",
+     "summary": "Palantir stock is up more than 1,000% in the last three years.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=ba8cd1956b3d0fe6f23703ccbae1213d97b7f9b49b00a8fef444d7dd5db09e29",
+     "datetime": 1791658200
+    },
+    {
+     "headline": "History Says Abbott Stock Could More Than Double by 2036. Here’s Why I Just Added It to My Portfolio.",
+     "summary": "Abbott has a low-risk profile with significant upside potential.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=859e82577547b18a243a9ac7014dac846a9d2e786648027974aab72ad1d9852e",
+     "datetime": 1791657301
+    },
+    {
+     "headline": "3 Reasons I'm Still Not Buying Tilray Stock -- Even at Penny-Stock Prices",
+     "summary": "Tilray's stock isn't the bargain it appears to be at first.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=8d923ddc464275631883e84c4a58dd43401d47ebeec40eced696f868bedc4d28",
+     "datetime": 1791656400
+    },
+    {
+     "headline": "The Nasdaq-100 Has Gained 20% or More 3 Years Running. This Streak Rests on Far Stronger Earnings Than 1999's.",
+     "summary": "The two earlier streaks like it both ended with a down year of over 30%. Is today's run built any differently?",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=041e7a3a85d95a14fd5a1d5e47d35090350345888c75a66f3159ca2b6752536d",
+     "datetime": 1791656281
+    },
+    {
+     "headline": "SpaceX Is “Getting Riskier by the Minute” as Its 50-Year Bonds Slip to 85 Cents",
+     "summary": "Key TakeawaysThe cost of insuring SpaceX’s debt against default rose to 194 basis points on Wednesday from 110 in June, and its 50-year bonds trade near 85 cents on the dollar. SpaceX is borrowing to pay for its AI data centers, and the bond market is right to charge more for that risk.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=1f4a46744b5455c481c97ae22d260b4780d7cd33023d1773c3a1db7c1c909616",
+     "datetime": 1791655645
+    }
+   ],
+   "note": null,
+   "earnings_date": "2026-11-17",
+   "next_earnings": {
+    "date": "2026-11-17",
+    "hour": "amc"
+   },
+   "last_earnings": {
+    "date": "2026-09-30",
+    "actual": 2.22,
+    "estimate": 2.14,
+    "beat": true
+   },
+   "week_change_pct": -1.9961530241504544,
+   "analysis": "NVDA dnes mírně oslabila o 0,52 % na 229,28 USD a za poslední týden ztratila 2 %, což signalizuje pokračující konsolidaci po silném růstu z předchozích měsíců. Trh se potýká s rostoucí nejistotou ohledně udržitelnosti AI boomu - prominentní investoři jako Michael Burry a Steve Eisman se veřejně přou o to, kde přesně leží největší riziko přehřátí sektoru. Takové debaty mohou zvyšovat volatilitu i u firem, které jsou fundamentálně silné, protože investoři začínají být opatrnější vůči vysokým valuacím. Nvidia zůstává klíčovým dodavatelem čipů pro celý AI ekosystém, a proto je citlivá na jakékoliv zprávy související se zpomalením poptávky nebo s obavami o kapitálové výdaje velkých technologických firem. Poslední kvartální výsledky (EPS 2,22 vs. odhad 2,14) byly nad očekáváním, což potvrzuje silnou provozní výkonnost firmy. Nicméně dalších výsledky přijdou až 17. listopadu 2026, a historicky bývá období před earnings spojeno se zvýšenou volatilitou, protože trh spekuluje o výsledcích i výhledu firmy. Firma také nepřímo souvisí se zprávami o rizicích spojených s financováním SpaceX, což ukazuje, jak propojený je technologický a kapitálový sektor okolo AI a vesmírných technologií. Investoři by měli sledovat zejména vývoj kapitálových výdajů velkých cloudových firem (hyperscalerů), protože ti jsou hlavními odběrateli čipů Nvidia. Krátkodobě by se cena mohla dál pohybovat v rozmezí posledních týdnů, dokud nepřijdou nové katalyzátory. Rizikem zůstává možná korekce celého AI sektoru, pokud by se objevily signály zpomalení poptávky nebo zklamání u konkurentů.",
+   "outlook": "neutral"
+  },
+  {
+   "symbol": "AMD",
+   "name": "Advanced Micro Devices",
+   "quote": {
+    "symbol": "AMD",
+    "price": 608.1,
+    "change_pct": -2.026809305922525,
+    "day_high": 627.37,
+    "day_low": 606,
+    "day_open": 626.89
+   },
+   "news": [
+    {
+     "headline": "Advanced Micro Devices vs. Qualcomm: Which Technology Stock Is a Better Buy in 2026?",
+     "summary": "AMD's net margin doubled while Qualcomm trades at a fraction of its rival's valuation, but customer concentration and competitive threats complicate both bets.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=69387e00bf52429c8086050e82ee46db0171cd604077c4444f00839259e64b9e",
+     "datetime": 1791651781
+    },
+    {
+     "headline": "The Next Wave of AI Demand Could Send Broadcom, Marvell, and AMD Soaring",
+     "summary": "Broadcom management called Q3 demand simply hot, and Marvell and AMD have already tripled in 2026 alone. The question now is whether three bold price targets for 2027 are ambitious or just the beginning.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=f8f561ef84e3f719593cfc42dcd9d54da13246e2a9d11165b0479a57a97e02e6",
+     "datetime": 1791642657
+    }
+   ],
+   "note": null,
+   "earnings_date": "2026-11-03",
+   "next_earnings": {
+    "date": "2026-11-03",
+    "hour": "amc"
+   },
+   "last_earnings": {
+    "date": "2026-06-30",
+    "actual": 1.66,
+    "estimate": 1.63,
+    "beat": true
+   },
+   "week_change_pct": -4.071555899102388,
+   "analysis": "AMD dnes klesla o 2,03 % na 608,10 USD a za týden ztratila 4,07 %, což je nejvýraznější pokles mezi sledovanými tituly. Tento pohyb přichází i přes pozitivní dlouhodobé zprávy - analytici srovnávají AMD s Qualcommem a zdůrazňují, že AMD má dvojnásobnou čistou marži, což naznačuje silnější ziskovost navzdory vyšší valuaci. Další zpráva popisuje, jak by příští vlna poptávky po AI mohla vynést vzhůru nejen Broadcom a Marvell, ale i AMD, přičemž zmiňuje, že některé z těchto akcií se letos již ztrojnásobily - což může naznačovat, že trh již hodně pozitivních očekávání zacenil. Krátkodobý pokles ceny tak může odrážet realizaci zisků po silném růstu, nikoliv zhoršení fundamentu. Poslední kvartální výsledky (EPS 1,66 vs. odhad 1,63) byly nad očekáváním, což potvrzuje zdravý operační trend firmy. Dalším klíčovým datem budou earnings 3. listopadu 2026, kolem kterých lze očekávat zvýšenou volatilitu, zejména pokud trh bude hledat potvrzení budoucího růstu v segmentu AI čipů. Rizikem zůstává zmiňovaná konkurenční koncentrace zákazníků a intenzivní soutěž s Nvidia a dalšími hráči v segmentu akcelerátorů. Investoři by měli sledovat, zda pozitivní výhledy pro rok 2027 skutečně odpovídají realitě poptávky od cloudových provozovatelů. Krátkodobě by mohla cena zůstat volatilní, než trh dostane jasnější signály z blížících se výsledků.",
+   "outlook": "neutral"
+  },
+  {
+   "symbol": "GOOGL",
+   "name": "Alphabet Inc.",
+   "quote": {
+    "symbol": "GOOGL",
+    "price": 351.66,
+    "change_pct": 0.9675844841942073,
+    "day_high": 354.7,
+    "day_low": 350.31,
+    "day_open": 351.4
+   },
+   "news": [
+    {
+     "headline": "Skydance Stock Is a Dicey Bet. 2 Better Plays.",
+     "summary": "The newly merged company has high debt, aggressive financial targets, and integration challenges.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=203bd7ee4a0243d17842b4d1b0f7b2101024e589a0debdf892c625697e60a871",
+     "datetime": 1791657720
+    },
+    {
+     "headline": "Alphabet (GOOGL) Has A $5 Billion Waymo Loan And A $50 Billion AI Bet",
+     "summary": "Alphabet (NasdaqGS:GOOGL) subsidiaries Waymo and Isomorphic Labs are pursuing major new funding moves in autonomous driving and AI drug discovery. Waymo has lined up US$5b in debt financing to support an international expansion of its robotaxi operations outside the US. Isomorphic Labs is reported to be targeting a US$40b to US$50b valuation in its next capital raise focused on AI driven drug design. Waymo's US$5b financing and Isomorphic Labs' targeted US$40b to US$50b valuation merit...",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=15d4e383c6f8cfe12e94b3325cd165a34cb68ad14194efdb76c2fb917500a520",
+     "datetime": 1791648622
+    },
+    {
+     "headline": "Broadcom vs. Intel: Which Chip Stock Is a Better Buy in 2026?",
+     "summary": "Broadcom's 36% net margin and dominant AI accelerator position contrast sharply with Intel's foundry turnaround and negative free cash flow.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=a07a1f0cae3dbe4e693111a1dd0253e8b8fdfe5e60cb9b6055d1b42fe8cbe862",
+     "datetime": 1791646502
+    },
+    {
+     "headline": "Consumer AI agents could upend online shopping - but who really wins?",
+     "summary": "Bernstein sees payments as a potential winner - more online transactions, including smaller purchases, could benefit Visa, Mastercard and processors Stripe, Adyen and Checkout.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=05108653561dbb7e61e7f252c5f616d34ee8973bdeb6604db127b8d61c84894e",
+     "datetime": 1791645060
+    },
+    {
+     "headline": "The Next Wave of AI Demand Could Send Broadcom, Marvell, and AMD Soaring",
+     "summary": "Broadcom management called Q3 demand simply hot, and Marvell and AMD have already tripled in 2026 alone. The question now is whether three bold price targets for 2027 are ambitious or just the beginning.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=f8f561ef84e3f719593cfc42dcd9d54da13246e2a9d11165b0479a57a97e02e6",
+     "datetime": 1791642657
+    },
+    {
+     "headline": "Google’s Orbital TPU Test: Why SpaceX Wins No Matter Which Hyperscaler Gets There First",
+     "summary": "Alphabet Inc. (NASDAQ:GOOG) has taken its first concrete step toward its long-term vision of putting data centers in orbit, launching a prototype TPU satellite to test whether its AI chips can withstand the radiation, heat, and vibration of space. The effort is still at the engineering stage and does not represent a commercial system yet. […]",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=8d42adb3d2f01c4146fbb3ab26516aa7e6d2e4165eeb8b4e88d5d38f6022fce1",
+     "datetime": 1791641905
+    }
+   ],
+   "note": null,
+   "earnings_date": "2026-10-27",
+   "next_earnings": {
+    "date": "2026-10-27",
+    "hour": "amc"
+   },
+   "last_earnings": {
+    "date": "2026-06-30",
+    "actual": 2.85,
+    "estimate": 2.98,
+    "beat": false
+   },
+   "week_change_pct": 2.3755458515283916,
+   "analysis": "GOOGL dnes posílila o 0,97 % na 351,66 USD a za týden přidala solidních 2,38 %, což ji řadí mezi silnější performery ze sledovaného seznamu. Pozitivní sentiment táhnou zprávy o agresivní expanzi firmy do nových oblastí - Waymo si zajistilo 5 miliard dolarů dluhového financování na rozvoj autonomního řízení, zatímco Isomorphic Labs pokračuje v ambiciózním projektu objevování léků pomocí AI za 50 miliard dolarů. Tyto kroky ukazují, že Alphabet nejen investuje do jádrového vyhledávacího byznysu, ale diverzifikuje se do nových, potenciálně velmi ziskových oblastí. Zajímavá je také zpráva o testu orbitálního TPU satelitu - firma experimentuje s myšlenkou datových center ve vesmíru, což je dlouhodobě vysoce spekulativní, ale ukazuje na ambice firmy zůstat na špici technologické inovace. Poslední kvartální výsledky byly pod odhady (EPS 2,85 vs. 2,98), což je mírně varovný signál, ale trh se zdá soustředit spíše na budoucí růstové příběhy než na krátkodobé zaostání. Earnings přijdou už 27. října 2026, a vzhledem k minulému zklamání budou investoři pozorně sledovat, zda firma dokáže překonat očekávání. Rizikem je vysoká kapitálová náročnost všech těchto nových projektů (Waymo, Isomorphic, vesmírné satelity), která může tlačit na ziskové marže v krátkodobém horizontu. Celkově ale firma působí jako jeden z lépe pozicovaných hráčů v AI éře díky diverzifikaci mimo čistě reklamní byznys.",
+   "outlook": "gain"
+  },
+  {
+   "symbol": "META",
+   "name": "Meta Platforms",
+   "quote": {
+    "symbol": "META",
+    "price": 718.67,
+    "change_pct": -0.30795266961672757,
+    "day_high": 728.07,
+    "day_low": 716.2,
+    "day_open": 726.505
+   },
+   "news": [
+    {
+     "headline": "1 Reason the Meta Muse AI Agent Has the Upper Hand",
+     "summary": "Investors should be thinking about monetization strategies.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=03355ea74ae836546b7a826cc6ae74582570b49ff585cdb936a51e79eeb2f320",
+     "datetime": 1791654600
+    },
+    {
+     "headline": "Like Meta's Muse AI Agents? 4 AI Semiconductor Stocks Set to Benefit From the Rise of AI Agents.",
+     "summary": "The data center CPU market looks set to explode.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=87aa4058395473aae0eed03fd47870d3316533882eab8ea7c7df043f96c300b4",
+     "datetime": 1791647400
+    },
+    {
+     "headline": "Consumer AI agents could upend online shopping - but who really wins?",
+     "summary": "Bernstein sees payments as a potential winner - more online transactions, including smaller purchases, could benefit Visa, Mastercard and processors Stripe, Adyen and Checkout.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=05108653561dbb7e61e7f252c5f616d34ee8973bdeb6604db127b8d61c84894e",
+     "datetime": 1791645060
+    },
+    {
+     "headline": "The Next Wave of AI Demand Could Send Broadcom, Marvell, and AMD Soaring",
+     "summary": "Broadcom management called Q3 demand simply hot, and Marvell and AMD have already tripled in 2026 alone. The question now is whether three bold price targets for 2027 are ambitious or just the beginning.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=f8f561ef84e3f719593cfc42dcd9d54da13246e2a9d11165b0479a57a97e02e6",
+     "datetime": 1791642657
+    }
+   ],
+   "note": null,
+   "earnings_date": "2026-10-28",
+   "next_earnings": {
+    "date": "2026-10-28",
+    "hour": "amc"
+   },
+   "last_earnings": {
+    "date": "2026-06-30",
+    "actual": 6.18,
+    "estimate": 7.36,
+    "beat": false
+   },
+   "week_change_pct": -1.292440391165817,
+   "analysis": "META dnes mírně klesla o 0,31 % na 718,67 USD a za týden ztratila 1,29 %, což naznačuje určitou stagnaci po předchozích výkyvech. Hlavním tématem okolo firmy je nový AI agent Muse, o kterém se diskutuje především z pohledu monetizace - investoři si kladou otázku, jak firma dokáže z této technologie reálně vydělávat, což je klíčová nejistota pro budoucí ocenění. Zprávy také zmiňují, že čtyři polovodičové firmy by mohly těžit z rozmachu AI agentů, což nepřímo potvrzuje, že Meta sází na tento trend jako na důležitý růstový pilíř. Současně se objevuje téma, jak by AI nákupní agenti mohli změnit online nakupování - to by mohlo ovlivnit i reklamní byznys Meta, pokud se uživatelské chování výrazně posune směrem k automatizovaným nákupům přes AI asistenty. Poslední kvartální výsledky byly výrazně pod odhady (EPS 6,18 vs. 7,36), což je významné zklamání a mohlo přispět k opatrnosti investorů. Earnings přijdou už 28. října 2026 a vzhledem k minulému zklamání lze očekávat zvýšenou nervozitu trhu před zveřejněním výsledků. Hlavním rizikem zůstává neschopnost rychle a jasně ukázat návratnost obrovských investic do AI infrastruktury a nových produktů jako Muse. Krátkodobě by se akcie mohla pohybovat spíše stranou, dokud trh nedostane jasnější signály o monetizaci AI strategie.",
+   "outlook": "neutral"
+  },
+  {
+   "symbol": "AAPL",
+   "name": "Apple Inc.",
+   "quote": {
+    "symbol": "AAPL",
+    "price": 336.64,
+    "change_pct": -1.1103930438869718,
+    "day_high": 338.61,
+    "day_low": 330.7,
+    "day_open": 331.695
+   },
+   "news": [
+    {
+     "headline": "T-Mobile closes more retail stores",
+     "summary": "The company wants subscribers to embrace a change they may not want.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=2d494b2cefb6c17d3345f8e02d7e9994e7b500a10d2f0baa203c1bd940c1d68f",
+     "datetime": 1791648180
+    },
+    {
+     "headline": "Like Meta's Muse AI Agents? 4 AI Semiconductor Stocks Set to Benefit From the Rise of AI Agents.",
+     "summary": "The data center CPU market looks set to explode.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=87aa4058395473aae0eed03fd47870d3316533882eab8ea7c7df043f96c300b4",
+     "datetime": 1791647400
+    },
+    {
+     "headline": "Broadcom vs. Intel: Which Chip Stock Is a Better Buy in 2026?",
+     "summary": "Broadcom's 36% net margin and dominant AI accelerator position contrast sharply with Intel's foundry turnaround and negative free cash flow.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=a07a1f0cae3dbe4e693111a1dd0253e8b8fdfe5e60cb9b6055d1b42fe8cbe862",
+     "datetime": 1791646502
+    },
+    {
+     "headline": "The Back-Office Agent Wave Is Already Redesigning Jobs in Procurement, Finance, and Accounting",
+     "summary": "Earlier this month, we reported on Apple’s shelved plan to replace 5,000 AppleCare advisers with AI agents. The technology — an AI phone support assistant — is already live on the phone line. The job cuts are paused. The displacement is being partially deployed while the headline is on hold. That same pattern is now […]",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=900e1ab199df9eb7291edb11fdff316d03dba0b1fbb8754ed908ed029c3c966a",
+     "datetime": 1791644562
+    }
+   ],
+   "note": null,
+   "earnings_date": "2026-11-02",
+   "next_earnings": {
+    "date": "2026-11-02",
+    "hour": "amc"
+   },
+   "last_earnings": {
+    "date": "2026-06-30",
+    "actual": 1.91,
+    "estimate": 1.93,
+    "beat": false
+   },
+   "week_change_pct": 0.8840540621534924,
+   "analysis": "AAPL dnes klesla o 1,11 % na 336,64 USD, ale za týden si připsala mírný plus 0,88 %, což naznačuje, že dnešní pokles je spíše krátkodobou korekcí než změnou trendu. Zprávy zmiňují, že Apple zvažoval (a nakonec odložil) plán nahradit tisíce pracovníků AppleCare AI asistenty, přičemž podobná technologie telefonní podpory je již živě nasazena - to ukazuje, že firma aktivně experimentuje s AI v provozních procesech, což může v budoucnu snížit náklady, ale také nese riziko reputačních problémů při selhání automatizace. Souvisejícím tématem je širší vlna nahrazování administrativních pozic AI agenty napříč odvětvími, což je trend, který se týká i dalších velkých firem. T-Mobile zavírá maloobchodní prodejny, což nepřímo souvisí s Apple přes prodej iPhonů a může signalizovat měnící se spotřebitelské chování směrem k online kanálům. Poslední kvartální výsledky byly mírně pod odhady (EPS 1,91 vs. 1,93), což naznačuje, že firma momentálně nepřekvapuje pozitivně. Earnings přijdou už 2. listopadu 2026, a vzhledem k těsnému minulému výsledku budou investoři sledovat, zda firma dokáže překonat nízko nastavenou laťku. Rizikem je obecné zpomalení prodeje hardwaru a tlak na marže kvůli konkurenci i nákladům na vývoj AI funkcí. Krátkodobě lze očekávat spíše stabilní pohyb kolem současných úrovní do doby zveřejnění výsledků.",
+   "outlook": "neutral"
+  },
+  {
+   "symbol": "MSFT",
+   "name": "Microsoft Corp.",
+   "quote": {
+    "symbol": "MSFT",
+    "price": 535.07,
+    "change_pct": 2.3841870610971925,
+    "day_high": 537.22,
+    "day_low": 526.2401,
+    "day_open": 528.235
+   },
+   "news": [
+    {
+     "headline": "Advanced Micro Devices vs. Qualcomm: Which Technology Stock Is a Better Buy in 2026?",
+     "summary": "AMD's net margin doubled while Qualcomm trades at a fraction of its rival's valuation, but customer concentration and competitive threats complicate both bets.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=69387e00bf52429c8086050e82ee46db0171cd604077c4444f00839259e64b9e",
+     "datetime": 1791651781
+    },
+    {
+     "headline": "Is AI-Powered CashPro, AskGPS and New Debt Issuance Altering The Investment Case For Bank of America (BAC)?",
+     "summary": "In recent weeks, Bank of America has expanded its AI-powered treasury and payments capabilities through the AskGPS Intelligence Hub and CashPro Payments Insights, while also issuing several new senior unsecured fixed-rate notes maturing between 2028 and 2046 and appointing Jeff Crabtree as president of the Sarasota/Manatee market. Together, these moves highlight how Bank of America is pairing regional leadership changes with AI-driven corporate banking tools and fresh bond issuance to...",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=d5cfd68b4fc6190e11171358a728986a5661f3f024a160494ed30792d95a566c",
+     "datetime": 1791648663
+    },
+    {
+     "headline": "Microsoft Stock Has Grown Roughly 15-Fold Since Satya Nadella Became CEO in 2014, a 27% Annual Growth Rate That Ended 14 Years of Near-Zero Growth. Can That Pace Continue Under Heavy AI Spending?",
+     "summary": "Microsoft should continue to expand, but will its growth pace compare well to its past?",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=f2844e0e786b008920f0834d70180231cc0469bf4e4f740cc84cb4a2292c00f1",
+     "datetime": 1791641700
+    }
+   ],
+   "note": null,
+   "earnings_date": "2026-10-28",
+   "next_earnings": {
+    "date": "2026-10-28",
+    "hour": ""
+   },
+   "last_earnings": {
+    "date": "2026-06-30",
+    "actual": 4.74,
+    "estimate": 4.33,
+    "beat": true
+   },
+   "week_change_pct": 3.389175506733924,
+   "analysis": "MSFT byla dnes jasně nejsilnějším titulem ze sledovaného seznamu, s růstem 2,38 % na 535,07 USD a týdenním ziskem 3,39 %. Tento silný pohyb odráží důvěru trhu v dlouhodobou AI strategii firmy a také potvrzuje narativ z článku, který připomíná, že akcie Microsoftu vzrostly od nástupu CEO Satyi Nadelly v roce 2014 zhruba patnáctinásobně, s průměrným ročním růstem 27 % - což je výrazný kontrast k předchozím 14 letům téměř nulového růstu. Otázkou, kterou si trh klade, je, zda tento tempo růstu dokáže firma udržet i při současných masivních investicích do AI infrastruktury, které zatěžují volný cash flow. Pozitivním signálem jsou poslední kvartální výsledky, které výrazně překonaly odhady (EPS 4,74 vs. 4,33), což potvrzuje silnou exekuci napříč cloudovým i AI segmentem. Microsoft je také nepřímo zmiňován v souvislosti s konkurenčním srovnáním AMD vs. Qualcomm, což ukazuje na širší souvislosti v technologickém ekosystému, kde Microsoft jako zákazník čipových firem hraje klíčovou roli. Earnings přijdou už 28. října 2026, a vzhledem k silnému momentu lze očekávat zvýšený zájem investorů o další potvrzení růstu cloudového segmentu Azure. Rizikem zůstává vysoká kapitálová náročnost AI investic, která může v budoucnu tlačit na marže, pokud se návratnost nedostaví v očekávaném horizontu. Celkově však firma působí jako jeden z nejstabilnějších a nejdůvěryhodnějších hráčů v současném technologickém cyklu.",
+   "outlook": "gain"
+  },
+  {
+   "symbol": "VUAA",
+   "name": "S&P 500 (přes SPY)",
+   "quote": {
+    "symbol": "SPY",
+    "price": 778.57,
+    "change_pct": 0.5995374258654014,
+    "day_high": 779.42,
+    "day_low": 775.14,
+    "day_open": 776.24
+   },
+   "news": [],
+   "note": "VUAA je evropský ETF na S&P 500 (LSE/Xetra), Finnhub free tier ale evropské burzy nepodporuje. Cena a novinky jsou proto z amerického ETF SPY, který sleduje stejný index 1:1.",
+   "earnings_date": null,
+   "next_earnings": null,
+   "last_earnings": null,
+   "week_change_pct": 1.1602827295878675,
+   "analysis": "VUAA, evropský ETF sledující index S&P 500, dnes posílil o 0,60 % na 778,57 USD a za týden přidal 1,16 %, což odpovídá celkově pozitivnímu sentimentu na amerických akciových trzích v posledních dnech. Vzhledem k tomu, že data i novinky pro tento titul jsou čerpány z amerického ETF SPY (kvůli technickému omezení datového zdroje pro evropské burzy), je potřeba brát přesnou cenu s mírnou rezervou, i když index sleduje 1:1. Jako širokém tržním indexu se VUAA dotýkají všechny zmíněné makro a sektorové trendy - ať už jde o sílu technologických gigantů jako Microsoft a Alphabet, nebo naopak slabší výkon AMD a Nvidia. Výhodou tohoto nástroje je diverzifikace napříč stovkami firem, takže jednotlivé negativní zprávy o konkrétních akciích mají na celkový pohyb jen omezený dopad. Minulý týden byl podle zpráv z CNBC na trzích volatilní, s mixem nových maxim a výrazných poklesů u jednotlivých AI titulů, což se promítá i do kolísání širšího indexu. Pro investory s dlouhodobým horizontem zůstává tento typ ETF relativně bezpečnou volbou pro expozici vůči americkému trhu bez nutnosti sázet na jednotlivé akcie. Rizikem je celková nálada na trhu ohledně AI sektoru - pokud by došlo k širší korekci technologických gigantů, které mají v indexu velkou váhu, projeví se to i na VUAA. Krátkodobě lze očekávat pokračování mírně pozitivního trendu, pokud makroekonomické prostředí zůstane stabilní.",
+   "outlook": "gain"
+  }
+ ],
+ "macro_news": [
+  {
+   "headline": "Several wounded in Riyadh airport attack, operations suspended, Saudi aviation authority says - Reuters",
+   "summary": "Several wounded in Riyadh airport attack, operations suspended, Saudi aviation authority says  Reuters",
+   "source": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbV9hVGtMSXpTVDJ3c05vRW9SQ2lRLTg3cUlOeWxDc2w4amF5V2N2Ul9YazdxcHJGNDRwd3hlQi15a2ZGWWZoZnc1dlA5UkY3cU9PclVCNkh6SVkzQ25waEVRRlN2TVdES3lKV1VuVXN6QnJycWxtdkNOdUIwMTdTRE9fbko3Umt5d0huNVY1dW9ZcFpLSF9yczRGRHJfSWZhM1AtTkVzbVR4TlRUdzhIb19JN3o?oc=5",
+   "datetime": 1791652976
+  },
+  {
+   "headline": "Stocks saw new highs and big declines: How the volatile AI trade moved last week's market",
+   "summary": "Looking to balance out our AI exposure, we put more of our sizable cash pile to work.",
+   "source": "CNBC",
+   "url": "https://www.cnbc.com/investingclub/2026/10/10/stocks-saw-new-highs-and-big-declines-how-the-volatile-ai-trade-moved-last-weeks-market.html",
+   "datetime": 1791646096
+  },
+  {
+   "headline": "Pokémon card values are soaring. What collectors should know before buying or selling",
+   "summary": "Pokémon card values are surging. Learn how grading, scarcity, recent sales and counterfeits can affect what collectors pay.",
+   "source": "CNBC",
+   "url": "https://www.cnbc.com/2026/10/10/pokemon-card-values-grading-guide.html",
+   "datetime": 1791639002
+  }
+ ],
+ "macro": [
+  {
+   "time": "19:22",
+   "title": "Útok na letišti v Rijádu, provoz pozastaven",
+   "body": "Podle agentury Reuters bylo na letišti v Rijádu zraněno několik lidí a provoz byl pozastaven saúdskoarabskými leteckými úřady. Takové geopolitické události mohou krátkodobě zvýšit averzi investorů k riziku a ovlivnit ceny ropy a bezpečných aktiv. Trhy obvykle reagují na podobné zprávy zvýšenou volatilitou, zejména pokud existuje nejistota ohledně dalšího vývoje situace. Je třeba sledovat, zda incident nebude mít širší dopad na stabilitu regionu.",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbV9hVGtMSXpTVDJ3c05vRW9SQ2lRLTg3cUlOeWxDc2w4amF5V2N2Ul9YazdxcHJGNDRwd3hlQi15a2ZGWWZoZnc1dlA5UkY3cU9PclVCNkh6SVkzQ25waEVRRlN2TVdES3lKV1VuVXN6QnJycWxtdkNOdUIwMTdTRE9fbko3Umt5d0huNVY1dW9ZcFpLSF9yczRGRHJfSWZhM1AtTkVzbVR4TlRUdzhIb19JN3o?oc=5",
+   "source": "Reuters"
+  },
+  {
+   "time": "17:28",
+   "title": "Volatilní týden na trzích kvůli AI obchodům",
+   "body": "Minulý týden zažily akciové trhy výraznou volatilitu spojenou s AI sektorem - některé tituly dosáhly nových historických maxim, zatímco jiné zaznamenaly výrazné propady. Investoři podle CNBC přehodnocují expozici vůči AI titulům a část z nich přesouvá kapitál do hotovosti, aby snížili riziko. Tento trend naznačuje rostoucí opatrnost trhu vůči vysokým valuacím technologických firem. Volatilita by mohla pokračovat i v nadcházejících týdnech, zejména s blížící se sezónou kvartálních výsledků.",
+   "url": "https://www.cnbc.com/investingclub/2026/10/10/stocks-saw-new-highs-and-big-declines-how-the-volatile-ai-trade-moved-last-weeks-market.html",
+   "source": "CNBC"
+  }
+ ],
+ "macro_analysis": "",
+ "tips": [
+  {
+   "ticker": "AVGO",
+   "name": "Broadcom Inc.",
+   "tag": "AI akcelerátory",
+   "reason": "Firma hlásí extrémně silnou poptávku po AI čipech a drží dominantní pozici v segmentu AI akcelerátorů s vysokou ziskovou marží. Analytici zmiňují Broadcom jako jednoho z hlavních vítězů další vlny AI investic."
+  },
+  {
+   "ticker": "MRVL",
+   "name": "Marvell Technology",
+   "tag": "AI síťování",
+   "reason": "Marvell těží z rostoucí poptávky po síťových řešeních pro datacentra a letos se jeho akcie podle zpráv již ztrojnásobily. Jde o menšího, ale rychle rostoucího hráče v AI infrastruktuře."
+  },
+  {
+   "ticker": "ABT",
+   "name": "Abbott Laboratories",
+   "tag": "mimo tech sektor",
+   "reason": "Zdravotnická firma s nízkým rizikovým profilem, u které historická data naznačují potenciál zdvojnásobení hodnoty do roku 2036. Vhodný příklad diverzifikace portfolia mimo technologický sektor."
+  },
+  {
+   "ticker": "PLTR",
+   "name": "Palantir Technologies",
+   "tag": "software a datová analytika",
+   "reason": "Akcie vzrostla za poslední tři roky o více než 1000 %, což vyvolává otázku, zda je stále prostor pro další růst. Stojí za sledování kvůli silnému napojení na vládní a podnikové AI kontrakty."
+  }
+ ],
+ "glossary": {
+  "term": "Earnings",
+  "explanation": "Earnings je čtvrtletní zveřejnění hospodářských výsledků firmy, tedy informací o jejím zisku a tržbách. Pokud firma překoná očekávání analytiků, akcie obvykle roste, v opačném případě často klesá, a proto bývá období kolem těchto dat spojeno se zvýšenou volatilitou."
+ },
+ "weekly_recap": null
+}
