@@ -1,0 +1,459 @@
+{
+ "timestamp": "2026-10-11T21:43:19.981996+00:00",
+ "stocks": [
+  {
+   "symbol": "NVDA",
+   "name": "NVIDIA Corp.",
+   "quote": {
+    "symbol": "NVDA",
+    "price": 229.28,
+    "change_pct": -0.520652551197496,
+    "day_high": 233.92,
+    "day_low": 229.11,
+    "day_open": 233.835
+   },
+   "news": [
+    {
+     "headline": "History Says This Will Happen to Palantir Stock by 2028",
+     "summary": "The AI data analytics company's stock is extremely pricey.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=a49e2696a4583055214d9d061a13cf0a85d1a660fdd258cbdb0bfa24873bc6cc",
+     "datetime": 1791747000
+    },
+    {
+     "headline": "Nvidia (NVDA) Stock May Be 27% Undervalued Despite Record Highs",
+     "summary": "NVIDIA has ridden the AI infrastructure boom to a market value in the trillions, and after such a powerful multi year run, many investors are asking whether the current share price is still grounded in the cash flows the business can generate. Over the past 5 years, NVIDIA has delivered a very large share price gain of around 953.4%, which puts a lot of weight on the question of how much cash its GPUs and related platforms can ultimately produce. The historic US$150b increase in share...",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=0efb0897df473f4cda25506269ee72898eb0b899584589574ceda4b9edb9b190",
+     "datetime": 1791745749
+    },
+    {
+     "headline": "USA Rare Earth's $2.8 Billion Brazil Deal vs. Its $1.2 Billion South Carolina Bet: Which One Actually Matters More?",
+     "summary": "USA Rare Earth is making major investments as it seeks to become a leading domestic producer of permanent magnets.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=703bbe998e6fe8d75be5181779dcda0c26eb69e874a1e906930a0aba4a4441b3",
+     "datetime": 1791745440
+    },
+    {
+     "headline": "Beyond S&P 500 Index Funds: Here's the 1 Sector I'd Buy First as a New Investor",
+     "summary": "Buying entire baskets of stocks still makes for smart, instant diversification. But don't look past an obvious opportunity by insisting that only marketwide diversification is beneficial.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=9f67c05f464c22fd5c359b6fac8d024cafb1143c2b478624762d4c6a2b1b2d7c",
+     "datetime": 1791743820
+    },
+    {
+     "headline": "What $10,000 Invested in USA Rare Earth 1 Year Ago Is Worth Today",
+     "summary": "Things were looking much better a year ago.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=a5bbab36109fec0b7ff591337871ac110ec66ecad2e28d34644e49d801b25ebf",
+     "datetime": 1791742980
+    },
+    {
+     "headline": "Amazon and Alphabet Just Committed $420 Billion to Data Centers. 1 Stock Is the Better Buy.",
+     "summary": "Each company stands to benefit from booming cloud growth in its own way.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=01a786a0f135b8e34ae002f5c662d8c407607d5e071fa680ed969b0df4cb99ef",
+     "datetime": 1791742680
+    },
+    {
+     "headline": "3 Quantum Computing Stocks Poised to Outperform IonQ and Rigetti This Month",
+     "summary": "IonQ and Rigetti get all the quantum computing headlines, but these three stocks might be better positioned to outperform this fall.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=024d5469824d77ec8e83114b6d54bab622bf9f03e7dcfa573c4131e7af13a03f",
+     "datetime": 1791741600
+    },
+    {
+     "headline": "Is AGNC Stock a Buy, Sell, or Hold Near Its 52-Week Low?",
+     "summary": "The mREIT pays a massive dividend, but its stock price decline is erasing those gains.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=697b1d0d00e1db3dad35686fb547c8bc2e653efa39edc2270d06a025992c81b2",
+     "datetime": 1791741300
+    }
+   ],
+   "note": null,
+   "earnings_date": "2026-11-17",
+   "next_earnings": {
+    "date": "2026-11-17",
+    "hour": "amc"
+   },
+   "last_earnings": {
+    "date": "2026-09-30",
+    "actual": 2.22,
+    "estimate": 2.14,
+    "beat": true
+   },
+   "week_change_pct": -1.9961530241504544,
+   "analysis": "Nvidia dnes mírně oslabila o 0,52 % na 229,28 USD a za poslední týden je v mínusu 2 %, což naznačuje určitou konsolidaci po předchozím silném růstu. Firma zůstává středobodem debaty o ocenění AI sektoru - jedna analýza tvrdí, že akcie je navzdory rekordním hodnotám až o 27 % podhodnocená vzhledem k rozměrům AI infrastrukturního boomu, který Nvidia pohání. Současně se objevují varování (например od Ray Dalia), že AI giganti utrácejí kapitál rychleji, než ho dokážou generovat, což je rizikový faktor pro celý sektor. Firma naposledy překonala odhady (EPS 2,22 vs. 2,14), což je pozitivní signál fundamentální síly byznysu. Důležitým milníkem jsou však až výsledky 17.11.2026, takže v nejbližších týdnech lze očekávat spíše boční pohyb nebo mírnou volatilitu podle sentimentu k celému AI sektoru než podle firemních specifik. Konkurenční tlak ze strany AMD a zpráv o investicích Amazonu a Alphabetu do vlastní infrastruktury (420 mld. USD) je něco, co investoři budou sledovat - znamená to, že velcí zákazníci Nvidie zároveň budují alternativy. Rizikem zůstává i přehřátí celého segmentu kvantových a AI akcií, které může vést k prudším korekcím. Sledujte zprávy o dodávkách čipů, cly a export restrikcích do Číny, které mohou výsledky firmy výrazně ovlivnit. Krátkodobě je obraz smíšený, dlouhodobě zůstává Nvidia klíčovým hráčem AI infrastruktury.",
+   "outlook": "neutral"
+  },
+  {
+   "symbol": "AMD",
+   "name": "Advanced Micro Devices",
+   "quote": {
+    "symbol": "AMD",
+    "price": 608.1,
+    "change_pct": -2.026809305922525,
+    "day_high": 627.37,
+    "day_low": 606,
+    "day_open": 626.89
+   },
+   "news": [
+    {
+     "headline": "Cathie Wood sells $15.8 million of popular semiconductor stock",
+     "summary": "Here are Cathie Wood’s latest moves.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=46d24fd4d151d23017e2610c73829b05bf2f846d7e5e24dae146a28967b12300",
+     "datetime": 1791734627
+    },
+    {
+     "headline": "AMD Stock Fell 6% in Three Sessions After Its Record Close. Here’s What OpenAI’s $20 Billion Revenue Gap Means for the Stock",
+     "summary": "Key Stats for Advanced Micro Devices StockCurrent Price: $608. 10Target Price (Mid): ~$2,320Street Target: ~$636Potential Total Return: ~281%Annualized IRR: ~37% / yearWhat Happened?Advanced Micro Devices (AMD) closed at $608.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=7a414154675b2576e865ecd91245f684364cc37f2e9826ffc703b577a05663a0",
+     "datetime": 1791731264
+    }
+   ],
+   "note": null,
+   "earnings_date": "2026-11-03",
+   "next_earnings": {
+    "date": "2026-11-03",
+    "hour": "amc"
+   },
+   "last_earnings": {
+    "date": "2026-06-30",
+    "actual": 1.66,
+    "estimate": 1.63,
+    "beat": true
+   },
+   "week_change_pct": -4.071555899102388,
+   "analysis": "AMD zažívá výraznější pokles - dnes -2,03 % a za týden už -4,07 %, přičemž akcie klesla šestkrát procentem během tří seancí poté, co dosáhla rekordního maxima. Klíčovým tématem je nejistota kolem dohody s OpenAI za 20 miliard dolarů, kde se objevila takzvaná 'výnosová mezera' - otázka, zda a jak rychle se tato spolupráce promítne do skutečných tržeb. Analytici přesto zůstávají velmi optimističtí, se střednědobým cílem kolem 2320 USD, což by při současné ceně 608 USD znamenalo enormní potenciál růstu (udávaných cca 281% celkový výnos), i když tak agresivní cíle je třeba brát s rezervou. Negativním signálem je, že populární investorka Cathie Wood prodala akcie AMD v hodnotě 15,8 milionu dolarů, což může značit opatrnost i u dříve býčích investorů. Firma naposledy překonala odhady zisku (EPS 1,66 vs. 1,63), což ukazuje na solidní fundament navzdory tržní nervozitě. Výsledky přijdou už 3.11.2026, tedy velmi brzy, a historicky kolem earnings bývá u AMD zvýšená volatilita, zvlášť po nedávném prudkém růstu ceny. Rizikem je přehnaná očekávání trhu ohledně AI akcelerátorů a konkurence ze strany Nvidie. Sledujte zejména komentáře managementu k postupu dohody s OpenAI a dalším cloudovým zákazníkům.",
+   "outlook": "loss"
+  },
+  {
+   "symbol": "GOOGL",
+   "name": "Alphabet Inc.",
+   "quote": {
+    "symbol": "GOOGL",
+    "price": 351.66,
+    "change_pct": 0.9675844841942073,
+    "day_high": 354.7,
+    "day_low": 350.31,
+    "day_open": 351.4
+   },
+   "news": [
+    {
+     "headline": "Warren Buffett's Successor Has Billions in This Cloud Titan",
+     "summary": "Alphabet has quickly become one of Berkshire's largest holdings.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=41a9b891537545ceeeabe897b358c70bf721c23223cd65bf192fa521ed505cd1",
+     "datetime": 1791744600
+    },
+    {
+     "headline": "Amazon and Alphabet Just Committed $420 Billion to Data Centers. 1 Stock Is the Better Buy.",
+     "summary": "Each company stands to benefit from booming cloud growth in its own way.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=01a786a0f135b8e34ae002f5c662d8c407607d5e071fa680ed969b0df4cb99ef",
+     "datetime": 1791742680
+    },
+    {
+     "headline": "Constellation’s $4.3 Billion Nuclear Upgrade Could Be Its Smartest Move Yet",
+     "summary": "Constellation Energy Corporation (NASDAQ:CEG) shares surged 12.2% on October 6, among the S&P 500’s biggest gains that day. The jump followed a 20-year deal with Google to add 890 megawatts of new nuclear power. Constellation will get there by upgrading 11 existing reactors, backed by $4.3 billion in new investment. These upgrades, known as uprates, […]",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=10b2dd401b97b95157516959a9ad37c1907face8fe6c8d82d3a93bf56407ee59",
+     "datetime": 1791739704
+    },
+    {
+     "headline": "Cold Water for Musk: SpaceX Is “Not Competitive at the Frontier” – at Least, Not Yet",
+     "summary": "Key TakeawaysSpaceX shares rose more than 5% on Friday after a week of launches, including Starship’s first trip to Earth orbit. Decoder host Nilay Patel says Musk is “just behind” in AI, and Musk has said himself that Grok trails Anthropic’s newest model.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=b70f7e21b6c2b4621ce5720a4bcd596f343949e60bec17a0a3202940f15d04ad",
+     "datetime": 1791738381
+    },
+    {
+     "headline": "It Now Takes $4.4B To Make the Forbes 400: See America's 10 Richest People",
+     "summary": "Technology dominates the Forbes 400 rankings, with executives tied to Tesla, Amazon, Google, Meta, Nvidia, Microsoft and Oracle claiming most of the top spots.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=efeecc16c57e17c46d04074221da4494af5c4c2acfc5edb20566d9cdfd57eaf9",
+     "datetime": 1791738028
+    },
+    {
+     "headline": "Alphabet's Google Cloud Is Surging at 82%, and the Heavy Spending Is Starting to Make Sense",
+     "summary": "Google Cloud's success should help ease the capex concerns surrounding Alphabet.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=d85cf4b26e48f195c7bdf24e2258b64243f8a7dbf74a0573f1473a152cd9333b",
+     "datetime": 1791732000
+    },
+    {
+     "headline": "Ray Dalio Warns Stocks Are Running Out of Room for Error — and AI Could Make It Worse",
+     "summary": "Ray Dalio sees a narrowing window for stocks as bond yields climb and AI giants burn through capital faster than they can generate it. The question is whether record contract backlogs can close that gap before debt costs force a reckoning.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=2953a388966dff5af22e889263d16600b765c8f33bd4d9b0bfc2ae3cca41aa0a",
+     "datetime": 1791730052
+    },
+    {
+     "headline": "Alphabet Stock Is Up 46% Since Last October. Is It Still a Buy?",
+     "summary": "Key TakeawaysAlphabet stock has gained 46% over the past year to close at $352 on October 9, 2026, and in that time Q2 Cloud revenue rose 82% YoY to $24. 8B.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=8015f76a88e8b90c92e30dc0a91cdb5a1269afb2c755d56f00a3d54ddbce786a",
+     "datetime": 1791727457
+    }
+   ],
+   "note": null,
+   "earnings_date": "2026-10-27",
+   "next_earnings": {
+    "date": "2026-10-27",
+    "hour": "amc"
+   },
+   "last_earnings": {
+    "date": "2026-06-30",
+    "actual": 2.85,
+    "estimate": 2.98,
+    "beat": false
+   },
+   "week_change_pct": 2.3755458515283916,
+   "analysis": "Alphabet dnes přidal 0,97 % na 351,66 USD a za týden je v plusu 2,38 %, což odráží silný sentiment kolem cloudového byznysu firmy. Google Cloud roste tempem 82 % meziročně, což podle analytiků ospravedlňuje vysoké kapitálové výdaje, které dříve znepokojovaly investory. Firma spolu s Amazonem oznámila společné investice 420 miliard dolarů do datacenter, což signalizuje masivní sázku na budoucí poptávku po AI a cloudových službách. Pozitivní je i zpráva, že nástupce Warrena Buffetta v Berkshire Hathaway drží v Alphabetu miliardy dolarů jako jednu z největších pozic portfolia. Akcie je za poslední rok v plusu 46 %, což ukazuje na silný dlouhodobý trend. Na druhou stranu poslední kvartální výsledky mírně nedosáhly na odhady (EPS 2,85 vs. 2,98), což je potřeba sledovat i u příštího reportu 27.10.2026, kdy může dojít ke zvýšené volatilitě. Rizikem zůstává i varování Raye Dalia o přehřátí AI sektoru a rostoucích výnosech dluhopisů, které mohou tlačit na ocenění růstových technologických akcií. Spolupráce s Constellation Energy na jaderné energii pro datacentra ukazuje, že firma řeší i energetické nároky AI infrastruktury do budoucna.",
+   "outlook": "gain"
+  },
+  {
+   "symbol": "META",
+   "name": "Meta Platforms",
+   "quote": {
+    "symbol": "META",
+    "price": 718.67,
+    "change_pct": -0.30795266961672757,
+    "day_high": 728.07,
+    "day_low": 716.2,
+    "day_open": 726.505
+   },
+   "news": [
+    {
+     "headline": "It Now Takes $4.4B To Make the Forbes 400: See America's 10 Richest People",
+     "summary": "Technology dominates the Forbes 400 rankings, with executives tied to Tesla, Amazon, Google, Meta, Nvidia, Microsoft and Oracle claiming most of the top spots.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=efeecc16c57e17c46d04074221da4494af5c4c2acfc5edb20566d9cdfd57eaf9",
+     "datetime": 1791738028
+    },
+    {
+     "headline": "Ray Dalio Warns Stocks Are Running Out of Room for Error — and AI Could Make It Worse",
+     "summary": "Ray Dalio sees a narrowing window for stocks as bond yields climb and AI giants burn through capital faster than they can generate it. The question is whether record contract backlogs can close that gap before debt costs force a reckoning.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=2953a388966dff5af22e889263d16600b765c8f33bd4d9b0bfc2ae3cca41aa0a",
+     "datetime": 1791730052
+    },
+    {
+     "headline": "Prediction: Meta Platforms Stock Will Drop After Earnings, and That Could Be an Incredible Buying Opportunity",
+     "summary": "Meta could disappoint some investors with its outlook, but long-term investors should pay attention.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=36eb742f0305a3c0c39bae1c5b7a53e7c60a1c02d0a43a29d469af8fde1c5ea0",
+     "datetime": 1791726780
+    }
+   ],
+   "note": null,
+   "earnings_date": "2026-10-28",
+   "next_earnings": {
+    "date": "2026-10-28",
+    "hour": "amc"
+   },
+   "last_earnings": {
+    "date": "2026-06-30",
+    "actual": 6.18,
+    "estimate": 7.36,
+    "beat": false
+   },
+   "week_change_pct": -1.292440391165817,
+   "analysis": "Meta dnes mírně klesla o 0,31 % na 718,67 USD a za týden je v mínusu 1,29 %, což pokračuje v opatrnějším sentimentu kolem akcie. Klíčovým varovným signálem jsou poslední kvartální výsledky, kde firma výrazně nedosáhla na odhady (EPS 6,18 vs. očekávaných 7,36), což naznačuje, že vysoké investiční výdaje do AI zatím nepřinášejí odpovídající návratnost. Jedna analýza dokonce predikuje, že akcie po příštích výsledcích pravděpodobně klesne, byť tento pokles označuje jako potenciálně dobrou příležitost pro dlouhodobé investory k nákupu za nižší cenu. Výsledky přijdou už 28.10.2026, tedy velmi brzy, a lze očekávat zvýšenou volatilitu kolem tohoto data. Meta je také zmiňována v kontextu obecného varování Raye Dalia, že AI giganti včetně Mety mohou utrácet kapitál rychleji, než dokážou generovat odpovídající výnosy, což je systémové riziko pro celý sektor. Firma zůstává jedním z technologických gigantů s obrovským tržním vlivem (zmiňována mezi firmami tvořícími Forbes 400 žebříček). Investoři by měli sledovat zejména komentáře k výdajům na AI infrastrukturu a Reality Labs segment při příštím reportu. Krátkodobě převažuje opatrnost, dlouhodobý příběh zůstává nejistý, ale s potenciálem.",
+   "outlook": "loss"
+  },
+  {
+   "symbol": "AAPL",
+   "name": "Apple Inc.",
+   "quote": {
+    "symbol": "AAPL",
+    "price": 336.64,
+    "change_pct": -1.1103930438869718,
+    "day_high": 338.61,
+    "day_low": 330.7,
+    "day_open": 331.695
+   },
+   "news": [],
+   "note": null,
+   "earnings_date": "2026-11-02",
+   "next_earnings": {
+    "date": "2026-11-02",
+    "hour": "amc"
+   },
+   "last_earnings": {
+    "date": "2026-06-30",
+    "actual": 1.91,
+    "estimate": 1.93,
+    "beat": false
+   },
+   "week_change_pct": 0.8840540621534924,
+   "analysis": "Apple dnes oslabil o 1,11 % na 336,64 USD, nicméně za poslední týden je mírně v plusu (+0,88 %), což ukazuje na smíšený a spíše technický pohyb bez jasného fundamentálního katalyzátoru - ve sledovaném období se k firmě neobjevily žádné významnější zpravodajské titulky. Poslední kvartální výsledky mírně nedosáhly na odhady analytiků (EPS 1,91 vs. očekávaných 1,93), což může v trhu vyvolávat mírnou opatrnost ohledně dalšího vývoje marží a poptávky po produktech. Blížící se výsledky 2.11.2026 jsou klíčovou událostí, kolem které lze očekávat zvýšenou volatilitu, zejména pokud trh bude hodnotit prodeje iPhonů a výhled na vánoční čtvrtletí. Apple je dlouhodobě vnímán jako stabilní blue-chip titul, ale v porovnání s AI-fokusovanými konkurenty jako Nvidia, AMD nebo Microsoft může zaostávat v narativu o growth potenciálu spojeném s umělou inteligencí. Rizikem je i celkový sentiment k velkým technologickým firmám, který je aktuálně ovlivněn varováními o přehřátí AI sektoru. Sledujte zejména komentáře k prodejům v Číně a dynamice marží u služeb.",
+   "outlook": "neutral"
+  },
+  {
+   "symbol": "MSFT",
+   "name": "Microsoft Corp.",
+   "quote": {
+    "symbol": "MSFT",
+    "price": 535.07,
+    "change_pct": 2.3841870610971925,
+    "day_high": 537.22,
+    "day_low": 526.2401,
+    "day_open": 528.235
+   },
+   "news": [
+    {
+     "headline": "It Now Takes $4.4B To Make the Forbes 400: See America's 10 Richest People",
+     "summary": "Technology dominates the Forbes 400 rankings, with executives tied to Tesla, Amazon, Google, Meta, Nvidia, Microsoft and Oracle claiming most of the top spots.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=efeecc16c57e17c46d04074221da4494af5c4c2acfc5edb20566d9cdfd57eaf9",
+     "datetime": 1791738028
+    },
+    {
+     "headline": "Does Everforth (EFOR) Embedding Screening in Workday Deepen Its Consulting-Led Platform Strategy?",
+     "summary": "In late September 2026, DISA Global Solutions announced the launch of its Built on Workday Pre-Employment Screening App, created with Workday-certified System Integrator Everforth TopBloc to embed background checks and drug testing directly into Workday Recruiting and streamline compliance-heavy hiring workflows. This collaboration highlights how Everforth is using its Workday implementation expertise to build no-code, workflow-native solutions that can reduce manual effort for HR teams...",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=a01c57536d8d48817885a3c2396f7425f198542d3585c07df81d08b47816f22b",
+     "datetime": 1791734931
+    },
+    {
+     "headline": "What Could Microsoft (MSFT) Green Card Suspension Mean For Hiring And Compliance?",
+     "summary": "Microsoft (NasdaqGS:MSFT) has been suspended from the U.S. PERM green card program as authorities review H-1B visa practices. Federal investigators are examining whether Microsoft misused H-1B visas in a way that conflicts with U.S. labor and immigration rules. The PERM suspension adds immigration related scrutiny at a time when Microsoft relies heavily on global technical talent for key projects. The U.S. PERM suspension tied to alleged H-1B visa abuse sits alongside wider risks and...",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=8ddfb7d33e7f35967c5ffdc23c43af37e16c17a0cf1c25b068d7261d8f1044a7",
+     "datetime": 1791734916
+    },
+    {
+     "headline": "America’s $6 Trillion Interest-Rate Trap Is Spreading Far Beyond the Bond Market — and Investors Are Taking Notice",
+     "summary": "When Ray Dalio told investors to scrutinize free cash flow, he wasn't just talking about stocks. A $6 trillion rate shock is quietly reshaping homebuilder margins, gold vaults, and AI balance sheets in ways most portfolios aren't built to absorb.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=c236cb167fbd217828f91115fc4655c0b3b04d9cbd3b02f192b1ac4ce574f61f",
+     "datetime": 1791730682
+    },
+    {
+     "headline": "Ray Dalio Warns Stocks Are Running Out of Room for Error — and AI Could Make It Worse",
+     "summary": "Ray Dalio sees a narrowing window for stocks as bond yields climb and AI giants burn through capital faster than they can generate it. The question is whether record contract backlogs can close that gap before debt costs force a reckoning.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=2953a388966dff5af22e889263d16600b765c8f33bd4d9b0bfc2ae3cca41aa0a",
+     "datetime": 1791730052
+    }
+   ],
+   "note": null,
+   "earnings_date": "2026-10-28",
+   "next_earnings": {
+    "date": "2026-10-28",
+    "hour": ""
+   },
+   "last_earnings": {
+    "date": "2026-06-30",
+    "actual": 4.74,
+    "estimate": 4.33,
+    "beat": true
+   },
+   "week_change_pct": 3.389175506733924,
+   "analysis": "Microsoft byl dnes nejsilnějším titulem ze sledovaného seznamu s růstem 2,38 % na 535,07 USD a za týden přidal 3,39 %, což ukazuje na silný pozitivní sentiment. Firma naposledy jasně překonala odhady zisku (EPS 4,74 vs. 4,33), což podporuje důvěru investorů v silný byznys napříč cloudem, AI a enterprise software. Na druhou stranu se objevila negativní zpráva o pozastavení Microsoftu z programu PERM Green Card kvůli vyšetřování možného zneužívání H-1B víz, což je regulatorní riziko, které může mít dopad na najímání a compliance firmy, byť přímý finanční dopad zatím není jasný. Microsoft je také zmiňován v kontextu širších obav o rostoucí úrokové sazby a dopad na AI balance sheets - takzvaná '6 bilionová úroková past', která by mohla ovlivnit kapitálové výdaje velkých technologických firem. Výsledky přijdou 28.10.2026, stejně jako u Mety a Alphabetu, takže tento týden bude pro mega-cap tech akcie klíčový. Firma zůstává jedním z lídrů v komercializaci AI přes Copilot a Azure, což podporuje dlouhodobě pozitivní narativ. Rizikem je regulatorní tlak a makro prostředí rostoucích sazeb.",
+   "outlook": "gain"
+  },
+  {
+   "symbol": "VUAA",
+   "name": "S&P 500 (přes SPY)",
+   "quote": {
+    "symbol": "SPY",
+    "price": 778.57,
+    "change_pct": 0.5995374258654014,
+    "day_high": 779.42,
+    "day_low": 775.14,
+    "day_open": 776.24
+   },
+   "news": [
+    {
+     "headline": "S&P 500: A Hard Road Ahead",
+     "summary": "S&P 500 (SPY) stays in a long-term uptrend despite choppy daily signals. Click for an updated market outlook.",
+     "source": "SeekingAlpha",
+     "url": "https://finnhub.io/api/news?id=633ba534d6274b280447de5df3688c132d7ded955cd7c0522010599e6887824d",
+     "datetime": 1791734400
+    },
+    {
+     "headline": "KLA Turned $1,000 Into $31,595 in a Decade, Crushing the S&P 500 by 8.7x",
+     "summary": "KLA builds the machines that catch chip defects before they become costly scrap, and that narrow specialty turned one quiet semiconductor stock into one of the market's most surprising long-term compounders. Here is what powered the run and whether the conditions that drove it still exist.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=31e91335b5d3345ef66746347569706cc2d48db4fc2d8f35f542678aeab6ca64",
+     "datetime": 1791727216
+    }
+   ],
+   "note": "VUAA je evropský ETF na S&P 500 (LSE/Xetra), Finnhub free tier ale evropské burzy nepodporuje. Cena a novinky jsou proto z amerického ETF SPY, který sleduje stejný index 1:1.",
+   "earnings_date": null,
+   "next_earnings": null,
+   "last_earnings": null,
+   "week_change_pct": 1.1602827295878675,
+   "analysis": "VUAA jako evropský ETF kopírující S&P 500 dnes přidal 0,60 % na 778,57 USD a za týden je v plusu 1,16 %, přičemž data jsou čerpána z amerického protějšku SPY, který sleduje stejný index 1:1. Analýza trhu popisuje S&P 500 jako index v dlouhodobém uptrendu, byť s 'hrbolatými' denními signály, což odpovídá i mírně kolísavému, ale celkově pozitivnímu obrazu posledních dní. Tento týden je pro širší index významný kvůli nástupu výsledkové sezóny - hlásit budou čtyři velké firmy z technologického sektoru (Alphabet, Meta, Microsoft, Apple), což může zásadně ovlivnit směr celého indexu vzhledem k jejich velké váze. Zároveň vyjdou dvě klíčové zprávy o inflaci, které budou určovat očekávání ohledně budoucích kroků Fedu a tím i náladu na akciových trzích obecně. Jako širně diverzifikovaný nástroj je VUAA méně náchylný na výkyvy jednotlivé akcie, ale citlivý na celkový sentiment k americkým akciím a makroekonomická data. Rizikem zůstávají geopolitické napětí (Blízký východ) a varování analytiků jako Ray Dalio o omezeném prostoru pro chyby u akciových trhů kvůli rostoucím výnosům dluhopisů. Dlouhodobě zůstává index podporován silnými zisky velkých technologických firem.",
+   "outlook": "gain"
+  }
+ ],
+ "macro_news": [
+  {
+   "headline": "Saudi Arabia reports injuries in new attack at Riyadh airport, day after strike kills 13 - Reuters",
+   "summary": "Saudi Arabia reports injuries in new attack at Riyadh airport, day after strike kills 13  Reuters",
+   "source": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSEo0VkFTZkY2VzMzeFV0OVRVbWN4aHFzaXFjV0FBN05uaEFONHhQVTN2a3JJM09NdFBzY1R3MnRrUFZOeFZfUDItOUd1NkxiT3dfOWduTHJKTlBzSGsyN3VCYTNkWG1ZTWlZMUpzbDdrc1dOZUs3VDRwa0lHN21tNnFNdFhQYUxoNmdfN1Zyb3FMRm04RzRVei0zY3FKN0FoY2JYTGFodjYtemdITVpKVXk3NlR2QXFIMU9YMnUtX004QW1GZ0UzZA?oc=5",
+   "datetime": 1791749168
+  },
+  {
+   "headline": "Here are the 6 big things we're watching in the stock market this week",
+   "summary": "Earnings season ramps up this week, with four Club holdings set to report. Two main inflation reports are also out.",
+   "source": "CNBC",
+   "url": "https://www.cnbc.com/investingclub/2026/10/11/here-are-the-6-big-things-were-watching-in-the-stock-market-this-week.html",
+   "datetime": 1791747965
+  }
+ ],
+ "macro": [
+  {
+   "time": "22:06",
+   "title": "Saúdská Arábie hlásí zranění při dalším útoku na letiště v Rijádu",
+   "body": "Den po útoku, při kterém zemřelo 13 lidí, došlo k dalšímu útoku na letiště v Rijádu se zraněnými. Eskalace napětí na Blízkém východě zvyšuje geopolitické riziko, které může ovlivnit ceny ropy a globální sentiment investorů. Trhy obvykle na podobné zprávy reagují zvýšenou volatilitou a přesunem kapitálu do bezpečnějších aktiv. Situace bude pravděpodobně dále sledována kvůli možnému dopadu na regionální stabilitu a dodávky energie.",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSEo0VkFTZkY2VzMzeFV0OVRVbWN4aHFzaXFjV0FBN05uaEFONHhQVTN2a3JJM09NdFBzY1R3MnRrUFZOeFZfUDItOUd1NkxiT3dfOWduTHJKTlBzSGsyN3VCYTNkWG1ZTWlZMUpzbDdrc1dOZUs3VDRwa0lHN21tNnFNdFhQYUxoNmdfN1Zyb3FMRm04RzRVei0zY3FKN0FoY2JYTGFodjYtemdITVpKVXk3NlR2QXFIMU9YMnUtX004QW1GZ0UzZA?oc=5",
+   "source": "Reuters"
+  },
+  {
+   "time": "21:46",
+   "title": "Nabitý týden na trzích: výsledková sezóna a klíčová inflační data",
+   "body": "Tento týden vrcholí výsledková sezóna, přičemž čtyři velké firmy z technologického sektoru reportují své kvartální výsledky. Zároveň vyjdou dvě důležité zprávy o inflaci, které budou klíčové pro další směřování úrokových sazeb. Investoři budou pečlivě sledovat, zda zisky velkých firem ospravedlní vysoká ocenění, zejména v AI sektoru. Kombinace earnings a makrodat může v následujících dnech vést ke zvýšené volatilitě na akciových trzích.",
+   "url": "https://www.cnbc.com/investingclub/2026/10/11/here-are-the-6-big-things-were-watching-in-the-stock-market-this-week.html",
+   "source": "CNBC"
+  }
+ ],
+ "macro_analysis": "",
+ "tips": [
+  {
+   "ticker": "KLAC",
+   "name": "KLA Corporation",
+   "tag": "výrobní kapacita čipů",
+   "reason": "Firma vyrábí zařízení pro kontrolu kvality čipů a za posledních 10 let dokázala proměnit 1000 USD investice na téměř 32 000 USD, čímž výrazně překonala index S&P 500."
+  },
+  {
+   "ticker": "CEG",
+   "name": "Constellation Energy Corporation",
+   "tag": "mimo tech sektor - energetika",
+   "reason": "Akcie vzrostla o 12 % po oznámení 20leté dohody s Google na dodávky 890 megawattů jaderné energie pro datacentra, což ukazuje na rostoucí propojení energetiky a AI infrastruktury."
+  },
+  {
+   "ticker": "AGNC",
+   "name": "AGNC Investment Corp",
+   "tag": "mimo tech sektor - REIT",
+   "reason": "Hypoteční REIT s vysokou dividendou se nyní obchoduje blízko svého 52týdenního minima, což může být zajímavé pro investory hledající vyšší dividendový výnos, byť s vlastními riziky."
+  },
+  {
+   "ticker": "IONQ",
+   "name": "IonQ Inc.",
+   "tag": "kvantové výpočty",
+   "reason": "Kvantové výpočty jsou horkým tématem roku a i když IonQ a Rigetti dostávají většinu pozornosti, podle analytiků existují další firmy v sektoru, které by je mohly tento měsíc předstihnout výkonem."
+  }
+ ],
+ "glossary": {
+  "term": "EPS (zisk na akcii)",
+  "explanation": "EPS neboli zisk na akcii ukazuje, kolik peněz firma vydělala v přepočtu na jednu vlastněnou akcii. Když skutečný výsledek překoná odhady analytiků (tzv. 'beat'), trh to obvykle vnímá pozitivně, pokud je pod odhady (tzv. 'miss'), akcie často reaguje poklesem."
+ },
+ "weekly_recap": null
+}
