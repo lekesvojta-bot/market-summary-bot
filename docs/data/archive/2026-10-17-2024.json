@@ -1,0 +1,452 @@
+{
+ "timestamp": "2026-10-17T20:24:19.735509+00:00",
+ "stocks": [
+  {
+   "symbol": "NVDA",
+   "name": "NVIDIA Corp.",
+   "quote": {
+    "symbol": "NVDA",
+    "price": 214.13,
+    "change_pct": -1.4270588776872415,
+    "day_high": 218.676,
+    "day_low": 213.32,
+    "day_open": 216.56
+   },
+   "news": [
+    {
+     "headline": "Forget Eylea: Regeneron's Real Value May Be Hiding in Its Dupixent Profit Share",
+     "summary": "Regeneron's biggest growth driver still has plenty of fuel left in the tank.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=72476d04b1d43b4f80713712e58f62aa5de07856a666161f94f1b60a49c04ee2",
+     "datetime": 1792266240
+    },
+    {
+     "headline": "Is Micron's Incredible Run About to End?",
+     "summary": "Competition from China is threatening Micron's dominance.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=3dc01020fc481fb70d96de3e8a1a115bf506442a29c3b53ffb679a11451eb418",
+     "datetime": 1792265220
+    },
+    {
+     "headline": "As Chip Stocks Sell Off, This Is the Flight-to-Safety Play I Would Choose",
+     "summary": "Despite appearances, TSMC may actually be one of the safest AI stocks.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=1c0e03f0aaa4a27240f64a512f7edff6f642b257c3759b92317dc31c95b334e5",
+     "datetime": 1792263900
+    },
+    {
+     "headline": "Should You Buy Vistra After an 11% 1-Day Jump on a $4.2 Billion DOE Loan? The Catch Most Investors Are Missing.",
+     "summary": "Vistra shares surged on a nuclear financing deal, but strings are attached.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=f27e7f2f096b0b493b5370c1225c35d10c5a41d45c35ce24101b054a52929f9b",
+     "datetime": 1792263000
+    },
+    {
+     "headline": "Should you Buy Amazon Stock Before October 29? History Has a Clear Answer.",
+     "summary": "Amazon releases its third-quarter 2026 earnings on that day.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=c98b0b0deb299418c06b083375294a1579ee705dab2a479bc07d7b5c9ce840f2",
+     "datetime": 1792262820
+    },
+    {
+     "headline": "Oracle's Real Growth Story Is Hiding in Its $664 Billion Backlog",
+     "summary": "Oracle's backlog has increased by $209 billion over the last year.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=3bf160a07b0efddd7ca2c23af90823ea07e2c4e7790c02d2ebcc1feb29badd16",
+     "datetime": 1792261200
+    },
+    {
+     "headline": "CoreWeave’s Founders Have Sold $3.3 Billion of Stock Since Its IPO",
+     "summary": "CoreWeave's three co-founders have cashed out billions since the IPO while telling analysts their conviction in the company has never been stronger, and now the stock sits near its lowest point ever with a critical earnings report weeks away.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=233293d44b97e43ae0fec07bd4747267df7cc177bf20e5d7ab9edf2a557f02a5",
+     "datetime": 1792261046
+    },
+    {
+     "headline": "Ethereum Dramatically Outperformed the S&P 500 in Q3. Is It Finally Time to Load Up on Ethereum?",
+     "summary": "The coin's recent strength is undeniable, but the fact that it might not last forever demands at least some caution from investors.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=ff66df163f5796f4dae23f378fdc596c18ce9722717be57c384076e9bde28889",
+     "datetime": 1792260000
+    }
+   ],
+   "note": null,
+   "earnings_date": "2026-11-17",
+   "next_earnings": {
+    "date": "2026-11-17",
+    "hour": "amc"
+   },
+   "last_earnings": {
+    "date": "2026-09-30",
+    "actual": 2.22,
+    "estimate": 2.14,
+    "beat": true
+   },
+   "week_change_pct": -6.60764131193301,
+   "analysis": "Nvidia dnes ztratila 1,43 % a uzavřela na 214,13 USD, což prohlubuje týdenní pokles o 6,61 %. Akcie se pohybuje v rámci širšího výprodeje čipového sektoru, který byl popsán jako nejdelší ztrátová série od roku 2008. Část tlaku pochází z obav o konkurenci v paměťovém segmentu (Micron čelí tlaku z Číny), což naznačuje, že investoři přehodnocují, zda současná dominance amerických výrobců čipů vydrží. Objevují se také komentáře, že TSMC může být bezpečnější volbou v AI prostoru než přímo Nvidia, což naznačuje rotaci kapitálu uvnitř sektoru spíše než úplný odklon od AI tématu. Firma naposledy v září překonala odhady EPS (2,22 vs. 2,14), což je fundamentálně pozitivní signál, ale trh teď reaguje spíše na sentiment a makro obavy než na čísla. Důležité je, že další výsledky přijdou až 17. listopadu, takže v mezidobí bude cena citlivá na zprávy o konkurenci, geopolitice a celkové náladě vůči AI akciím. Riziko představuje i to, že vysoká očekávání od AI boomu mohou vést k přehnaným reakcím na jakoukoliv negativní zprávu. Investoři by měli sledovat vývoj v segmentu paměťových čipů a zda se slabost rozšíří i na poptávku po GPU. Krátkodobě lze čekat zvýšenou volatilitu kvůli sektorovému sentimentu, i když dlouhodobý příběh AI expanze zůstává nedotčený.",
+   "outlook": "loss"
+  },
+  {
+   "symbol": "AMD",
+   "name": "Advanced Micro Devices",
+   "quote": {
+    "symbol": "AMD",
+    "price": 528.75,
+    "change_pct": -5.954858331999362,
+    "day_high": 550.955,
+    "day_low": 526.8324,
+    "day_open": 547.55
+   },
+   "news": [
+    {
+     "headline": "Intel Stock Fell Nearly 6% as TSMC Took Aim at Its Packaging Business. Here’s What It Means for Intel’s Margins",
+     "summary": "Key Stats for Intel StockCurrent Price: $89. 85Target Price (Mid): ~$390Street Target: ~$118Potential Total Return: ~336%Annualized IRR: ~42% / yearWhat Happened?Taiwan Semiconductor Manufacturing (TSM) CEO C.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=ca2bf16f5b630348dcff0278e595af4431925ee990afbac5440c39d89b96268b",
+     "datetime": 1792257998
+    },
+    {
+     "headline": "1 Red Flag That AMD Investors Should Be Aware Of Now",
+     "summary": "Advanced Micro Devices' stock has gotten ahead of its business.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=b33100c8f52e473b17e76d0e867f9d81245deeb78553cf7d8e19b157387ecb5d",
+     "datetime": 1792255800
+    },
+    {
+     "headline": "Chip Stocks Just Fell 8 Days in a Row, Their Longest Losing Streak Since 2008",
+     "summary": "Semiconductor stocks just logged their longest losing streak in nearly two decades, and the cause this time has nothing to do with a credit crisis. What is actually driving the selloff puts every link in the chip supply chain at risk.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=b0308c55fd23bc832f262feec8d6517334c5036b1d4acba500cbd84b186e5b08",
+     "datetime": 1792253720
+    },
+    {
+     "headline": "Here's What $10,000 Invested in Broadcom Will Be Worth by 2028",
+     "summary": "Broadcom's AI chip business will rapidly expand in the next few years.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=45a3448716324098d8e591a655907a4334752a37a76b822f4a93cfd1075a0b82",
+     "datetime": 1792253280
+    }
+   ],
+   "note": null,
+   "earnings_date": "2026-11-03",
+   "next_earnings": {
+    "date": "2026-11-03",
+    "hour": "amc"
+   },
+   "last_earnings": {
+    "date": "2026-06-30",
+    "actual": 1.66,
+    "estimate": 1.63,
+    "beat": true
+   },
+   "week_change_pct": -13.048840651208687,
+   "analysis": "AMD zaznamenala citelný propad o 5,95 % na 528,75 USD a za týden je dole už o 13,05 %, což je mnohem výraznější pokles než u konkurence. Firma je součástí osmidenní ztrátové série čipových akcií, což ukazuje na širší přehodnocení sektoru investory, nikoli jen firemně specifický problém. Objevilo se konkrétní varování, že se ocenění AMD dostalo před realitu byznysu, což naznačuje obavy z přehnaných očekávání ohledně AI růstu firmy. Naposledy AMD mírně překonala odhady EPS (1,66 vs. 1,63), což samo o sobě nebylo špatné, ale trh teď spíše cenuje budoucí růst a jeho udržitelnost. Klíčové je, že výsledky přijdou už 3. listopadu, tedy velmi brzy, a při současné nervozitě trhu může jakákoliv odchylka od očekávání vyvolat silnou reakci. Konkurenční tlak od Intelu i Broadcomu v AI čipech dokresluje, že prostředí je čím dál konkurenčnější. Rizikem je, že pokud výsledky nepotvrdí vysoká očekávání zabudovaná v ceně, může dojít k dalšímu výraznému poklesu. Naopak silný report by mohl sektor stabilizovat a vrátit část důvěry investorů.",
+   "outlook": "loss"
+  },
+  {
+   "symbol": "GOOGL",
+   "name": "Alphabet Inc.",
+   "quote": {
+    "symbol": "GOOGL",
+    "price": 340.59,
+    "change_pct": -2.471221579520088,
+    "day_high": 350.66,
+    "day_low": 339.0801,
+    "day_open": 348.275
+   },
+   "news": [
+    {
+     "headline": "Tesla Just Won in Court: Self-Driving Buyers Can’t Sue as a Class",
+     "summary": "A federal appeals court just stripped away the legal structure that made a massive self-driving lawsuit dangerous for Tesla, but the stock fell anyway, and the real threat to its trillion-dollar valuation has nothing to do with this courtroom.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=87f6c9c3acdc63de9770a8e0619c0f687738ce8914f6b603eb4f0aed3466922e",
+     "datetime": 1792249822
+    },
+    {
+     "headline": "Apple, Nvidia each gave $25M to Trump's White House ballroom — but the president's own name is nowhere on the donor list",
+     "summary": "The controversial ballroom faces fresh scrutiny over potential conflicts of interest with big money ballroom donors and how much Trump has personally contributed.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=0101be04f4d3d00f158af9390b8fde359db489ad795d52554e6754356b35fa4b",
+     "datetime": 1792249200
+    }
+   ],
+   "note": null,
+   "earnings_date": "2026-10-27",
+   "next_earnings": {
+    "date": "2026-10-27",
+    "hour": "amc"
+   },
+   "last_earnings": {
+    "date": "2026-06-30",
+    "actual": 2.85,
+    "estimate": 2.98,
+    "beat": false
+   },
+   "week_change_pct": -3.14792697491897,
+   "analysis": "Alphabet klesl o 2,47 % na 340,59 USD, týdenní pokles činí 3,15 %, což je mírnější než u čipových firem, ale stále součástí širšího technologického poklesu. Pro GOOGL chybí konkrétní firemní negativní zprávy, pokles tak spíše odráží celkovou nervozitu trhu vůči velkým technologickým jménům před earnings sezónou. Firma naposledy mírně zaostala za odhady EPS (2,85 vs. 2,98), což mohlo zanechat určitou opatrnost u investorů ohledně dalšího čtvrtletí. Výsledky přijdou už 27. října, tedy velmi brzy, a trh bude sledovat zejména vývoj v cloud segmentu a investice do AI infrastruktury. Zmínka o soudním vítězství Tesly ohledně self-driving žalob nepřímo ukazuje na širší téma regulace a právních rizik v technologickém sektoru, které se týká i Alphabetu přes Waymo. Rizikem pro akcii je, že při již zvýšených očekáváních trhu na AI monetizaci by jakékoli zklamání ve výsledcích mohlo vést k výraznější korekci. Na druhou stranu, pokud firma potvrdí růst v cloudu a reklamě, může se stát jedním ze stabilizačních prvků sektoru. Krátkodobě lze očekávat zvýšenou volatilitu kolem data výsledků.",
+   "outlook": "neutral"
+  },
+  {
+   "symbol": "META",
+   "name": "Meta Platforms",
+   "quote": {
+    "symbol": "META",
+    "price": 709.325,
+    "change_pct": -3.7185090672168504,
+    "day_high": 738.49,
+    "day_low": 702.7101,
+    "day_open": 736.695
+   },
+   "news": [
+    {
+     "headline": "Dow Jones Futures: What To Do After S&P 500, Nasdaq Break Key Levels; Will Meta, SpaceX Earnings Save AI?",
+     "summary": "The S&P 500, Nasdaq and leading stocks broke key support. Can Meta, Tesla, SpaceX earnings and capex revive the AI sector?",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=686d644d0adbe7ef949d5b9c024965e24572acc9fbe93595fcc792281a93851b",
+     "datetime": 1792242031
+    }
+   ],
+   "note": null,
+   "earnings_date": "2026-10-21",
+   "next_earnings": {
+    "date": "2026-10-21",
+    "hour": "amc"
+   },
+   "last_earnings": {
+    "date": "2026-06-30",
+    "actual": 6.18,
+    "estimate": 7.36,
+    "beat": false
+   },
+   "week_change_pct": -1.3003186441621208,
+   "analysis": "Meta dnes ztratila 3,72 % na 709,33 USD, i když týdenní pokles je mírnější, jen 1,30 %, což naznačuje, že většina poklesu přišla v posledních dnech. Akcie je citlivá na blížící se earnings 21. října, přičemž minulé čtvrtletí firma výrazně zaostala za odhady EPS (6,18 vs. 7,36), což zanechalo v trhu stopy opatrnosti. Zmínka v datech o tom, že klíčoví hráči jako Meta, Tesla a SpaceX musí svými výsledky a capexem „zachránit“ AI sektor, ukazuje na vysoký tlak očekávání upřený právě na tuto zprávu. Trh bude bedlivě sledovat, zda masivní investice do AI infrastruktury a datacenter začínají přinášet viditelné výnosy, nebo jen tlačí náklady nahoru bez jasného návratu. Riziko spočívá v tom, že pokud capex bude dál růst rychleji než tržby z AI produktů, investoři mohou dál akcii trestat. Naopak pozitivní překvapení ve výsledcích by mohlo výrazně zlepšit sentiment nejen pro Metu, ale pro celý technologický sektor. Vzhledem k blízkosti earnings je nutné počítat se zvýšenou volatilitou v nadcházejících dnech. Dlouhodobý příběh metaverse a AI zůstává nejistý, dokud nebudou vidět konkrétní finanční výsledky.",
+   "outlook": "neutral"
+  },
+  {
+   "symbol": "AAPL",
+   "name": "Apple Inc.",
+   "quote": {
+    "symbol": "AAPL",
+    "price": 343.46,
+    "change_pct": 0.4269005847953157,
+    "day_high": 347.82,
+    "day_low": 340.46,
+    "day_open": 346.085
+   },
+   "news": [
+    {
+     "headline": "Apple bets on the same Siri AI technology with new HomeView device that led to a $250M settlement for iPhone users",
+     "summary": "Apple just unveiled Apple HomeView — powered by Apple Intelligence with Siri AI — after agreeing to pay customers for delayed AI features on its iPhones.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=d468c955d087b3ff2a500f952e4bccaa8871731585dbfc98973e958b9982f049",
+     "datetime": 1792261800
+    },
+    {
+     "headline": "Apple's new CEO just teamed up with Tim Cook's old rival",
+     "summary": "One public thank-you from Mark Zuckerberg broke a decade-long business grudge, and it raises a hard question for anyone who owns Apple stock.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=ff17425c1eb869e9765d122e3d99e5ae144a6e1a4a420749cbcd8f39cff88ff8",
+     "datetime": 1792253820
+    },
+    {
+     "headline": "$10,000 Invested in Apple Could Be Worth This Much by 2031",
+     "summary": "Apple’s best days might be behind it, but that doesn’t mean it’s no longer a stock worth buying.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=30839aa7fc60dc069948cc37c5e8fe24fa644d372c234e8f2f901824d19ec307",
+     "datetime": 1792252142
+    },
+    {
+     "headline": "Apple, Nvidia each gave $25M to Trump's White House ballroom — but the president's own name is nowhere on the donor list",
+     "summary": "The controversial ballroom faces fresh scrutiny over potential conflicts of interest with big money ballroom donors and how much Trump has personally contributed.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=0101be04f4d3d00f158af9390b8fde359db489ad795d52554e6754356b35fa4b",
+     "datetime": 1792249200
+    },
+    {
+     "headline": "Apple’s $1,999 Foldable iPhone Sold Out in Minutes. Deliveries Now Slip to January",
+     "summary": "Apple's first foldable phone sold out before most people finished their morning coffee, and the backlog stretching into late January could quietly reshape two consecutive earnings reports in ways investors may not see coming.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=567452fb05a2ff503bcd20329465fd544bbbf2144c406ec1a3acb3eeb9902fba",
+     "datetime": 1792248618
+    },
+    {
+     "headline": "Apple Hit a Record Close Ahead of Its November 2 Report. Here’s What Charging for Extra Siri AI Could Mean for the Stock",
+     "summary": "Key Stats for Apple StockCurrent Price: $343. 46Target Price (Mid): ~$485Street Target: ~$329Potential Total Return: ~41%Annualized IRR: ~9% / yearWhat Happened?Apple (AAPL) closed at a record $343.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=b0269afa4b5713de437e32b503c7576d3e444d305ed05da18cb901c1df9304de",
+     "datetime": 1792248492
+    },
+    {
+     "headline": "Apple's New Home Collection Gives Investors Another Reason to Remain Bullish",
+     "summary": "The move into smart home products deepens Apple's customer relationship and ecosystem.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=291b467d16a547c748b48477a99782431713c2480489a92322aa14c774e9671e",
+     "datetime": 1792244100
+    }
+   ],
+   "note": null,
+   "earnings_date": "2026-11-02",
+   "next_earnings": {
+    "date": "2026-11-02",
+    "hour": "amc"
+   },
+   "last_earnings": {
+    "date": "2026-06-30",
+    "actual": 1.91,
+    "estimate": 1.93,
+    "beat": false
+   },
+   "week_change_pct": 2.025903041825093,
+   "analysis": "Apple je dnes jedinou z velké technologické osmičky v zeleném, s růstem 0,43 % na 343,46 USD, a za týden si připsal 2,03 %, což kontrastuje s poklesem zbytku sektoru. Pozitivní náladu podporuje zpráva, že skládací iPhone za 1 999 dolarů se vyprodal během minut, i když dodávky teď kloužou až do ledna, což může ovlivnit tržby ve dvou po sobě jdoucích čtvrtletích. Firma také představila nový produkt HomeView postavený na Apple Intelligence a Siri, čímž rozšiřuje ekosystém chytré domácnosti, což analytici vnímají jako další důvod k býčímu pohledu na akcii. Je ale potřeba zmínit, že Apple souhlasil s vyplacením 250 milionů dolarů kvůli zpožděným AI funkcím Siri, což ukazuje na určité problémy s plněním slibů v AI oblasti. Minulé výsledky mírně zaostaly za odhady EPS (1,91 vs. 1,93), což je mírně varovný signál před blížícím se reportem 2. listopadu. Akcie se obchoduje blízko rekordních maxim, takže očekávání trhu jsou vysoká a prostor pro zklamání je výraznější. Nová spolupráce nového CEO s dřívějším rivalem (naznačující smír se Zuckerbergem) může signalizovat strategické posuny ve vedení firmy. Celkově je sentiment kolem Apple pozitivní, ale blížící se earnings představují klíčové riziko i příležitost zároveň.",
+   "outlook": "gain"
+  },
+  {
+   "symbol": "MSFT",
+   "name": "Microsoft Corp.",
+   "quote": {
+    "symbol": "MSFT",
+    "price": 529.05,
+    "change_pct": -1.9260714815364264,
+    "day_high": 543.82,
+    "day_low": 524.43,
+    "day_open": 541.31
+   },
+   "news": [
+    {
+     "headline": "Microsoft (MSFT) Is Facing Fresh Regulatory Pressure",
+     "summary": "Microsoft (NasdaqGS:MSFT) agreed a 1,100 MW, 20 year power supply deal with NiSource to serve its expanding AI data centers. The UK Competition and Markets Authority is preparing to label parts of Microsoft's business software as having strategic market status. Microsoft, Apple and Palantir are preparing for potential new US Congressional oversight and hearings on their partnerships and operations. Beyond the NiSource power agreement, UK market status review and potential hearings, Microsoft...",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=2b566dbbc0522f8a0edae255100bcfa6d0fbc745f623c43c289e3eb8a1c74d25",
+     "datetime": 1792264284
+    },
+    {
+     "headline": "Apple, Nvidia each gave $25M to Trump's White House ballroom — but the president's own name is nowhere on the donor list",
+     "summary": "The controversial ballroom faces fresh scrutiny over potential conflicts of interest with big money ballroom donors and how much Trump has personally contributed.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=0101be04f4d3d00f158af9390b8fde359db489ad795d52554e6754356b35fa4b",
+     "datetime": 1792249200
+    },
+    {
+     "headline": "UBS resets Microsoft stock price target for investors",
+     "summary": "The biggest question about Microsoft may not be what investors expect.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=fcf9012d7a22606465f07017e6a04f8ec3f45d0d1dc571ffe242d562be5bb359",
+     "datetime": 1792247820
+    },
+    {
+     "headline": "Here's How Microsoft's $175 Billion in Capital Expenditures Is Hurting Its Business",
+     "summary": "Microsoft cloud computing business may not be as profitable as its other segments.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=d4d83602fd58cd6a1fe8f8cc93aa5c2b25ec00d9348ffbe67cb17b8903d01078",
+     "datetime": 1792247760
+    }
+   ],
+   "note": null,
+   "earnings_date": "2026-10-28",
+   "next_earnings": {
+    "date": "2026-10-28",
+    "hour": ""
+   },
+   "last_earnings": {
+    "date": "2026-06-30",
+    "actual": 4.74,
+    "estimate": 4.33,
+    "beat": true
+   },
+   "week_change_pct": -1.1250864372885967,
+   "analysis": "Microsoft klesl o 1,93 % na 529,05 USD, za týden je pokles mírnější, 1,13 %, což odpovídá celkovému útlumu technologického sektoru spíše než firemně specifickému problému. Firma podepsala významnou energetickou smlouvu s NiSource na dodávku 1 100 MW po dobu 20 let pro své rostoucí datacentrové kapacity, což potvrzuje obrovský rozsah investic do AI infrastruktury. Zároveň ale čelí regulatornímu tlaku ve Velké Británii, kde úřad CMA připravuje označení částí Microsoftu za firmu s významnou tržní silou, což by mohlo v budoucnu přinést přísnější dohled. Objevuje se i analýza upozorňující, že 175 miliard dolarů kapitálových výdajů může tlačit na ziskovost cloudového byznysu, což je téma, které bude trh sledovat ve výsledcích. Minulé čtvrtletí Microsoft výrazně překonal odhady EPS (4,74 vs. 4,33), což dává firmě solidní fundamentální základ i přes aktuální cenový pokles. Výsledky přijdou už 28. října, a vzhledem k velikosti investic do AI bude klíčové, jak trh zareaguje na capex versus skutečné tržby z cloudu a AI služeb. Rizikem je kombinace regulatorního tlaku a otázek nad návratností investic, což může dál tlačit na ocenění. Pozitivní je, že energetické smlouvy ukazují na dlouhodobou strategickou jistotu v zajištění kapacity pro růst.",
+   "outlook": "neutral"
+  },
+  {
+   "symbol": "VUAA",
+   "name": "S&P 500 (přes SPY)",
+   "quote": {
+    "symbol": "SPY",
+    "price": 763.25,
+    "change_pct": -1.1065186125759552,
+    "day_high": 773.25,
+    "day_low": 760.64,
+    "day_open": 773.24
+   },
+   "news": [],
+   "note": "VUAA je evropský ETF na S&P 500 (LSE/Xetra), Finnhub free tier ale evropské burzy nepodporuje. Cena a novinky jsou proto z amerického ETF SPY, který sleduje stejný index 1:1.",
+   "earnings_date": null,
+   "next_earnings": null,
+   "last_earnings": null,
+   "week_change_pct": -1.9677100324954788,
+   "analysis": "VUAA, evropský ETF sledující index S&P 500, dnes klesl o 1,11 % na 763,25 USD a za týden ztratil 1,97 %, což odpovídá celkově slabší náladě na akciových trzích v posledních dnech. Protože datový zdroj pro VUAA technicky čerpá z amerického ETF SPY (kvůli omezení na evropské burzy u použitého datového poskytovatele), pohyb ceny prakticky kopíruje vývoj celého indexu S&P 500. To znamená, že výkonnost ETF je přímo závislá na směsi velkých technologických firem (včetně těch sledovaných v tomto přehledu) i širšího trhu, takže aktuální výprodej v čipovém a technologickém sektoru se promítá i sem. Žádné specifické novinky k ETF samotnému nejsou, což je typické, protože jde o pasivní produkt sledující index, nikoli jednotlivou firmu s vlastními firemními zprávami. Z pohledu investora je VUAA diverzifikovanější volbou než jednotlivé technologické akcie, takže by měl být méně volatilní než třeba AMD nebo Nvidia, i když současný pokles ukazuje, že širší trh sentiment ovlivňuje i tento nástroj. Klíčové pro další vývoj bude, jak dopadnou blížící se earnings velkých technologických firem (Google, Meta, Microsoft, Apple, AMD), protože ty tvoří významnou váhu v indexu S&P 500. Geopolitické napětí na Blízkém východě je dalším faktorem, který může krátkodobě tlačit na širší trh včetně tohoto ETF. Dlouhodobě zůstává ETF nástrojem pro sledování celkového vývoje americké ekonomiky, nikoliv krátkodobé sázky na jednotlivý sektor.",
+   "outlook": "neutral"
+  }
+ ],
+ "macro_news": [
+  {
+   "headline": "Explosion at Iraqi paramilitary alliance base kills one member, sources say - Reuters",
+   "summary": "Explosion at Iraqi paramilitary alliance base kills one member, sources say  Reuters",
+   "source": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMFdrc1I4NnJ2Z0NQeUM2c25pYzF4ekRXcFVHRHlYVWVVYXhhV0hDXzhVUWtUc2JCRnZmU0lZRkJlRkZudWNzUzJINWpDWWdFcG13SG5YVHJnMk9tcEE2Z3BtdHJ1VHdJcXA4eGNQYXVfcE1VX293QjhYQ0YtaVJUOU1kYjJoR2hPeUJJNlNDUzVfVnlxVUhINGJEV2UzTllWRWVrRmpuNG5ZVGY2SFFvcFpySlJsNUEtYmF6LVNEcEpnck0?oc=5",
+   "datetime": 1792254917
+  },
+  {
+   "headline": "Iran's Guards say two tankers hit mines in Strait of Hormuz - Reuters",
+   "summary": "Iran's Guards say two tankers hit mines in Strait of Hormuz  Reuters",
+   "source": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZWFxZjNZNnY5cVR3VDhKUnNnV1JOcG1vOVB5dEZGdWRybEtqdE9YRWgwY0ZVSXZ0bHYzTWRpX2duSkxpTENtY0s0WW5jMzFUZlZIME16d0FpUXluV2ZGbFJ3alNZaDh0VVVSVFhOMWVIbEZTNVgyTVdwaXNLNXRrMjE4SjZvQXZtblNUNVVHSjFIUmlIaU41TGRHYmIzOUxoa25BODFKaG1FZw?oc=5",
+   "datetime": 1792244171
+  },
+  {
+   "headline": "'Everyone laughed' when he started a pumpkin farm—now it brings in $2 million a year",
+   "summary": "Kelly Schultz bought a pumpkin farm in 1996. He transformed it into a seasonal attraction that draws in 100,000 visitors each fall.",
+   "source": "CNBC",
+   "url": "https://www.cnbc.com/make-it/2026/10/17/great-pumpkin-farm-new-york-2-million-revenue.html",
+   "datetime": 1792242001
+  }
+ ],
+ "macro": [
+  {
+   "time": "18:35",
+   "title": "Výbuch na základně iráckých paramilitárních sil si vyžádal jednu oběť",
+   "body": "V Iráku došlo k výbuchu na základně aliance paramilitárních sil, při kterém zemřel jeden člen. Incident přispívá k celkově napjaté bezpečnostní situaci na Blízkém východě. Zprávy tohoto typu obvykle zvyšují rizikovou prémii na trzích a mohou tlačit investory k opatrnosti. Sledování dalšího vývoje v regionu je důležité kvůli možnému dopadu na ceny energií a globální sentiment.",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMFdrc1I4NnJ2Z0NQeUM2c25pYzF4ekRXcFVHRHlYVWVVYXhhV0hDXzhVUWtUc2JCRnZmU0lZRkJlRkZudWNzUzJINWpDWWdFcG13SG5YVHJnMk9tcEE2Z3BtdHJ1VHdJcXA4eGNQYXVfcE1VX293QjhYQ0YtaVJUOU1kYjJoR2hPeUJJNlNDUzVfVnlxVUhINGJEV2UzTllWRWVrRmpuNG5ZVGY2SFFvcFpySlJsNUEtYmF6LVNEcEpnck0?oc=5",
+   "source": "Reuters"
+  },
+  {
+   "time": "15:36",
+   "title": "Íránské revoluční gardy hlásí zásah min na tankery v Hormuzském průlivu",
+   "body": "Podle íránských revolučních gard byly dva tankery zasaženy minami v Hormuzském průlivu, jedné z nejdůležitějších tras pro přepravu ropy na světě. Taková zpráva zvyšuje obavy o bezpečnost dodávek ropy a může vést k vyšší volatilitě cen energií. Geopolitické napětí v regionu se tak prohlubuje a trhy to vnímají jako rizikový faktor. Investoři by měli sledovat, zda incident povede k dalším eskalačním krokům.",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZWFxZjNZNnY5cVR3VDhKUnNnV1JOcG1vOVB5dEZGdWRybEtqdE9YRWgwY0ZVSXZ0bHYzTWRpX2duSkxpTENtY0s0WW5jMzFUZlZIME16d0FpUXluV2ZGbFJ3alNZaDh0VVVSVFhOMWVIbEZTNVgyTVdwaXNLNXRrMjE4SjZvQXZtblNUNVVHSjFIUmlIaU41TGRHYmIzOUxoa25BODFKaG1FZw?oc=5",
+   "source": "Reuters"
+  }
+ ],
+ "macro_analysis": "",
+ "tips": [
+  {
+   "ticker": "TSM",
+   "name": "Taiwan Semiconductor Manufacturing Company",
+   "tag": "výrobní kapacita čipů",
+   "reason": "Zmiňuje se jako potenciálně bezpečnější volba v AI sektoru díky dominantnímu postavení ve výrobě pokročilých čipů pro globální zákazníky."
+  },
+  {
+   "ticker": "ORCL",
+   "name": "Oracle Corporation",
+   "tag": "cloud a AI backlog",
+   "reason": "Firma vykazuje obrovský nárůst zakázkového backlogu o 209 miliard dolarů za poslední rok, což naznačuje silnou budoucí poptávku po jejích cloudových a AI službách."
+  },
+  {
+   "ticker": "VST",
+   "name": "Vistra Corp",
+   "tag": "energetika a jaderná energie",
+   "reason": "Akcie vzrostla o 11 % po oznámení 4,2 miliardy dolarů jaderné finanční dohody s americkým ministerstvem energetiky, i když smlouva obsahuje podmínky, které investoři často přehlížejí."
+  },
+  {
+   "ticker": "MU",
+   "name": "Micron Technology",
+   "tag": "paměťové čipy",
+   "reason": "Firma čelí rostoucí konkurenci z Číny, což zpochybňuje její dosavadní dominanci na trhu paměťových čipů a stojí za sledování vzhledem k vlivu na celý čipový sektor."
+  }
+ ],
+ "glossary": {
+  "term": "Earnings (kvartální výsledky)",
+  "explanation": "Jde o pravidelnou čtvrtletní zprávu firmy o jejím hospodaření – kolik vydělala, utratila a jak se jí dařilo oproti očekávání analytiků. Kolem zveřejnění těchto výsledků bývá cena akcie mnohem více rozkolísaná, protože investoři rychle přehodnocují své očekávání do budoucna."
+ },
+ "weekly_recap": null
+}
