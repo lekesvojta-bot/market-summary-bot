@@ -1,0 +1,658 @@
+{
+ "timestamp": "2026-10-19T22:12:21.187292+00:00",
+ "stocks": [
+  {
+   "symbol": "NVDA",
+   "name": "NVIDIA Corp.",
+   "quote": {
+    "symbol": "NVDA",
+    "price": 217.09,
+    "change_pct": 1.3823378321580386,
+    "day_high": 219.62,
+    "day_low": 214.7,
+    "day_open": 218.095
+   },
+   "news": [
+    {
+     "headline": "3 Unstoppable Dow Stocks to Buy Before October Ends",
+     "summary": "These Dow stocks are outperforming in 2026 and could hit more new highs in 2027.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=a568826caf6f56c7b6846d96216767a93e1ccc12283b7ff1be516d340a310a8f",
+     "datetime": 1792439400
+    },
+    {
+     "headline": "NVIDIA's Price Implies Less Growth Than Its History",
+     "summary": "New Age Alpha’s chief investment officer argues that the growth embedded in stock prices, rather than a broad valuation label, offers a better way to judge whether market fears are justified.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=e1cf68919ecf72707adb2d33940c25edecdce6be84b2d86826bf1e56839fdb1a",
+     "datetime": 1792438121
+    },
+    {
+     "headline": "Amazon (AMZN) Stock Costs $250 a Share. Here's Why I'd Still Buy It.",
+     "summary": "Amazon's stock has grown powerfully over decades -- and it still seems like a good value.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=a47c0239d66477228f31d9c8526cdee7e3557a3bd12625f96f15015a8c20faa8",
+     "datetime": 1792437900
+    },
+    {
+     "headline": "Palantir Stock Is Near a Record High. Should Investors Sell?",
+     "summary": "Palantir's AI opportunity could be enormous. But existing shareholders must decide whether the potential rewards still justify the risks.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=9f234af31869fa24b68c7afe0921ddc20bcc9306f985b14f389776de1d7ea88d",
+     "datetime": 1792437600
+    },
+    {
+     "headline": "Amazon Just Made Its AI Chips Easier to Use. Should Nvidia Investors Be Worried?",
+     "summary": "Amazon’s new software could make switching AI chips easier. Nvidia’s earnings may face little immediate pressure, but its valuation could be another story.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=b41f28cc0a73a424d42c101b27ec7db523ea3301721cb171375df9189c631c1f",
+     "datetime": 1792437542
+    },
+    {
+     "headline": "Cisco Systems (CSCO) Unveiled 102.4T AI Networking Platforms",
+     "summary": "Cisco Systems (NasdaqGS:CSCO) announced new AI networking platforms using Silicon One P200, G300 and G302 switching chips with 51.2T and 102.4T systems. The company introduced 1.6T optical modules and integrated liquid cooling aimed at high density AI data center deployments. Cisco disclosed a collaboration with NVIDIA, TE Connectivity and Amphenol to co develop a 400Gb/s per lane USFP optical module and open specification. This Cisco AI networking and NVIDIA alliance shift is worth weighing...",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=005418a28c95e04d81f93b6e1c0fa5d43eb6a85cc6d7e850f859b0f7e6e266a6",
+     "datetime": 1792437462
+    },
+    {
+     "headline": "Better Oil Stock: Chevron (CVX) vs. ExxonMobil (XOM)",
+     "summary": "Which of these integrated energy giants is a better investment right now?",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=392077190a878712c8ae958ebdb23d702c351007cf7027d3dcdfd8d896881996",
+     "datetime": 1792437300
+    },
+    {
+     "headline": "This High-Yielding Dividend Stock Has Soared Past the \"Magnificent Seven\" in 2026",
+     "summary": "Target has been one of the hottest stocks to own this year, and it still has room to rise even higher.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=9c0b7d5f7a42a4079aea07e4a9ffd3aa84ed9ab9a9d726a383b08cb6eec22c99",
+     "datetime": 1792437002
+    }
+   ],
+   "note": null,
+   "earnings_date": "2026-11-17",
+   "next_earnings": {
+    "date": "2026-11-17",
+    "hour": "amc"
+   },
+   "last_earnings": {
+    "date": "2026-09-30",
+    "actual": 2.22,
+    "estimate": 2.14,
+    "beat": true
+   },
+   "week_change_pct": -4.078296217744782,
+   "analysis": "x",
+   "outlook": "neutral"
+  },
+  {
+   "symbol": "AMD",
+   "name": "Advanced Micro Devices",
+   "quote": {
+    "symbol": "AMD",
+    "price": 538.05,
+    "change_pct": 1.7588652482269418,
+    "day_high": 554.4095,
+    "day_low": 535.67,
+    "day_open": 551.78
+   },
+   "news": [
+    {
+     "headline": "Dow Jones Futures: AMD, Nvidia Lead AI Trade Higher; Meta, Netflix, SpaceX, Tesla Earnings On Deck",
+     "summary": "Dow Jones Futures: AMD and Nvidia led the AI trade higher Monday following Friday's big losses. Meta, Netflix, SpaceX and Tesla have earnings due.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=0e89d884f4dae74cae42a9e4c1ebd99c70ba069b9909f908a2dbd34d54a36a5a",
+     "datetime": 1792445414
+    },
+    {
+     "headline": "Advanced Micro Devices (AMD) Surpasses Market Returns: Some Facts Worth Knowing",
+     "summary": "The latest trading day saw Advanced Micro Devices (AMD) settling at $538.05, representing a +1.76% change from its previous close.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=16c71651574a9251f426debdca328c69d422d6b42e81e95d5143c8244b64eb20",
+     "datetime": 1792442703
+    },
+    {
+     "headline": "Stock Market Today: Dow Dips As Oil Jumps, Nasdaq Pops; Amazon Stock Rallies On This",
+     "summary": "The Dow Jones index slips even as tech stocks climb on stock market today. Amazon and Nvidia rebound while a biotech stock tests a buy point.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=c88344c89e5ede3a8a47ebcd44e909b160fca4cb73c840f8b3251ecf5bf6ab25",
+     "datetime": 1792442427
+    },
+    {
+     "headline": "Stock Market Today: Nasdaq Hits Resistance As Oil Jumps; CoreWeave Falls Despite This (Live Coverage)",
+     "summary": "The Dow Jones index is steady as techs jump on stock market today. Amazon and Nvidia climb while a biotech stock tests a buy point.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=16d79616601e69ee55e06947603e29aad45d60c5a51635c57da9f8a8f3e67585",
+     "datetime": 1792439384
+    },
+    {
+     "headline": "Here's What a $5,000 Investment in AMD Could Be Worth by 2032",
+     "summary": "AMD has room to run higher over the long run, even after delivering healthy gains to investors in 2026.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=e92a027ba9371b337a4c714320c85eb34ac5f16f61f42dd4c873383c31e1cce3",
+     "datetime": 1792436760
+    },
+    {
+     "headline": "AMD vs. TSMC: How Much Faster Must AMD’s Cash Flow Grow?",
+     "summary": "Our 10 Best Semiconductor Stocks to Buy for the Next Decade includes both the chip designer and the foundry. Advanced Micro Devices, Inc. (NASDAQ:AMD) offers processor and accelerator upside. Taiwan Semiconductor Manufacturing Company Limited (NYSE:TSM) offers exposure to manufacturing many customers’ designs. Their starting cash prices set very different hurdles. The starting multiple matters At […]",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=a8c61d19edc83c8241fd0c0a6f7446e63426b26cddd74783e4c8ecdcf4b6def6",
+     "datetime": 1792436200
+    },
+    {
+     "headline": "Nvidia vs. AMD: Who Can Afford the Next Jump in Research Spending?",
+     "summary": "Our 10 Best Semiconductor Stocks to Buy for the Next Decade weighs the ability to keep investing through technology changes. Nvidia and AMD illustrate why the size of a research budget matters less than the business supporting it. Which can absorb another spending increase without sacrificing much of today’s profit? NVIDIA Corporation (NASDAQ:NVDA) spent $7.05 […]",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=a78c517e4b3b30ec860e9070cbcd9186f32dbefc9b20a7624c45dc740d61eb2a",
+     "datetime": 1792436175
+    },
+    {
+     "headline": "What Just Happened To Marvell Stock?",
+     "summary": "Shares of Marvell Technology (MRVL) fell 17.2% over the five trading days from October 9 to October 16, 2026. The broader market saw far less movement during that window, with the S&P 500 losing 1.9%. The stock first slipped the day after its October 6 Investor Day, an event where management actually raised its revenue outlook for fiscal 2028. So how hard was the week for Marvell, and what does its price still appear to assume.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=f6b17263c2c2e4315ce60178c169671be83f8394d388727646b1e11f979ed042",
+     "datetime": 1792433180
+    }
+   ],
+   "note": null,
+   "earnings_date": "2026-11-03",
+   "next_earnings": {
+    "date": "2026-11-03",
+    "hour": "amc"
+   },
+   "last_earnings": {
+    "date": "2026-06-30",
+    "actual": 1.66,
+    "estimate": 1.63,
+    "beat": true
+   },
+   "week_change_pct": -9.455775444264953,
+   "analysis": "y",
+   "outlook": "loss"
+  },
+  {
+   "symbol": "GOOGL",
+   "name": "Alphabet Inc.",
+   "quote": {
+    "symbol": "GOOGL",
+    "price": 344.18,
+    "change_pct": 1.0540532605185216,
+    "day_high": 346.58,
+    "day_low": 341.85,
+    "day_open": 343.665
+   },
+   "news": [
+    {
+     "headline": "A $1.5 Trillion Anthropic IPO Still Pays Off for Google: “They’re Gonna Be Fine”",
+     "summary": "Key TakeawaysCommentators now expect Anthropic’s IPO to value it nearer $1. 5 trillion than $2 trillion, after its revenue growth slowed to about 45% from the second quarter to the third.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=18e72b814343b1ffb34ab4d7ad4fddab0d68d71b6b54645cce845a7321725dec",
+     "datetime": 1792436048
+    },
+    {
+     "headline": "Are You Overpaying For Reddit Stock Versus Its Rivals?",
+     "summary": "Investors pay more for each dollar of profit from Reddit (RDDT) than they do for Meta Platforms, Alphabet, or Match, the rivals in its peer group whose earnings can be compared. That valuation would be easy to accept if Reddit simply executed better across the board. The company does grow faster than all four of its peers, Pinterest included. Yet it keeps less of its revenue as operating profit than three of them. So what do you get for the extra price.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=7380b348eaef6d369593412d1f317c9a59e1ba2b7f482b59bc8b12ad955d7eb3",
+     "datetime": 1792435552
+    },
+    {
+     "headline": "Why Is Everyone Ignoring Trade Desk Stock's High Cash Yield?",
+     "summary": "Trade Desk (TTD) stock closed on October 16, 2026, 91.2% below its high of December 4, 2024. That steep decline has made the company's cash unusually cheap to buy. At the closing price of $12.23 a share, the company carried a market value of $5.7 billion. Its free cash flow over the last twelve months equals 14.8% of that value, compared with 4.4% for the median S&P 500 company. A yield that high indicates either a steeply discounted business or one the market expects to shrink. So has Trade Des",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=53b56f0e608b39d16235263c21fffbe5d1b2c13f69e2b1f3abbbe2eb0722a046",
+     "datetime": 1792434469
+    },
+    {
+     "headline": "California billionaire tax could backfire, Stanford study says",
+     "summary": "A new analysis from Stanford economists cautions that enacting a billionaire tax could have unintended consequences.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=98a95e54df1260ff8ff288f058dd6ca10a47d45ebc589d695451de1794b612bb",
+     "datetime": 1792433797
+    },
+    {
+     "headline": "Gartner Predicts “80% of Neoclouds” Out of Business by 2030: Here’s Who Wins",
+     "summary": "Key TakeawaysGartner forecast that more than 80% of neoclouds will stop operating independently by 2030, and CoreWeave fell 25% last week. Hyperscalers that pay for AI capacity from their own cash flow, led by Amazon and Alphabet, stand to win as credit gets tighter for indebted neoclouds.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=2afe7555178f3970e1509f1d65a41e8421edfd25a2ca04847a6881419d192eaf",
+     "datetime": 1792432752
+    },
+    {
+     "headline": "6 Signs of a Winning Stock, Each Shown by a Real Company",
+     "summary": "How do you tell a great stock from a merely good one? Run these six simple tests, from free cash flow to return on invested capital.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=8e21fbf48e9db16f8b2306021f05240d8a91e0e1ae76feba38dc6ab6864b8a78",
+     "datetime": 1792432380
+    },
+    {
+     "headline": "Mag 7 Pull Dow Back to Breakeven Line",
+     "summary": "Thank the Mag 7 that the Dow isn't trading lower.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=4b3795852bcfc5e18255fceff8619cb04cde136310b2dd1219a6d93cc477c373",
+     "datetime": 1792432129
+    },
+    {
+     "headline": "Third Wheel: Microsoft’s AI Chips Are “Nowhere Close” to NVIDIA or Google per Analyst",
+     "summary": "Key TakeawaysMicrosoft unveiled its Maia 300 AI chip on Monday and plans to scale its Maia chips to multi-gigawatt deployments starting next calendar year. Bloomberg Intelligence analyst Mandeep Singh said Microsoft’s chips are “nowhere close” to Google’s TPUs or NVIDIA, which puts Alphabet ahead in the custom-chip race.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=8d356008737ad0973ae39a2056c6920efdb85d20d35590700cbb6dbc37997245",
+     "datetime": 1792431607
+    }
+   ],
+   "note": null,
+   "earnings_date": "2026-10-28",
+   "next_earnings": {
+    "date": "2026-10-28",
+    "hour": "amc"
+   },
+   "last_earnings": {
+    "date": "2026-06-30",
+    "actual": 2.85,
+    "estimate": 2.98,
+    "beat": false
+   },
+   "week_change_pct": -2.421183941936953,
+   "analysis": "z",
+   "outlook": "gain"
+  },
+  {
+   "symbol": "META",
+   "name": "Meta Platforms",
+   "quote": {
+    "symbol": "META",
+    "price": 705.44,
+    "change_pct": -0.5477038029112171,
+    "day_high": 708.83,
+    "day_low": 693.86,
+    "day_open": 707.16
+   },
+   "news": [
+    {
+     "headline": "Q2 Earnings Highlights: Meta (NASDAQ:META) Vs The Rest Of The Social Networking Stocks",
+     "summary": "As the Q2 earnings season wraps, let’s dig into this quarter’s best and worst performers in the social networking industry, including Meta (NASDAQ:META) and its peers.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=acfcceb235d1267311cb69db203f614ae0b3d028650efb3dcda18ca0c5ad7f01",
+     "datetime": 1792436695
+    },
+    {
+     "headline": "Are You Overpaying For Reddit Stock Versus Its Rivals?",
+     "summary": "Investors pay more for each dollar of profit from Reddit (RDDT) than they do for Meta Platforms, Alphabet, or Match, the rivals in its peer group whose earnings can be compared. That valuation would be easy to accept if Reddit simply executed better across the board. The company does grow faster than all four of its peers, Pinterest included. Yet it keeps less of its revenue as operating profit than three of them. So what do you get for the extra price.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=7380b348eaef6d369593412d1f317c9a59e1ba2b7f482b59bc8b12ad955d7eb3",
+     "datetime": 1792435552
+    },
+    {
+     "headline": "Why Is Everyone Ignoring Trade Desk Stock's High Cash Yield?",
+     "summary": "Trade Desk (TTD) stock closed on October 16, 2026, 91.2% below its high of December 4, 2024. That steep decline has made the company's cash unusually cheap to buy. At the closing price of $12.23 a share, the company carried a market value of $5.7 billion. Its free cash flow over the last twelve months equals 14.8% of that value, compared with 4.4% for the median S&P 500 company. A yield that high indicates either a steeply discounted business or one the market expects to shrink. So has Trade Des",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=53b56f0e608b39d16235263c21fffbe5d1b2c13f69e2b1f3abbbe2eb0722a046",
+     "datetime": 1792434469
+    },
+    {
+     "headline": "Buying dip in tech market, Anthropic's \"Public Benefit\" fund, and Musk's SpaceX pledge",
+     "summary": "Market Hang's panel discusses all things AI, including how and when to buy a dip in the market, Anthropic's (ANTH.PVT) \"Public Benefit\" fund, and even the dating landscape. Plus, the panel's take on Elon Musk's pledge of SpaceX (SPCX) stock to American children. Today's Market Hang panel consists of  The Wall Street Skinny Co-Founder Jen Saarbach,The Wall Street Skinny Co-Founder Kristen Kelly, Siebert Financial CIO Mark Malek,  Epistrophy Capital Research Chief Market Strategist & The Drill Down Podcast Host Cory Johnson, and Yahoo Finance's Julie Hyman.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=9387af110791488e2a9628e7723ac62dc7071431fce61ec140ddc13a3bb12581",
+     "datetime": 1792431944
+    },
+    {
+     "headline": "Strong Earnings Haven't Done as Much for Stocks So Far",
+     "summary": "This earnings season has been—so far—stronger than historical averages.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=915cf74927f4dea9155722bbf014c5d8e42e383a5922f39c59129984becde6e1",
+     "datetime": 1792431421
+    },
+    {
+     "headline": "Magnificent 7 Earnings Preview: Meta & Tesla Take Center Stage This Week",
+     "summary": "The Q3 earnings season heats up this week as Meta Platforms and Tesla prepare to release their quarterly results after market hours on Wednesday, Oct. 21.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=aea6f77ad1ff1d7f362ddd1e75e80d8b0a54c61002da2a924a9b864a963eb2e9",
+     "datetime": 1792431300
+    },
+    {
+     "headline": "Magnificent Seven Are Losing Their Earnings Luster",
+     "summary": "The Magnificent Seven are on track to increase earnings 33.2% in the third quarter.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=e7c05eebc2f579cc5e3414b7f17a5699e65c11e82e677de8bf6bf1d4ec038fff",
+     "datetime": 1792431162
+    },
+    {
+     "headline": "This Mag 7 Stock Is Worth Watching for the Next 5 Years",
+     "summary": "Alphabet just posted a blowout quarter and the stock fell anyway, leaving it trading nearly 15% below its 52-week high while one key growth engine accelerates at a rate that has Wall Street scrambling to keep up with its price targets.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=ff97fcb49360afd980291f0eb660407ed6e57f16ff2676ede8860361456d262e",
+     "datetime": 1792431034
+    }
+   ],
+   "note": null,
+   "earnings_date": "2026-10-21",
+   "next_earnings": {
+    "date": "2026-10-21",
+    "hour": "amc"
+   },
+   "last_earnings": {
+    "date": "2026-06-30",
+    "actual": 6.18,
+    "estimate": 7.36,
+    "beat": false
+   },
+   "week_change_pct": -5.050069990309032,
+   "analysis": "w",
+   "outlook": "loss"
+  },
+  {
+   "symbol": "AAPL",
+   "name": "Apple Inc.",
+   "quote": {
+    "symbol": "AAPL",
+    "price": 342.94,
+    "change_pct": -0.1514004542013573,
+    "day_high": 346,
+    "day_low": 340.115,
+    "day_open": 340.775
+   },
+   "news": [
+    {
+     "headline": "Sector Update: Tech Stocks Rise Late Afternoon",
+     "summary": "Tech stocks were higher late Monday afternoon, with the State Street Technology Select Sector SPDR E",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=3de7006c404a02abe84ed0a390bbfeb500e86b524026545c03a4ca76a719f421",
+     "datetime": 1792439214
+    },
+    {
+     "headline": "This High-Yielding Dividend Stock Has Soared Past the \"Magnificent Seven\" in 2026",
+     "summary": "Target has been one of the hottest stocks to own this year, and it still has room to rise even higher.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=9c0b7d5f7a42a4079aea07e4a9ffd3aa84ed9ab9a9d726a383b08cb6eec22c99",
+     "datetime": 1792437002
+    },
+    {
+     "headline": "Want to live off dividends in retirement? Here’s how much you’d need to invest — and 5 strategies to generate income",
+     "summary": "Dividend stocks aren’t the only way to turn your nest egg into a steady income stream. Explore options that could help your money support you throughout retirement.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=f3053df93a24267af425acc0ce965f38bf52dd19434dea4410adcebb468aa3ff",
+     "datetime": 1792435200
+    },
+    {
+     "headline": "Apple Already Developing Higher-End HomeView",
+     "summary": "Apple's new HomeView has been a long time coming - but now, Apple is already developing a higher-end version of the device with a robotic limb, which can automatically swivel the screen toward whoever is speaking. Bloomberg's Mark Gurman joins Ed Ludlow with the details from this week's Power On newsletter on \"Bloomberg Tech.\"",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=93151bbdd963709760dcf63b5152a707492015e6ccdcd16e1902beb224c069a4",
+     "datetime": 1792433479
+    },
+    {
+     "headline": "Mag 7 Pull Dow Back to Breakeven Line",
+     "summary": "Thank the Mag 7 that the Dow isn't trading lower.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=4b3795852bcfc5e18255fceff8619cb04cde136310b2dd1219a6d93cc477c373",
+     "datetime": 1792432129
+    },
+    {
+     "headline": "Apple Confirms October 28 ‘Pro And Tell’ Event — First Touchscreen MacBook Pro Expected",
+     "summary": "The upcoming product launch follows strong initial demand for Apple's foldable iPhone Duo, even as analysts remain divided over the company's growth outlook.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=522773942a919b923a94eb66756e848a851f89569c35a3e3afdb53e4bc65736e",
+     "datetime": 1792431800
+    },
+    {
+     "headline": "Apple Stock Holds Strong Amid Healthy iPhone Duo Preorders",
+     "summary": "Apple stock continues to hover in a tight trading range near a buy zone amid healthy preorders for its first folding handset, the iPhone Duo.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=53d96b99202235fd653bfa19301c852941b2056b69abc7ad0c27eb8edfb2fad5",
+     "datetime": 1792428585
+    },
+    {
+     "headline": "Samsung is making an unexpected move against Apple",
+     "summary": "A leaked product name points to Samsung’s first premium version of a popular accessory in about a decade.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=ecb7c2f0b0a7c98c24458d1a1cf080551eea20cc42535e12176a3c21576a56bb",
+     "datetime": 1792428420
+    }
+   ],
+   "note": null,
+   "earnings_date": "2026-11-02",
+   "next_earnings": {
+    "date": "2026-11-02",
+    "hour": "amc"
+   },
+   "last_earnings": {
+    "date": "2026-06-30",
+    "actual": 1.91,
+    "estimate": 1.93,
+    "beat": false
+   },
+   "week_change_pct": 0.577763439598783,
+   "analysis": "v",
+   "outlook": "neutral"
+  },
+  {
+   "symbol": "MSFT",
+   "name": "Microsoft Corp.",
+   "quote": {
+    "symbol": "MSFT",
+    "price": 533.52,
+    "change_pct": 0.8449106889708019,
+    "day_high": 535.5684,
+    "day_low": 528.06,
+    "day_open": 528.7
+   },
+   "news": [
+    {
+     "headline": "Microsoft's First-Quarter Results to Match Views Amid Azure's Momentum, Morgan Stanley Says",
+     "summary": "Microsoft's (MSFT) fiscal first-quarter results will likely meet Wall Street's expectations, driven",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=dd9b7acfc033f5409f343e69adb7111ee73560e4063d345a77fb00093bc0c5d7",
+     "datetime": 1792439034
+    },
+    {
+     "headline": "Microsoft Walks Away From AI Data Center Deal, but SemiAnalysis Predicts 50-GW Boom in 2027",
+     "summary": "More than 24 gigawatts of data center capacity is already in advanced construction across just 40 campuses, most of it expected to come online in 2027, according to new research from SemiAnalysis. The research firm forecasts 50 gigawatts of new...",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=d30ac0baba303f813e7df935792ae283a06a6d1c991cddbf9fd15b979ae63453",
+     "datetime": 1792435586
+    },
+    {
+     "headline": "Want to live off dividends in retirement? Here’s how much you’d need to invest — and 5 strategies to generate income",
+     "summary": "Dividend stocks aren’t the only way to turn your nest egg into a steady income stream. Explore options that could help your money support you throughout retirement.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=f3053df93a24267af425acc0ce965f38bf52dd19434dea4410adcebb468aa3ff",
+     "datetime": 1792435200
+    },
+    {
+     "headline": "Mag 7 Pull Dow Back to Breakeven Line",
+     "summary": "Thank the Mag 7 that the Dow isn't trading lower.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=4b3795852bcfc5e18255fceff8619cb04cde136310b2dd1219a6d93cc477c373",
+     "datetime": 1792432129
+    },
+    {
+     "headline": "Third Wheel: Microsoft’s AI Chips Are “Nowhere Close” to NVIDIA or Google per Analyst",
+     "summary": "Key TakeawaysMicrosoft unveiled its Maia 300 AI chip on Monday and plans to scale its Maia chips to multi-gigawatt deployments starting next calendar year. Bloomberg Intelligence analyst Mandeep Singh said Microsoft’s chips are “nowhere close” to Google’s TPUs or NVIDIA, which puts Alphabet ahead in the custom-chip race.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=8d356008737ad0973ae39a2056c6920efdb85d20d35590700cbb6dbc37997245",
+     "datetime": 1792431607
+    },
+    {
+     "headline": "Update: Equities Rise Intraday as Busy Earnings Week Kicks Off",
+     "summary": "(Updates with latest market prices and developments.) US benchmark equity indexes were mostly hig",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=13dbdc09044191898c2aee495c5edd2e9740275fdf295bddde04ac56ad9314b6",
+     "datetime": 1792431355
+    },
+    {
+     "headline": "Better Artificial Intelligence Stock for 2026: C3.ai vs. SentinelOne",
+     "summary": "C3.ai is burning cash while restructuring its sales model. SentinelOne is profitable on free cash flow but trades at a steep valuation premium.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=1f4ce46e6f320c33cf1975ffab066eabbaf6525f1e401c0b6dfee3eef4e72a4e",
+     "datetime": 1792431129
+    },
+    {
+     "headline": "This Mag 7 Stock Is Worth Watching for the Next 5 Years",
+     "summary": "Alphabet just posted a blowout quarter and the stock fell anyway, leaving it trading nearly 15% below its 52-week high while one key growth engine accelerates at a rate that has Wall Street scrambling to keep up with its price targets.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=ff97fcb49360afd980291f0eb660407ed6e57f16ff2676ede8860361456d262e",
+     "datetime": 1792431034
+    }
+   ],
+   "note": null,
+   "earnings_date": "2026-10-28",
+   "next_earnings": {
+    "date": "2026-10-28",
+    "hour": ""
+   },
+   "last_earnings": {
+    "date": "2026-06-30",
+    "actual": 4.74,
+    "estimate": 4.33,
+    "beat": true
+   },
+   "week_change_pct": -1.4099602697958045,
+   "analysis": "u",
+   "outlook": "gain"
+  },
+  {
+   "symbol": "VUAA",
+   "name": "S&P 500 (přes SPY)",
+   "quote": {
+    "symbol": "SPY",
+    "price": 766.48,
+    "change_pct": 0.42319030461841045,
+    "day_high": 770.46,
+    "day_low": 765.824,
+    "day_open": 767.23
+   },
+   "news": [
+    {
+     "headline": "American Airlines Is Now Down 23% This Year: Is AAL Stock Dead Money or Due for a Bounce?",
+     "summary": "Fuel costs torched American Airlines profits even as revenue hit a record, leaving the stock deep in the red while its rivals trade far higher. Whether AAL is a value trap or a coiled spring depends on one factor the airline cannot control.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=fb7449eb35b51fdc1c6a5a3597de14f96bda88acf8972a1592912bc79f5ad5d3",
+     "datetime": 1792435869
+    },
+    {
+     "headline": "Carvana Is Now Down 31% This Year: Is CVNA a Toxic Stock or Ready to Rally?",
+     "summary": "Carvana's record unit sales tell one story, but its shrinking profit per vehicle tells another. Before the third-quarter report drops, here is what bulls and bears are each watching to settle the debate.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=be39103a7977bd961765054229c3788aed4623e2ee03155b5bb0e947c41f0eff",
+     "datetime": 1792435649
+    },
+    {
+     "headline": "Vanguard's growth ETF turned terrible timing into $100K",
+     "summary": "Three market crashes tested one fund, but its long-term result is shocking",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=fef28513e92e36c9e9a39b49979369bb613b65c4beec5dd6a92dd8e0629cdf7c",
+     "datetime": 1792435620
+    },
+    {
+     "headline": "Roblox Is Now Down 38% in 2026: Is RBLX Stock Dead Money or Poised for a Comeback?",
+     "summary": "A child exploitation lawsuit, a Wall Street downgrade, and slipping spending per player have sent Roblox stock into a 38% freefall while the broader market climbs. Whether the platform's surging user base can reverse that pain hinges on a single metric investors are watching closely.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=8e377750995071306bb963e94910ebbf6dc7d019736b48b16db47a5145fbdd80",
+     "datetime": 1792435267
+    },
+    {
+     "headline": "Sunrun Sinks 5% Toward 52-Week Low Ahead of Earnings; Enphase Energy and First Solar Slip",
+     "summary": "Sunrun is sliding toward a one-year low while the broader market climbs, and with earnings weeks away the question is whether the stock can hold before the next catalyst arrives.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=e259a75f371527903b21567fe6f40d1851f042710e6e3e59d608180f5ee9bb1b",
+     "datetime": 1792433378
+    },
+    {
+     "headline": "Kevin Warsh Says 'I Have Failed,' Admitting That He Neglected Bank Supervision in First 148 Days",
+     "summary": "Federal Reserve Chairman Kevin Warsh stated that he failed to adequately focus on non-monetary policy functions, including bank supervision, during his first 148 days in office. Warsh Admits Neglect Speaking at a fireside chat with International Monetary Fund Managing Director...",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=ed5b9dab2ab8a4b5b9d32cd2869a6bc6c4975dd8ec769d98f4165f5bbeaaf504",
+     "datetime": 1792432811
+    },
+    {
+     "headline": "Trump Media Drops 7% While Rumble Climbs 3% Amid a Rising Market",
+     "summary": "Trump Media stock is sliding hard on a day when nearly everything else is climbing, and the reason has less to do with the broader market than with what sits inside the company's own balance sheet and merger pipeline.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=8a9f343124bffd1a9334e4ffb71d2bae3168ee4005db8085bea2d6e0a563a7d9",
+     "datetime": 1792432611
+    },
+    {
+     "headline": "Hated, Unloved, And Yielding 5%: Is It Time To Reconsider Bonds? Here's My Take",
+     "summary": "",
+     "source": "SeekingAlpha",
+     "url": "https://finnhub.io/api/news?id=11d2f62792bf2a8958b430b2198f81f0a96cdfd092e4bc6e9db1b314ccf081bf",
+     "datetime": 1792431000
+    }
+   ],
+   "note": "VUAA je evropský ETF na S&P 500 (LSE/Xetra), Finnhub free tier ale evropské burzy nepodporuje. Cena a novinky jsou proto z amerického ETF SPY, který sleduje stejný index 1:1.",
+   "earnings_date": null,
+   "next_earnings": null,
+   "last_earnings": null,
+   "week_change_pct": -1.4933813134558545,
+   "analysis": "t",
+   "outlook": "neutral"
+  }
+ ],
+ "macro_news": [
+  {
+   "headline": "Every look from the Victoria's Secret Fashion Show - Reuters",
+   "summary": "Every look from the Victoria's Secret Fashion Show  Reuters",
+   "source": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNa2lPVEdrVzBfenM5SXI3MVNXTDdLQ1R5Si12OHFWQzF1TUtJaUZYdjl6SmZjSkdZeS1FSWV2a2JzeXc5TEFGdkliY09WTFE2SWYwRUQwVUJaWWsxV2dSNGZwYWlOMFMyd0kzaTZoN0xJZmJTRm9NUjdmdmhPeG9sYlJ5d05PVDREcWlFbF9YZ0U?oc=5",
+   "datetime": 1792445231
+  },
+  {
+   "headline": "Tech stocks had a nice oversold bounce on Monday. Earnings this week will determine if it's for real",
+   "summary": "Investors are hopeful that last week's pullback was a clearing event for equities, but lingering concerns remain.",
+   "source": "CNBC",
+   "url": "https://www.cnbc.com/2026/10/19/tech-stocks-rebound-meta-tesla-earnings.html",
+   "datetime": 1792443434
+  },
+  {
+   "headline": "Pakistan army chief Asim Munir to visit Tehran on Tuesday - Reuters",
+   "summary": "Pakistan army chief Asim Munir to visit Tehran on Tuesday  Reuters",
+   "source": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNU5NeHoza1RQRlByV2lvS2dQTDZXOExwUktiVjJnaUE2YUJoVE1BN3N4VlhMNm1wd25CanBNSGlUeGhuSzZMTDlLUUdsMEtka0x5aWNBNGNpUEpwd1AxMnowV3RIYnZHZGxzb1ZNNGZqenFkbHNQLWlCcUxuekpVZ09UYUVlaWVsVjNmNjJpMHpjLVJiTnFiSnJLaVgyM1FlMEZuYnBUOXVhQQ?oc=5",
+   "datetime": 1792439686
+  },
+  {
+   "headline": "Crushed tech stocks bounce — plus, new doctor survey keeps us positive on Lilly",
+   "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+   "source": "CNBC",
+   "url": "https://www.cnbc.com/investingclub/2026/10/19/crushed-tech-stocks-bounce-new-doctor-survey-keeps-us-positive-on-lilly.html",
+   "datetime": 1792435955
+  },
+  {
+   "headline": "Germany summons Iranian envoy over plot to kill Jewish community leader - Reuters",
+   "summary": "Germany summons Iranian envoy over plot to kill Jewish community leader  Reuters",
+   "source": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMTBxMkF3RnVSeWFVMnUwOEZFYVAyeFRhRE9IVll1Q2czRDV3aWEtNzdvcV81TFZ1YzNjNDRkSHloSUFCUW9va0NyNEtSa1k0Wm9MeG9ZVE1sYkFpd0JoUjNXYm96NFdyY1FjNUFnNlljcEZQR3ByMUdXYVZOY2RDdnk3cEZXVHlfaTMzV19Xc0JTMDdPQmJlNHRrUE1Ua1ZtM0E5Umc2T3FrVmpXa3o3U29pZWdoSjNl?oc=5",
+   "datetime": 1792431949
+  },
+  {
+   "headline": "Saudi Arabia postpones its 'Davos in the Desert' conference after attacks - Reuters",
+   "summary": "Saudi Arabia postpones its 'Davos in the Desert' conference after attacks  Reuters",
+   "source": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPaXJvV3ktdmE4WU9ZNjVBcDRBYW9yNXJVYVI3MV83aWtIV0pYN0lGNzM4UlNRZDdpRGs1bGsxR18wcjY5STVhU1Q1VEZJUmRKWFZPUnoxSlpFaThtMzhjRlVIZGl2VVVYYTlYM181N0Jyb0h4ZWRrM2FVZFZsSFRBT1haU0QtdEp5QlZ6dVg2VVpyX2RsaDEzbnN2Q1NvSFc5WW5jT2VmVQ?oc=5",
+   "datetime": 1792431283
+  },
+  {
+   "headline": "Christiane Amanpour to leave CNN after four decades as Ellison era begins - Reuters",
+   "summary": "Christiane Amanpour to leave CNN after four decades as Ellison era begins  Reuters",
+   "source": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQb1RuM0JKcU9Qaks5eThna1hYUlptN2YyRWlqc2dDX1kySU51MWZPNFd6bXpCVnVPZXptVl80VmlwLU9NbTVrVmNjeWpNUEs4WFFKekVFRGU2NTZJQlZxeEFINFJRa3RmTEVJbnhvUm83R2gyMDVEb3V5cmgxNHFBWnd6OVN5ZlBKQ09HcWJnSlhvM0FxTm9ORkNBdzg4RzJSZzhVWHdROU1oT0d6VEY3LXdLdUV5VkwzZGkxWlVjOTlqcG1l?oc=5",
+   "datetime": 1792429945
+  },
+  {
+   "headline": "Gartner analyst behind tech rout: AI returns are not yet large enough to justify neocloud build-out",
+   "summary": "The firm stands behind analysis that sent shockwaves through the market last week.",
+   "source": "CNBC",
+   "url": "https://www.cnbc.com/2026/10/19/gartner-analyst-warns-about-ai-neccloud-build-out.html",
+   "datetime": 1792429036
+  }
+ ],
+ "macro": [],
+ "macro_analysis": "",
+ "tips": [],
+ "glossary": {
+  "term": "x",
+  "explanation": "y"
+ },
+ "weekly_recap": null
+}
