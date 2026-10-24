@@ -1,0 +1,589 @@
+{
+ "timestamp": "2026-10-24T20:32:42.841893+00:00",
+ "stocks": [
+  {
+   "symbol": "NVDA",
+   "name": "NVIDIA Corp.",
+   "quote": {
+    "symbol": "NVDA",
+    "price": 210.96,
+    "change_pct": -0.5890391593233119,
+    "day_high": 213.85,
+    "day_low": 210.18,
+    "day_open": 210.99
+   },
+   "news": [
+    {
+     "headline": "The Nasdaq Just Had Its Worst Day in 4 Months. Here's the Level That Would Signal a Correction, and What History Says Investors Can Do About It.",
+     "summary": "Tech stocks are selling off as investors question the payoff of artificial intelligence (AI) infrastructure spending.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=d8f7ba363444ed0ace0d46b0b74a292b9d84974892b02078381b6661a4c311d6",
+     "datetime": 1792871400
+    },
+    {
+     "headline": "Oklo Is Down 61% This Year Despite a Real Technical Milestone. Here's the Disconnect Between the Stock and the Science.",
+     "summary": "What's going on with Oklo?",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=d69fe8beeedf193eb9a9f6475dd40370088c40d178d0a584025dae1115b39416",
+     "datetime": 1792871220
+    },
+    {
+     "headline": "Stock Market Sell-Off: History Says This Is the Best Move to Make Right Now",
+     "summary": "Market pullbacks can be scary, but the right response is simpler than you think. Legendary investors agree on the winning playbook.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=1544fb087a886561fb8856bcd11a0042833796e267fea50545e1daf943bd6ee9",
+     "datetime": 1792870860
+    },
+    {
+     "headline": "Vertex Pharmaceuticals Gets 96% of Product Sales From Treatments for 1 Disease. Here's Why That's About to Change.",
+     "summary": "Vertex is expanding beyond its cystic fibrosis franchise.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=3c135b6892c7278f17f00d80171c8d2c80252353cd0eb810b470ac44c2016740",
+     "datetime": 1792870140
+    },
+    {
+     "headline": "Nvidia Credit Stress Could Lift Hannover Re Stock And Other AI Insurance Names",
+     "summary": "Nvidia’s swelling web of AI guarantees has turned a chip story into a financing story, and the stress in neoclouds and OpenAI-linked projects is forcing investors to rethink who really bears the risk. That reassessment can punish some stocks and quietly re-rate others. This piece walks through three insurers from our AI infrastructure screener that look positioned to matter as this credit question around Nvidia keeps building. The three insurers highlighted below are just a first cut, and the...",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=6d93859e72fa8411c05a0ed2334400a641e6462750d45172716a40098f376a8b",
+     "datetime": 1792868964
+    },
+    {
+     "headline": "SpaceX's \"Super Intelligence\" Segment Just Made the Stock a Must-Own",
+     "summary": "The growth rate for the company's AI business last quarter was mind-boggling.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=5af63496ea06628b9e0427a92353071eefc829c072100be4c20f0bbaf957f9e7",
+     "datetime": 1792868160
+    },
+    {
+     "headline": "Top Blockchains Continue to See Rapid Growth in AI Agent Payments. This Is the 1 Crypto You Need to Buy Right Now.",
+     "summary": "AI agent payments are taking off, and that's good news for Solana.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=2c1fed8b9db102ef17ee9426424e8d09a34182c4488face426eea7adce76d9f6",
+     "datetime": 1792867140
+    },
+    {
+     "headline": "5 of the Fastest-Growing Stocks in the Market",
+     "summary": "Nebius's revenue jumped 454% last quarter, but investors pay a premium. See how five AI and fintech stocks compare on growth and valuation.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=43c3fefddd0450363dbdf6aaffb63654b9df586b297466095df03b5bd0c933c6",
+     "datetime": 1792866000
+    }
+   ],
+   "note": null,
+   "earnings_date": "2026-11-17",
+   "next_earnings": {
+    "date": "2026-11-17",
+    "hour": "amc"
+   },
+   "last_earnings": {
+    "date": "2026-09-30",
+    "actual": 2.22,
+    "estimate": 2.14,
+    "beat": true
+   },
+   "week_change_pct": -1.4804090972773492,
+   "analysis": "Akcie Nvidie dnes mírně oslabila o 0,59 % a za posledních sedm dní je v mínusu 1,48 %, což odráží širší nervozitu kolem AI sektoru. Nasdaq zažil nejhorší den za čtyři měsíce, protože investoři začínají pochybovat, zda se obří výdaje na AI infrastrukturu skutečně vyplatí v odpovídajících tržbách. Pro Nvidii je to citlivé téma, protože firma je největším dodavatelem AI čipů a jakékoliv zpomalení poptávky by ji zasáhlo přímo. Objevují se také zprávy o rostoucím kreditním riziku spojeném s financováním AI projektů (neclouds, OpenAI), což naznačuje, že část příběhu o Nvidii se mění z čistě technologické na finanční - kdo nese riziko, pokud projekty nevydělají tolik, kolik se čeká. Pozitivní je, že minulé výsledky firmy (EPS 2,22 vs odhad 2,14) byly nad očekáváním, což ukazuje, že byznys samotný je zatím zdravý. Nicméně další výsledky přijdou už 17. listopadu 2026 a kolem této zprávy bývá tradičně zvýšená volatilita, protože trh bude hledat potvrzení nebo vyvrácení obav o AI bublinu. Konkurence také sílí - Amazon vyvíjí vlastní AI čipy, což by mohlo postupně erodovat dominantní postavení Nvidie v segmentu AI hardwaru. V krátkodobém horizontu bude klíčové sledovat, jak se vyvíjí sentiment k celému AI sektoru a zda se objeví další zprávy o finančním zdraví partnerů Nvidie. Rizikem je, že pokud se nervozita prohloubí, mohlo by dojít k širší korekci technologických akcií, která by zasáhla i fundamentálně silné firmy jako Nvidia.",
+   "outlook": "neutral"
+  },
+  {
+   "symbol": "AMD",
+   "name": "Advanced Micro Devices",
+   "quote": {
+    "symbol": "AMD",
+    "price": 516.79,
+    "change_pct": 1.744334849290248,
+    "day_high": 523.92,
+    "day_low": 508.3571,
+    "day_open": 510.21
+   },
+   "news": [],
+   "note": null,
+   "earnings_date": "2026-11-03",
+   "next_earnings": {
+    "date": "2026-11-03",
+    "hour": "amc"
+   },
+   "last_earnings": {
+    "date": "2026-06-30",
+    "actual": 1.66,
+    "estimate": 1.63,
+    "beat": true
+   },
+   "week_change_pct": -2.2619385342789666,
+   "analysis": "AMD dnes přidala 1,74 % a obchodovala se v širokém rozpětí 508,36 až 523,92 dolarů, což naznačuje zvýšenou volatilitu i bez konkrétních firemních zpráv. Za posledních sedm dní je ale akcie stále v mínusu 2,26 %, takže dnešní růst lze chápat spíše jako částečný odraz po předchozím poklesu než jako změnu trendu. Chybějící konkrétní novinky o firmě znamenají, že pohyb ceny je primárně odrazem širšího sentimentu v sektoru polovodičů, který byl tento týden pod tlakem kvůli obavám z návratnosti AI investic. Minulé výsledky firmy byly nad očekáváním (EPS 1,66 vs odhad 1,63), což potvrzuje, že byznys AMD jede dobře, zejména v segmentu datacenterových čipů konkurujících Nvidii. Firma profituje z toho, že velké technologické firmy hledají alternativy k Nvidii kvůli diverzifikaci dodavatelů AI hardwaru. Další výsledky přijdou už 3. listopadu 2026, což je velmi brzy, a trh bude bedlivě sledovat, zda firma potvrdí pozitivní trend i v kontextu celkových obav o AI sektor. Rizikem zůstává, že pokud se prohloubí nervozita kolem financování AI projektů, může to zasáhnout i AMD navzdory silným fundamentům. Investoři by měli sledovat zejména komentáře managementu k poptávce po čipech pro datacentra a jakékoliv náznaky zpomalení objednávek.",
+   "outlook": "neutral"
+  },
+  {
+   "symbol": "GOOGL",
+   "name": "Alphabet Inc.",
+   "quote": {
+    "symbol": "GOOGL",
+    "price": 320.21,
+    "change_pct": -1.236814508666969,
+    "day_high": 324.5307,
+    "day_low": 320.18,
+    "day_open": 321.145
+   },
+   "news": [
+    {
+     "headline": "Broadcom Stock Is Down 7% in a Year. Cheap for a Reason or Too Cheap to Ignore?",
+     "summary": "Key TakeawaysBroadcom stock is down 6. 6% over the past year, closing at $321.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=7b7a02c5e2d96788542778e3db38bff7062b38eb3cc1e82e81eada4fabc9b5bd",
+     "datetime": 1792864453
+    },
+    {
+     "headline": "Bro went from a 700-person village in Slovakia to Google then built an app that makes $2k/day",
+     "summary": "Bro went from a 700-person village in Slovakia to Google, then built a startup that got bought by Amazon.Meet Rasty. After high school he moved to Boston to work for a security company that got acquired by Google.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=522babba2cb0e50f874d039b5d843e5320736608ca235ccf745872ba57df436c",
+     "datetime": 1792863083
+    },
+    {
+     "headline": "Chamath: “$0.70-75 of Every Dollar” of AI Spend Is VC Money. The Real Winners Are Already Publicly Traded",
+     "summary": "[IMAGE CREDIT: Dean Drobot and ภาพของoselote via Canva] Key TakeawaysChamath Palihapitiya estimates that 70 to 75 cents of every dollar spent on AI right now is venture money, spent by AI companies that don’t make a profit. Much of that money ends up at Microsoft, Amazon and Alphabet, and they can survive a shakeout far better than the AI labs paying them.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=c5ef94a85d3a914d0e0f4672b802279beee2eb6fe82d63d5e27c5cd332a81b8c",
+     "datetime": 1792858696
+    },
+    {
+     "headline": "The $500 Billion Question: Can Google Cloud’s Massive AI Backlog Outrun Its Mind-Boggling CapEx Boom on Oct. 28?",
+     "summary": "Alphabet (NASDAQ:GOOGL, NASDAQ:GOOG) reports third-quarter results after the close on Wednesday, October 28. Google Cloud’s backlog stands at $514 billion, and 2026 CapEx guidance runs $195 billion to $205 billion. This report shows which one is growing faster. Record Cloud Growth Meets Negative Free Cash Flow Last quarter, revenue rose 24.2% to $119.80 billion, ahead […]",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=6d65834427dc3cebc708845159aa36a7ea4fb3df40e00dec398f382c5d475804",
+     "datetime": 1792856379
+    },
+    {
+     "headline": "Can Amazon Take Market Share From Nvidia in the AI Chip Race?",
+     "summary": "Amazon's AI chips just got a leg up in their ability to compete with Nvidia's GPUs, but don't expect them to have much of an impact on Nvidia's results.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=3d8c7fc5d68ce864e5bb7b70b720cf4c6a4627c3d45bd895034a71d6cf740cb7",
+     "datetime": 1792856100
+    },
+    {
+     "headline": "Two-Thirds of S&P 500 Stocks Rose on Thursday, but the Index Still Fell — Exposing the Risk Hiding in Your Portfolio",
+     "summary": "On a day when most S&P 500 stocks climbed, the index still fell, and the reason reveals a hidden risk that index fund investors rarely see coming until a handful of mega-caps decide their fate.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=0d33a3b13836cd2551310618f0bc0431a69327d371409f04e6998011203df762",
+     "datetime": 1792855207
+    },
+    {
+     "headline": "Stock Market Action Plan: A Preelection Week Primer",
+     "summary": "Investors face a heavy week from the likes of Alphabet and Amazon, along with a Fed meeting and preelection positioning.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=f4d5aa35ae37d1eb55bc1dcf3e14d465ec49d53aabc0884425b01bd180630a35",
+     "datetime": 1792852122
+    },
+    {
+     "headline": "Microsoft Q1: A $744 Billion AI Reckoning Is Coming",
+     "summary": "",
+     "source": "SeekingAlpha",
+     "url": "https://finnhub.io/api/news?id=b62265df1b04e2b92f8175c09b739463d735b8e121ab5f24664b7c0c1c3ecb39",
+     "datetime": 1792851684
+    }
+   ],
+   "note": null,
+   "earnings_date": "2026-10-28",
+   "next_earnings": {
+    "date": "2026-10-28",
+    "hour": "amc"
+   },
+   "last_earnings": {
+    "date": "2026-06-30",
+    "actual": 2.85,
+    "estimate": 2.98,
+    "beat": false
+   },
+   "week_change_pct": -5.98373410845885,
+   "analysis": "Akcie Alphabetu dnes klesla o 1,24 % a za poslední týden ztratila výrazných 5,98 %, což z ní dělá jednoho z nejslabších výkonů mezi sledovanými tituly. Hlavním tématem je blížící se zveřejnění výsledků 28. října 2026, kdy trh bude hledat odpověď na klíčovou otázku - zda masivní backlog Google Cloudu ve výši 514 miliard dolarů dokáže ospravedlnit plánovaný capex na rok 2026 v rozmezí 195 miliard dolarů. Toto napětí mezi obrovskými výdaji a nejistou návratností je centrálním tématem nervozity na trhu s AI akciemi obecně. Minulé výsledky firmy mírně zaostaly za odhady (EPS 2,85 vs odhad 2,98), což přidává na opatrnosti investorů před dalším reportem. Navíc se objevují zprávy o konkurenčním tlaku - Amazon vyvíjí vlastní AI čipy, které by mohly konkurovat Nvidii a nepřímo ovlivnit i postavení Google v cloudové válce. Firma je také zmiňována v kontextu širšího varování, že index S&P 500 klesá navzdory tomu, že většina akcií roste, což ukazuje na riziko koncentrace v několika mega-firmách včetně Alphabetu. Nadcházející týden bude pro akcii klíčový - kromě výsledků i schůzka Fedu a předvolební pozicování mohou zvýšit volatilitu. Rizikem je, že pokud capex guidance pro příští rok zklame nebo bude příliš agresivní bez jasné návratnosti, mohlo by to vyvolat další výprodej.",
+   "outlook": "loss"
+  },
+  {
+   "symbol": "META",
+   "name": "Meta Platforms",
+   "quote": {
+    "symbol": "META",
+    "price": 642.62,
+    "change_pct": -0.9601602835786418,
+    "day_high": 648.04,
+    "day_low": 633.27,
+    "day_open": 638.175
+   },
+   "news": [
+    {
+     "headline": "Why Is CVS Health (CVS) Hiring A Top AI Leader For Pharmacy?",
+     "summary": "CVS Health (NYSE:CVS) has appointed Jack Hanlon as senior vice president of AI and Analytics for its retail and pharmacy operations. Hanlon previously held senior data and analytics roles at Meta and Reddit, bringing large scale consumer technology experience into CVS Health. The new executive role is focused on applying advanced AI and analytics across CVS pharmacy, front store activity and customer programs. Investors may want to weigh the appointment of Jack Hanlon to lead AI and...",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=547b5ca8d5425eb32a41f1c80767b0ae735a9be1f9dfab3608a24bc5eb299688",
+     "datetime": 1792869054
+    },
+    {
+     "headline": "Meta Just Unveiled a New Takeover Weapon — But There's a Catch",
+     "summary": "Meta Platforms Inc. plans to create a new class of non-voting shares it can use to raise capital, pay employees and buy other companies as it pours money into AI. A close read of the company’s filing, however, turns up...",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=8a74ac43b2597b6cb4f85f267e365bfa6233da8937bdd285550590a872e6a22b",
+     "datetime": 1792864810
+    },
+    {
+     "headline": "Meet Wall Street's Newest Major Stock Split: It Has Soared 1,730% Since Its 2012 IPO, and There Is Plenty of Upside Left",
+     "summary": "This tech leader is going all in on AI.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=ceda4b682730423e980b46783863d7bcae29823f5db0646d360d2f545471c55d",
+     "datetime": 1792858802
+    },
+    {
+     "headline": "The AI Power Bill Comes Due: Will GE Vernova’s Q3 Earnings Oct. 28 Prove Its $176B Backlog Is Real?",
+     "summary": "GE Vernova (NYSE:GEV) reports third-quarter results before the open on Oct. 28. The stock fell 11.53% last week on fears about how AI spending will be financed. This report needs to show that the record backlog is still turning into revenue and cash. Record Backlog Meets a Nervous Market Last quarter, revenue of $11.10B rose […]",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=5bc4a4f4eeb9cb191fdae82de1e8232a988624efb10e7ffa119bb3ad38a7ba14",
+     "datetime": 1792857123
+    },
+    {
+     "headline": "Can AI Fiber Still Deliver? Corning Faces High-Stakes Q3 Earnings Test Oct. 27 as Valuation Stretches",
+     "summary": "Corning (NYSE:GLW) reports third-quarter results before the open on Tuesday, Oct. 27. The stock is down 19.93% over the past month. This report needs to show that AI fiber demand still supports a premium valuation. Earnings Beats Keep Coming While Shares Keep Flinching Last quarter, core EPS of $0.78 beat the $0.7538 estimate. That was […]",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=cb66459059ab4564f8498976c276e36465a96f998822f65e4843a28df6d172aa",
+     "datetime": 1792855783
+    },
+    {
+     "headline": "Two-Thirds of S&P 500 Stocks Rose on Thursday, but the Index Still Fell — Exposing the Risk Hiding in Your Portfolio",
+     "summary": "On a day when most S&P 500 stocks climbed, the index still fell, and the reason reveals a hidden risk that index fund investors rarely see coming until a handful of mega-caps decide their fate.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=0d33a3b13836cd2551310618f0bc0431a69327d371409f04e6998011203df762",
+     "datetime": 1792855207
+    },
+    {
+     "headline": "Bank of America revamps Meta stock price target once again",
+     "summary": "Meta beat Wall Street’s number, got fresh upgrades from BofA, JPMorgan and UBS, and still closed in the red. Here is what investors are actually watching.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=e57ed49855abbd322e13ce86d2b6763221f27bcfa427a81903fb728b5e5f86f0",
+     "datetime": 1792854420
+    },
+    {
+     "headline": "Bloom Energy Stock Fell 30% in Under a Month While Estimates Rose. Here’s Where It Could Go by 2030",
+     "summary": "Key Stats for Bloom Energy StockCurrent Price: $193. 30Target Price (Mid): ~$657Street Target: ~$287Potential Total Return: ~240%Annualized IRR: ~34% / year__Now Live: Discover how much upside your favorite stocks could have using TIKR’s new Valuation Model (It’s free)__ >>> What Happened?Bloom Energy (BE) carried a forward P/E of around 78x on September 30.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=5400fe1c0776ae3d52af70531564c2451bd6c67b50fbaa3e43c369501525d7f7",
+     "datetime": 1792853881
+    }
+   ],
+   "note": null,
+   "earnings_date": null,
+   "next_earnings": null,
+   "last_earnings": {
+    "date": "2026-09-30",
+    "actual": 7.4,
+    "estimate": 5.79,
+    "beat": true
+   },
+   "week_change_pct": -9.404010855390693,
+   "analysis": "Meta dnes oslabila o 0,96 % a za poslední týden ztratila výrazných 9,4 %, což je nejhorší týdenní výkon mezi všemi sledovanými akciemi, a to i přesto, že minulé výsledky firmy výrazně porazily odhady analytiků (EPS 7,4 vs odhad 5,79). Tento paradox - silné výsledky, ale padající akcie - naznačuje, že trh se bojí spíše budoucích výdajů než minulé výkonnosti. Klíčovou novinkou je plán Mety vydat novou třídu nehlasovacích akcií, které firma chce použít k financování AI investic, placení zaměstnanců a akvizic. Trh to interpretuje smíšeně - na jednu stranu to dává firmě flexibilitu, na druhou stranu to může naznačovat, že firma potřebuje další kapitál nad rámec současných cash flow kvůli enormním AI výdajům. Analytici z Bank of America, JPMorgan a UBS sice zvýšili cílové ceny po výsledcích, ale akcie přesto zavřela v červeném, což ukazuje na hlubší nervozitu trhu ohledně návratnosti AI investic napříč celým sektorem. Meta je tak v centru širší debaty o tom, zda mega-cap technologické firmy neutrácí příliš agresivně bez jasné viditelnosti návratnosti. V následujících týdnech bude klíčové sledovat, jak trh zareaguje na detaily nového akciového plánu a zda se objeví další zprávy o konkrétním využití AI investic ve firemních produktech.",
+   "outlook": "loss"
+  },
+  {
+   "symbol": "AAPL",
+   "name": "Apple Inc.",
+   "quote": {
+    "symbol": "AAPL",
+    "price": 347.725,
+    "change_pct": -0.14215151341106327,
+    "day_high": 351.73,
+    "day_low": 345.75,
+    "day_open": 349.115
+   },
+   "news": [
+    {
+     "headline": "Broadcom vs. Dell Technologies: Which Stock Is AI Powering to Be a Better Buy in 2026?",
+     "summary": "Broadcom's 36% net margins crush Dell's 5%, but Dell trades at a fraction of the price, a classic growth-versus-value showdown in AI infrastructure.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=95a5e9f09f9e4e6b6b9ca6f4f4af28515ec08ea91b72c0c1767a009d6001c1a1",
+     "datetime": 1792863644
+    },
+    {
+     "headline": "Apple Joins Nvidia in the $5 Trillion Club. Here's Which Stock I Think Can Get to $10 Trillion First.",
+     "summary": "One company serves corporations in a cyclical, increasingly competitive business environment. The other serves consumers who are loyal regardless of the economic backdrop.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=8b112282a2e5f53c2a4ab40fac829dd67aa3065f37ea3066f9dd55311a010380",
+     "datetime": 1792863420
+    },
+    {
+     "headline": "Apple's $1,999 iPhone Duo appears to have an app problem",
+     "summary": "Netflix, Zoom and Microsoft Word are getting made-for-Duo versions, but some of your everyday apps still aren’t ready.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=8ce2636a38b6650670cffc87ee21ca67517807c7da4345b969b36149aec1a2d0",
+     "datetime": 1792862220
+    },
+    {
+     "headline": "PC Sales Just Crashed 21% as AI Eats the World’s Memory Chips",
+     "summary": "AI servers are quietly driving up the cost of every laptop on the shelf, and the companies caught in the middle face a choice between shrinking margins and shrinking sales. How each major PC maker is navigating that trap reveals a lot about which stocks are actually positioned to survive it.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=29bac8e530a1fa7c4c3f8b35db1915974117896b8d58191d8cbda204c6f179a9",
+     "datetime": 1792857052
+    },
+    {
+     "headline": "Two-Thirds of S&P 500 Stocks Rose on Thursday, but the Index Still Fell — Exposing the Risk Hiding in Your Portfolio",
+     "summary": "On a day when most S&P 500 stocks climbed, the index still fell, and the reason reveals a hidden risk that index fund investors rarely see coming until a handful of mega-caps decide their fate.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=0d33a3b13836cd2551310618f0bc0431a69327d371409f04e6998011203df762",
+     "datetime": 1792855207
+    },
+    {
+     "headline": "Is Demand for Apple’s iPhone 18 Pro Weakening? Jefferies Reports Shorter Delivery Times and Order Cuts",
+     "summary": "What does Jefferies say about demand for the iPhone 18?Jefferies believes demand for Apple’s (NASDAQ:AAPL) iPhone 18 Pro and iPhone 18 Pro Max is showing further signs of slowing, based on delivery times, resale prices and information from the company’s supply chain. In a research note published Monday, analyst Edison Lee said the firm’s monitoring indicated weaker underlying demand for Apple’s latest premium smartphones.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=0f9d8afb174bf7814a0e3ec521c3eeada07c93e767d2da8d5204b1f271a900bb",
+     "datetime": 1792853501
+    },
+    {
+     "headline": "Apple just made a surprising move into your home",
+     "summary": "A new gadget lineup extends the iPhone ecosystem to the front door.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=9e0a46da1a5589affa95cf1d94ee0899eb3918eb20a78c9e6b6b3f7a7abcf73e",
+     "datetime": 1792850820
+    }
+   ],
+   "note": null,
+   "earnings_date": "2026-11-02",
+   "next_earnings": {
+    "date": "2026-11-02",
+    "hour": "amc"
+   },
+   "last_earnings": {
+    "date": "2026-06-30",
+    "actual": 1.91,
+    "estimate": 1.93,
+    "beat": false
+   },
+   "week_change_pct": 1.241774879170804,
+   "analysis": "Apple dnes zůstal prakticky beze změny (-0,14 %) a za poslední týden dokonce přidal 1,24 %, což z něj dělá jeden z stabilnějších titulů mezi sledovanými akciemi v období širší nervozity na trhu. Firma nedávno dosáhla historického milníku - vstoupila do klubu firem s tržní hodnotou přes 5 bilionů dolarů, po boku Nvidie, což potvrzuje důvěru investorů v dlouhodobý byznys model založený na loajální zákaznické bázi. Na druhou stranu se objevují varovné signály ohledně poptávky po novém iPhonu 18 Pro - analytici z Jefferies zaznamenali kratší dodací lhůty a snížení objednávek, což by mohlo naznačovat slábnoucí zájem spotřebitelů. Minulé výsledky firmy mírně zaostaly za odhady (EPS 1,91 vs odhad 1,93), což přidává na opatrnosti před dalším reportem. Výsledky přijdou již 2. listopadu 2026 a budou klíčové pro potvrzení, zda se obavy o poptávku po iPhonu promítnou i do čísel. Firma se navíc pouští do nových produktových kategorií, včetně zařízení pro domácnost, což ukazuje snahu diverzifikovat zdroje příjmů mimo iPhone. Rostoucí ceny komponentů kvůli AI boomu (paměťové čipy) mohou tlačit na marže výrobců PC a potenciálně i na Apple. Celkově je Apple v relativně stabilní pozici, ale blížící se výsledky představují klíčový test.",
+   "outlook": "neutral"
+  },
+  {
+   "symbol": "MSFT",
+   "name": "Microsoft Corp.",
+   "quote": {
+    "symbol": "MSFT",
+    "price": 524.51,
+    "change_pct": 0.6582482536270725,
+    "day_high": 525.77,
+    "day_low": 515.7,
+    "day_open": 517.745
+   },
+   "news": [
+    {
+     "headline": "Chamath: “$0.70-75 of Every Dollar” of AI Spend Is VC Money. The Real Winners Are Already Publicly Traded",
+     "summary": "[IMAGE CREDIT: Dean Drobot and ภาพของoselote via Canva] Key TakeawaysChamath Palihapitiya estimates that 70 to 75 cents of every dollar spent on AI right now is venture money, spent by AI companies that don’t make a profit. Much of that money ends up at Microsoft, Amazon and Alphabet, and they can survive a shakeout far better than the AI labs paying them.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=c5ef94a85d3a914d0e0f4672b802279beee2eb6fe82d63d5e27c5cd332a81b8c",
+     "datetime": 1792858696
+    },
+    {
+     "headline": "Microsoft’s $50 Billion Gamble: Can Microsoft’s Azure Growth Justify Its Exploding AI Budget?",
+     "summary": "Microsoft (NASDAQ:MSFT) reports fiscal first-quarter results on Wednesday, October 28, after the close. Management guided quarterly capital spending above $50 billion, so this report will show whether Azure growth can keep pace with the AI bill. Record Azure Quarter Raised the Stakes Microsoft closed fiscal 2026 strongly. Fourth-quarter revenue reached $90.01 billion, up 17.8%, ahead […]",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=462d506daf87fa9ab117043be3ad0dd2db1dbe8bba48c4a690402ae71a268a60",
+     "datetime": 1792856692
+    },
+    {
+     "headline": "Two-Thirds of S&P 500 Stocks Rose on Thursday, but the Index Still Fell — Exposing the Risk Hiding in Your Portfolio",
+     "summary": "On a day when most S&P 500 stocks climbed, the index still fell, and the reason reveals a hidden risk that index fund investors rarely see coming until a handful of mega-caps decide their fate.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=0d33a3b13836cd2551310618f0bc0431a69327d371409f04e6998011203df762",
+     "datetime": 1792855207
+    },
+    {
+     "headline": "Stock Market Action Plan: A Preelection Week Primer",
+     "summary": "Investors face a heavy week from the likes of Alphabet and Amazon, along with a Fed meeting and preelection positioning.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=f4d5aa35ae37d1eb55bc1dcf3e14d465ec49d53aabc0884425b01bd180630a35",
+     "datetime": 1792852122
+    },
+    {
+     "headline": "Microsoft Q1: A $744 Billion AI Reckoning Is Coming",
+     "summary": "",
+     "source": "SeekingAlpha",
+     "url": "https://finnhub.io/api/news?id=b62265df1b04e2b92f8175c09b739463d735b8e121ab5f24664b7c0c1c3ecb39",
+     "datetime": 1792851684
+    }
+   ],
+   "note": null,
+   "earnings_date": "2026-10-28",
+   "next_earnings": {
+    "date": "2026-10-28",
+    "hour": "amc"
+   },
+   "last_earnings": {
+    "date": "2026-06-30",
+    "actual": 4.74,
+    "estimate": 4.33,
+    "beat": true
+   },
+   "week_change_pct": -0.8581419525564623,
+   "analysis": "Microsoft dnes posílil o 0,66 % na 524,51 dolaru, i když za poslední týden je stále mírně v mínusu (-0,86 %). Hlavním tématem před blížícími se výsledky 28. října 2026 je, zda růst cloudové divize Azure dokáže ospravedlnit enormní kapitálové výdaje, které podle vedení firmy přesáhnou 50 miliard dolarů za čtvrtletí. Toto napětí mezi obřími investicemi do AI infrastruktury a jejich návratností je centrálním tématem nervozity napříč celým technologickým sektorem, nejen u Microsoftu. Minulé výsledky firmy jasně porazily odhady (EPS 4,74 vs odhad 4,33), což dává investorům důvod k optimismu, že silný momentum přetrvá i v dalším kvartále. Microsoft je navíc zmiňován v souvislosti s odhadem, že 70-75 % všech peněz utrácených za AI pochází z rizikového kapitálu, přičemž firma sama je označována za jednoho ze skutečných veřejně obchodovaných vítězů tohoto trendu. To je pro Microsoft pozitivní zpráva, protože naznačuje, že firma je už v pozici, kdy sklízí ovoce AI investic, zatímco řada startupů se stále spoléhá na vnější financování. Rizikem zůstává, že pokud capex guidance pro příští kvartály bude ještě agresivnější bez jasného zrychlení tržeb z Azure, mohlo by to vyvolat podobnou nervozitu jako u konkurentů. Nadcházející týden s výsledky, schůzkou Fedu a předvolebním pozicováním bude pro akcii klíčový.",
+   "outlook": "gain"
+  },
+  {
+   "symbol": "VUAA",
+   "name": "S&P 500 (přes SPY)",
+   "quote": {
+    "symbol": "SPY",
+    "price": 759.97,
+    "change_pct": -0.5222786533326365,
+    "day_high": 763.47,
+    "day_low": 758.68,
+    "day_open": 759.896
+   },
+   "news": [
+    {
+     "headline": "China’s Stock Market Is Trailing the U.S. by the Widest Margin in History",
+     "summary": "The gap between U.S. and Chinese stocks just broke a record stretching back decades, and Beijing's state-backed funds are still sitting on their hands while blue-chip shares slide into bear market territory.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=ee79be0096f5215f34a8ae5b1f91aea5be1f6cb8ca3e6a090ec2ced5580f8b9d",
+     "datetime": 1792861076
+    },
+    {
+     "headline": "Americans Are Gloomier Than at Almost Any Time on Record, Michigan Survey Shows",
+     "summary": "Consumer sentiment is near its lowest point in seven decades of surveys, yet retail stocks just posted a strong monthly gain. Something between those two data points will decide how holiday shopping season ends for investors in retail ETFs.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=a1856191ee08d31be8c87c5ca703388f5eb227d100d2e9610f1e0a438eb2ffb8",
+     "datetime": 1792853100
+    },
+    {
+     "headline": "Dave Ramsey Calls 2026 Crash Predictions “Freaking Asinine.” Here’s What the Data Says.",
+     "summary": "Dave Ramsey told a worried caller that a stock market halving is freaking asinine, but the math behind a retiree's 401(k) tells a more complicated story about who actually gets hurt when prices fall.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=d0d00a511715a91f51dde411846980048c6d98a02d3dd752e7765386fd29598c",
+     "datetime": 1792847731
+    }
+   ],
+   "note": "VUAA je evropský ETF na S&P 500 (LSE/Xetra), Finnhub free tier ale evropské burzy nepodporuje. Cena a novinky jsou proto z amerického ETF SPY, který sleduje stejný index 1:1.",
+   "earnings_date": null,
+   "next_earnings": null,
+   "last_earnings": null,
+   "week_change_pct": -0.4297412381264294,
+   "analysis": "VUAA je evropsky obchodovaný ETF kopírující index S&P 500, a protože Finnhub nepodporuje evropské burzy, data o ceně a novinky pocházejí z amerického ETF SPY, který sleduje stejný index 1:1, takže relevance pro VUAA zůstává zachována. Fond dnes mírně oslabil o 0,52 % a za poslední týden je prakticky beze změny (-0,43 %), což odráží relativně stabilní, i když mírně nervózní náladu na širším americkém akciovém trhu. Hlavním tématem ovlivňujícím celý index je rotace kapitálu pryč od AI akcií směrem k defenzivnějším titulům, jak se objevuje v komentářích investičních klubů sledujících portfolio. Zároveň index čelí riziku koncentrace - velká část jeho výkonu závisí na několika mega-cap technologických firmách (Nvidia, Apple, Microsoft, Alphabet, Meta), takže pokud tyto firmy zklamou u výsledků, může to nepřiměřeně ovlivnit celý index i přes to, že většina ostatních akcií roste. Spotřebitelská nálada v USA je podle Michiganského průzkumu blízko historického minima za posledních sedmdesát let, což je potenciální varovný signál pro budoucí spotřebu a ekonomický růst. Zároveň komentátoři jako Dave Ramsey odmítají scénáře dramatického krachu trhu jako přehnané, což naznačuje rozdělené názory mezi profesionály. Pro dlouhodobé investory do široce diverzifikovaného indexu zůstává klíčové sledovat výsledky mega-cap firem v nadcházejících dnech, protože ty budou mít neúměrný vliv na krátkodobý vývoj indexu.",
+   "outlook": "neutral"
+  }
+ ],
+ "macro_news": [
+  {
+   "headline": "Houthis say they attacked Saudi oil sites; strikes reported in Aden - Reuters",
+   "summary": "Houthis say they attacked Saudi oil sites; strikes reported in Aden  Reuters",
+   "source": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNU1JpTkpxd3RUSFgwb29mWkRuSmg5UFd5d1RMQkZMdE5tV3F4cEN6SXFOODhTQUZTbTZucHJGVnpxMWpGZVFuSXJzZ045Q0o1Uzh5NFNvVENFX1M2dFQ0NzRGYjUtWk9TYjBWcldGNS1hY21yS2IyOXBsX29hcFg5N2ZENUlIV2oyTE1OT3hJQUFaS1pjTHV3VnZUTkRWbVFnd0JqYV9iZmVwUW4xcGNVOUdUZmgtaWpkVGdsVzJ1SXR1U1hyWG5uWg?oc=5",
+   "datetime": 1792864731
+  },
+  {
+   "headline": "AI funding fears rattle Wall Street. Here's how we're adjusting our portfolio",
+   "summary": "The rotation out of AI stocks benefited several defensive Club stocks.",
+   "source": "CNBC",
+   "url": "https://www.cnbc.com/investingclub/2026/10/24/ai-funding-fears-rattle-wall-street-heres-how-were-adjusting-our-portfolio.html",
+   "datetime": 1792858440
+  },
+  {
+   "headline": "Libya's Dbeibah says ready to address Egypt's maritime concerns - Reuters",
+   "summary": "Libya's Dbeibah says ready to address Egypt's maritime concerns  Reuters",
+   "source": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVmxsRWg3NGtsREw4YWtPYlZUcjJVN0FJcDJkbzY1ZjdycTZzVzNjVFpwajFzTk9pT1V5QW5JdmQyMWNaOTIxU1pGdHRQQ2ZXcnh2UnFFQTJjUUlrSlpTZVBkNHBvaGpVY3JZMjZoSkliSWYxWm44dEpaQTdsNmNrb0RMV1FfX0p5eUpSQWFCYkpQRWE4WXllX1FYTW1IbE01SDk2bjVpNHVLOHI5RnllbE93?oc=5",
+   "datetime": 1792857849
+  },
+  {
+   "headline": "Iran has ramped up efforts to target US personnel, intelligence memo warns - Reuters",
+   "summary": "Iran has ramped up efforts to target US personnel, intelligence memo warns  Reuters",
+   "source": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSnBGckdpTkdaSnNZeFIyenI0MVVDMHd6R2ZDcTlUX3I4OWNNMlRjd0FTXzhCY09zakU1MWx2RzBpRW1QYTRxY2M3UWpBZHR3S1JlNjQ0WlIyRlh3ZnhNaVZ0OVcwU21YMjUyVVF0RXB0VXFLMWpGdEVtak1DUktTdUdLWmQyWGRFQ0xmb2Z3WG1nSHdfVUxlbUlsc2RJRmNmWVRHS1Qtd0RCVU92d2t1S19HbjlFVzdoREJONTRNYk1iZw?oc=5",
+   "datetime": 1792857823
+  },
+  {
+   "headline": "Around 1,200 Palestinians are displaced in Hebron as Israel begins military operation - Reuters",
+   "summary": "Around 1,200 Palestinians are displaced in Hebron as Israel begins military operation  Reuters",
+   "source": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNU0lFZzBBODd6NDh2OUEyNmMwbFUyalpDRFpwVkVRVkR2VzlOLWdTU1N1ZmhEaFBzaUFmWUVEMFBrdDFDMVF3WVlQWHh5VVFVd2R6LVM5b3VxakFlNVhwQlNwcHVhaHV0dDZuYjgzSU5qUTdtalpZd2tmQlFxN3ZtcmNpaTdvM3hCUlhMck5ubkphU25lT2dFU0ZvSDVXNEE0amJ1X3IwLU82a2M3TWROaU1SYWhhdHJuQmpLTzZtckhsaVdwODdaOTNaNkk?oc=5",
+   "datetime": 1792857728
+  },
+  {
+   "headline": "Retail investors are not more sophisticated than 30 years ago, says former hedge fund manager",
+   "summary": "Retail investors trying to beat the market by buying individual stocks and complex exchange-traded funds may be better off with broad market index funds.",
+   "source": "CNBC",
+   "url": "https://www.cnbc.com/2026/10/24/stock-picking-could-hurt-investors-warns-former-hedge-fund-manager.html",
+   "datetime": 1792854001
+  },
+  {
+   "headline": "I quit my marketing job to walk dogs for 4 months: It's 'one of the most valuable professional experiences I've ever had'",
+   "summary": "\"People sometimes assume dog walking was a gap or detour in my career. I see it as one of the most valuable professional experiences I've had,\" says Sally Simmons.",
+   "source": "CNBC",
+   "url": "https://www.cnbc.com/make-it/2026/10/24/quit-marketing-job-walk-dogs.html",
+   "datetime": 1792852561
+  },
+  {
+   "headline": "Jordan church attack survivor says assailant pointed handgun at him - Reuters",
+   "summary": "Jordan church attack survivor says assailant pointed handgun at him  Reuters",
+   "source": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZVhBcHBITVRDY2hGb1hueUEwVnhWbUhBc3dvc2NXTk5Yd3NybDQyUW15R3NfVnBmOHpJLVo5b2UyVmN5NjdURndGT2xQb05hSlE4UU52cnFYMDdjbnlQTm9LRHpBSkdLSDUtTlhKdGJYVjN1cGY3c2hEelZjN3FhRXM1X0ZYbVk1Q05lX3ZPdWtBRHE4U3BHUjJtNUpMemJTbXhRcEVERGFZTUt2QW1JbXlSWUpWOGZ6UWc?oc=5",
+   "datetime": 1792851020
+  }
+ ],
+ "macro": [
+  {
+   "time": "19:58",
+   "title": "Húsíové útočí na saúdská ropná zařízení, hlášeny útoky v Adenu",
+   "body": "Jemenští Húsíové oznámili útok na ropná zařízení v Saúdské Arábii, přičemž současně byly hlášeny útoky v jihojemenském městě Aden. Eskalace násilí v regionu zvyšuje geopolitické riziko a může tlačit na ceny ropy. Pro investory je to další připomínka, že nestabilita na Blízkém východě zůstává rizikovým faktorem pro globální trhy. Případné narušení dodávek ropy by mohlo zvýšit inflační tlaky.",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNU1JpTkpxd3RUSFgwb29mWkRuSmg5UFd5d1RMQkZMdE5tV3F4cEN6SXFOODhTQUZTbTZucHJGVnpxMWpGZVFuSXJzZ045Q0o1Uzh5NFNvVENFX1M2dFQ0NzRGYjUtWk9TYjBWcldGNS1hY21yS2IyOXBsX29hcFg5N2ZENUlIV2oyTE1OT3hJQUFaS1pjTHV3VnZUTkRWbVFnd0JqYV9iZmVwUW4xcGNVOUdUZmgtaWpkVGdsVzJ1SXR1U1hyWG5uWg?oc=5",
+   "source": "Reuters"
+  },
+  {
+   "time": "18:14",
+   "title": "Obavy z financování AI otřásají Wall Street",
+   "body": "Investoři přehodnocují riziko spojené s obřími investicemi do AI infrastruktury, což vyvolalo rozsáhlou rotaci kapitálu z technologických akcií do defenzivnějších titulů. Tento sentiment zasáhl i jinak fundamentálně silné firmy jako Nvidia, Meta nebo Alphabet. Analytici upozorňují, že klíčovou otázkou je, kdo ponese riziko, pokud se AI investice nevyplatí podle očekávání. Sledování vývoje této nervozity bude klíčové pro další směřování trhu v nadcházejících týdnech.",
+   "url": "https://www.cnbc.com/investingclub/2026/10/24/ai-funding-fears-rattle-wall-street-heres-how-were-adjusting-our-portfolio.html",
+   "source": "CNBC"
+  },
+  {
+   "time": "18:03",
+   "title": "Zpravodajská zpráva varuje před zvýšenou íránskou hrozbou vůči americkému personálu",
+   "body": "Zpravodajský memorandum upozorňuje, že Írán zintenzivnil snahy zacílit na americký personál v regionu. Tato zpráva přidává další vrstvu geopolitické nejistoty k již tak napjaté situaci na Blízkém východě. Zvýšené geopolitické riziko může ovlivnit ceny komodit a vyvolat defenzivnější postoj investorů. Trh bude sledovat, zda se tato hrozba promění v konkrétní eskalaci.",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSnBGckdpTkdaSnNZeFIyenI0MVVDMHd6R2ZDcTlUX3I4OWNNMlRjd0FTXzhCY09zakU1MWx2RzBpRW1QYTRxY2M3UWpBZHR3S1JlNjQ0WlIyRlh3ZnhNaVZ0OVcwU21YMjUyVVF0RXB0VXFLMWpGdEVtak1DUktTdUdLWmQyWGRFQ0xmb2Z3WG1nSHdfVUxlbUlsc2RJRmNmWVRHS1Qtd0RCVU92d2t1S19HbjlFVzdoREJONTRNYk1iZw?oc=5",
+   "source": "Reuters"
+  },
+  {
+   "time": "17:00",
+   "title": "Retailoví investoři se za 30 let nestali sofistikovanějšími, varuje bývalý manažer hedgeového fondu",
+   "body": "Podle bývalého manažera hedgeového fondu jsou drobní investoři snažící se porazit trh výběrem jednotlivých akcií nebo složitých ETF stále stejně zranitelní jako před třiceti lety. Doporučuje místo toho zvážit širší indexové fondy, které minimalizují riziko koncentrace. Tato debata je aktuální i vzhledem k dnešní rotaci kapitálu z koncentrovaných AI sázek. Zpráva je relevantní i pro drobné investory sledující tento přehled.",
+   "url": "https://www.cnbc.com/2026/10/24/stock-picking-could-hurt-investors-warns-former-hedge-fund-manager.html",
+   "source": "CNBC"
+  }
+ ],
+ "macro_analysis": "",
+ "tips": [
+  {
+   "ticker": "AMZN",
+   "name": "Amazon.com, Inc.",
+   "tag": "AI čipy mimo Nvidii",
+   "reason": "Amazon vyvíjí vlastní AI čipy, které začínají konkurovat Nvidii v cenově výhodnějším segmentu. Stojí za sledování, zda dokáže postupně ukrojit podíl na trhu AI hardwaru."
+  },
+  {
+   "ticker": "AVGO",
+   "name": "Broadcom Inc.",
+   "tag": "AI síťování",
+   "reason": "Akcie je za poslední rok v mínusu přes 6 %, přestože firma dosahuje vysokých 36% čistých marží. Otázkou je, zda jde o podhodnocenou příležitost, nebo zaslouženou opatrnost trhu."
+  },
+  {
+   "ticker": "GEV",
+   "name": "GE Vernova",
+   "tag": "mimo tech sektor",
+   "reason": "Energetická firma s obřím 176miliardovým backlogem by měla profitovat z rostoucí poptávky po elektřině pro AI datacentra. Stock byl pod tlakem kvůli obavám z financování AI, což může nabízet zajímavý vstupní bod."
+  },
+  {
+   "ticker": "BE",
+   "name": "Bloom Energy Corporation",
+   "tag": "palivové články / energie",
+   "reason": "Akcie klesla o 30 % za necelý měsíc i přesto, že analytici zvyšují odhady budoucího růstu. Firma je spojována s dodávkami energie pro datacentra, což z ní dělá zajímavý příběh v kontextu AI infrastruktury."
+  }
+ ],
+ "glossary": {
+  "term": "CapEx (kapitálové výdaje)",
+  "explanation": "CapEx jsou peníze, které firma investuje do dlouhodobého majetku, jako jsou datacentra, servery, výrobní haly nebo stroje. Čím vyšší CapEx firma vynakládá na AI projekty, tím více musí v budoucnu dokázat, že se tato investice promítne do vyšších tržeb a zisků."
+ },
+ "weekly_recap": null
+}
