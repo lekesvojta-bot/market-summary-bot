@@ -1,73 +1,73 @@
 {
- "timestamp": "2026-11-05T23:29:41.101968+00:00",
+ "timestamp": "2026-11-06T22:55:47.410791+00:00",
  "stocks": [
   {
    "symbol": "NVDA",
    "name": "NVIDIA Corp.",
    "quote": {
     "symbol": "NVDA",
-    "price": 181.6,
-    "change_pct": -9.258981661919753,
-    "day_high": 196.25,
-    "day_low": 181.462,
-    "day_open": 196.07
+    "price": 186.64,
+    "change_pct": 2.7753303964757667,
+    "day_high": 194.895,
+    "day_low": 185.22,
+    "day_open": 191.1
    },
    "news": [
     {
-     "headline": "Certara, Inc. Q3 2026 Earnings Call Summary",
-     "summary": "Moby summary of Certara, Inc.'s Q3 2026 earnings call",
+     "headline": "SovAI Joins NVIDIA Inception to Build Behind-the-Meter AI Factories to the NVIDIA DSX Reference Architecture",
+     "summary": "DANA POINT, Calif., November 06, 2026--SovAI, Inc. (\"SovAI\"), The AI Factory Architect, today announced that it has joined NVIDIA Inception, a program that nurtures startups revolutionizing industries with technology advancements. SovAI designs, builds and operates sovereign, behind-the-meter AI Factories — campuses built on Sovereign Fuel, Sovereign Power and Sovereign Compute — to NVIDIA’s published DSX reference architecture, and orchestrates them with Scotty, its operating engineer for AI Fa",
      "source": "Yahoo",
-     "url": "https://finnhub.io/api/news?id=24373599ce85b08139194e678745bf4af8f0a76865fabca9cca729647fc1fefa",
-     "datetime": 1793915385
+     "url": "https://finnhub.io/api/news?id=2b9471663aa38930f32f8f6b7c2e465d7fddcb4c247564ec2e3cbc939fb3bb43",
+     "datetime": 1794001920
     },
     {
-     "headline": "Stocks slide as Wall Street's post-election rally fizzles",
-     "summary": "Yahoo Finance Markets and Data Editor Jared Blikre breaks down all of today's market moves, which largely trended downward as markets reversed the gains and optimism from the blue wave rally.",
+     "headline": "Tech Stock Sell-Off 'Golden Buying Opportunity,' Says Dan Ives",
+     "summary": "The tech stock sell-off presents a \"golden buying opportunity\" for investors to buy marquee stocks like Apple, Microsoft and Nvidia, one analyst says.",
      "source": "Yahoo",
-     "url": "https://finnhub.io/api/news?id=ae31a30e4968cce694dc866cb65131dabff08fe771bdf2adfc4191f4b5b25500",
-     "datetime": 1793914970
+     "url": "https://finnhub.io/api/news?id=a372fdb648fc051013dc05120caafc6f220ed4acb9304a0232698d5b3d43ae6a",
+     "datetime": 1794001595
     },
     {
-     "headline": "If I Could Put $10,000 Into Just 1 Dividend Grower in November, It'd Be This One",
-     "summary": "Vici Properties is still an evergreen income play for patient investors.",
+     "headline": "Dow Jones Futures: Market Needs Repair But Sandisk, Micron Broken; Apple, Amazon, Microsoft Strong",
+     "summary": "The stock market needs repair while Sandisk and Micron seem broken. Apple, Amazon and Microsoft are holding up. Berkshire earnings loom.",
      "source": "Yahoo",
-     "url": "https://finnhub.io/api/news?id=1058f3749fe73b2e00d47ca356c3b9036a59bdd040cbc84b27ffff69b8730ce1",
-     "datetime": 1793914800
+     "url": "https://finnhub.io/api/news?id=4ee5b6a059dd5bd95c396ca8a8e637a13a1ca1ef4f6606dee11cee58ecacdd36",
+     "datetime": 1794001510
     },
     {
-     "headline": "SpaceX Lessors Look To Sell $40 Bil AI Deal. ARK Buys The Dip On SPCX Stock.",
-     "summary": "Goldman Sachs, Apollo Global look to sell portions of $40 billion GPU deal with SpaceX. Cathie Wood buys the dip amid AI retreat.",
+     "headline": "Midterms Are Over. Here's What History Says the S&P 500 Does Next.",
+     "summary": "With the election behind us, investors can have a lot more confidence in what the future holds.",
      "source": "Yahoo",
-     "url": "https://finnhub.io/api/news?id=9d87196dcf21289685dd10fbf8db114ec0131a89e3525151166404d1ad27f309",
-     "datetime": 1793914777
+     "url": "https://finnhub.io/api/news?id=0c912296ec1fe77629fc132c60fdf738fa4658d3f2fcaa9349e6913106d4e4db",
+     "datetime": 1794000960
     },
     {
-     "headline": "Nasdaq Stock Market Correction: History Says This Is What Happens Next",
-     "summary": "The Nasdaq Composite is officially in correction territory. Here's what past corrections suggest about the months ahead.",
+     "headline": "Elon Musk Says SpaceX Sales Are ‘Exploding’—and Forecasts Revenue Twice Wall Street’s Estimate",
+     "summary": "Ron Baron’s annual investment conference often includes a conversation with the SpaceX CEO Baron calls “Starman.”",
      "source": "Yahoo",
-     "url": "https://finnhub.io/api/news?id=8d6b0f4e82fa1b3a8e884771daa7d717f6c776fbf4ebd5ded47bd77c70bdb920",
-     "datetime": 1793914741
+     "url": "https://finnhub.io/api/news?id=378e940ecd251312d4b4842099b719eaa05c1093d0d3ab6e0d3d60c9d5c0bbd3",
+     "datetime": 1794000840
     },
     {
-     "headline": "Update: Nasdaq Enters Correction Territory Amid Data Center Anxiety; Nvidia Tumbles Over 9%",
-     "summary": "(Updates with market moves at the end of the day, and other changes, if any.) The Nasdaq Composit",
+     "headline": "Nvidia, Intel, Tesla, AMD, Coherent, Lam Research, Moderna, and More Stocks That Explain Today’s Market",
+     "summary": "Nvidia trades higher Friday after recording its second-largest one-day market cap decline on record on Thursday.",
      "source": "Yahoo",
-     "url": "https://finnhub.io/api/news?id=0f325875b27ad90ce9d4d0a66196e8f9624c39305ebef2845d51b4a6232b5037",
-     "datetime": 1793914691
+     "url": "https://finnhub.io/api/news?id=2480405a1cce846a97720bc8c938ac402e4170a6e2d73d97494757da4d3a6d54",
+     "datetime": 1794000480
     },
     {
-     "headline": "Prediction: Buying Archer Aviation Today Could Set You Up for Life",
-     "summary": "Could Archer turn patient investors into millionaires?",
+     "headline": "Asian markets follow US rout as AI investment jitters spread",
+     "summary": "Stock markets in Asia plunged Friday, following a tech-led sell-off in the US on anticipation that newly elected Democratic officials could stymie an AI investment boom that’s driven global stocks to record highs.",
      "source": "Yahoo",
-     "url": "https://finnhub.io/api/news?id=7fa6f4fe5541c901a63e646de20b6ef998dd0b9b9a737ca29cef98ad76dfc923",
-     "datetime": 1793914500
+     "url": "https://finnhub.io/api/news?id=41a452161f8b505a65e59de6da1e0ff387578352c44982764bb4cb6e633f7698",
+     "datetime": 1793999590
     },
     {
-     "headline": "Stock Market Today: Nasdaq Craters 5% As Chips Sell Off; Arm Misses Key Metric (Live Coverage)",
-     "summary": "The Dow Jones index rises Thursday after the postelection rally. Cava and Dutch Bros plunge on earnings.",
+     "headline": "Micron vs. Nvidia: Which AI Stock Is a Better Buy for 2027?",
+     "summary": "Micron (MU) and Nvidia (NVDA) have become major beneficiaries of the AI boom. Nvidia leads in AI chips, while Micron supplies memory used in AI systems. Both companies could benefit from continued spending on data centers in 2027. In terms of price performance, Micron stock has gained 130% year-to-date, while Nvidia stock has fallen about 3%. Still, analysts see room for both stocks to rise. TipRanks data shows Micron has greater forecast upside. MU average price target implies 147.06% upside, c",
      "source": "Yahoo",
-     "url": "https://finnhub.io/api/news?id=7b03e4f62d11149c891d84f1cfa1405a75df67b23def9613e9a1362e63eecfcd",
-     "datetime": 1793914485
+     "url": "https://finnhub.io/api/news?id=ad3b1f3a99e8d775542e6dd0f2f4f8fe20eaf7a40df5c5aa5d9b9855933dd009",
+     "datetime": 1793999562
     }
    ],
    "note": null,
@@ -82,77 +82,77 @@
     "estimate": 2.14,
     "beat": true
    },
-   "week_change_pct": -15.0051483665637,
-   "analysis": "Nvidia dnes ztratila přes 9 % a za týden propadla o 15 %, čímž smazala celý letošní zisk v jediné seanci. Hlavní příčinou je obava trhu, že nové politické rozložení sil po volbách zpomalí tempo investic do AI infrastruktury, na kterém Nvidia extrémně závisí. Firma přitom v posledním kvartále (do 30.9.2026) porazila odhady – EPS 2,22 USD vs. očekávaných 2,14 USD – což ukazuje, že fundamenty zatím drží, ale sentiment trhu je silnější než čísla. Zajímavé je, že dřívější klienti jako SpaceX se zbavují části svého 40miliardového GPU dealu, což naznačuje možné ochlazení poptávky na straně velkých zákazníků, byť Cathie Wood a ARK nákup naopak využili k nákupu. Nasdaq jako celek vstoupil do korekce, a Nvidia je klíčovým barometrem celého AI sektoru, takže její pohyby silně ovlivňují i širší indexy a ETF. Rizikem je, že pokud se obavy z politického zpomalení AI výdajů potvrdí, mohlo by dojít k revizi výhledů i u dalších velkých hráčů. Na druhou stranu historicky platí, že po prudkých propadech bývá zotavení rychlé, pokud fundamenty firmy zůstávají silné. Earnings 17.11.2026 budou klíčové – trh bude hledat potvrzení, že poptávka po čipech zůstává stabilní navzdory politické nejistotě. Investoři by měli sledovat zejména komentáře managementu k výhledu na rok 2027 a případné zprávy o zrušených nebo odložených zakázkách. Krátkodobě lze čekat vysokou volatilitu, zejména kolem data výsledků.",
-   "outlook": "loss"
+   "week_change_pct": -8.795934323690384,
+   "analysis": "NVDA dnes posílila o 2.78 % na 186.64 USD poté, co v předchozích dnech zažila jeden z největších jednodenních propadů tržní kapitalizace v historii. Za posledních sedm dní je akcie stále v mínusu 8.8 %, což odráží širší vlnu obav investorů z toho, že demokraté po vítězství v midtermových volbách mohou zpomalit budování AI datacenter kvůli regulacím a nákladům na energie. Analytik Dan Ives nicméně označil tento výprodej za „zlatou kupní příležitost“ pro akcie jako Nvidia, Apple nebo Microsoft, což naznačuje, že část trhu vidí propad jako přehnanou reakci. Poslední čtvrtletní výsledky firmy byly silné – EPS 2.22 USD překonal odhad 2.14 USD, což potvrzuje, že poptávka po AI čipech zůstává vysoká navzdory makro nejistotě. Firma dál rozšiřuje svůj ekosystém, například přes program NVIDIA Inception, do kterého se nově zapojila startup SovAI budující AI datacentra. Srovnání s konkurencí jako Micron ukazuje, že trh začíná více zvažovat, kdo bude z AI boomu profitovat nejvíc – zda dodavatelé čipů jako Nvidia, nebo dodavatelé paměti. Hlavním rizikem zůstává přecenění AI sektoru jako celku a politická nejistota kolem regulace datacenter v USA. Důležitým milníkem budou další výsledky 17.11.2026, kolem kterých lze očekávat zvýšenou volatilitu. Krátkodobě bude cena pravděpodobně citlivá na další zprávy o AI investicích a sentimentu velkých technologických firem. Celkově zůstává dlouhodobý příběh Nvidie jako lídra AI čipů nedotčený, i když cesta tam bude pravděpodobně hodně volatilní.",
+   "outlook": "gain"
   },
   {
    "symbol": "AMD",
    "name": "Advanced Micro Devices",
    "quote": {
     "symbol": "AMD",
-    "price": 404.4,
-    "change_pct": -17.26339048242563,
-    "day_high": 456.2,
-    "day_low": 402.1,
-    "day_open": 452.5
+    "price": 449.04,
+    "change_pct": 11.038575667655797,
+    "day_high": 459.8,
+    "day_low": 433.3,
+    "day_open": 444.43
    },
    "news": [
     {
-     "headline": "US stocks nosedive as Democrat victory sparks investor panic",
-     "summary": "Wall Street suffered its worst sell-off since Donald Trump’s tariff rollout amid fears the Democrats will derail the AI boom.",
+     "headline": "Advanced Micro Devices (AMD) Joined A Quantum Error Correction Platform Launch",
+     "summary": "Advanced Micro Devices (NasdaqGS:AMD) joined IBM and Oak Ridge National Laboratory to launch a new quantum error correction co-design platform. The effort links IBM quantum hardware with AMD high performance classical processors inside Oak Ridge National Laboratory’s research environment. The collaboration aligns with the U.S. Department of Energy’s Quantum Genesis Mission and focuses on hybrid quantum classical computing research. The new AMD role in quantum error correction research is...",
      "source": "Yahoo",
-     "url": "https://finnhub.io/api/news?id=7bb800d88f374cb313694986e6c93ece120b641a30a4c34b645e8738bcf4e30c",
-     "datetime": 1793914360
+     "url": "https://finnhub.io/api/news?id=9050315a6dab6cbace31aef6c0c917a75f479cb38607ffead6470acb88efab6e",
+     "datetime": 1793999895
     },
     {
-     "headline": "The AI Trade Just Had Its Worst Day Since The Pandemic",
-     "summary": "Nvidia gave back its entire 2026 gain in one session as Wall Street reprices the AI buildout after the midterms.",
+     "headline": "5 Latest Jim Cramer Stock Picks on Twitter and Mad Money",
+     "summary": "Markets are trembling amid the latest AI stock sell-off, which has sent shares of major AI players deep into the red. But CNBC’s Jim Cramer believes the downturn is not another dot-com crash. Cramer warned that AI stocks could fall further, particularly semiconductor companies whose shares surged during the AI boom. However, he argued that […]",
      "source": "Yahoo",
-     "url": "https://finnhub.io/api/news?id=988f77e04ab051ec88c3aa97d592f2a43dc88fef31c9e628f63cdce30a7dffb0",
-     "datetime": 1793913671
+     "url": "https://finnhub.io/api/news?id=dfbd3a28558813fc24dd47167dfdba2097db3fb605fedf6ea6b674ac7578e653",
+     "datetime": 1793999411
     },
     {
-     "headline": "Is AMD Stock a Buy as AI Revenue Soars?",
-     "summary": "AMD expects its revenue to surge 80% next year.",
+     "headline": "Core Scientific Inc (CORZ) (Q3 2026) Earnings Call Highlights: Colocation Revenue Surges 60% as ...",
+     "summary": "Core Scientific Inc (CORZ) more than tripled adjusted EBITDA to $134 million with margins expanding to 57% as it bills 485 MW of its CoreWeave contract and prepares to exit Bitcoin mining by year-end.",
      "source": "Yahoo",
-     "url": "https://finnhub.io/api/news?id=60ff0562859a02ca3ea6023b4717548b8724d9426baf05cb64b9517498bfd362",
-     "datetime": 1793911140
+     "url": "https://finnhub.io/api/news?id=f4b44573eaa526512d9f95ebabca4ddf5ce6e4250f4a39f4ccecfe42a0886eb8",
+     "datetime": 1793999344
     },
     {
-     "headline": "Advanced Micro Devices vs. Taiwan Semiconductor Manufacturing: The AI Sell-Off Is Exposing a Critical Difference Investors Shouldn't Ignore for 2027",
-     "summary": "For investors looking toward 2027, profitability and pricing power could matter more than ever.",
+     "headline": "Why Micron’s Stock Valuation Now Looks Ridiculous",
+     "summary": "Micron stock has an incredibly low price-to-earnings multiple. Here's how to assess whether it's a bargain.",
      "source": "Yahoo",
-     "url": "https://finnhub.io/api/news?id=5f3e75bd4e615a43c6baa1175c4cf8edacd1d9db8e37ebfc2f72a03a9d71adee",
-     "datetime": 1793910002
+     "url": "https://finnhub.io/api/news?id=106e3096acbd18983ca3214ab9e9696708407b8f42a20b160d97240a844b53ed",
+     "datetime": 1793996460
     },
     {
-     "headline": "Marvell Just Dropped 49% in a Month: Is MRVL Stock Hopeless or Ready for a Rebound?",
-     "summary": "Marvell's results keep improving, yet its shares have been gutted by an all-stock acquisition and an election night shock for AI spending. Two analysts looked at the same deal and reached opposite verdicts, and the gap between them is huge.",
+     "headline": "Broadcom Is Still Down 22% in the Past Month: Is AVGO Stock Really on a Road to Recovery?",
+     "summary": "While rival chipmakers bounce back from the midterm-driven selloff, Broadcom sits frozen despite triple-digit AI growth and a bargain multiple. What does the market see in its customers and margins that the earnings report doesn't?",
      "source": "Yahoo",
-     "url": "https://finnhub.io/api/news?id=62c01bf8c245a147750755373aee48ac3b487aaf8c40eb712399e464c51ad965",
-     "datetime": 1793909001
+     "url": "https://finnhub.io/api/news?id=ceb93d212de466d3444f3787ae127328490c94f329e2391674794bab5b44860d",
+     "datetime": 1793995399
     },
     {
-     "headline": "Why AMD Stock Is Down Today",
-     "summary": "AMD stock is getting hammered in a chip sell-off after Democrats' midterm wins, even though the company just reported a record quarter.",
+     "headline": "Intel and AMD in Focus as Tech Stocks Seek Rebound",
+     "summary": "Investors weighed a possible technology recovery ahead of the October U.S. jobs report.",
      "source": "Yahoo",
-     "url": "https://finnhub.io/api/news?id=bf8263ae987e3de85dea535774e449e6de008135e6cc4961933e568729c9366c",
-     "datetime": 1793908801
+     "url": "https://finnhub.io/api/news?id=a6f641ff01d1e6498be33dc3f519c23ddc9fb977d1a96964605736eadf05dcd6",
+     "datetime": 1793992842
     },
     {
-     "headline": "Stock Market Today: Dow Down 1,500 Points As Volatility Spikes; Expedia Posts A Soft Outlook (Live Coverage)",
-     "summary": "The Dow Jones index rises Thursday after the postelection rally. Cava and Dutch Bros plunge on earnings.",
+     "headline": "Oracle Faces Major Wall Street Test After AI Selloff",
+     "summary": "Strong demand is masking an increasingly complicated financial equation.",
      "source": "Yahoo",
-     "url": "https://finnhub.io/api/news?id=5077f927305c7d6d6209bd8bfdb739bab68622fd790bed96467bbc23076bf198",
-     "datetime": 1793907980
+     "url": "https://finnhub.io/api/news?id=25444a669b2412544d1c3292408538fad853afd125dfb2a901f7b30449673dd3",
+     "datetime": 1793992445
     },
     {
-     "headline": "AMD Stocks Fall 12.68% Despite a $17 Billion Revenue Outlook",
-     "summary": "The market is demanding execution after data-center revenue nearly doubled.",
+     "headline": "AMD Stock Soars After Thursday's Rout. AI Fears Take a Back Seat",
+     "summary": "AMD Stock Makes a Powerful Comeback. Investors Return to AI Chipmakers",
      "source": "Yahoo",
-     "url": "https://finnhub.io/api/news?id=3d3545c03e21e552d108d7d7af6ba7fe73d3a0607a2b9532adab304b01c9c254",
-     "datetime": 1793907147
+     "url": "https://finnhub.io/api/news?id=8ba5c6f35d3088089ac6cbf5fa02d6935708a3330db79912d35916bdb55a7c44",
+     "datetime": 1793992151
     }
    ],
    "note": null,
@@ -167,77 +167,77 @@
     "estimate": 1.97,
     "beat": true
    },
-   "week_change_pct": -28.60421595282652,
-   "analysis": "AMD zažívá nejhorší den za dlouhou dobu s propadem přes 17 % a týdenním poklesem skoro 29 %, a to navzdory tomu, že firma právě reportovala rekordní kvartál s EPS 2,09 USD proti odhadovaným 1,97 USD. Firma navíc oznámila výhled tržeb 17 miliard USD a očekávaný meziroční růst 80 % v příštím roce, což jsou extrémně silná čísla – trh je ale ignoruje kvůli obavám z politického rizika pro celý AI sektor po volbách. To je typický příklad situace, kdy sentiment trhu dočasně převáží nad fundamenty firmy. Server Motley Fool srovnává AMD s TSMC a upozorňuje, že ziskovost a cenová síla budou klíčové faktory pro rok 2027 – AMD zde musí dokázat, že dokáže konkurovat Nvidii nejen objemem, ale i maržemi. Podobný osud postihl i konkurenční Marvell, který klesl 49 % za měsíc, což naznačuje, že jde o sektorový, nikoli firemně specifický problém. Rizikem je, že pokud se obavy z politického zpomalení AI investic prohloubí, může to tlačit na valuace celého segmentu ještě déle. Na druhou stranu, silné výsledky a rostoucí datacentrová divize jsou fundamentálně pozitivní signál, který by měl časem převážit. Earnings nejsou až do února 2027, takže v mezidobí bude cena akcie více řízena makro náladou a zprávami o AI výdajích než firemními novinkami. Investoři by měli sledovat, zda se objeví konkrétní zprávy o zrušených kontraktech nebo regulatorních omezeních, které by potvrdily obavy trhu.",
-   "outlook": "loss"
+   "week_change_pct": -11.045958795562596,
+   "analysis": "AMD dnes vystřelilo o více než 11 % na 449.04 USD, což představuje silný odraz po čtvrtečním prudkém propadu způsobeném obavami z AI bubliny po volbách. I přes dnešní růst je akcie za posledních sedm dní stále v mínusu přes 11 %, což ukazuje, jak volatilní byl tento týden pro celý AI chip sektor. Firma nedávno oznámila spolupráci s IBM a Oak Ridge National Laboratory na platformě pro kvantovou korekci chyb, což signalizuje diverzifikaci směrem k budoucím výpočetním technologiím nad rámec klasických GPU. Poslední kvartální výsledky byly nad očekáváním – EPS 2.09 USD vs odhad 1.97 USD, což potvrzuje silnou provozní výkonnost. Komentátor Jim Cramer uklidňoval investory, že současný výprodej AI akcií nepřipomíná dot-com krach, což mohlo přispět k dnešnímu sentimentu. Zajímavý je i kontext konkurence – zatímco Broadcom zůstává výrazně pod tlakem, AMD a Intel se naopak snaží o rychlý rebound. Hlavním rizikem pro AMD zůstává přetrvávající nervozita kolem vládní regulace AI datacenter a celkové ocenění sektoru, které někteří investoři považují za přehnané. Další kvartální výsledky jsou plánované až na 1.2.2027, takže do té doby bude cena hlavně reagovat na širší sentiment k AI akciím. Krátkodobě lze očekávat pokračující vysokou volatilitu, dlouhodobě ale firma těží z rostoucí poptávky po výpočetním výkonu pro AI.",
+   "outlook": "gain"
   },
   {
    "symbol": "GOOGL",
    "name": "Alphabet Inc.",
    "quote": {
     "symbol": "GOOGL",
-    "price": 282.57,
-    "change_pct": -2.201225210258545,
-    "day_high": 295.6,
-    "day_low": 277.07,
-    "day_open": 293.97
+    "price": 284.78,
+    "change_pct": 0.7821070885090348,
+    "day_high": 290.49,
+    "day_low": 284.59,
+    "day_open": 284.9
    },
    "news": [
     {
-     "headline": "Nasdaq Stock Market Correction: History Says This Is What Happens Next",
-     "summary": "The Nasdaq Composite is officially in correction territory. Here's what past corrections suggest about the months ahead.",
+     "headline": "Reddit’s (RDDT) Short-Term Pains May Lead to Long-Term Gains",
+     "summary": "Reddit’s (RDDT) short-term pains may lead to long-term gains, in my view. The leading social media platform lost more than 25% of its market value soon after it reported Q3 earnings on October 30. This crash followed traffic headwinds from Google’s (GOOGL) AI Overviews and the rollout of its new artificial intelligence (AI) Mode features, which negatively impacted Reddit’s user growth. However, on November 4, Reddit stock surged 6% after the company announced that it is testing ad placements on",
      "source": "Yahoo",
-     "url": "https://finnhub.io/api/news?id=8d6b0f4e82fa1b3a8e884771daa7d717f6c776fbf4ebd5ded47bd77c70bdb920",
-     "datetime": 1793914741
+     "url": "https://finnhub.io/api/news?id=1a92905ce41d80869458beb44ed94cd0167cd44c96e6ebb545e0cc881c30a697",
+     "datetime": 1794001560
     },
     {
-     "headline": "USA TODAY: The Newspaper That Sued the Toll Collector",
-     "summary": "Search pressure touches less than 5% of revenue, so the real test is whether direct-sold ads and digital subscriptions can carry growth.",
+     "headline": "TeraWulf Inc (WULF) (Q3 2026) Earnings Call Highlights: Securing Hyperscaler Backstops and ...",
+     "summary": "TeraWulf Inc (WULF) leverages investment-grade customer support and protected deal economics to drive long-term data center value while managing regulatory and execution challenges.",
      "source": "Yahoo",
-     "url": "https://finnhub.io/api/news?id=f39738d133b72fe00682a5db4e8b646e171f66fdcd91536f64b6b20506c4ae84",
-     "datetime": 1793914681
+     "url": "https://finnhub.io/api/news?id=ef823a850bbb679f602c559811ea9515e7f3b91eee073a5c1ba22b116fb3f8e0",
+     "datetime": 1793999663
     },
     {
-     "headline": "dYdX Team’s Arcus Opens Stock-Token Collateral to All Perps Traders, With a $20,000 Cap",
-     "summary": "The Robinhood Chain exchange dropped the $25 million volume requirement from its October early access, but non-USDG deposits stay capped at $20,000 per trader and $2 million overall.",
+     "headline": "Data centers are unpopular — and a key motor of economic growth",
+     "summary": "The political backlash against data centers is intensifying, threatening to choke off a critical source of U.S. investment, according to economists.",
      "source": "Yahoo",
-     "url": "https://finnhub.io/api/news?id=13ff6bb5b8375e26be743847499187be89c107dc4d2d1dc77c272c3742ccce27",
-     "datetime": 1793913956
+     "url": "https://finnhub.io/api/news?id=1e199df333b74012ab43dc708804ccb88f4074ed78bc14eb805dfbed8b4f65bd",
+     "datetime": 1793999344
     },
     {
-     "headline": "Best Mag7 dip buys: NVIDIA leads on valuation, Alphabet on RSI",
-     "summary": "Investing.com -- The Mag7 are being sold off together today, but they aren’t equally cheap. Roundhill Magnificent Seven ETF (MAGS) is -4.61% at $67.04 (as of Nov 5, 2026, 3:34 PM EST). Articles from today tie the move to AI-spending worries and fears of tighter AI regulation after the midterms. One strategist called it \"an emotional sell-off\" driven by hedge fund de-leveraging. Read more (Nov 5, 2026)",
+     "headline": "Google buys Wyoming data center site as hyperscalers move to own AI capacity",
+     "summary": "Investing.com -- Alphabet is buying the site it could have rented.",
      "source": "Yahoo",
-     "url": "https://finnhub.io/api/news?id=496eac2bb303ceb2a17a87dc0bb8ab068c59af155a51972a772f76d316dff50c",
-     "datetime": 1793912813
+     "url": "https://finnhub.io/api/news?id=a426300f1242ef4e86645f39e46a5b13f2ff979b5caa766baff29a562d8d2a92",
+     "datetime": 1793998833
     },
     {
-     "headline": "Reddit Sinks 8% as Social Ad Worries Deepen in Tech Rout",
-     "summary": "Key TakeawaysReddit shares fell 8% today after Snap reported just 4% ad revenue growth, in a broad tech selloff. Meta’s 26% revenue growth last quarter suggests advertisers are still spending on the biggest social platform, so Snap’s slowdown looks like Snap’s own problem.",
+     "headline": "What TeraWulf (WULF) Said on Its Q3 Earnings Call",
+     "summary": "TeraWulf (NASDAQ:WULF) reported higher third-quarter revenue as high-performance computing leases expanded, while executives outlined financing and construction plans for its data center projects in New York and Kentucky. Revenue rose to $76.2 million from $44.8 million in the second quarter. HPC l",
      "source": "Yahoo",
-     "url": "https://finnhub.io/api/news?id=6191b8e02e60b4fd11cb66451cc10b1f73abc1d81b816402145f6977ed5a1825",
-     "datetime": 1793910420
+     "url": "https://finnhub.io/api/news?id=ba69b5727a403266c9f5bbcb816f22a3bb700c792dda38a6e8e6ef3aee455f82",
+     "datetime": 1793996084
     },
     {
-     "headline": "3 Stocks Riding The Shift Away From Search Ads",
-     "summary": "Alphabet’s wobble in search has cracked open a rare window where investors are suddenly forced to rethink where digital ad dollars might flow next. When a long trusted profit engine comes under question, money often goes looking for fresh stories, new business models, and different kinds of pricing power. This article walks through 3 stocks exposed to that shift, explaining how each could either benefit from or be hurt by the current reset in expectations. The three stocks below are a small...",
+     "headline": "Anthropic’s “Down Quarter” Highlights Broadcom’s $161 Billion Risk",
+     "summary": "Key TakeawaysAnthropic’s amended S-1 shows third-quarter revenue up about 47% from the second quarter, while compute and infrastructure expenses rose about 78%. Jason Lemkin says Anthropic’s net new bookings fell in the third quarter, even though the company has committed $895 billion to compute.",
      "source": "Yahoo",
-     "url": "https://finnhub.io/api/news?id=cb6ca00ff6f38b0b38c1c1290c5d88c035c6e89c72fb0318b28667bebed9487d",
-     "datetime": 1793909778
+     "url": "https://finnhub.io/api/news?id=be1bcfde11b0b70cc4d2969045030264ef277982397ed1ff6eab6a8d2c58080a",
+     "datetime": 1793995994
     },
     {
-     "headline": "AI demand isn't going anywhere, but volatility lies ahead",
-     "summary": "Host and \"The Buy Side\" author Turney Duff and his panel of experts weigh in on the effect of the blue wave following the midterm election results.Today's panel includes Hennion & Walsh CIO Kevin Mahn, Neostellar Principal Willy Lee, Grenadilla Advisory Founder and CEO Anna Rathbun, and Futurum Chief Market Strategist Shay Boloor.",
+     "headline": "Warby Parker Sets Sights On Smart Glasses Launch",
+     "summary": "Designer eyewear firm Warby Parker will begin taking preorders on Nov. 12 for its first smart glasses, branded Intelligent Eyewear.",
      "source": "Yahoo",
-     "url": "https://finnhub.io/api/news?id=0dc1c6b33415d29597a63688e2c4b5b53f2ad8cd1111de1e6b296458f3ab0701",
-     "datetime": 1793907733
+     "url": "https://finnhub.io/api/news?id=80bcd2a2da8ecd2b712e9a4c84833566d64085cda7e9e698e51d69c873a17ce7",
+     "datetime": 1793993923
     },
     {
-     "headline": "Google could take stake in TeraWulf’s $19B AI project",
-     "summary": "Google has agreed to backstop Anthropic’s $19 billion lease at bitcoin miner TeraWulf’s Kentucky data center. If Anthropic defaults, Google can take over the lease or take a stake in the project. Plus, Payward purchases AAVE tokens and Standard Chartered’s venture arm invests in Soter. CoinDesk’s Jennifer Sanasie hosts “CoinDesk Daily.” - This episode is brought to you by Grayscale, the world's largest digital asset-focused investment platform. Grayscale's mission is to make digital asset investing simple and open to every investor. Learn more at grayscale.com.",
+     "headline": "Microsoft and Google Face a New Bill as Data Centers “Have to Pay Their Own Costs”",
+     "summary": "Key TakeawaysVoters turned against new data centers in the Nov. 3 midterms, and Microsoft, Alphabet, Amazon and Meta now face rules that make them pay for their own power and grid.",
      "source": "Yahoo",
-     "url": "https://finnhub.io/api/news?id=fa6ef5364694bb289bb9a9c4a1b0ca821c1ebdfb7c6dbdc2927dca4c2944531f",
-     "datetime": 1793907347
+     "url": "https://finnhub.io/api/news?id=2fd7129275681e6971a4303583f1b62e8f6df7d72e9a36b6f218846161727553",
+     "datetime": 1793993717
     }
    ],
    "note": null,
@@ -252,8 +252,8 @@
     "estimate": 3.11,
     "beat": false
    },
-   "week_change_pct": -0.44041998449721653,
-   "analysis": "Alphabet dnes klesl jen o 2,2 %, což je výrazně mírnější pokles než u čistě AI hardwarových firem jako Nvidia nebo AMD, a za týden je dokonce téměř na nule (-0,44 %). To naznačuje, že trh vnímá Google jako relativně bezpečnější sázku na AI éru díky diverzifikovanému byznysu (reklama, cloud, Search). Poslední kvartální výsledky ale byly pod odhady – EPS 2,67 USD vs. očekávaných 3,11 USD – což je varovný signál a ukazuje na tlak na marže nebo vyšší investiční výdaje. Zajímavá je zpráva, že Google může získat podíl v 19miliardovém AI datacentrovém projektu TeraWulf výměnou za garanci Anthropic leasingu, což ukazuje na agresivní strategii budování AI infrastruktury i mimo vlastní cloud. Analytici z Investing.com řadí Alphabet mezi atraktivní „dip buy“ příležitosti podle RSI ukazatele, což signalizuje, že část trhu vidí současnou cenu jako podhodnocenou. Rizikem zůstává tlak na tradiční vyhledávací byznys, protože nové AI nástroje mění způsob, jakým lidé hledají informace online, a firma musí dokázat, že dokáže nahradit případný výpadek search revenue jinými zdroji příjmů. Právní spor s Kalifornií ohledně zákona o mládeži na sociálních sítích je dalším rizikovým faktorem, i když spíše okrajovým. Earnings budou až 2.2.2027, takže v mezidobí bude cena řízena hlavně celkovým sentimentem k AI sektoru a makro vývojem.",
+   "week_change_pct": 1.7652944539736986,
+   "analysis": "GOOGL dnes přidalo mírných 0.78 % na 284.78 USD a za posledních sedm dní si drží dokonce plusových 1.77 %, což z něj dělá jednu ze stabilnějších akcií ve sledovaném koši uprostřed turbulentního týdne. Firma nedávno koupila pozemek pro datacentrum ve Wyomingu, což ukazuje strategii vlastnit infrastrukturu místo jejího pronájmu od hyperscalerů – dlouhodobě to může snížit náklady a zvýšit kontrolu nad kapacitou pro AI projekty. Na druhou stranu roste politický tlak po midtermových volbách, kdy nové zákony mohou přimět Alphabet, Microsoft, Amazon a Metu platit za vlastní energetické náklady spojené s datacentry, což by mohlo zvýšit provozní výdaje. Poslední kvartální výsledky byly pod očekáváním – EPS 2.67 USD vs odhad 3.11 USD, což je varovný signál a stojí za sledování v příštích kvartálech. Širší kontext ukazuje rostoucí odpor veřejnosti vůči stavbě datacenter kvůli spotřebě energie a vody, což může zpomalit expanzi AI infrastruktury napříč celým sektorem. Pozitivní je, že Google nadále investuje masivně do vlastní AI kapacity, což signalizuje důvěru vedení v dlouhodobý růst poptávky. Rizikem zůstává regulatorní tlak a možný další miss v příštích výsledcích, vzhledem k minulému zklamání. Příští výsledky jsou plánované na 2.2.2027, do té doby bude akcie pravděpodobně těžit ze své relativní stability oproti volatilnějším konkurentům jako Nvidia nebo AMD.",
    "outlook": "neutral"
   },
   {
@@ -261,68 +261,68 @@
    "name": "Meta Platforms",
    "quote": {
     "symbol": "META",
-    "price": 605.08,
-    "change_pct": -3.955555555555549,
-    "day_high": 634.99,
-    "day_low": 583.8,
-    "day_open": 632.3
+    "price": 610.15,
+    "change_pct": 0.8379057314735137,
+    "day_high": 625.6,
+    "day_low": 606.66,
+    "day_open": 607.33
    },
    "news": [
     {
-     "headline": "dYdX Team’s Arcus Opens Stock-Token Collateral to All Perps Traders, With a $20,000 Cap",
-     "summary": "The Robinhood Chain exchange dropped the $25 million volume requirement from its October early access, but non-USDG deposits stay capped at $20,000 per trader and $2 million overall.",
+     "headline": "Data centers are unpopular — and a key motor of economic growth",
+     "summary": "The political backlash against data centers is intensifying, threatening to choke off a critical source of U.S. investment, according to economists.",
      "source": "Yahoo",
-     "url": "https://finnhub.io/api/news?id=13ff6bb5b8375e26be743847499187be89c107dc4d2d1dc77c272c3742ccce27",
-     "datetime": 1793913956
+     "url": "https://finnhub.io/api/news?id=1e199df333b74012ab43dc708804ccb88f4074ed78bc14eb805dfbed8b4f65bd",
+     "datetime": 1793999344
     },
     {
-     "headline": "Best Mag7 dip buys: NVIDIA leads on valuation, Alphabet on RSI",
-     "summary": "Investing.com -- The Mag7 are being sold off together today, but they aren’t equally cheap. Roundhill Magnificent Seven ETF (MAGS) is -4.61% at $67.04 (as of Nov 5, 2026, 3:34 PM EST). Articles from today tie the move to AI-spending worries and fears of tighter AI regulation after the midterms. One strategist called it \"an emotional sell-off\" driven by hedge fund de-leveraging. Read more (Nov 5, 2026)",
+     "headline": "Insurers race to capture value from agentic AI",
+     "summary": "Allstate is preparing to do business with personal AI agents while Manulife is eyeing $1 billion in enterprise AI value by next year.",
      "source": "Yahoo",
-     "url": "https://finnhub.io/api/news?id=496eac2bb303ceb2a17a87dc0bb8ab068c59af155a51972a772f76d316dff50c",
-     "datetime": 1793912813
+     "url": "https://finnhub.io/api/news?id=488fca8a8656231a561bce2a0a5916da3a322d4339668a0432eaec72caed683e",
+     "datetime": 1793997439
     },
     {
-     "headline": "Reddit Sinks 8% as Social Ad Worries Deepen in Tech Rout",
-     "summary": "Key TakeawaysReddit shares fell 8% today after Snap reported just 4% ad revenue growth, in a broad tech selloff. Meta’s 26% revenue growth last quarter suggests advertisers are still spending on the biggest social platform, so Snap’s slowdown looks like Snap’s own problem.",
+     "headline": "Microsoft and Google Face a New Bill as Data Centers “Have to Pay Their Own Costs”",
+     "summary": "Key TakeawaysVoters turned against new data centers in the Nov. 3 midterms, and Microsoft, Alphabet, Amazon and Meta now face rules that make them pay for their own power and grid.",
      "source": "Yahoo",
-     "url": "https://finnhub.io/api/news?id=6191b8e02e60b4fd11cb66451cc10b1f73abc1d81b816402145f6977ed5a1825",
-     "datetime": 1793910420
+     "url": "https://finnhub.io/api/news?id=2fd7129275681e6971a4303583f1b62e8f6df7d72e9a36b6f218846161727553",
+     "datetime": 1793993717
     },
     {
-     "headline": "SoftBank's $5.4 billion AI bet hits a stunning roadblock",
-     "summary": "Beijing's decision threatens SoftBank's robotics expansion and raises concerns about cross-border technology acquisitions.",
+     "headline": "Bill Ackman Bought Meta “at a Huge Discount.” He Says Analysts Are Missing Its Growth",
+     "summary": "Key TakeawaysBill Ackman said on CNBC’s Squawk Pod that Pershing Square bought Meta at a huge discount after it announced big capex spending, and that it had bought Microsoft and Amazon the same way when their stocks dropped. Ackman says analysts put the cost of the AI build-out into their models but give no credit for faster growth, and he sees Muse as Meta’s payoff.",
      "source": "Yahoo",
-     "url": "https://finnhub.io/api/news?id=442cde5e75888f39993d9139a054797a9dc3655ccc45891b4304d57abd2cbbb8",
-     "datetime": 1793907260
+     "url": "https://finnhub.io/api/news?id=fa3296b8847683ab18f96df149ebdac5a9dadda5d1761f11df9d46aa3b4b4410",
+     "datetime": 1793993327
     },
     {
-     "headline": "SpaceX Stock Is Still Falling. It Trades At Apple’s Valuation.",
-     "summary": "China Renaissance initiates coverage of SpaceX with a Buy rating and a $194.20 price target,",
+     "headline": "Not Alphabet. Not Meta. This Is the Digital Advertising Stock I'd Buy Right Now.",
+     "summary": "Amazon's ad revenue grew 12% last quarter, and management expects high-teens growth next. Here's what's driving it and how the stock is valued.",
      "source": "Yahoo",
-     "url": "https://finnhub.io/api/news?id=48156ee18f765962ec49ad55aa4e83d0b33dfd686657ae74cfa16e36f84c62ee",
-     "datetime": 1793906940
+     "url": "https://finnhub.io/api/news?id=ef965e8db54e8c5cba00452a057d983e5a9d09f79abc0b7d81ee992b72e4dfca",
+     "datetime": 1793992800
     },
     {
-     "headline": "Meta (META) Acquires Conductor As New U.S. AI Rules Cloud The Payoff",
-     "summary": "Meta Platforms (NasdaqGS:META) has acquired AI coding startup Conductor to expand its AI driven developer tools offering. The purchase adds code generation and automation capabilities that Meta plans to integrate across its internal engineering platforms. Following Democratic gains in the U.S. midterm elections, lawmakers are signaling tighter oversight of large scale AI infrastructure projects. The Conductor acquisition and fresh U.S. regulatory pressure on AI infrastructure are worth...",
+     "headline": "If Meta Reaches $700, Your $1,000 Investment Would Be Worth This Much",
+     "summary": "Meta stock sits nearly $100 below its recent peak, and the gap between a modest recovery and a five-year windfall is wider than most investors expect. Here is exactly what a $1,000 stake could look like across six distinct scenarios.",
      "source": "Yahoo",
-     "url": "https://finnhub.io/api/news?id=c34d72aced51447459258a157916ffd768166c5677ddd29f095687b7b0de2493",
-     "datetime": 1793905883
+     "url": "https://finnhub.io/api/news?id=c76e3e22b1ba4fc268593345984ef72e5285f3ee5df035b971a5374baaa9ff64",
+     "datetime": 1793986430
     },
     {
-     "headline": "Meta, Google, TikTok Challenge New California Youth Social Media Law",
-     "summary": "Meta Platforms (META), Alphabet's (GOOG, GOOGL) Google and TikTok filed separate complaints Wednesda",
+     "headline": "Apple, Meta, Musk Face New Threat From Democrats",
+     "summary": "Political relationships are becoming a potentially costly corporate liability.",
      "source": "Yahoo",
-     "url": "https://finnhub.io/api/news?id=aa57c448b585e5d7dded1aa8ab440a183c8bedfc69e85bd4ec4d576c532feaa1",
-     "datetime": 1793905812
+     "url": "https://finnhub.io/api/news?id=d25199855d8892f98dcc99f17c3ace093346b13d59fa0f3e8a3022141fe46b47",
+     "datetime": 1793985746
     },
     {
-     "headline": "Meta Platforms Stocks Fall 6.76% as AI Investment Tests Cash Flow",
-     "summary": "Advertising growth provides funding, but the latest quarter still produced negative free cash flow.",
+     "headline": "Prediction: Wall Street Has the Post-Midterm Artificial Intelligence (AI) Trade Completely Wrong",
+     "summary": "Following the results of the midterm elections, Wall Street seems convinced data center construction will slow down in the U.S.",
      "source": "Yahoo",
-     "url": "https://finnhub.io/api/news?id=cb627e203fe03a5b59b1d14415f813aff8bc08b620847284d3e146f56ed73ecf",
-     "datetime": 1793905167
+     "url": "https://finnhub.io/api/news?id=6a3678b37970efe8baad52f39970c3572ec472ea6dfff26b6f6538f9bddd86a3",
+     "datetime": 1793983800
     }
    ],
    "note": null,
@@ -337,8 +337,8 @@
     "estimate": 6.87,
     "beat": true
    },
-   "week_change_pct": -3.1127906231986073,
-   "analysis": "Meta klesla dnes o necelá 4 % a za týden o 3,1 %, což je mírnější propad než u čistě hardwarových AI firem, ale stále výrazný. Firma reportovala silné výsledky za poslední kvartál (EPS 7,4 USD vs. odhad 6,87 USD) a reklamní byznys rostl meziročně o 26 %, což je impozantní číslo i v kontextu zpomalující digitální reklamy u konkurentů jako Snap nebo Reddit. Problémem je ale záporné volné cash flow způsobené enormními investicemi do AI infrastruktury – trh začíná testovat, jak dlouho může Meta financovat svůj AI buildout bez dopadu na finanční zdraví. Akvizice startupu Conductor pro AI vývojářské nástroje ukazuje, že firma pokračuje v expanzi i navzdory novým americkým AI regulacím, které situaci komplikují. Právní spor s Kalifornií ohledně zákona o ochraně mládeže na sociálních sítích je dalším rizikovým faktorem, který může přinést dodatečné náklady nebo omezení byznysu. Pozitivní je, že silný růst reklamy naznačuje, že firma zatím neztrácí inzerenty navzdory širším obavám o stav digitální reklamy. Rizikem pro příští týdny je, že pokud trh bude dál negativně vnímat AI capex bez jasné návratnosti, mohlo by to tlačit na valuaci i přes silné provozní výsledky. Earnings budou 26.1.2027, do té doby bude akcie citlivá na zprávy o AI regulaci a celkovém sentimentu k velkým technologickým firmám.",
+   "week_change_pct": -0.7870046667425539,
+   "analysis": "META dnes vzrostla jen mírně o 0.84 % na 610.15 USD a za týden je prakticky beze změny (-0.79 %), což z ní dělá jednu z klidnějších akcií uprostřed divokého týdne na trhu. Investor Bill Ackman uvedl, že jeho fond Pershing Square koupil akcie Mety „za velkou slevu“ poté, co firma oznámila masivní kapitálové výdaje na AI infrastrukturu, a že analytici podle něj podceňují její růstový potenciál. Na druhou stranu firma čelí i politickému tlaku – nová legislativa po midtermových volbách může přinutit velké technologické firmy platit vlastní náklady na energetickou infrastrukturu datacenter. Poslední kvartální výsledky výrazně překonaly odhady – EPS 7.4 USD vs očekávaných 6.87 USD, což potvrzuje silnou monetizaci reklamní platformy i přes vysoké investice do AI. Meta také čelí politickým rizikům spojeným s napjatými vztahy mezi velkými technologickými firmami a demokratickou administrativou, což by mohlo zkomplikovat budoucí regulaci. Z hlediska konkurence je zajímavé srovnání s Amazonem, jehož reklamní byznys roste rychleji než u Mety nebo Alphabetu, což může v budoucnu tlačit na tržní podíl. Hlavním rizikem zůstává přecenění očekávání ohledně návratnosti masivních AI investic a politická nejistota. Příští výsledky přijdou 26.1.2027 a budou klíčové pro potvrzení, zda vysoké kapitálové výdaje skutečně přinášejí odpovídající růst tržeb.",
    "outlook": "neutral"
   },
   {
@@ -346,68 +346,68 @@
    "name": "Apple Inc.",
    "quote": {
     "symbol": "AAPL",
-    "price": 344.17,
-    "change_pct": -1.527853280306708,
-    "day_high": 355.38,
-    "day_low": 342.06,
-    "day_open": 353.89
+    "price": 342.37,
+    "change_pct": -0.5229973559578148,
+    "day_high": 345.79,
+    "day_low": 338.3,
+    "day_open": 338.73
    },
    "news": [
     {
-     "headline": "dYdX Team’s Arcus Opens Stock-Token Collateral to All Perps Traders, With a $20,000 Cap",
-     "summary": "The Robinhood Chain exchange dropped the $25 million volume requirement from its October early access, but non-USDG deposits stay capped at $20,000 per trader and $2 million overall.",
+     "headline": "Dow Jones Futures: Market Needs Repair But Sandisk, Micron Broken; Apple, Amazon, Microsoft Strong",
+     "summary": "The stock market needs repair while Sandisk and Micron seem broken. Apple, Amazon and Microsoft are holding up. Berkshire earnings loom.",
      "source": "Yahoo",
-     "url": "https://finnhub.io/api/news?id=13ff6bb5b8375e26be743847499187be89c107dc4d2d1dc77c272c3742ccce27",
-     "datetime": 1793913956
+     "url": "https://finnhub.io/api/news?id=4ee5b6a059dd5bd95c396ca8a8e637a13a1ca1ef4f6606dee11cee58ecacdd36",
+     "datetime": 1794001510
     },
     {
-     "headline": "Why Is Apple (AAPL) Capping Internal AI Spending Under John Ternus?",
-     "summary": "Apple (NasdaqGS:AAPL) has introduced strict internal limits on AI spending and usage under new CEO John Ternus. The new rules cap internal AI project budgets and headcount allocations in response to rising expenses and margin pressure. Teams working on AI tooling for employees must now justify infrastructure usage with tighter approval thresholds and periodic cost reviews. Apple's new AI usage and budget caps fit into a broader pattern of internal shifts that recent research has highlighted...",
+     "headline": "5 Latest Jim Cramer Stock Picks on Twitter and Mad Money",
+     "summary": "Markets are trembling amid the latest AI stock sell-off, which has sent shares of major AI players deep into the red. But CNBC’s Jim Cramer believes the downturn is not another dot-com crash. Cramer warned that AI stocks could fall further, particularly semiconductor companies whose shares surged during the AI boom. However, he argued that […]",
      "source": "Yahoo",
-     "url": "https://finnhub.io/api/news?id=7ddf38a7642a9505673f5c66815658ec33c474d34aa1c7be2049ab6ad7b9c2c0",
-     "datetime": 1793913167
+     "url": "https://finnhub.io/api/news?id=dfbd3a28558813fc24dd47167dfdba2097db3fb605fedf6ea6b674ac7578e653",
+     "datetime": 1793999411
     },
     {
-     "headline": "Best Mag7 dip buys: NVIDIA leads on valuation, Alphabet on RSI",
-     "summary": "Investing.com -- The Mag7 are being sold off together today, but they aren’t equally cheap. Roundhill Magnificent Seven ETF (MAGS) is -4.61% at $67.04 (as of Nov 5, 2026, 3:34 PM EST). Articles from today tie the move to AI-spending worries and fears of tighter AI regulation after the midterms. One strategist called it \"an emotional sell-off\" driven by hedge fund de-leveraging. Read more (Nov 5, 2026)",
+     "headline": "Dan Ives: “20% of the World” Will Access AI Through an Apple Device",
+     "summary": "Key TakeawaysApple is worth about $615 billion more than Nvidia after Thursday’s AI selloff took 9% off Nvidia’s stock. Wedbush Securities analyst Dan Ives thinks about 15% of Apple’s Services revenue will come from AI over the coming years, and he values that at $75 a share.",
      "source": "Yahoo",
-     "url": "https://finnhub.io/api/news?id=496eac2bb303ceb2a17a87dc0bb8ab068c59af155a51972a772f76d316dff50c",
-     "datetime": 1793912813
+     "url": "https://finnhub.io/api/news?id=ab5323f46f0fa0682a6b445c8d67ac4b840b9604fb43c66a4553795bb3ed4d8f",
+     "datetime": 1793993184
     },
     {
-     "headline": "Apple Reportedly Set To Raise $7.5B From Bond Offering Amid Market Selloff",
-     "summary": "Apple Inc. is securing $7.5 billion through a high-grade corporate bond offering, drawing heavy investor demand despite a broader market downturn.",
+     "headline": "Qualcomm Faces Worst Day Since 2020 as Chips Crater",
+     "summary": "Qualcomm's handset miss collided with a much broader AI-chip de-rating.",
      "source": "Yahoo",
-     "url": "https://finnhub.io/api/news?id=eb9fbb561f78d56b4fb209529aa525948e5fb4e9b0f8ce4db84193c45d181bef",
-     "datetime": 1793912585
+     "url": "https://finnhub.io/api/news?id=0f77d1b95792e9384dfc0ab93db662dee95830a1128ec2675d8f350424e296ff",
+     "datetime": 1793988992
     },
     {
-     "headline": "SpaceX Stock Is Still Falling. It Trades At Apple’s Valuation.",
-     "summary": "China Renaissance initiates coverage of SpaceX with a Buy rating and a $194.20 price target,",
+     "headline": "State Pension Funds Have at Least $578 Billion Riding on Tumbling AI Stocks",
+     "summary": "A nonprofit just tallied how much teachers, firefighters, and other public retirees have riding on AI, and the next day the market flinched. Who ends up covering the gap if the bet goes wrong?",
      "source": "Yahoo",
-     "url": "https://finnhub.io/api/news?id=48156ee18f765962ec49ad55aa4e83d0b33dfd686657ae74cfa16e36f84c62ee",
-     "datetime": 1793906940
+     "url": "https://finnhub.io/api/news?id=62c1c847d05576e921c3cd75c5632c5fb553fd3f10f6aef85fdd7710f7a47de4",
+     "datetime": 1793986481
     },
     {
-     "headline": "Apple Stocks Move Lower as Investors Revisit Earnings Quality",
-     "summary": "Tariff refunds boosted reported profit metrics in the latest quarter.",
+     "headline": "Apple Is “the Anti-AI Large Cap Tech Trade,” Says Josh Brown. Now It’s Capping AI Spending",
+     "summary": "Key TakeawaysApple closed at a record on Nov. 4, worth about $5.",
      "source": "Yahoo",
-     "url": "https://finnhub.io/api/news?id=f52db1cf991ce716f6a7ba701ad7b12d35026aef01d73b5c0072fc2202a7e8ab",
-     "datetime": 1793906448
+     "url": "https://finnhub.io/api/news?id=f2ac749267eccb059f97672938e3cd68181ea001062b69d9f76d919376395db6",
+     "datetime": 1793985793
     },
     {
-     "headline": "Apple Makes Major $7 Billion Funding Move",
-     "summary": "The seven-part sale comes amid a historic Big Tech borrowing wave.",
+     "headline": "Apple, Meta, Musk Face New Threat From Democrats",
+     "summary": "Political relationships are becoming a potentially costly corporate liability.",
      "source": "Yahoo",
-     "url": "https://finnhub.io/api/news?id=7ce8ebad26d1a20eb2caeb7db5cfe696eef1117fa4cfeeac4c40868a2fa9e961",
-     "datetime": 1793904513
+     "url": "https://finnhub.io/api/news?id=d25199855d8892f98dcc99f17c3ace093346b13d59fa0f3e8a3022141fe46b47",
+     "datetime": 1793985746
     },
     {
-     "headline": "Why GM and Hilton Are Moving to the Nasdaq From NYSE",
-     "summary": "Hilton President and CEO Chris Nassetta said about the switch: “Nasdaq is closely aligned with our growth ambitions.”",
+     "headline": "Apple Stocks Edge Lower as $7.5 Billion Bond Sale Prices Across Seven Tranches",
+     "summary": "Apple priced fixed coupons from 4.65% to 5.35%, plus floating notes, its first bond deal since 2025.",
      "source": "Yahoo",
-     "url": "https://finnhub.io/api/news?id=80fe5b96fadb1833df1b5bbd390fc1e84a1b26a4ee818eb04f7eb89de79a7d5a",
-     "datetime": 1793903820
+     "url": "https://finnhub.io/api/news?id=70de226ed55efdfcfe05040f24132cdba1d1fcb9cdbc4196e16c1dc2ce7af65c",
+     "datetime": 1793984886
     }
    ],
    "note": null,
@@ -422,8 +422,8 @@
     "estimate": 2.03,
     "beat": true
    },
-   "week_change_pct": -1.3585165228855605,
-   "analysis": "Apple patří mezi nejodolnější akcie dnešního výprodeje s poklesem pouze 1,53 % a za týden jen -1,36 %, což je výrazně lepší výkon než u AI-centrických firem jako Nvidia nebo AMD. To odráží fakt, že Apple je méně přímo exponovaný vůči cyklu AI infrastrukturních investic a má diverzifikovanější a stabilnější byznys model založený na hardwaru a službách. Firma právě úspěšně umístila dluhopisy v hodnotě 7,5 miliardy USD navzdory rozbouřenému trhu, což ukazuje na silnou důvěru investorů v její úvěrovou bonitu i v těžkých časech. Poslední výsledky mírně překonaly odhady (EPS 2,05 USD vs. 2,03 USD), i když se objevují otázky ohledně kvality zisků kvůli jednorázovým vlivům z celních refundací. Nový CEO John Ternus zavedl přísné limity na interní AI výdaje, což může být vnímáno pozitivně z pohledu finanční disciplíny, ale zároveň vyvolává otázky, zda Apple nezaostává v AI závodě za konkurencí. Rizikem je, že pokud se ukáže, že firma skutečně zaostává v AI inovacích, mohlo by to dlouhodobě ohrozit její konkurenceschopnost vůči Google nebo Microsoftu. Na druhou stranu konzervativní přístup k AI výdajům může ochránit marže v období, kdy trh trestá firmy s vysokým AI capexem a nejasnou návratností. Earnings budou 27.1.2027 a budou klíčové pro potvrzení, zda defenzivní charakter akcie vydrží i v delším horizontu.",
+   "week_change_pct": -0.6557757595101967,
+   "analysis": "AAPL dnes mírně oslabilo o 0.52 % na 342.37 USD, ale za týden drží relativně stabilní pozici s poklesem jen 0.66 %, což z ní dělá jednu z nejodolnějších akcií během turbulentního týdne na trzích. Analytik Josh Brown označil Apple za „anti-AI velkou tech akcii“, protože firma drží AI výdaje pod kontrolou na rozdíl od konkurentů jako Microsoft nebo Meta, což investoři v období obav z AI bubliny ocenili. Dan Ives dokonce tvrdí, že 20 % světové populace bude přistupovat k AI právě přes zařízení Apple, což podtrhuje strategickou pozici firmy v hardwarovém ekosystému AI. Poslední kvartální výsledky mírně překonaly odhady – EPS 2.05 USD vs 2.03 USD – což potvrzuje stabilní, i když ne výbušný růst. Firma také nedávno vydala dluhopisy v hodnotě 7.5 miliardy USD, svou první emisi od roku 2025, což naznačuje, že i přes vysokou hotovostní pozici hledá financování pro budoucí investice. Politické riziko představují napjaté vztahy s demokratickou administrativou, která podle zpráv zvažuje tvrdší dohled nad velkými technologickými firmami. Rizikem pro akcii zůstává i to, že relativní odolnost vůči AI výprodeji může být dočasná, pokud se sentiment k sektoru zlepší a investoři se přesunou zpět k rizikovějším AI akciím. Další výsledky přijdou 27.1.2027 a budou klíčovým testem, zda konzervativní přístup k AI výdajům firmě dlouhodobě prospívá nebo škodí.",
    "outlook": "neutral"
   },
   {
@@ -431,68 +431,68 @@
    "name": "Microsoft Corp.",
    "quote": {
     "symbol": "MSFT",
-    "price": 535.93,
-    "change_pct": -3.575026988125226,
-    "day_high": 557.62,
-    "day_low": 532.675,
-    "day_open": 554.935
+    "price": 530.61,
+    "change_pct": -0.9926669527736712,
+    "day_high": 538.33,
+    "day_low": 524.47,
+    "day_open": 525.69
    },
    "news": [
     {
-     "headline": "Oil's Sudden Price Drop Surprises Citi's Chronert",
-     "summary": "Citi Head of US Equity Strategy Scott Chronert says the sudden drop in oil prices on Wednesday surprised him. Brent fell almost 9% then rebounded on Thursday. He says that took some pressure off of the inflation backdrop.",
+     "headline": "Dow Jones Futures: Market Needs Repair But Sandisk, Micron Broken; Apple, Amazon, Microsoft Strong",
+     "summary": "The stock market needs repair while Sandisk and Micron seem broken. Apple, Amazon and Microsoft are holding up. Berkshire earnings loom.",
      "source": "Yahoo",
-     "url": "https://finnhub.io/api/news?id=1c537879fea95f65ad239a35b58a1e937b210aec0e4fd5faca64d1a30abb94ea",
-     "datetime": 1793914130
+     "url": "https://finnhub.io/api/news?id=4ee5b6a059dd5bd95c396ca8a8e637a13a1ca1ef4f6606dee11cee58ecacdd36",
+     "datetime": 1794001510
     },
     {
-     "headline": "dYdX Team’s Arcus Opens Stock-Token Collateral to All Perps Traders, With a $20,000 Cap",
-     "summary": "The Robinhood Chain exchange dropped the $25 million volume requirement from its October early access, but non-USDG deposits stay capped at $20,000 per trader and $2 million overall.",
+     "headline": "5 Latest Jim Cramer Stock Picks on Twitter and Mad Money",
+     "summary": "Markets are trembling amid the latest AI stock sell-off, which has sent shares of major AI players deep into the red. But CNBC’s Jim Cramer believes the downturn is not another dot-com crash. Cramer warned that AI stocks could fall further, particularly semiconductor companies whose shares surged during the AI boom. However, he argued that […]",
      "source": "Yahoo",
-     "url": "https://finnhub.io/api/news?id=13ff6bb5b8375e26be743847499187be89c107dc4d2d1dc77c272c3742ccce27",
-     "datetime": 1793913956
+     "url": "https://finnhub.io/api/news?id=dfbd3a28558813fc24dd47167dfdba2097db3fb605fedf6ea6b674ac7578e653",
+     "datetime": 1793999411
     },
     {
-     "headline": "Surveil Recognized as a Pioneer in the October 2026 Gartner(R) Emerging Market Quadrant for AI FinOps Tools - Startup Vendors",
-     "summary": "gives every AI dollar an owner and a measurable return.LONDON, UK / ACCESS Newswire / November 5, 2026 / , the FinOps Certified Platform for AI, cloud and Microsoft 365 spend, today announced it has been recognized as a Pioneer in the October 2026 Gartner® Emerging Market Quadrant for AI FinOps Tools - Startup Vendors.",
+     "headline": "Data centers are unpopular — and a key motor of economic growth",
+     "summary": "The political backlash against data centers is intensifying, threatening to choke off a critical source of U.S. investment, according to economists.",
      "source": "Yahoo",
-     "url": "https://finnhub.io/api/news?id=ba0c29ea244be0b7483262d5dd88b760695d6bb0440e3fe9222d5dfa0b235e37",
-     "datetime": 1793913900
+     "url": "https://finnhub.io/api/news?id=1e199df333b74012ab43dc708804ccb88f4074ed78bc14eb805dfbed8b4f65bd",
+     "datetime": 1793999344
     },
     {
-     "headline": "Best Mag7 dip buys: NVIDIA leads on valuation, Alphabet on RSI",
-     "summary": "Investing.com -- The Mag7 are being sold off together today, but they aren’t equally cheap. Roundhill Magnificent Seven ETF (MAGS) is -4.61% at $67.04 (as of Nov 5, 2026, 3:34 PM EST). Articles from today tie the move to AI-spending worries and fears of tighter AI regulation after the midterms. One strategist called it \"an emotional sell-off\" driven by hedge fund de-leveraging. Read more (Nov 5, 2026)",
+     "headline": "Microsoft and Oracle's AI ambitions are suddenly a lot more expensive",
+     "summary": "The backlog at Microsoft and Oracle keeps growing. So does the bill to keep up with it.",
      "source": "Yahoo",
-     "url": "https://finnhub.io/api/news?id=496eac2bb303ceb2a17a87dc0bb8ab068c59af155a51972a772f76d316dff50c",
-     "datetime": 1793912813
+     "url": "https://finnhub.io/api/news?id=8bdc97966823b8f11d11c74f2238fe66663ff3fa5ab5978c33119b8760c39e3f",
+     "datetime": 1793999220
     },
     {
-     "headline": "Sector Update: Tech Stocks Tumble Late Afternoon",
-     "summary": "Tech stocks were sharply lower late Thursday afternoon, with the State Street Technology Select Sect",
+     "headline": "Google buys Wyoming data center site as hyperscalers move to own AI capacity",
+     "summary": "Investing.com -- Alphabet is buying the site it could have rented.",
      "source": "Yahoo",
-     "url": "https://finnhub.io/api/news?id=b09c99c05b625d5e26e41417ccf8cb6c92fd9f31f152b6b7dcbd6ea29b0d62d5",
-     "datetime": 1793912055
+     "url": "https://finnhub.io/api/news?id=a426300f1242ef4e86645f39e46a5b13f2ff979b5caa766baff29a562d8d2a92",
+     "datetime": 1793998833
     },
     {
-     "headline": "Nvidia and Microsoft Get a New Spotlight From Bank of America",
-     "summary": "Nvidia and Microsoft Land Spots on Bank of America Top Global Stock List",
+     "headline": "IREN (IREN) Stock May Still Be A Bargain Following Contract Delays",
+     "summary": "IREN has seen its share price swing sharply in recent years, which puts fresh focus on a simple question for you as an investor. Does the current US$18.03 price make sense relative to the sales the business is generating today and what those sales could reasonably support over time? Over the past 3 years the stock has delivered a very large gain of about 7x, which now puts a lot of weight on whether its sales base can carry that kind of move. Recent contract delays with Microsoft and a...",
      "source": "Yahoo",
-     "url": "https://finnhub.io/api/news?id=000b4d681a6a959e3745075d8837ce7e1d23572c8b394f8366790f45269796a0",
-     "datetime": 1793907291
+     "url": "https://finnhub.io/api/news?id=2e2625fa76ff180ff3bfd7b002d3600a8929b594e0d1962f64dfebb25109e37c",
+     "datetime": 1793995840
     },
     {
-     "headline": "The AI Trade Selloff Is Crushing Industrial Stocks. What Caterpillar’s Valuation Tells Us.",
-     "summary": "The market clearly believes that a Democratic Congress means less AI spending. We ask two very hard questions. Will you like our answers?",
+     "headline": "IREN CEO: Old Nvidia H100s Just Recontracted at “Double the Original Contract Price”",
+     "summary": "Key TakeawaysIREN co-CEO Daniel Roberts said on the company’s Nov. 5 earnings call that older NVIDIA H100 GPUs were just recontracted at double their original contract price.",
      "source": "Yahoo",
-     "url": "https://finnhub.io/api/news?id=b4f79d89bddac57cbf9a7f61b9779f7e0d48e1b55f756495b4f4633f3febcbe5",
-     "datetime": 1793906820
+     "url": "https://finnhub.io/api/news?id=3d8b341a310245141355dbc15a8300e45c6a57a9e2453d682427a4bf49b0cb2c",
+     "datetime": 1793995640
     },
     {
-     "headline": "Microsoft Stocks Fall 2.59% as Cloud Returns Take Center Stage",
-     "summary": "A large cloud business must balance rising customer demand with the economics of additional capacity.",
+     "headline": "Microsoft and Google Face a New Bill as Data Centers “Have to Pay Their Own Costs”",
+     "summary": "Key TakeawaysVoters turned against new data centers in the Nov. 3 midterms, and Microsoft, Alphabet, Amazon and Meta now face rules that make them pay for their own power and grid.",
      "source": "Yahoo",
-     "url": "https://finnhub.io/api/news?id=9b9425108b3d8c7d9d271f60e982885cf27458ea752c2e3d74c7a56e766dc21a",
-     "datetime": 1793905182
+     "url": "https://finnhub.io/api/news?id=2fd7129275681e6971a4303583f1b62e8f6df7d72e9a36b6f218846161727553",
+     "datetime": 1793993717
     }
    ],
    "note": null,
@@ -507,8 +507,8 @@
     "estimate": 4.82,
     "beat": true
    },
-   "week_change_pct": 1.092164333949516,
-   "analysis": "Microsoft je jedinou sledovanou akcií, která je v plusu za posledních sedm dní (+1,09 %), přestože dnes ztratil 3,58 % v rámci širšího výprodeje technologického sektoru. To naznačuje, že trh vnímá Microsoft jako relativně bezpečnější přístav v rámci AI tématu díky diverzifikovanému portfoliu (cloud, software, AI). Firma právě porazila odhady v posledním kvartále (EPS 4,89 USD vs. 4,82 USD) a Bank of America ji spolu s Nvidií zařadila na seznam top globálních akcií, což je silný signál důvěry analytiků. Zpráva o poklesu cen ropy, která překvapila trh, ukazuje na širší makro nejistotu, která nepřímo ovlivňuje i náladu k technologickým akciím. Server upozorňuje, že klíčovým tématem pro Microsoft bude, jak firma zvládne vyvážit rostoucí poptávku po cloudových službách s ekonomikou dodatečné kapacity – tedy zda vysoké investice do datacenter přinesou odpovídající návratnost. Rizikem zůstává, že jako velký hráč v AI infrastruktuře je Microsoft také vystaven obavám z politického zpomalení AI výdajů, i když zatím méně než čistě hardwaroví hráči. Pozitivní je, že relativní odolnost akcie za poslední týden naznačuje, že investoři vidí firmu jako kvalitnější sázku v rámci AI tématu. Earnings budou 26.1.2027, do té doby bude cena akcie sledovat celkový vývoj nálady vůči cloudovým a AI firmám.",
+   "week_change_pct": 1.6669540725412515,
+   "analysis": "MSFT dnes kleslo o necelé 1 % na 530.61 USD, ale za posledních sedm dní si připsalo solidních 1.67 %, což ukazuje na poměrně stabilní pozici uprostřed turbulentního týdne pro technologický sektor. Firma čelí rostoucím nákladům spojeným s plněním obřího backlogu AI a cloudových zakázek, přičemž podle zpráv rostou náklady na budování infrastruktury rychleji, než se dříve předpokládalo, podobně jako u Oracle. Politický tlak po midtermových volbách přináší riziko nových regulací, podle kterých by velké technologické firmy včetně Microsoftu musely platit vlastní náklady na energetickou infrastrukturu datacenter. Poslední kvartální výsledky mírně překonaly odhady – EPS 4.89 USD vs 4.82 USD – což potvrzuje zdravý růst navzdory vysokým investičním výdajům. Zajímavým signálem z trhu je zpráva, že starší Nvidia H100 GPU byly u firmy IREN nově smluvně pronajaty za dvojnásobek původní ceny, což naznačuje přetrvávající vysokou poptávku po výpočetním výkonu i u starších čipů. Rizikem pro Microsoft zůstává kombinace rostoucích kapitálových výdajů a nejistoty ohledně návratnosti investic do AI infrastruktury, zejména pokud politický tlak zpomalí budování nových datacenter. Firma má však diverzifikované zdroje příjmů mezi cloudem, softwarem a AI službami, což ji činí relativně odolnou vůči jednotlivým šokům. Další výsledky přijdou 26.1.2027 a budou klíčové pro potvrzení, zda vysoké investice do AI infrastruktury přinášejí odpovídající návratnost.",
    "outlook": "neutral"
   },
   {
@@ -516,197 +516,197 @@
    "name": "S&P 500 (přes SPY)",
    "quote": {
     "symbol": "SPY",
-    "price": 733,
-    "change_pct": -4.409175675851899,
-    "day_high": 765.97,
-    "day_low": 732.71,
-    "day_open": 765.47
+    "price": 735.29,
+    "change_pct": 0.31241473396998143,
+    "day_high": 742.2104,
+    "day_low": 734.58,
+    "day_open": 734.82
    },
    "news": [
     {
-     "headline": "Market Jitters? How Buffer ETFs Can Help Protect Your Portfolio",
-     "summary": "We explain how defined outcome ETFs work and why investor demand for these strategies is surging.",
+     "headline": "Charlie Bilello Says “Some Sanity Has Returned to the Market.” What That Means for Your Portfolio",
+     "summary": "The market's wildest bets just lost billions in paper gains, and one data watcher calls the wreckage healthy. Before you cheer or panic, see which three moves could protect your retirement accounts and what to watch before year-end.",
      "source": "Yahoo",
-     "url": "https://finnhub.io/api/news?id=80d0f3d6157a4f0739ad46586fad6f2fbecd47c6f8a32725c7d52e15536e9566",
-     "datetime": 1793901840
+     "url": "https://finnhub.io/api/news?id=22ce207f35836c478ce166c6855d82bd51bd8c64ca92b0b6ef6c5f793ef9d2dd",
+     "datetime": 1794002848
     },
     {
-     "headline": "Don't Buy The Dip: Semiconductors Have Much Further To Fall",
-     "summary": "Micron exemplifies the extreme cyclicality and volatility inherent to the semiconductor industry, followed by protracted declines. Read full analysis here.",
+     "headline": "If You Invested $1,000 in PepsiCo 10 Years Ago, Here’s What You’d Have Now",
+     "summary": "PepsiCo sells snacks and sodas in more than 200 countries, yet its home market is wobbling and the S&P 500 left it far behind. One part of the return kept quietly carrying the load, and retirees should care which one.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=c28bb7a5a675f4538a908b89be2fb7edda1b0cd45e84b4798299928f714e0a6b",
+     "datetime": 1793992655
+    },
+    {
+     "headline": "The 2022-2026 Bull Market Top Is In: Bracing For A Long Winter Of Discontent",
+     "summary": "The S&P 500, Nasdaq, and Dow Jones are rated a Sell, citing a likely prolonged bear market through spring. Click here to read more.",
      "source": "SeekingAlpha",
-     "url": "https://finnhub.io/api/news?id=d299ab78a0cd144fed0b3b8096b097a2641116244d7fbb157786e7acd7678fe4",
-     "datetime": 1793899026
+     "url": "https://finnhub.io/api/news?id=bdde6b3a7149ee1f409b23f91ab33bc361cfce3ba828f9466425a8d179f3517f",
+     "datetime": 1793984446
     },
     {
-     "headline": "Precious Metal Selloff: Remember The All-Weather Portfolio",
-     "summary": "Gold and silver look undervalued versus the S&P 500, offering timely inflation hedges and diversification benefits. Click here to read this detailed analysis.",
+     "headline": "Robust Jobs, GDP, Muted By Dramatic Electoral Shift To Democrats",
+     "summary": "Strong job growth, rising real wages, election shifts, and AI investment risks could reshape the U.S. economy. Discover more on the economy in this article.",
      "source": "SeekingAlpha",
-     "url": "https://finnhub.io/api/news?id=72270ed1f85dca95bba2bf44f771c1e5b0052bc0b57f2b1681dc36ad966e4cf9",
-     "datetime": 1793898023
+     "url": "https://finnhub.io/api/news?id=a7acae3764977274877f70e91368ad56ef8fae97626fdb91ca15e8569619f3f7",
+     "datetime": 1793983160
     },
     {
-     "headline": "4 Shifts To Watch After U.S. Midterms",
-     "summary": "Jeff Evans examines four implications for investors, including: AI infrastructure, Fed appointments, Canada-U.S. trade and even Florida property taxes.",
+     "headline": "October's Jobs Report Won't Stop Warsh",
+     "summary": "October payrolls beat forecasts, but mixed labor data and sticky inflation may keep the Fed steady. Click here to read this latest analysis.",
      "source": "SeekingAlpha",
-     "url": "https://finnhub.io/api/news?id=395bf9d73eee9d802e7c3f046069b13b97acb1f3b8c8dc0f70f08871b3ffd9db",
-     "datetime": 1793898000
+     "url": "https://finnhub.io/api/news?id=d30220da68953826190a9d1d1a7329510651371d8d142e0882315681dfd30511",
+     "datetime": 1793981704
     },
     {
-     "headline": "Wall Street Is Already Bracing for a 2027 Debt Ceiling Fight",
-     "summary": "Democrats just won big, and bond investors are already eyeing the next showdown. Treasury's borrowing room is shrinking faster than its plans suggest, and one corner of the market may carry far more risk than Wednesday's rally implies.",
-     "source": "Yahoo",
-     "url": "https://finnhub.io/api/news?id=6be1ab21a7d6859b54da9b98df1f491fbe0d8425db461aa080f0f0bd0a22e703",
-     "datetime": 1793897284
+     "headline": "Employment Report: 165K Jobs Added In October, Better Than Expected",
+     "summary": "Nonfarm payroll employment added 165,000 jobs in October, above the forecast of 65,000 jobs. Unemployment rate decreased slightly to 4.1%, while the U6 unemployment rate increased to 7.9%.",
+     "source": "SeekingAlpha",
+     "url": "https://finnhub.io/api/news?id=211c9e0d575f5641df0fa62d0faf2b4e6417982bd511be8f566ee3410dba36ab",
+     "datetime": 1793979000
     },
     {
-     "headline": "Nvidia Is the Biggest Bet in Your Index Fund. Here’s What Its Drop Just Cost You",
-     "summary": "One chip stock sank on a morning with no company news, and your 401(k) felt it in three different funds at once. Check how much of your \"diversified\" portfolio quietly rides on a single ticker.",
-     "source": "Yahoo",
-     "url": "https://finnhub.io/api/news?id=b7bb274172222a53ed6a6b45368a4628565f0521071961430cf0b391dbfdcaee",
-     "datetime": 1793896415
+     "headline": "October CPI Inflation Is Likely To Be 'Hot,' But Focus On The AI Bubble Burst",
+     "summary": "October CPI may top forecasts as broad inflation pressures rise, but an AI-bubble-led recession could push the Fed to cut rates. Click here to read more.",
+     "source": "SeekingAlpha",
+     "url": "https://finnhub.io/api/news?id=8af9a606961e3715959d3c8422b53ef9410028b7a6b49271ee3d3b488df9b612",
+     "datetime": 1793978208
     },
     {
-     "headline": "SPY support levels: three key floors to watch",
-     "summary": "Investing.com -- SPDR® S&P 500® ETF Trust (SPY) is trading at $746.84, down 2.60%, as of Nov 5, 2026, 10:38 AM EST. The nearest support is being tested after today’s $744.81 intraday low.",
+     "headline": "Jobless Claims Just Matched a 57-Year Low on the Day Stocks Crashed",
+     "summary": "A blockbuster labor report and a brutal sell-off landed on the same morning, yet they had nothing to do with each other. One of them poses a bigger threat to the biggest index fund in America, and it may not be the one you expect.",
      "source": "Yahoo",
-     "url": "https://finnhub.io/api/news?id=5da8f34ccf3c594599d3d54476b8497116bd4c36e8fa3f78477f3739b6253987",
-     "datetime": 1793894975
-    },
-    {
-     "headline": "Tesla’s Plunge Just Hit Millions of Index Fund Investors. Here’s How Much Your ETF Lost",
-     "summary": "You never bought a single Tesla share, yet your retirement account still felt Thursday's selloff. One popular sector fund carries far more exposure than anyone expects, and overlapping funds can quietly multiply the risk.",
-     "source": "Yahoo",
-     "url": "https://finnhub.io/api/news?id=b7c7452c9e3dde4a247cb60f79d7d9423b032afececd699d35d8d2804583c7e0",
-     "datetime": 1793894629
+     "url": "https://finnhub.io/api/news?id=c3eb99ebbfcb3db9c2886c8411a89bb56ca2a579140cbf2680204fb1f4b77db8",
+     "datetime": 1793977730
     }
    ],
    "note": "VUAA je evropský ETF na S&P 500 (LSE/Xetra), Finnhub free tier ale evropské burzy nepodporuje. Cena a novinky jsou proto z amerického ETF SPY, který sleduje stejný index 1:1.",
    "earnings_date": null,
    "next_earnings": null,
    "last_earnings": null,
-   "week_change_pct": -4.726006030986795,
-   "analysis": "VUAA jako evropský ETF kopírující index S&P 500 klesl dnes o 4,41 % a za týden o 4,73 %, což odráží širší propad amerického akciového trhu, zejména technologického sektoru. Vzhledem k tomu, že data a novinky jsou čerpány z amerického ETF SPY (kvůli omezení datového zdroje pro evropské burzy), je třeba brát přesnou cenu s rezervou, nicméně pohyb indexu je prakticky identický. Hlavním tahounem poklesu je výprodej v AI a technologických akciích po volbách, kdy trh přehodnocuje tempo budoucích investic do umělé inteligence. Je důležité si uvědomit, že i přes název „diverzifikovaný index“ má S&P 500 výraznou koncentraci v několika velkých technologických firmách, takže pokles jedné klíčové akcie jako Nvidia dokáže citelně ovlivnit celý index a tedy i ETF jako VUAA. Analytici upozorňují, že retail investoři prodávali akcie v největším objemu od covidového propadu, což svědčí o panické náladě na trhu, nikoli nutně o fundamentálním zhoršení ekonomiky. Historicky platí, že korekce bývají dočasné a následuje po nich zotavení, i když časový horizont se liší případ od případu. Rizikem pro krátkodobý vývoj je další politická nejistota kolo blížícího se sporu o dluhový strop v roce 2027 a případné další zprávy o zpomalení AI investic. Dlouhodobí investoři v pasivních ETF jako VUAA by měli brát současnou volatilitu jako standardní součást investování do akciových indexů.",
+   "week_change_pct": -2.7033822050494973,
+   "analysis": "VUAA, který sleduje index S&P 500, dnes přidal mírných 0.31 % na 735.29 USD, ale za posledních sedm dní je v mínusu 2.7 %, což odráží turbulentní týden plný obav z AI bubliny po midtermových volbách. Tento týden byl charakteristický prudkými výkyvy způsobenými politickou nejistotou ohledně budoucnosti AI investic a regulace datacenter po vítězství demokratů v Kongresu. Pozitivním signálem pro širší ekonomiku byla silná zpráva o zaměstnanosti – 165 tisíc nových pracovních míst v říjnu, výrazně nad očekáváním, s nezaměstnaností klesající na 4.1 %. Na druhou stranu někteří analytici varují, že říjnová inflace (CPI) může být vyšší, než se čekalo, což by mohlo komplikovat rozhodování Fedu o úrokových sazbách. Komentátor Charlie Bilello uvedl, že se do trhu po divokém výprodeji vrací „trocha zdravého rozumu“, což naznačuje určitou stabilizaci sentimentu. Rizikem zůstává možnost, že současný výprodej AI akcií je jen začátkem delšího korekčního cyklu, jak varují někteří permabear analytici předpovídající dlouhodobý medvědí trh. Je třeba připomenout, že data pro VUAA vycházejí z amerického ETF SPY, protože evropské burzy nejsou v datovém zdroji podporované, i když oba nástroje sledují stejný index prakticky identicky. Vzhledem k širokému rozložení indexu napříč sektory by VUAA měl být méně volatilní než jednotlivé technologické akcie, ale citlivost na celkový sentiment k AI sektoru zůstává významná.",
    "outlook": "neutral"
   }
  ],
  "macro_news": [
   {
-   "headline": "Nasdaq drops into correction territory — here’s what typically happens next",
-   "summary": "Nasdaq’s slide into correction territory puts its history of recoveries in focus. Here's what history shows.",
+   "headline": "Sen. Chris Murphy released from hospital after stroke, will miss votes for 'several weeks' as he rehabs",
+   "summary": "The Connecticut Democrat Murphy has been discussed as a possible candidate for the White House in 2028.",
    "source": "CNBC",
-   "url": "https://www.cnbc.com/2026/11/05/nasdaq-drops-into-correction-territory-heres-what-typically-happens-next.html",
-   "datetime": 1793915853
+   "url": "https://www.cnbc.com/2026/11/06/chris-murphy-stroke-hospital-senate.html",
+   "datetime": 1793998393
   },
   {
-   "headline": "Iran sent nuclear proposal to the US via Qatar, senior Iranian official tells Reuters - Reuters",
-   "summary": "Iran sent nuclear proposal to the US via Qatar, senior Iranian official tells Reuters  Reuters",
-   "source": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSlJZVlphdWhPcDNGc1E5eDVNdDdMQkJNTXVDS0RYSVRqaC1tblFqQy1FekRQdldnV0FsMU5RdnVHNEI3UEZWMC1MY1l5cnRtcjBlcDlpUXdvX0hXbV91S1UxajV1TEx1VmJ2SzNLNElXSjc3YkdmYWw4VGNXZEl5NXR4RFNjRXBxeEZMLWpBT1Z5X2JRc3NEdkdMZDljQ0dkZXZRbzc3U1NmNkhnaFN5QzNhVmRzSmhsM0Q5VzU3Mm11OWZBa3M1V1lvaw?oc=5",
-   "datetime": 1793913790
-  },
-  {
-   "headline": "Retail traders dump the most stocks in a single day since Covid sell-off",
-   "summary": "The selling comes amid a broader stock market correction as traders rotated out of technology",
+   "headline": "Here's a rapid-fire update on all 31 of our stocks, including 2 to buy now",
+   "summary": "We closed out a wild market week on Friday at the Investing Club's fourth Annual Meeting at the New York Stock Exchange.",
    "source": "CNBC",
-   "url": "https://www.cnbc.com/2026/11/05/retail-traders-dump-the-most-stocks-in-single-day-since-covid-sell-off.html",
-   "datetime": 1793913603
+   "url": "https://www.cnbc.com/investingclub/2026/11/06/heres-a-rapid-fire-update-on-our-31-stocks-including-2-to-buy-now.html",
+   "datetime": 1793997363
   },
   {
-   "headline": "How Wall Street's postelection rally got obliterated — and what's next",
-   "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+   "headline": "Top House Oversight Democrat warns Trump family to 'lawyer up'",
+   "summary": "With Democrats set to take control of the House in January, Rep. Robert Garcia is promising sweeping probes into Trump, his family and his administration.",
    "source": "CNBC",
-   "url": "https://www.cnbc.com/investingclub/2026/11/05/how-wall-streets-postelection-rally-got-obliterated-and-whats-next.html",
-   "datetime": 1793909191
+   "url": "https://www.cnbc.com/2026/11/06/robert-garcia-trump-congress-oversight-investigations.html",
+   "datetime": 1793994156
   },
   {
-   "headline": "ConocoPhillips boosts dividend after beating estimates on higher oil prices - Reuters",
-   "summary": "ConocoPhillips boosts dividend after beating estimates on higher oil prices  Reuters",
-   "source": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWmVXLVh5bHBBQWh5ZkFmckpmSkRNMVB2UGZwaDFuYVc1TE93TVZKcjl4c1lPSjVQb1doc1pJdm11S01RTGtwTDRUblRGVWp2M3hrb2ZLakV3R0poTGRjcmRyOEI2M2hNOEJFVllydTcyQ043WFVSRURkREJvZWxtaWJmaDJNRllnc3lPZllyM1JtMEhnY09NLWRpZzNuQWt0YU1jTFpCMlQ2UG1ZQVVtYVF5dUlZZw?oc=5",
-   "datetime": 1793907248
-  },
-  {
-   "headline": "Iran's security chief discusses regional, bilateral affairs with Putin - Reuters",
-   "summary": "Iran's security chief discusses regional, bilateral affairs with Putin  Reuters",
-   "source": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMkR5dEUwb2FoSDZrZ2p1UVF1T3VzbjEwSmhUWFBSeElYM0lHamE3SE0zYVViRHNqZ2piYTBjbWtoZThDU01hQmpYRFlwMHJTTFl3S2MyWnFoZWh1VTRCdEFvckJZcHktYjNpMWxLbU1vOGp3N0k1Yi1FZ0xTMXYzU2I2OHVZeGZrVXdiUmJOZ0phb2dLTjVGTTQ4aGF0WEdOLTVzS2RLQzBYNXR5?oc=5",
-   "datetime": 1793905140
-  },
-  {
-   "headline": "Midterms upended Congress but Trump still commands foreign policy - Reuters",
-   "summary": "Midterms upended Congress but Trump still commands foreign policy  Reuters",
-   "source": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaFdhWXVRZDFtNThlVzMtcUs4eU9nTlVZZHJHZzAxbUhKNVBYN3FoR0lSMHJNSzVkQVJQdXlaWTZQZXNwUzEwSkhxRjBwQ1dRZzIyMFV5QkhTaWRmWHVKWEdSQmhyR1NHaUhyMlpnV09GVkxPbmh5MTlUZEphbVE1OENqSXlNTmdEejZPbUlNdmdzRTBiRnVYTHNuWHVQUEo0VXFvODJTaElxQQ?oc=5",
-   "datetime": 1793904730
-  },
-  {
-   "headline": "We're dipping into our large cash pile to buy this bank on Thursday's sell-off",
-   "summary": "In times of market volatility, we like to fall back on companies that offer consistent capital returns to shareholders.",
+   "headline": "Fake job interview scams like the one that hit Binance are getting more sophisticated. Here are the new signs to watch for",
+   "summary": "Binance lost more than $6 billion in a hack partly caused by fake job interviews. Here's what job seekers can learn from it, and tips to avoid job search scams.",
    "source": "CNBC",
-   "url": "https://www.cnbc.com/investingclub/2026/11/05/were-dipping-into-our-cash-to-buy-this-bank-on-thursdays-sell-off.html",
-   "datetime": 1793903361
+   "url": "https://www.cnbc.com/make-it/2026/11/06/binance-hack-fake-job-interview-scams.html",
+   "datetime": 1793992196
+  },
+  {
+   "headline": "AI crush is powering one stock to sky-high valuations",
+   "summary": "Despite sky-high valuations, Mike Khouw argues Costco shares could present a compelling buy.",
+   "source": "CNBC",
+   "url": "https://www.cnbc.com/2026/11/06/ai-crush-is-powering-one-stock-to-sky-high-valuations.html",
+   "datetime": 1793988944
+  },
+  {
+   "headline": "Data center double-down: Hassett says Blue Wave won't stop AI build-out",
+   "summary": "Data centers are a crucial part of President Donald Trump's push to win the global artificial intelligence race, which continues despite the midterm results.",
+   "source": "CNBC",
+   "url": "https://www.cnbc.com/2026/11/06/data-centers-ai-elections-hassett.html",
+   "datetime": 1793980548
+  },
+  {
+   "headline": "Anthropic IPO announcement odds drop on Kalshi following midterms and AI sell-off",
+   "summary": "Kalshi traders cut the odds of an Anthropic IPO announcement before December as AI stocks sold off after Democrats won control of Congress.",
+   "source": "CNBC",
+   "url": "https://www.cnbc.com/2026/11/06/anthropic-ipo-kalshi-post-midterms-ai-sell-off.html",
+   "datetime": 1793979761
+  },
+  {
+   "headline": "Watch live: Jim Cramer shares his next investing moves for this tough market",
+   "summary": "At the Investing Club's 4th annual meeting, Cramer also reveals his outlook for 2027 and answers questions from the live audience and members at home.",
+   "source": "CNBC",
+   "url": "https://www.cnbc.com/investingclub/2026/11/06/watch-jim-cramer-live.html",
+   "datetime": 1793978894
   }
  ],
  "macro": [
   {
-   "time": "22:57",
-   "title": "Nasdaq vstoupil do korekce – co historie říká o dalším vývoji",
-   "body": "Nasdaq Composite oficiálně vstoupil do korekce poté, co ztratil přes 10 % od svého maxima. Analytici z CNBC připomínají, že historicky po podobných korekcích často následuje zotavení, i když cesta tam bývá volatilní. Hlavním spouštěčem je výprodej technologických a AI akcií po nejistotě z politického vývoje po volbách. Investoři by měli sledovat, zda se situace stabilizuje v následujících týdnech.",
-   "url": "https://www.cnbc.com/2026/11/05/nasdaq-drops-into-correction-territory-heres-what-typically-happens-next.html",
+   "time": "21:36",
+   "title": "Investiční klub shrnuje divoký týden a vybírá 2 akcie k nákupu",
+   "body": "CNBC Investing Club uzavřel bouřlivý týden na trhu svou výroční schůzí přímo na newyorské burze. Jim Cramer a tým prošli aktualizace ke všem 31 sledovaným akciím a vybrali dvě, které považují za zajímavé k nákupu i po divokém týdnu plném výprodejů AI akcií. Cramer zároveň sdílel svůj výhled na rok 2027 a odpovídal na otázky publika i členů klubu online.",
+   "url": "https://www.cnbc.com/investingclub/2026/11/06/heres-a-rapid-fire-update-on-our-31-stocks-including-2-to-buy-now.html",
    "source": "CNBC"
   },
   {
-   "time": "22:20",
-   "title": "Retailoví investoři prodávali akcie v největším objemu od covidu",
-   "body": "Drobní investoři se dnes zbavovali akcií v největším objemu od covidového propadu na začátku dekády. Prodeje byly soustředěny hlavně v technologickém sektoru, který čelí obavám z politického zpomalení AI investic po volbách. Tento masivní odliv kapitálu umocnil celkový propad trhu a přispěl k volatilitě. Jde o signál zvýšené nervozity mezi menšími investory, nikoli nutně o fundamentální zhoršení ekonomiky.",
-   "url": "https://www.cnbc.com/2026/11/05/retail-traders-dump-the-most-stocks-in-single-day-since-covid-sell-off.html",
+   "time": "19:15",
+   "title": "AI boom žene valuace i mimo klasické technologické firmy",
+   "body": "Analytik Mike Khouw upozorňuje, že i akcie jako Costco mohou těžit z celkového AI boomu a dosahovat velmi vysokých valuací. Podle něj jde o zajímavou příležitost i přes vysoké ocenění. Tento trend ukazuje, že dopad AI investic se šíří i do sektorů mimo přímé výrobce čipů a cloudové giganty.",
+   "url": "https://www.cnbc.com/2026/11/06/ai-crush-is-powering-one-stock-to-sky-high-valuations.html",
    "source": "CNBC"
   },
   {
-   "time": "21:06",
-   "title": "Jak se zhroutila povolební rally na Wall Street",
-   "body": "Povolební rally, která následovala po vítězství Demokratů ve volbách, se rychle obrátila v prudký výprodej akcií. Investiční klub CNBC rozebírá, jaké faktory stály za tímto obratem a co lze očekávat v nejbližších dnech. Hlavním tématem zůstává nejistota kolem budoucího tempa AI investic a regulace technologického sektoru. Trh nyní hledá novou rovnováhu po prudkém sentimentálním zvratu.",
-   "url": "https://www.cnbc.com/investingclub/2026/11/05/how-wall-streets-postelection-rally-got-obliterated-and-whats-next.html",
+   "time": "16:55",
+   "title": "Vláda trvá na pokračování budování AI datacenter i přes volební výsledky",
+   "body": "Poradce Kevin Hassett uvedl, že takzvaná Modrá vlna ve volbách nezastaví plány administrativy na budování AI datacenter. Podle něj zůstávají datacentra klíčovou součástí snahy USA vyhrát globální závod v umělé inteligenci. Tato zpráva částečně zmírňuje obavy trhu z toho, že demokraté v Kongresu zablokují další investice do AI infrastruktury.",
+   "url": "https://www.cnbc.com/2026/11/06/data-centers-ai-elections-hassett.html",
    "source": "CNBC"
   },
   {
-   "time": "20:34",
-   "title": "ConocoPhillips zvýšil dividendu díky vyšším cenám ropy",
-   "body": "Energetická společnost ConocoPhillips oznámila zvýšení dividendy poté, co překonala odhady díky vyšším cenám ropy. Jde o pozitivní signál pro sektor energetiky v době, kdy technologické akcie čelí výraznému výprodeji. Zvýšení dividendy ukazuje na finanční sílu firmy i v nejistém makroekonomickém prostředí. Energetický sektor tak může sloužit jako částečná protiváha k volatilitě v technologiích.",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWmVXLVh5bHBBQWh5ZkFmckpmSkRNMVB2UGZwaDFuYVc1TE93TVZKcjl4c1lPSjVQb1doc1pJdm11S01RTGtwTDRUblRGVWp2M3hrb2ZLakV3R0poTGRjcmRyOEI2M2hNOEJFVllydTcyQ043WFVSRURkREJvZWxtaWJmaDJNRllnc3lPZllyM1JtMEhnY09NLWRpZzNuQWt0YU1jTFpCMlQ2UG1ZQVVtYVF5dUlZZw?oc=5",
-   "source": "Reuters"
+   "time": "16:42",
+   "title": "Šance na IPO Anthropicu klesají po volbách a výprodeji AI akcií",
+   "body": "Podle sázkařů na platformě Kalshi klesly šance na oznámení IPO společnosti Anthropic ještě před prosincem. Důvodem je kombinace výsledků midtermových voleb a následného výprodeje AI akcií, který zvýšil nejistotu na trhu. Tento vývoj naznačuje, že širší nervozita kolem AI sektoru ovlivňuje i plány soukromých firem na vstup na burzu.",
+   "url": "https://www.cnbc.com/2026/11/06/anthropic-ipo-kalshi-post-midterms-ai-sell-off.html",
+   "source": "CNBC"
   }
  ],
  "macro_analysis": "",
  "tips": [
   {
-   "ticker": "MRVL",
-   "name": "Marvell Technology, Inc.",
-   "tag": "AI síťování, propad",
-   "reason": "Akcie klesla o 49 % za měsíc kvůli akvizici a obavám z AI výdajů, přesto firma hlásí zlepšující se výsledky. Analytici se rozcházejí v názoru, zda jde o příležitost k nákupu nebo past na padající nůž."
+   "ticker": "COST",
+   "name": "Costco Wholesale Corporation",
+   "tag": "AI mimo tech",
+   "reason": "Podle analytiků těží z celkového AI boomu nepřímo, a to i přes už tak vysoké valuace. Jde o zajímavý příklad, jak se AI téma šíří i mimo klasické technologické firmy."
   },
   {
-   "ticker": "VICI",
-   "name": "Vici Properties Inc.",
-   "tag": "dividendový příjem",
-   "reason": "Realitní investiční fond zaměřený na kasina a zábavní nemovitosti nabízí stabilní dividendový výnos i v době tržní volatility. Je zmiňován jako evergreen příjmová investice pro trpělivé investory."
+   "ticker": "MU",
+   "name": "Micron Technology",
+   "tag": "paměťové čipy pro AI",
+   "reason": "Firma dodává paměťové čipy klíčové pro AI servery a podle některých analýz má extrémně nízký poměr ceny k zisku vzhledem ke svému růstovému potenciálu."
   },
   {
-   "ticker": "COP",
-   "name": "ConocoPhillips",
-   "tag": "mimo tech sektor, energetika",
-   "reason": "Firma právě zvýšila dividendu díky silným výsledkům taženým vyššími cenami ropy. Může sloužit jako diverzifikace portfolia mimo volatilní technologický sektor."
+   "ticker": "AVGO",
+   "name": "Broadcom Inc.",
+   "tag": "AI síťování",
+   "reason": "I přes pokles 22 % za poslední měsíc firma vykazuje trojciferný růst v AI segmentu, což může z pohledu některých investorů představovat zajímavou příležitost na zotavení."
   },
   {
-   "ticker": "ACHR",
-   "name": "Archer Aviation Inc.",
-   "tag": "letecká mobilita, spekulativní",
-   "reason": "Spekulativní sázka na budoucnost městské letecké mobility (eVTOL), zmiňovaná jako potenciálně velmi výnosná pro trpělivé investory. Jde o vysoce rizikovou, ale inovativní oblast mimo tradiční AI hardware."
+   "ticker": "PEP",
+   "name": "PepsiCo, Inc.",
+   "tag": "mimo tech sektor",
+   "reason": "Stabilní firma z oblasti potravin a nápojů s dlouhodobou dividendovou historií, vhodná jako protiváha k volatilním technologickým akciím v portfoliu."
   }
  ],
  "glossary": {
-  "term": "Korekce trhu",
-  "explanation": "Korekce je pokles hlavního akciového indexu o 10 % a více od jeho posledního maxima. Je to běžná součást tržních cyklů a signalizuje zvýšenou nervozitu investorů, přičemž historicky po ní často následuje postupné zotavení."
+  "term": "EPS (earnings per share)",
+  "explanation": "EPS neboli zisk na akcii ukazuje, kolik peněz firma vydělala připadajících na jednu vydanou akcii. Když firma „překoná odhad EPS“, znamená to, že vydělala víc, než analytici očekávali, což bývá pro cenu akcie dobrá zpráva."
  },
- "weekly_recap": null
+ "weekly_recap": "Tento týden byl na trzích extrémně divoký kvůli obavám, že demokraté po vítězství v midtermových volbách zpomalí budování AI datacenter kvůli regulacím a nákladům na energie. Nejvíc to pocítily čipové akcie – AMD kleslo za týden o 11 % a Nvidia o 8.8 %, i když oba tituly v pátek zažily silný odraz (AMD dokonce +11 % za jeden den). Naopak stabilněji si vedly Alphabet (+1.77 % za týden) a Microsoft (+1.67 %), což ukazuje, že investoři rozlišují mezi firmami podle míry závislosti na čistě AI hardwarovém boomu. Meta a Apple zůstaly prakticky beze změny, přičemž Apple těžil z pověsti „anti-AI“ velké technologické firmy s konzervativnějšími výdaji. Širší index S&P 500 (sledovaný přes VUAA/SPY) ztratil za týden 2.7 %, což odráží celkovou nervozitu trhu. Pozitivní zprávou byla silná zaměstnanost v říjnu s 165 tisíci novými pracovními místy, daleko nad očekáváním, a nezaměstnanost klesající na 4.1 %. Na druhou stranu rostou obavy z vyšší inflace (CPI) a z toho, že současný AI výprodej může přerůst v delší korekci, jak varují někteří pesimističtí analytici. Analytici jako Dan Ives ale vidí týdenní propad jako příležitost k nákupu kvalitních technologických firem za nižší ceny. Politické napětí mezi velkými technologickými firmami a demokratickou administrativou bude pravděpodobně i nadále hlavním tématem příštích týdnů, zejména kvůli regulaci datacenter a nákladům na energie. Celkově lze týden shrnout jako test nervů investorů, kdy klíčovou otázkou zůstává, zda je AI boom skutečně v ohrožení, nebo šlo jen o dočasnou korekci přehnaných očekávání."
 }
