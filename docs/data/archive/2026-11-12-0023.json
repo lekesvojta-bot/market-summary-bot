@@ -1,0 +1,684 @@
+{
+ "timestamp": "2026-11-12T00:23:53.982007+00:00",
+ "stocks": [
+  {
+   "symbol": "NVDA",
+   "name": "NVIDIA Corp.",
+   "quote": {
+    "symbol": "NVDA",
+    "price": 173.73,
+    "change_pct": 2.8657706199301343,
+    "day_high": 177.54,
+    "day_low": 170.77,
+    "day_open": 172.8
+   },
+   "news": [
+    {
+     "headline": "Nvidia's stock dives as board weighs move to oust Jensen Huang",
+     "summary": "Nvidia shares fall sharply in after-hours trading as the company's board considers whether to remove Jensen Huang as CEO.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=2411578ee09832557fc1387c6f2181677be979b7b64e1ced2e6a1e0e00fa567c",
+     "datetime": 1794441078
+    },
+    {
+     "headline": "Dow Jones Futures: Techs Tumble Late As Nvidia May Oust CEO Huang; AI Stocks Slide, But Not AMD",
+     "summary": "Techs fell as Nvidia dived on news that it may oust CEO Jensen Huang. AMD extended gains. Will that spoil Wednesday's rally?",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=999ed9adfd53008a0f30252393df8c949ff7c3ca3fdfad8c9128ced5564281b0",
+     "datetime": 1794440935
+    },
+    {
+     "headline": "Nvidia’s Board Is Reportedly Preparing to Oust Jensen Huang. When Intel and McDonald’s Pushed Out CEOs Over Workplace Relationships, Shareholders Got Opposite Results",
+     "summary": "Nvidia's board is preparing to oust Jensen Huang, the Wall Street Journal reported, after a Times report of his relationship with executive Kimberly Powell; Nvidia fell 7.4% after hours to $160.95. When Intel (2018) and McDonald's (2019) pushed out CEOs over relationships with employees, Intel trailed the S&P 500 by 17 points over a year and McDonald's beat it. The difference was a ready successor.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=fffb4e76d93a0e08167eea3a0746446c12793b434698c221801c4f9ecd1ac8ad",
+     "datetime": 1794440059
+    },
+    {
+     "headline": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
+     "summary": "As soon as Wednesday evening, Nvidia's board could decide to remove its founder and CEO of 33 years.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=74e1d574a4684e341d7dd391e5e66f2a2f9fcc7e747e1c77015f43dc43bf47f8",
+     "datetime": 1794439725
+    },
+    {
+     "headline": "Nasdaq Sell-Off: 2 Stocks to Buy on the Dip and Hold for 5 Years",
+     "summary": "Look beyond the recent volatility.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=b93e5aa60c0fbc3d25b335c8b0893f7235ce842f4a74ee8449b26682a367c178",
+     "datetime": 1794439562
+    },
+    {
+     "headline": "Nvidia’s Board Is Reportedly Planning To Oust Jensen Huang Over Chinese Spy, Employee Misconduct Investigation",
+     "summary": "Nvidia’s board is preparing to meet as soon as today to determine Jensen Huang’s future, WSJ reported.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=640bb8599ef6d62a65d058c1bb436087b091d46ea9b6db0b6b53bd1ac2de72bf",
+     "datetime": 1794439283
+    },
+    {
+     "headline": "Who is Nvidia executive Kimberly Powell?",
+     "summary": "Here's what we know about Kimberly Powell.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=76d4d2ea744ede9271917354c0782d54e0072a6a7389542d30ee08e4f6fcd681",
+     "datetime": 1794439012
+    },
+    {
+     "headline": "NVIDIA expected to oust Jensen Huang  - report",
+     "summary": "Investing.com -- NVIDIA’s (NASDAQ:NVDA) board of directors is preparing to oust co-founder and CEO Jensen Huang after two extramarital affairs have come to light, including one with a suspected Chinese spy, according to reports from The Wall Street Journal.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=32bfd047b7787980f71ef0329a77c5a53cf02133eb3f39200374548cbb60b2a5",
+     "datetime": 1794438604
+    }
+   ],
+   "note": null,
+   "earnings_date": "2026-11-17",
+   "next_earnings": {
+    "date": "2026-11-17",
+    "hour": "amc"
+   },
+   "last_earnings": {
+    "date": "2026-09-30",
+    "actual": 2.22,
+    "estimate": 2.14,
+    "beat": true
+   },
+   "week_change_pct": -13.191425573377307,
+   "analysis": "Nvidia se ocitla uprostřed bezprecedentní firemní krize – podle Wall Street Journal představenstvo zvažuje odvolání Jensena Huanga, zakladatele a CEO firmy po 33 let, kvůli vyšetřování osobních vztahů, včetně údajného vztahu s exekutivkou Kimberly Powell, jež je spojována s podezřením na kontakt s čínskou zpravodajskou službou. Akcie po uzavření trhu propadla o více než 7 % na 160,95 USD, což je dramatický pohyb i na poměry volatilní AI akcie. Za posledních sedm dní je NVDA v minusu přes 13 %, což signalizuje, že investoři už před touto zprávou byli nervózní z vysokého ocenění a obav z 'AI bubliny'. Je důležité oddělit fundament od titulků – poslední kvartální výsledky byly nad očekáváním (EPS 2,22 vs. 2,14), což ukazuje, že byznys samotný je zdravý a poptávka po čipech zůstává silná. Problém je ryze personální a reputační, nikoli obchodní, ale trh reaguje na nejistotu v řízení firmy vždy silně, obzvlášť když je CEO tak úzce spjat s identitou a strategií společnosti jako Huang s Nvidií. Historické precedenty (Intel, McDonald's) ukazují smíšené výsledky pro akcionáře po podobných odchodech CEO. Rizikem je, že pokud k odvolání skutečně dojde, mohlo by to na týdny až měsíce zpomalit klíčová obchodní rozhodnutí a zasít pochybnosti u zákazníků a partnerů. Zároveň může konkurence jako AMD krátkodobě těžit z nejistoty kolem Nvidie. Blížící se výsledky 17. 11. 2026 budou pod drobnohledem jako nikdy předtím – investoři budou hledat jakékoliv signály o budoucím vedení i o pokračující poptávce po AI čipech. Krátkodobě lze čekat zvýšenou volatilitu, dlouhodobý výhled závisí hlavně na tom, jak rychle firma situaci vyřeší a uklidní trh.",
+   "outlook": "loss"
+  },
+  {
+   "symbol": "AMD",
+   "name": "Advanced Micro Devices",
+   "quote": {
+    "symbol": "AMD",
+    "price": 552.9,
+    "change_pct": 7.315463597368052,
+    "day_high": 567.65,
+    "day_low": 522.65,
+    "day_open": 543.08
+   },
+   "news": [
+    {
+     "headline": "Dow Jones Futures: Techs Tumble Late As Nvidia May Oust CEO Huang; AI Stocks Slide, But Not AMD",
+     "summary": "Techs fell as Nvidia dived on news that it may oust CEO Jensen Huang. AMD extended gains. Will that spoil Wednesday's rally?",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=999ed9adfd53008a0f30252393df8c949ff7c3ca3fdfad8c9128ced5564281b0",
+     "datetime": 1794440935
+    },
+    {
+     "headline": "Stock Market Today, Nov. 11: Intel Climbs on Broader Chip Rally as AI Infrastructure Demand Lifts Semiconductor Stocks",
+     "summary": "Today, Nov. 11, 2026, Intel shares rallied as CoreWeave's stronger results reinforced AI chip demand across the semiconductor group.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=5775ee9f1287376cba33fcb8173fb8e9a0f9145346349f7677d1a575333a6c60",
+     "datetime": 1794438274
+    },
+    {
+     "headline": "Stock Market Today, Nov. 11: Advanced Micro Devices Jumps -- and Not Only Because of CoreWeave's Results",
+     "summary": "On Nov. 11, 2026, shares climbed as investors weighed fresh signs of AI chip demand and what comes next for server growth.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=7195c819b4f2a74bca3f973ac14594dea12a4f9e6de7c2cb7706c41766f96fab",
+     "datetime": 1794437554
+    },
+    {
+     "headline": "Lisa Su Just Delivered Fantastic News for AMD Investors",
+     "summary": "AMD has been delivering monster stock price gains in 2026, but 2027 could be a different story.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=8adf0420406111da4cb4d82a0f2065be84e9dfccc608c21ea02b3dd060ac78bb",
+     "datetime": 1794433560
+    },
+    {
+     "headline": "Anthropic's Mythos claim may put Nvidia’s CUDA moat in a vulnerable spot",
+     "summary": "Yahoo Finance's Deirdre Bosa discusses an Anthropic (ANTH.PVT) claim that its Mythos model got Claude running on AMD (AMD) chips in about three days, raising questions about whether AI can erode the value of Nvidia's (NVDA) CUDA moat.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=5d7beac23919d4815071e8f392092a8190f4c798882b8ff903bcc13ad855f636",
+     "datetime": 1794433426
+    },
+    {
+     "headline": "Dow Jones Futures: CoreWeave, Sandisk, Nvidia, AMD, Nebius Lead Bullish Market Move; What To Do Now",
+     "summary": "CoreWeave fueled big AI gains for the new market rally Wednesday, with Nebius, Sandisk, Nvidia, Bloom Energy and AMD key movers.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=51cc2c44b2755273f7f750a9bc9320e07404f1210a6d377d3890b281ac6acb17",
+     "datetime": 1794433083
+    },
+    {
+     "headline": "Anthropic’s IPO Prospectus by the Head-Spinning Numbers",
+     "summary": "The AI lab’s initial public offering documents are packed with fantastic figures.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=09e76893412cb427fdcfea0bca7bc8c9bcf4678903f790c38246dfd90b99f939",
+     "datetime": 1794429120
+    },
+    {
+     "headline": "Chip Stocks Rally After Slide. These Names Are Leading The Charge Higher.",
+     "summary": "Chip stocks broadly rallied on Wednesday as investors went bargain-hunting.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=5a776d3bccf87c982f2d164675b65f5786075cfb7e18831497b1c2afde03f7f3",
+     "datetime": 1794426583
+    }
+   ],
+   "note": null,
+   "earnings_date": "2027-02-01",
+   "next_earnings": {
+    "date": "2027-02-01",
+    "hour": "amc"
+   },
+   "last_earnings": {
+    "date": "2026-09-30",
+    "actual": 2.09,
+    "estimate": 1.97,
+    "beat": true
+   },
+   "week_change_pct": 13.118376365645076,
+   "analysis": "AMD zažívá výrazně odlišný den než konkurenční Nvidia – akcie vyskočila o více než 7 % a za týden si připsala přes 13 %, částečně díky silným výsledkům CoreWeave, které potvrdily pokračující hlad po AI infrastruktuře, a částečně díky tomu, že investoři hledají alternativu k Nvidii uprostřed zmatku kolem jejího vedení. Zajímavým impulsem je i zpráva, že Anthropic prý dokázal svůj model Mythos rozběhnout na AMD čipech za pouhé tři dny, což zpochybňuje dosavadní dominanci Nvidia CUDA softwarového ekosystému coby bariéry pro konkurenci. Pokud se tento trend potvrdí, mohlo by to znamenat strukturální posun poptávky směrem k AMD jako věrohodné druhé volbě pro trénování a provoz AI modelů. Poslední výsledky firmy překonaly odhady (EPS 2,09 vs. 1,97), což dokládá, že obchodní momentum je solidní i bez ohledu na current events. CEO Lisa Su podle všeho přinesla investorům pozitivní zprávy ohledně výhledu, i když se objevují i varování, že rok 2027 už nemusí být tak hvězdný jako 2026. Rizikem zůstává, že současný růst je částečně poháněn sentimentem a relativním srovnáním s Nvidií, nikoli jen fundamentem – pokud se nálada v sektoru zlomí, AMD by mohlo rychle odevzdat část zisků. Earnings jsou až 1. 2. 2027, takže v mezidobí bude akcie citlivá hlavně na vývoj kolem Nvidie a obecné zprávy o poptávce po AI hardwaru. Celkově je momentum pozitivní, ale krátkodobé výkyvy budou pravděpodobně značné.",
+   "outlook": "gain"
+  },
+  {
+   "symbol": "GOOGL",
+   "name": "Alphabet Inc.",
+   "quote": {
+    "symbol": "GOOGL",
+    "price": 293.45,
+    "change_pct": 2.1121859558772336,
+    "day_high": 295.74,
+    "day_low": 289.48,
+    "day_open": 290.105
+   },
+   "news": [
+    {
+     "headline": "Zelda remake becomes fastest-selling Nintendo Switch 2 game ever",
+     "summary": "Yahoo Finance's Deirdre Bosa reports on \"The Legend of Zelda: Ocarina of Time\" selling 5.2 million copies in its first four days on Nintendo (NTDOY) Switch 2, the device's fastest-selling game ever, ahead of next week's Grand Theft Auto 6 launch.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=02b4e9466697e379c3d95bb527b6c2b774aa9fb40c2eb2789b5b19747da80abc",
+     "datetime": 1794439050
+    },
+    {
+     "headline": "Nvidia and Alphabet Just Agreed to Buy $10 Billion Each of Anthropic Stock at Its IPO Price",
+     "summary": "Anthropic's filing ties two of the seven checks to deals already in place -- though not the chipmaker's.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=13132d03c5b8d69d4f31c02910a3f58b434d3e8ce498d01778b6101fa2f7c561",
+     "datetime": 1794438421
+    },
+    {
+     "headline": "Fusion's Next Race Is Over Superconducting Tape, Not Plasma",
+     "summary": "Proxima Fusion signed deals with Japan's Fujikura and Kyoto Fusioneering to build a European fusion supply chain, starting with superconducting tape.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=5deaac082d38d7e5742c95f8543b43b792bc36f8e813b5ab3b043c25f0219979",
+     "datetime": 1794438000
+    },
+    {
+     "headline": "GE Vernova Fell 25% on Data Center Fears. Only About 20% of Its Gas Turbine Customers Are Data Centers. Time to Buy?",
+     "summary": "Investors may be viewing this company's future as being more dependent on the AI industry than it actually is.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=91db2ef353218b9c334adfaad3b015cf802ede0e7ab3df268dcbeede1d813606",
+     "datetime": 1794435900
+    },
+    {
+     "headline": "Hugging Face co-founder says AI hacks show even the biggest labs haven't figured out AI alignment",
+     "summary": "Hugging Face cofounder Thomas Wolf says AI alignment is a key issue the company is focusing on following OpenAI hack.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=8d0d2feb72798790606b29b9f0b84c66c519f56ca616d297445fa9347d1a7bbe",
+     "datetime": 1794434400
+    },
+    {
+     "headline": "Anthropic's Mythos claim may put Nvidia’s CUDA moat in a vulnerable spot",
+     "summary": "Yahoo Finance's Deirdre Bosa discusses an Anthropic (ANTH.PVT) claim that its Mythos model got Claude running on AMD (AMD) chips in about three days, raising questions about whether AI can erode the value of Nvidia's (NVDA) CUDA moat.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=5d7beac23919d4815071e8f392092a8190f4c798882b8ff903bcc13ad855f636",
+     "datetime": 1794433426
+    },
+    {
+     "headline": "Tech round-up: A closer look at Anthropic, Nvidia, CoreWeave, and next week",
+     "summary": "Deirdre Bosa summarizes what's been going on in tech this week: CoreWeave's (CRWV) third quarter earnings and the associated concerns with circular AI financing, Nvidia's (NVDA) Jensen Huang controversy and upcoming earnings results, Anthropic's (ANTH.PVT) IPO buzz, and more.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=e374256b0ad028a57cf7a4a0f37c066e13a58e77e61010cf2f64671db31cd6c1",
+     "datetime": 1794431995
+    },
+    {
+     "headline": "Amazon and Google Are Sitting on a $411 Billion Anthropic Windfall",
+     "summary": "Anthropic's IPO lands next month, and two cloud giants hold the biggest stakes. One bought in cheaply but must wait to collect, while the other's payoff barely moves its stock. Which investors stand to gain the most?",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=4c7b761f6d7cefcccb9ebbc0096e03de99d77b88c0c766cc41e0a13497b54037",
+     "datetime": 1794430065
+    }
+   ],
+   "note": null,
+   "earnings_date": "2027-02-02",
+   "next_earnings": {
+    "date": "2027-02-02",
+    "hour": "amc"
+   },
+   "last_earnings": {
+    "date": "2026-09-30",
+    "actual": 2.67,
+    "estimate": 3.11,
+    "beat": false
+   },
+   "week_change_pct": 1.5643927594919123,
+   "analysis": "Alphabet těží z toho, že spolu s Nvidií investuje 10 miliard dolarů do IPO startupu Anthropic, což upevňuje jeho pozici v klíčovém AI partnerství vedle existujícího podílu v cloudové infrastruktuře. Podle odhadů drží Alphabet spolu s Amazonem dohromady podíl v Anthropicu v hodnotě až 411 miliard dolarů, což je obrovský potenciální zdroj hodnoty, i když zisk z této investice se zatím v akcii výrazně neprojevuje kvůli omezením vyplývajícím z podmínek vstupu. Akcie dnes přidala přes 2 % a za týden je mírně v plusu (+1,56 %), což naznačuje relativní stabilitu oproti volatilnějším souputníkům jako Nvidia nebo Microsoft. Negativním signálem jsou poslední kvartální výsledky, které nedosáhly odhadů analytiků (EPS 2,67 vs. 3,11) – to je varovný signál, že ani giganti jako Google nejsou imunní vůči zklamání trhu z vysokých očekávání v AI éře. Google navíc expanduje svou AI asistentku Gemini do Apple CarPlay, což ukazuje na pokračující snahu rozšiřovat dosah AI produktů napříč ekosystémy konkurentů. Firma je také vystavena běžícím regulatorním tlakům v EU i USA, podobně jako ostatní velké tech firmy. Výhled do dalších týdnů bude záviset na vývoji kolem IPO Anthropicu a na tom, zda trh začne tuto investici více oceňovat v ceně akcie. Earnings jsou plánovány až na 2. 2. 2027, takže v mezidobí budou hlavním katalyzátorem zprávy o AI partnerstvích a regulaci.",
+   "outlook": "neutral"
+  },
+  {
+   "symbol": "META",
+   "name": "Meta Platforms",
+   "quote": {
+    "symbol": "META",
+    "price": 628.77,
+    "change_pct": -1.9676016152418971,
+    "day_high": 648.4499,
+    "day_low": 627.97,
+    "day_open": 646.735
+   },
+   "news": [
+    {
+     "headline": "Meta Platforms (META) Braces For EU Rules With 6% Revenue Penalty Risk",
+     "summary": "Meta Platforms (NasdaqGS:META) faces new EU rules that target addictive social media features and simulated AI relationships, with potential fines of up to 6% of global revenue for violations. Draft EU regulation would require Meta products to offer users clear options to disable engagement tools that keep them scrolling for longer. The same EU package aims to limit AI systems that mimic personal intimacy, which could affect how Meta deploys conversational agents across its apps. The EU...",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=4b64b204118cba523b53ba2318eca3ab53e88eaa9d61fd815e1f9f56cbecd210",
+     "datetime": 1794439040
+    },
+    {
+     "headline": "Hugging Face co-founder says AI hacks show even the biggest labs haven't figured out AI alignment",
+     "summary": "Hugging Face cofounder Thomas Wolf says AI alignment is a key issue the company is focusing on following OpenAI hack.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=8d0d2feb72798790606b29b9f0b84c66c519f56ca616d297445fa9347d1a7bbe",
+     "datetime": 1794434400
+    },
+    {
+     "headline": "FIS to Present at Upcoming Conference",
+     "summary": "JACKSONVILLE, Fla., November 11, 2026--FIS® (NYSE: FIS), a global leader in financial technology, will present on Thursday, November 12th at the KBW Fintech Ecosystem Conference in New York City at 10:55am ET.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=a8327829ad956bddd035ca2bdc8395e77acf29d0545c7f2d9065b2eeb1bbb2da",
+     "datetime": 1794432600
+    },
+    {
+     "headline": "Meta Platforms Infrastructure Head Santosh Janardhan to Depart in Early 2027",
+     "summary": "Meta Platforms (META) confirmed Wednesday that Head of Infrastructure Santosh Janardhan will depart",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=293638f825cc90952137dca613ac7d037fca81a0411304ed47fc72c432baa4d6",
+     "datetime": 1794431278
+    },
+    {
+     "headline": "Pixelworks Reports Third Quarter 2026 Financial Results",
+     "summary": "Pixelworks, Inc. (NASDAQ: PXLW) (\"Pixelworks\" or the \"Company\"), a provider of innovative cinematic and enhanced visualization solutions, today announced financial results for the third quarter ended September 30, 2026.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=5d427a5c2b2ad9af8079a8831c7ccc1b89b9149a3d41e86ceefefe01654dcfa7",
+     "datetime": 1794431100
+    },
+    {
+     "headline": "Bots don't fly here: United Airlines restricts AI agents from booking flights",
+     "summary": "AI agents just got denied boarding at United Airlines.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=29a0a78d30ac55ef7c4c72e36b1df6cb5fa147c2c7e634daa398f89ababd098d",
+     "datetime": 1794429583
+    },
+    {
+     "headline": "Democrats Could Target Data Center Tax Breaks in 2027. What It Means for Meta, Microsoft, Alphabet, and Amazon",
+     "summary": "Key TakeawaysMeta Platforms (META) could face additional cash flow pressure if Democrats seek to restrict tax deductions for data center equipment during the 2027 debt ceiling negotiations. Microsoft (MSFT) recorded approximately $116 billion in fiscal 2026 capital expenditures, nearly five times its fiscal 2022 spending.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=f094ed89e128615c17131c1109390574f329787938aa76336e75fd8f3f300fa2",
+     "datetime": 1794428288
+    },
+    {
+     "headline": "Snap Is Still Down 34% in 2026: Did Today Mark the Bottom for SNAP Stock?",
+     "summary": "A return to profit hasn’t been enough to repair a tough year for Snap (NYSE:SNAP). Snap stock has dropped 34% year to date (YTD) to $5.32 in late-day trading. The Snapchat parent is up 6% from the prior close, carried higher by a broad rally in technology stocks. The bounce raises a fair question for […]",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=47760fea5daef9099b6e0cb0cb049d2c30a0398f9deba075493520e3bfb8add8",
+     "datetime": 1794427329
+    }
+   ],
+   "note": null,
+   "earnings_date": "2027-01-26",
+   "next_earnings": {
+    "date": "2027-01-26",
+    "hour": "amc"
+   },
+   "last_earnings": {
+    "date": "2026-09-30",
+    "actual": 7.4,
+    "estimate": 6.87,
+    "beat": true
+   },
+   "week_change_pct": -0.19523809523809812,
+   "analysis": "Meta čelí hned několika negativním tlakům najednou – akcie dnes klesla téměř o 2 % a za týden je prakticky beze změny, což odráží kumulaci špatných zpráv. Hlavním rizikem je připravovaná regulace EU cílená na 'návykové' funkce sociálních sítí a simulované AI vztahy, s hrozbou pokut až 6 % celosvětových tržeb – to je potenciálně miliardová zátěž, pokud nová pravidla vstoupí v platnost v navrhované podobě. K tomu se přidává odchod šéfa infrastruktury Santosh Janardhana na začátku roku 2027, což může vyvolat otázky o kontinuitě ambiciózních datacenter projektů klíčových pro AI strategii firmy. Pozitivní zprávou jsou poslední výsledky, které výrazně překonaly odhady (EPS 7,40 vs. 6,87), což ukazuje, že základní byznys reklamy a platforem zůstává velmi silný navzdory vysokým investičním výdajům do AI. Diskutuje se také o možném omezení daňových úlev na datacentrová zařízení ze strany Demokratů v rámci jednání o dluhovém stropu v roce 2027, což by mohlo dále zvýšit náklady Meta na budování AI infrastruktury. Kombinace regulatorního rizika, personálních změn a rostoucích nákladů vytváří nejistý krátkodobý obrázek i přes silné fundamenty. Earnings 26. 1. 2027 budou klíčovým momentem pro ověření, zda firma dokáže udržet ziskovost i přes rostoucí regulatorní a investiční tlaky. Investoři by měli sledovat zejména konkrétní detaily navrhované EU regulace a její načasování.",
+   "outlook": "neutral"
+  },
+  {
+   "symbol": "AAPL",
+   "name": "Apple Inc.",
+   "quote": {
+    "symbol": "AAPL",
+    "price": 355.63,
+    "change_pct": 2.0429829847063226,
+    "day_high": 355.91,
+    "day_low": 349.325,
+    "day_open": 349.545
+   },
+   "news": [
+    {
+     "headline": "Stock Market Today, Nov. 11: Stock Market Today, Nov. 11: Nasdaq Surges as CoreWeave's 25% Rally Reignites the AI Trade",
+     "summary": "Wall Street staged a strong recovery Wednesday as enthusiasm for AI infrastructure returned, lifting semiconductor and technology stocks despite persistent concerns about inflation.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=b3d97c9cdb2a2c151bfb29be44fc785c59d63530cdd8f2c6cc2a0dda2d6bfac4",
+     "datetime": 1794437102
+    },
+    {
+     "headline": "Apple Shares (AAPL) Look Expensive Heading into 2027",
+     "summary": "Apple (AAPL) shares look expensive heading into 2027, despite the company’s strong growth prospects. Shares of the iPhone maker have soared in 2026, easily outperforming the Nasdaq-100 (NDX) as tracked by the Invesco QQQ Trust (QQQ). This comes as Apple has delivered higher sales and revenues this year, a trend analysts expect to continue into Fiscal 2027. What is more, Apple may benefit from higher device sales should memory costs normalize, potentially making the shares interesting for investo",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=d724df0690ef5ddd6eaa553272cfdf694f9b5abd12f1d599761b79e888959ac9",
+     "datetime": 1794431700
+    },
+    {
+     "headline": "Is Dell Stock Priced Right Against Its Peers?",
+     "summary": "For questions about this article or underlying research, email help@trefis.com.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=825afe4818a1adcb767552dc041f4b23716414a3d3407e5e949b66fb6aa3f5f0",
+     "datetime": 1794430140
+    },
+    {
+     "headline": "Google rolls out Gemini AI voice assistant to Apple CarPlay dashboards",
+     "summary": "Investing.com -- Alphabet Inc's (NASDAQ:GOOGL) Google is expanding its reach across Apple Inc's (NASDAQ:AAPL) ecosystem by bringing its Gemini artificial intelligence assistant directly to Apple CarPlay. The integration allows drivers to conduct hands-free, two-way conversations with Gemini Live through vehicle dashboard displays, with all voice exchanges automatically syncing back to the iOS app.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=7c633254a9dd3782aa5e4d2a16aac5f4e0bff0ebcd14e464d3ed15848cd02d24",
+     "datetime": 1794428020
+    },
+    {
+     "headline": "Micron Stock Fell 30% in a Week. Bernstein Says It Could Nearly Double",
+     "summary": "Key TakeawaysMicron Technology (MU) stock fell 29. 7% between October 29 and November 5, closing at $656.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=9c89f6032a67e9dc8a6d2e49e789ac8a701e2bf46d0fdc1a1c85fce63b74215e",
+     "datetime": 1794425088
+    },
+    {
+     "headline": "MP Materials (MP) Q3 Beat Raises The Question Of Whether Its Story Is Already Priced In",
+     "summary": "MP Materials (MP) just put a busy third quarter on the table, with revenue and production updates, narrowed losses, and fresh contract progress that together give investors more concrete numbers to work with. Despite the Q3 beat and contract wins with General Motors, Apple and U.S. defense customers, momentum in MP Materials’ shares has cooled. The share price is down 21% over the past month and 34% year to date, while the three year total shareholder return of around 126% still reflects a...",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=cf7791e820548949235c8944c880655815e3a92496273b21759334f16263a623",
+     "datetime": 1794424414
+    },
+    {
+     "headline": "CoreWeave Earnings Alleviate Some AI Spending Fears",
+     "summary": "Artificial Intelligence (AI) tech and semiconductor shares rebound. Appleâs market capitalization hits $5.17 trillion with fresh high.",
+     "source": "SeekingAlpha",
+     "url": "https://finnhub.io/api/news?id=6a4f3c0a52d416b6ac082d34ab54415d091f7fcc5caf76a6d3eff23f41b71586",
+     "datetime": 1794423300
+    },
+    {
+     "headline": "Cramer Says Apple Investors Who Sold After Steve Jobs Missed Years Of Gains. The Stock Is Up Nearly 3,000% Since. Now He’s Asking If Nvidia Needs Jensen Huang",
+     "summary": "Jim Cramer is bending his own \"own it, don't trade it\" rule for Nvidia as its founder faces a board probe. Apple's post-Jobs history offers a tempting parallel, but one key difference could make it a dangerous guide.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=38a2058ef70eb1df985ca48405e878a794af19999c65f060f6473460107af077",
+     "datetime": 1794422817
+    }
+   ],
+   "note": null,
+   "earnings_date": "2027-01-27",
+   "next_earnings": {
+    "date": "2027-01-27",
+    "hour": ""
+   },
+   "last_earnings": {
+    "date": "2026-09-30",
+    "actual": 2.1,
+    "estimate": 2.03,
+    "beat": true
+   },
+   "week_change_pct": 1.7510228605762366,
+   "analysis": "Apple dosáhl historického milníku – tržní kapitalizace poprvé přesáhla 5,17 bilionu dolarů, podpořená širší návratovou AI rally poté, co silné výsledky CoreWeave uklidnily obavy z přehřátí AI investic. Akcie dnes přidala přes 2 % a za týden je mírně v plusu (+1,75 %), což z ní dělá jednoho z nejstabilnějších hráčů mezi sledovanými tituly v posledních dnech plných volatility. Analytici ale upozorňují, že po tak silném růstu v roce 2026 vypadá akcie směrem do roku 2027 draze vzhledem k růstovým vyhlídkám, což by mohlo omezit další potenciál růstu, pokud se neobjeví nové pozitivní katalyzátory. Zajímavá je i spolupráce s Googlem, který integruje svého AI asistenta Gemini do Apple CarPlay – to ukazuje na pokračující prohlubování partnerství mezi konkurenty v oblasti AI, i když zůstává otázkou, nakolik to přímo ovlivní tržby Apple. Poslední kvartální výsledky byly nad odhady (EPS 2,10 vs. 2,03), což potvrzuje zdravý fundament firmy. Zvýšený zájem opčních obchodníků naznačuje, že trh vnímá Apple jako relativně bezpečný přístav uprostřed turbulencí kolem Nvidie a dalších AI firem. Rizikem zůstává vysoké ocenění a obecná citlivost na makro faktory jako inflace a sazby. Earnings 27. 1. 2027 budou klíčové pro potvrzení, zda firma dokáže ospravedlnit současné ocenění dalším růstem tržeb a zisku. Krátkodobě je sentiment pozitivní, ale prostor pro překvapení je spíše omezený.",
+   "outlook": "gain"
+  },
+  {
+   "symbol": "MSFT",
+   "name": "Microsoft Corp.",
+   "quote": {
+    "symbol": "MSFT",
+    "price": 521.125,
+    "change_pct": -2.257296121239397,
+    "day_high": 534.76,
+    "day_low": 518.45,
+    "day_open": 534.235
+   },
+   "news": [
+    {
+     "headline": "Fusion's Next Race Is Over Superconducting Tape, Not Plasma",
+     "summary": "Proxima Fusion signed deals with Japan's Fujikura and Kyoto Fusioneering to build a European fusion supply chain, starting with superconducting tape.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=5deaac082d38d7e5742c95f8543b43b792bc36f8e813b5ab3b043c25f0219979",
+     "datetime": 1794438000
+    },
+    {
+     "headline": "Stock Market Today, Nov. 11: IREN Rises as AI Cloud Peers Rally on CoreWeave Results",
+     "summary": "Trading volume ran well above its three-month average as the AI data center operator rode a sector rally, today, Nov. 11, 2026.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=1230866a7d1728627bbf032a179e321a9f98575dfa21c1328f5582a47d65f5b4",
+     "datetime": 1794435901
+    },
+    {
+     "headline": "Stocks Slide as AI Trade Roars Back | Closing Bell",
+     "summary": "Comprehensive cross-platform coverage of the U.S. market close on Bloomberg Television, Bloomberg Radio, and YouTube with Romaine Bostick, Vonnie Quinn, Carol Massar and Tim Stenovec.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=3d479acb3619be1e4dec13615e1e66119b302189ffe792bf42e2b70da5c9cc3e",
+     "datetime": 1794434683
+    },
+    {
+     "headline": "Is the AI boom hiding a jobs crisis for graduates?",
+     "summary": "Entrepreneur, bestselling author, and former presidential candidate Andrew Yang and former Salesforce AI CEO Clara Shih join Yahoo Finance's Deirdre Bosa to examine the challenging job market facing recent college graduates. They discuss whether the massive AI infrastructure boom is masking broader labor market weakness and what the rise of artificial intelligence could mean for the next generation of workers.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=83a9a830868db739979574c3784c40d0b16f292af52353b4922193e47fd312d4",
+     "datetime": 1794433503
+    },
+    {
+     "headline": "Anthropic's Mythos claim may put Nvidia’s CUDA moat in a vulnerable spot",
+     "summary": "Yahoo Finance's Deirdre Bosa discusses an Anthropic (ANTH.PVT) claim that its Mythos model got Claude running on AMD (AMD) chips in about three days, raising questions about whether AI can erode the value of Nvidia's (NVDA) CUDA moat.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=5d7beac23919d4815071e8f392092a8190f4c798882b8ff903bcc13ad855f636",
+     "datetime": 1794433426
+    },
+    {
+     "headline": "Fed’s Bowman Says AI Now Drives About a Quarter of America’s Excess Inflation",
+     "summary": "The chips fueling the AI boom now show up on the Fed's inflation ledger, and rate hikes can't touch them. One stock collects the higher prices while another pays them, and a December decision could split their fortunes.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=f9793a066777026f9e66909c223ddfdd3de01a5398bb709768b01bfbd738e041",
+     "datetime": 1794431918
+    },
+    {
+     "headline": "Canadian AI-buildout stocks: hardware, power, engineering and software",
+     "summary": "Investing.com -- Canada has no pure-play chip giant. Its AI exposure sits in the supporting layers: hardware assembly, power, engineering and software. Many of the largest hits are CAD-denominated depositary receipts of US firms, such as NVIDIA and Microsoft. Those are not Canadian companies, so they are excluded below.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=5e437d8da5f306c7074db73900e93c9edd22cbf35e2a0dd10c9c281242d1594d",
+     "datetime": 1794431495
+    },
+    {
+     "headline": "Anthropic’s IPO Prospectus by the Head-Spinning Numbers",
+     "summary": "The AI lab’s initial public offering documents are packed with fantastic figures.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=09e76893412cb427fdcfea0bca7bc8c9bcf4678903f790c38246dfd90b99f939",
+     "datetime": 1794429120
+    }
+   ],
+   "note": null,
+   "earnings_date": "2027-01-26",
+   "next_earnings": {
+    "date": "2027-01-26",
+    "hour": ""
+   },
+   "last_earnings": {
+    "date": "2026-09-30",
+    "actual": 4.89,
+    "estimate": 4.82,
+    "beat": true
+   },
+   "week_change_pct": -6.238754947822951,
+   "analysis": "Microsoft dnes zaostal za zbytkem technologického sektoru, akcie klesla přes 2 % a za týden ztrácí více než 6 %, což je nejhorší týdenní výkon mezi sledovanými tituly. Jedním z klíčových faktorů je vyjádření představitelky Fedu Michelle Bowmanové, že AI nyní pohání zhruba čtvrtinu americké 'nadbytečné' inflace – to zvyšuje riziko, že centrální banka bude opatrnější s případným snižováním sazeb v prosinci, což by zasáhlo celý růstový tech sektor včetně Microsoftu. Firma je navíc potenciálně vystavena stejnému riziku jako Meta a Alphabet, pokud Demokraté v roce 2027 prosadí omezení daňových úlev na datacentrové vybavení – to by zvýšilo náklady na massivní AI investice, které Microsoft prostřednictvím Azure a partnerství s OpenAI intenzivně provádí. Pozitivní je, že poslední výsledky překonaly odhady (EPS 4,89 vs. 4,82), což ukazuje na solidní základní byznys navzdory tlakům. Microsoft zůstává jedním z klíčových hráčů v AI infrastruktuře, ale momentálně se zdá, že trh přehodnocuje tempo a náklady spojené s tímto růstem agresivněji než u konkurentů jako Apple nebo AMD. Krátkodobě bude akcie citlivá na jakékoliv další signály od Fedu ohledně inflace a sazeb. Earnings 26. 1. 2027 budou důležitým testem, zda firma dokáže udržet tempo růstu cloudových tržeb i při rostoucích nákladech. Opatrnost investorů v příštích týdnech je pravděpodobná, dokud se neobjasní směr sazeb.",
+   "outlook": "loss"
+  },
+  {
+   "symbol": "VUAA",
+   "name": "S&P 500 (přes SPY)",
+   "quote": {
+    "symbol": "SPY",
+    "price": 759.81,
+    "change_pct": 1.3188073394495397,
+    "day_high": 762.51,
+    "day_low": 754.9,
+    "day_open": 756.8
+   },
+   "news": [
+    {
+     "headline": "Home Equity Borrowing Jumps the Most Since 2005 as Household Debt Passes $19 Trillion",
+     "summary": "Some homeowners tap their equity because it's cheap. Others tap it to cover gas and groceries. The same record-setting number hides both, and which group dominates could decide whether consumer spending, and the index funds riding on it, holds up.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=e77748a0eb613831bafe2ff475b49a332958c635c45d7c602a1b2495db73be08",
+     "datetime": 1794426155
+    },
+    {
+     "headline": "Tractor Supply Turned $1,000 Into Over $3,200 in 10 Years. Then Came 2026",
+     "summary": "A buyer from 2016 tripled their money, yet a buyer from 2021 is still underwater. Tractor Supply's pandemic-era boom has hit a hangover, and one number in its latest quarter could decide which story comes next.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=54e4eaf2722aea14a83754688f9163a09e355abf0c5fda63be22ea15fc976bc8",
+     "datetime": 1794424664
+    },
+    {
+     "headline": "CoreWeave Earnings Alleviate Some AI Spending Fears",
+     "summary": "Artificial Intelligence (AI) tech and semiconductor shares rebound. Appleâs market capitalization hits $5.17 trillion with fresh high.",
+     "source": "SeekingAlpha",
+     "url": "https://finnhub.io/api/news?id=6a4f3c0a52d416b6ac082d34ab54415d091f7fcc5caf76a6d3eff23f41b71586",
+     "datetime": 1794423300
+    },
+    {
+     "headline": "Cramer Says Apple Investors Who Sold After Steve Jobs Missed Years Of Gains. The Stock Is Up Nearly 3,000% Since. Now He’s Asking If Nvidia Needs Jensen Huang",
+     "summary": "Jim Cramer is bending his own \"own it, don't trade it\" rule for Nvidia as its founder faces a board probe. Apple's post-Jobs history offers a tempting parallel, but one key difference could make it a dangerous guide.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=38a2058ef70eb1df985ca48405e878a794af19999c65f060f6473460107af077",
+     "datetime": 1794422817
+    }
+   ],
+   "note": "VUAA je evropský ETF na S&P 500 (LSE/Xetra), Finnhub free tier ale evropské burzy nepodporuje. Cena a novinky jsou proto z amerického ETF SPY, který sleduje stejný index 1:1.",
+   "earnings_date": null,
+   "next_earnings": null,
+   "last_earnings": null,
+   "week_change_pct": -0.9128728107353844,
+   "analysis": "VUAA jako ETF kopírující index S&P 500 odráží celkovou náladu na americkém akciovém trhu, a ta byla tento týden mimořádně turbulentní kvůli kombinaci faktorů – od obav z AI bubliny přes drama kolem Nvidie až po silné výsledky CoreWeave, které náladu částečně zlepšily. Dnes ETF přidalo přes 1 %, ale za posledních sedm dní je mírně v mínusu (-0,91 %), což odpovídá širšímu kolísání velkých technologických firem, které tvoří významnou váhu indexu. Je důležité připomenout, že data pro VUAA jsou v tomto přehledu čerpána z amerického ETF SPY, protože Finnhub nepodporuje evropské burzy, na kterých VUAA skutečně obchoduje – nicméně SPY sleduje stejný index 1:1, takže vývoj ceny by měl být prakticky totožný. Zprávy o rekordní tržní kapitalizaci Applu a návratu AI rally po výsledcích CoreWeave jsou pro širší index pozitivní, protože velké technologické firmy mají v S&P 500 významnou váhu. Na druhou stranu nejistota kolem Nvidie a varování Fedu o inflaci tažené AI sektorem představují riziko pro celý index, protože ukazují na potenciální budoucí zpřísnění měnové politiky. Pro dlouhodobého investora v širokém indexovém ETF je klíčové sledovat makro vývoj spíše než jednotlivé firemní titulky. Krátkodobě lze čekat pokračující kolísání v závislosti na vývoji kolem Nvidie a nadcházejících rozhodnutích Fedu o sazbách. Dlouhodobý trend indexu zůstává nahoru orientovaný, i když cesta může být hrbolatá.",
+   "outlook": "neutral"
+  }
+ ],
+ "macro_news": [
+  {
+   "headline": "Iran tells COP31 it wants compensation for environmental damage from US-Israeli strikes - Reuters",
+   "summary": "Iran tells COP31 it wants compensation for environmental damage from US-Israeli strikes  Reuters",
+   "source": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQS2FSc2RtZWhvZFUxWkp2MGlPTGxDbkM0aTEydVBoMkdUd2VkVVRWV01fblhPSmlKMGo0Q3M5cFZ5MlhlUHRWVlNDRlVGcFdPdS1VYk9KUE16OVFUVDR0bVFWakRpRzctbzRLMDdxUmE1M3lPdzlmWEZLYUxxUlNjdTZyNEV1WndJdk04N050Q21TeEdCbzRxT2gxaWFWRlQzSERXS1RiLTNCaTdMLWZZb3hmRjQxM0NaTXVlWE1aNTVLdUxrTjdDejdWZVBSdw?oc=5",
+   "datetime": 1794435191
+  },
+  {
+   "headline": "Feds arrest top official of healthcare company, alleging illegal drug importation",
+   "summary": "U.S. officials are accusing two top officials of a Canadian company of operating a scheme to illegally import prescription drugs, court records show.",
+   "source": "CNBC",
+   "url": "https://www.cnbc.com/2026/11/11/canarx-official-arrested-drug-importation.html",
+   "datetime": 1794432797
+  },
+  {
+   "headline": "Costco is giving shareholders a big, early holiday gift. How to make sure you get it",
+   "summary": "Costco announced a special dividend, and it's not too late to get in on the action.",
+   "source": "CNBC",
+   "url": "https://www.cnbc.com/investingclub/2026/11/11/costco-is-giving-shareholders-a-big-early-holiday-gift-how-to-make-sure-you-get-it.html",
+   "datetime": 1794430772
+  },
+  {
+   "headline": "Saudi Arabia intercepts Houthi missiles, drones; group denies targeting Mecca - Reuters",
+   "summary": "Saudi Arabia intercepts Houthi missiles, drones; group denies targeting Mecca  Reuters",
+   "source": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNa0VablB0SWViZWpCRFg4bC0yX2ZTM19HNmFFVUdqVVlwbWRuRjdpSnNXZ3liU04zeTYyZWJPSlhLeEVRTUlMS0N2SnlPdEpINzVHUTJjRXJjd3RKdEZMLS14czdZSlpjcWlJWm95bFpTNHgxblNSVlFyLWhsQ0JncVFZRGRmQ0p6cDZQRGRtNlh6LWxnVXlLRkJyelFzdTFoM285d2tQZTJvS1BkYkRzLVZwUERKc2pHbVBqOUZDSmFRbGJ4TmpmQVExbnEzOTQ?oc=5",
+   "datetime": 1794430671
+  },
+  {
+   "headline": "Hoax bomb alerts sent to schools in Italy, UK and Ireland in latest disruption - Reuters",
+   "summary": "Hoax bomb alerts sent to schools in Italy, UK and Ireland in latest disruption  Reuters",
+   "source": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOLUZHS1hQdFNsS21tSW0zXzRnRDNsVEN2T1hITTBwX1l3d3VCWmw5MXVMaEYwM2ROMXpYNnR6cTNwMlVuSUNsekp2YmZtX1h2VE9wNnc2RThjc05OV2tBc0VNNzNicWNGcGtKVG9VTGo2Yzl5eUFxeE9IQ3JlZWpHb25vcWk5VmlWZkRwbmQzRmhzbDF2cmhWM1F0RmNlTGhtM0Zv?oc=5",
+   "datetime": 1794430063
+  },
+  {
+   "headline": "We're adding a chipmaker to our Bullpen watchlist and downgrading another name",
+   "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+   "source": "CNBC",
+   "url": "https://www.cnbc.com/investingclub/2026/11/11/were-adding-a-chipmaker-to-our-bullpen-watchlist-and-downgrading-another-name.html",
+   "datetime": 1794427482
+  },
+  {
+   "headline": "Iran will not allow enriched nuclear material to leave the country, security chief says - Reuters",
+   "summary": "Iran will not allow enriched nuclear material to leave the country, security chief says  Reuters",
+   "source": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNSmRMSFZZUld1UEFab291N25WYXZVNENjbmtrWVU0OEEwZm84Z2RONXZHM0JnY2FId2ROLTRvek9lWmZiSFNQNlMwVVpVQ0Q1V3NsSDk1alc5Z0JoMExVY3NpYjVSVDhXd3RtYmo2M2lsdHoydlUteHlDMkp5QlZsWGQxam1JUXFuRkV0UHhOTVB0ZWtxeUhCTkNHNkRMMG5TaUdQaHBUYTlmMkhBRjBWUkZUTlNMVU1ISzFfVlduXzBJd3p0U0psdDNTa1F4Zw?oc=5",
+   "datetime": 1794427385
+  },
+  {
+   "headline": "Apple's record run ignites options flurry — Watch Options Action live",
+   "summary": "Apple's resilience continues to catch the attention of options traders looking for a safe harbor in tech.",
+   "source": "CNBC",
+   "url": "https://www.cnbc.com/2026/11/11/apples-record-run-ignites-options-flurry-watch-options-action-live.html",
+   "datetime": 1794423183
+  }
+ ],
+ "macro": [
+  {
+   "time": "23:13",
+   "title": "Írán žádá na COP31 odškodnění za škody ze útoků USA a Izraele",
+   "body": "Írán na klimatické konferenci COP31 požaduje kompenzaci za environmentální škody způsobené americko-izraelskými útoky. Toto téma zvyšuje geopolitické napětí na Blízkém východě, které může v budoucnu ovlivnit ceny ropy a energetické trhy. Přímý dopad na akciové trhy sledované v tomto přehledu je zatím omezený, jde spíše o dlouhodobější geopolitické riziko.",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQS2FSc2RtZWhvZFUxWkp2MGlPTGxDbkM0aTEydVBoMkdUd2VkVVRWV01fblhPSmlKMGo0Q3M5cFZ5MlhlUHRWVlNDRlVGcFdPdS1VYk9KUE16OVFUVDR0bVFWakRpRzctbzRLMDdxUmE1M3lPdzlmWEZLYUxxUlNjdTZyNEV1WndJdk04N050Q21TeEdCbzRxT2gxaWFWRlQzSERXS1RiLTNCaTdMLWZZb3hmRjQxM0NaTXVlWE1aNTVLdUxrTjdDejdWZVBSdw?oc=5",
+   "source": "Reuters"
+  },
+  {
+   "time": "21:04",
+   "title": "Investiční klub mění sledované čipové tituly – jeden přidává, jeden snižuje",
+   "body": "CNBC Investing Club ve svém odpoledním přehledu oznámil, že přidává jednoho výrobce čipů na svůj sledovaný seznam a naopak snižuje hodnocení jiného titulu. Tento krok přichází v den, kdy je čipový sektor mimořádně volatilní kvůli situaci kolem Nvidie a silným výsledkům CoreWeave. Signalizuje to, že profesionální investoři aktivně přehodnocují rizika a příležitosti v AI hardwarovém sektoru právě teď.",
+   "url": "https://www.cnbc.com/investingclub/2026/11/11/were-adding-a-chipmaker-to-our-bullpen-watchlist-and-downgrading-another-name.html",
+   "source": "CNBC"
+  },
+  {
+   "time": "21:57",
+   "title": "Saúdská Arábie sestřelila húthíské rakety a drony mířící na Mekku",
+   "body": "Saúdská Arábie zachytila rakety a drony vypuštěné húthíským hnutím, které však popírá, že by cílilo na Mekku. Incident podtrhuje pokračující nestabilitu v regionu Blízkého východu. Pro globální trhy jde o další připomínku geopolitického rizika, které může ovlivnit ceny ropy a náladu investorů vůči rizikovým aktivům.",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNa0VablB0SWViZWpCRFg4bC0yX2ZTM19HNmFFVUdqVVlwbWRuRjdpSnNXZ3liU04zeTYyZWJPSlhLeEVRTUlMS0N2SnlPdEpINzVHUTJjRXJjd3RKdEZMLS14czdZSlpjcWlJWm95bFpTNHgxblNSVlFyLWhsQ0JncVFZRGRmQ0p6cDZQRGRtNlh6LWxnVXlLRkJyelFzdTFoM285d2tQZTJvS1BkYkRzLVZwUERKc2pHbVBqOUZDSmFRbGJ4TmpmQVExbnEzOTQ?oc=5",
+   "source": "Reuters"
+  },
+  {
+   "time": "21:59",
+   "title": "Costco oznámil mimořádnou dividendu pro akcionáře",
+   "body": "Costco překvapil trh oznámením speciální mimořádné dividendy, kterou mohou akcionáři ještě stihnout. Jde o pozitivní signál finanční síly firmy těsně před vánoční nákupní sezónou. Pro investory hledající stabilní dividendové tituly mimo volatilní tech sektor je to zajímavá zpráva uprostřed turbulentního týdne na trzích.",
+   "url": "https://www.cnbc.com/investingclub/2026/11/11/costco-is-giving-shareholders-a-big-early-holiday-gift-how-to-make-sure-you-get-it.html",
+   "source": "CNBC"
+  }
+ ],
+ "macro_analysis": "",
+ "tips": [
+  {
+   "ticker": "MU",
+   "name": "Micron Technology",
+   "tag": "paměťové čipy",
+   "reason": "Po prudkém propadu téměř o 30 % během týdne vidí analytici Bernstein potenciál pro téměř zdvojnásobení ceny díky silné poptávce po paměťových čipech pro AI servery. Firma je přímo napojená na stejný AI hardwarový boom jako Nvidia a AMD, ale obchoduje se s jiným rizikovým profilem."
+  },
+  {
+   "ticker": "CRWV",
+   "name": "CoreWeave",
+   "tag": "AI cloud infrastruktura",
+   "reason": "Akcie vyskočila o 25 % po výsledcích, které zmírnily obavy z přehřátí AI investic a staly se katalyzátorem rally celého sektoru. Je to klíčový barometr poptávky po pronájmu výpočetního výkonu pro AI modely."
+  },
+  {
+   "ticker": "MP",
+   "name": "MP Materials",
+   "tag": "mimo tech sektor",
+   "reason": "Producent vzácných kovů těží z rostoucí poptávky po materiálech potřebných pro AI hardware a obranný průmysl, s narůstajícími tržbami a zužujícími se ztrátami v posledním kvartále. Nabízí diverzifikaci mimo přímé tech tituly s expozicí vůči stejnému AI trendu."
+  },
+  {
+   "ticker": "COST",
+   "name": "Costco Wholesale",
+   "tag": "dividendová příležitost",
+   "reason": "Firma oznámila mimořádnou speciální dividendu, což je silný signál finančního zdraví před vánoční sezónou. Jde o stabilní maloobchodní titul mimo volatilní technologický sektor."
+  }
+ ],
+ "glossary": {
+  "term": "EPS (zisk na akcii)",
+  "explanation": "EPS ukazuje, kolik firma vydělala v přepočtu na jednu akcii. Pokud skutečný zisk překoná odhady analytiků, trh to obvykle vnímá pozitivně a cena akcie roste, pokud je zisk nižší než čekal trh, cena akcie často klesá."
+ },
+ "weekly_recap": null
+}
