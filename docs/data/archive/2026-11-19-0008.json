@@ -1,0 +1,695 @@
+{
+ "timestamp": "2026-11-19T00:08:08.066558+00:00",
+ "stocks": [
+  {
+   "symbol": "NVDA",
+   "name": "NVIDIA Corp.",
+   "quote": {
+    "symbol": "NVDA",
+    "price": 150.96,
+    "change_pct": -2.8946352759552294,
+    "day_high": 159.7,
+    "day_low": 150.4,
+    "day_open": 159.19
+   },
+   "news": [
+    {
+     "headline": "3 Energy Stocks With Dividends Built to Last the Next 10 Years",
+     "summary": "Chevron, Brookfield Renewable, and Williams are all reliable income investments.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=9362caffbffe7fb441e6b19f7be7a453cc591a703c830ed6177028249672e829",
+     "datetime": 1795038902
+    },
+    {
+     "headline": "Cathie Wood Keeps Buying Archer Aviation Stock. Should You?",
+     "summary": "The tech-focused investor sees promise in electric vertical takeoff vehicles.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=5c7592e6208158bfb310f034c05c1e3db1fcd52389cf708e6ad6166f13a751a3",
+     "datetime": 1795038602
+    },
+    {
+     "headline": "Stock Market Today: Dow Ends In Red On Rate 'Shock' Fears; Nvidia Sinks As Anthropic IPO Looms",
+     "summary": "The Dow Jones index falls Wednesday as a Fed official calls for a \"shock\" in rate hikes to cool inflation. Nvidia ends lower.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=376af3ccc406b1c2d77058d5ec111788d87a926c4c05754a70a798ff8bf06076",
+     "datetime": 1795038510
+    },
+    {
+     "headline": "Dow Drops 561 Points. Nvidia Reverses Rally As Fed Signals More Rate Hikes.",
+     "summary": "Wall Street ended mixed Wednesday, with the Dow losing 561 points and Nvidia reversing its post-earnings rally as investors weighed inflation risks and the Federal Reserve's interest rate outlook.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=81478ca3e4ae4d818cebbce0d012bb41d64d48322926eb136753c41b5ed8cff7",
+     "datetime": 1795038485
+    },
+    {
+     "headline": "Will Apollo's $40 billion for SpaceX to rent GPUs pay off?",
+     "summary": "Yahoo Finance's Deirdre Bosa and In the Loop host Ejaaz Ahamadeen discuss Apollo (APO) is lining up $40 billion in financing so SpaceX (SPCX) can rent GPUs as a neo cloud, funding CEO Elon Musk's wider ambitions. Disclosure: Yahoo is a portfolio company of funds managed by affiliates of Apollo Global Management.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=e5bbc005df9d945b8cb0b4511d2c9395ae3fd94c79708395d6badb134f945313",
+     "datetime": 1795038106
+    },
+    {
+     "headline": "Forget CoreWeave: Applied Digital Is the Real Loser as “The Bank of Nvidia” Pulls Back",
+     "summary": "Key TakeawaysCoreWeave fell 4% today after Nvidia said it would be more selective about which neoclouds it helps finance. CoreWeave’s Polaris Forge 1 lease is 30.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=e7f428ab8f140d9334d04df3aca1aa9055d5b63e7e95184dc58900e974a72439",
+     "datetime": 1795038054
+    },
+    {
+     "headline": "Anthropic Is Eyeing Pricing Its IPO As High As $85 Per Share: Report",
+     "summary": "Claude developer Anthropic is considering pricing its initial public offering at $80 to $85 per share, Bloomberg reported.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=e3bfc8c33de320f9eeefbdc24d2a6e6b835f97ecdf5b1bad7348e7a5909f3e0b",
+     "datetime": 1795038039
+    },
+    {
+     "headline": "Are You Considering Buying Anthropic Stock on Day 1? Here’s What I’m Doing.",
+     "summary": "IPO stocks can be quite volatile during their first few weeks on the market.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=7c50d2d80e3510a09b7a508d86f3676b6606ee3303495877953d0b3bee82e5b3",
+     "datetime": 1795037822
+    }
+   ],
+   "note": null,
+   "earnings_date": null,
+   "next_earnings": null,
+   "last_earnings": {
+    "date": "2026-12-31",
+    "actual": 2.68,
+    "estimate": 2.52,
+    "beat": true
+   },
+   "week_change_pct": -13.106544638231728,
+   "analysis": "Nvidia dnes klesla o 2,89 % na 150,96 USD a za posledních sedm dní ztratila přes 13 %, což je výrazný propad u klíčové AI akcie. Poslední výsledky přitom byly nad odhady (EPS 2,68 vs 2,52), takže pokles není způsoben fundamentálním zklamáním, ale sentimentem a nejistotou. Firma prochází vedením po odchodu CEO Jensena Huanga, interim šéfka Colette Kress se snaží zaměstnance uklidnit a motivovat vyššími platy, což signalizuje vnitřní turbulence. Zásadním tématem je blížící se IPO konkurenčního AI hráče Anthropic, které odsává pozornost i kapitál investorů směrem od zavedených AI akcií. Navíc Nvidia oznámila, že bude selektivnější ve financování takzvaných neocloudů, což již zasáhlo související firmy jako CoreWeave. Fedovy signály o možném dalším zvyšování sazeb kvůli obavám z AI-driven inflace dále tlačí na růstové technologické akcie. Rizikem je i to, že valuace Nvidie byla extrémně vysoká a jakékoliv zklamání nebo zpomalení poptávky po čipech může vyvolat prudší korekci. Na druhou stranu dlouhodobý příběh AI infrastruktury zůstává nedotčený a firma má silnou tržní pozici. V následujících týdnech bude klíčové sledovat vývoj kolem IPO Anthropicu a další komentáře nového vedení Nvidie. Krátkodobě převažuje tlak na pokles kvůli sentimentu a rotaci kapitálu.",
+   "outlook": "loss"
+  },
+  {
+   "symbol": "AMD",
+   "name": "Advanced Micro Devices",
+   "quote": {
+    "symbol": "AMD",
+    "price": 530.14,
+    "change_pct": 5.309787250948523,
+    "day_high": 532.17,
+    "day_low": 495.2,
+    "day_open": 509.89
+   },
+   "news": [
+    {
+     "headline": "Anthropic Is Eyeing Pricing Its IPO As High As $85 Per Share: Report",
+     "summary": "Claude developer Anthropic is considering pricing its initial public offering at $80 to $85 per share, Bloomberg reported.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=e3bfc8c33de320f9eeefbdc24d2a6e6b835f97ecdf5b1bad7348e7a5909f3e0b",
+     "datetime": 1795038039
+    },
+    {
+     "headline": "Marvell And Intel Halved: How Long Until They Recover?",
+     "summary": "Marvell and Intel have both lost more than half their value since June. At Tuesday's close on Nov 17, Marvell stood at $148.74. That is 53.0% below its high close of $316.43 on June 4. Intel closed at $55.17, 60.9% below its June 22 high. Most talk about the chip selloff is a buy-the-dip call or a warning that the AI trade is over. This article asks a narrower question. When a chip stock halves, how often does it get back to its high, and how long does it take.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=f420c4766f645ef3812eddd29f56178e64b96e1bce97e43554b503dc5976abf8",
+     "datetime": 1795037340
+    },
+    {
+     "headline": "Taiwan Semiconductor Stock (TSM) Looks Too Cheap for Its Growth Outlook",
+     "summary": "Taiwan Semiconductor Manufacturing (TSM) stock looks too cheap for its growth outlook. The leading semiconductor foundry has fallen with the wider artificial intelligence (AI) trade. Shares are down roughly 26% since hitting an early-October peak of $487, pulled down by a semiconductor sell-off triggered by leadership turmoil at Nvidia (NVDA) and fresh U.S. export curbs. On the company’s third-quarter earnings call in October, CEO C.C. Wei said, “demand for our leading-edge technologies continue",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=577b730dc54eeee20d2020cd6580cd5560e373c9c34c7849e191068b5a5900a3",
+     "datetime": 1795036080
+    },
+    {
+     "headline": "How Much Upside Is Left In Micron Stock?",
+     "summary": "For questions about this article or underlying research, email help@trefis.com.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=dd2d5f0be61142f36353c00ef63693634cf8d2706e00079667b16725cd70d541",
+     "datetime": 1795036062
+    },
+    {
+     "headline": "What Sent Intel Stock Lower Since May?",
+     "summary": "For questions about this article or underlying research, email help@trefis.com.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=2e361b60156fe80ca06d3197a8ddb079a6af079fc289c6538ea5ff526d66624c",
+     "datetime": 1795035325
+    },
+    {
+     "headline": "Super Micro Computer (SMCI) Ships PCIe Gen 6 Servers, Is It 57% Below Fair Value?",
+     "summary": "Super Micro Computer (SMCI) has begun shipping new AMD EPYC based all flash storage servers that support the PCIe Gen 6 standard. These products target AI scale data, analytics and high throughput storage workloads. For investors watching Super Micro Computer, the recent launch of PCIe Gen 6 storage arrives during a tough stretch in the share price. The stock is down about 34% on the 90 day share price return and roughly 25% on the 30 day share price return as legal questions and sector...",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=2cbb17a8c65ed915a50740cb1f7f36d2391269010c94e2ab6389024536205fdf",
+     "datetime": 1795032620
+    },
+    {
+     "headline": "Which Funds With Semiconductor Exposure Best Capture The China AI Chip Curbs?",
+     "summary": "How different are three funds that all pitch semiconductor exposure when the news hits AI chips this directly? The latest US move to curb China’s access to high end accelerators cuts how many advanced processors American suppliers can ship into Chinese data centers, because export rules now follow both the chip and the cloud capacity that runs it. That change puts VanEck Semiconductor ETF (SMH), iShares Semiconductor ETF (SOXX) and Vanguard Information Technology ETF (VGT) on your comparison...",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=cc4d39685a65f5892b47f21f6ea7be3f14288ce0f837a24f692427c513367abe",
+     "datetime": 1795032571
+    },
+    {
+     "headline": "NVIDIA Is Near Its 52-Week Low. Will NVDA Stock Hit $100 or $200 First?",
+     "summary": "A record quarter failed to stop the bleeding, and now a CEO exit, congressional hearings, and rising rival chip stocks have NVIDIA at a crossroads. The two price targets sit nearly equal distances away, so which shock lands first?",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=82aaa9db0faf003add000ff36eabdf80fc9709558f371b9eb3c3f6a9521caa0f",
+     "datetime": 1795032189
+    }
+   ],
+   "note": null,
+   "earnings_date": "2027-02-01",
+   "next_earnings": {
+    "date": "2027-02-01",
+    "hour": "amc"
+   },
+   "last_earnings": {
+    "date": "2026-09-30",
+    "actual": 2.09,
+    "estimate": 1.97,
+    "beat": true
+   },
+   "week_change_pct": -4.116476758907576,
+   "analysis": "AMD dnes vystřelilo o více než 5 % na 530,14 USD, což je silný denní pohyb, i když za týden akcie zůstává v mínusu (-4,12 %). Poslední kvartální výsledky překonaly očekávání (EPS 2,09 vs 1,97), což potvrzuje, že firma těží z poptávky po AI čipech a datacentrech. Blížící se earnings 1. února 2027 představují zvýšené riziko volatility, protože trh bude hledat potvrzení pokračujícího růstu v segmentu AI akcelerátorů. Zmínky o Super Micro Computer, který dodává servery s AMD EPYC procesory, naznačují, že ekosystém kolem AMD čipů se rozšiřuje. Zároveň jsou v datech varovné signály z celého sektoru - Marvell a Intel ztratily přes polovinu hodnoty od června, což ukazuje na širší nervozitu kolem AI chip trhu. Konkurenční tlak Nvidie, která je nyní selektivnější ve financování neocloudů, může paradoxně hrát ve prospěch AMD jako alternativního dodavatele. Rizikem zůstává celkový sentiment k polovodičovému sektoru, který je citlivý na zprávy o čínských exportních omezeních a na makroekonomická rizika spojená s úrokovými sazbami. Krátkodobě by dnešní silný růst mohl pokračovat, pokud se potvrdí pozitivní momentum před earnings, ale volatilita zůstává vysoká.",
+   "outlook": "gain"
+  },
+  {
+   "symbol": "GOOGL",
+   "name": "Alphabet Inc.",
+   "quote": {
+    "symbol": "GOOGL",
+    "price": 282.44,
+    "change_pct": 0.7994289793005029,
+    "day_high": 284.97,
+    "day_low": 279.69,
+    "day_open": 282.75
+   },
+   "news": [
+    {
+     "headline": "Why Anthropic says cybersecurity is one of its 'most important' opportunities",
+     "summary": "Deirdre Bosa outlines some thoughts on cybersecurity risks just ahead of Anthropic's (ANTH.PVT) long-awaited IPO.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=efae2816fa04de2869c7da6d26e41a249554a1593d0873967fdbbc3a263d2a29",
+     "datetime": 1795038151
+    },
+    {
+     "headline": "Will Apollo's $40 billion for SpaceX to rent GPUs pay off?",
+     "summary": "Yahoo Finance's Deirdre Bosa and In the Loop host Ejaaz Ahamadeen discuss Apollo (APO) is lining up $40 billion in financing so SpaceX (SPCX) can rent GPUs as a neo cloud, funding CEO Elon Musk's wider ambitions. Disclosure: Yahoo is a portfolio company of funds managed by affiliates of Apollo Global Management.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=e5bbc005df9d945b8cb0b4511d2c9395ae3fd94c79708395d6badb134f945313",
+     "datetime": 1795038106
+    },
+    {
+     "headline": "AI agent swarms could turn major outages into identity risks: Anthropic investor",
+     "summary": "Deirdre Bosa sits down with IVP General Partner Somesh Dash to discuss how evolving AI agents could turn outages into heightened identity risks. IVP is an investor in Anthropic (ANTH.PVT), which is set to go public via a mega-IPO this Thursday.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=949546e4e9eee68dd441567df847854add3e6e8db561475a7fe9caa62f957404",
+     "datetime": 1795037772
+    },
+    {
+     "headline": "Amazon and Google Have a Stake",
+     "summary": "Amazon.com and Google could soon own more than 35% of Anthropic stock.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=8b2145bf38a6664ab367dc2a40b3ffedb16c8864f3c997df8c898995e5e4dd7b",
+     "datetime": 1795036982
+    },
+    {
+     "headline": "Taiwan Semiconductor Stock (TSM) Looks Too Cheap for Its Growth Outlook",
+     "summary": "Taiwan Semiconductor Manufacturing (TSM) stock looks too cheap for its growth outlook. The leading semiconductor foundry has fallen with the wider artificial intelligence (AI) trade. Shares are down roughly 26% since hitting an early-October peak of $487, pulled down by a semiconductor sell-off triggered by leadership turmoil at Nvidia (NVDA) and fresh U.S. export curbs. On the company’s third-quarter earnings call in October, CEO C.C. Wei said, “demand for our leading-edge technologies continue",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=577b730dc54eeee20d2020cd6580cd5560e373c9c34c7849e191068b5a5900a3",
+     "datetime": 1795036080
+    },
+    {
+     "headline": "Here’s What a $1,000 Investment in Alphabet Stock Could Be Worth by 2035",
+     "summary": "Alphabet has several powerful growth engines, but how much could a $1,000 investment in the Google parent be worth by 2035? Here's what the numbers suggest.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=36571565e126705fb0420d02da21db22523b71f5fe325e7660fcf6e6580d7075",
+     "datetime": 1795035002
+    },
+    {
+     "headline": "Alphabet is Buying Around $10 Billion More Anthropic Shares on Day 1. Should You Follow?",
+     "summary": "Alphabet already owns a huge chunk of Anthropic. It wants more.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=914be59579622798fd65581cf0d546af49b63d8f68053b6a527b17cff1442572",
+     "datetime": 1795033502
+    },
+    {
+     "headline": "GoodRx's $32 million privacy settlement: See if you qualify for a payment",
+     "summary": "Used GoodRx? You may qualify for money from a $32 million settlement. Here's how to check.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=b87de6895c5f4cf0a642c49af507b1fc8118aa37751f4b9ef960696e7aeb8c82",
+     "datetime": 1795033146
+    }
+   ],
+   "note": null,
+   "earnings_date": "2027-02-02",
+   "next_earnings": {
+    "date": "2027-02-02",
+    "hour": "amc"
+   },
+   "last_earnings": {
+    "date": "2026-09-30",
+    "actual": 2.67,
+    "estimate": 3.11,
+    "beat": false
+   },
+   "week_change_pct": -3.7519168512523398,
+   "analysis": "Alphabet dnes mírně posílil o 0,80 % na 282,44 USD, ale za týden je v mínusu 3,75 %. Poslední výsledky byly pod odhadem (EPS 2,67 vs 3,11), což je slabší signál než u konkurence jako Microsoft nebo Meta. Klíčovým tématem je masivní investice Alphabetu do Anthropicu - firma plánuje dokoupit akcie za dalších přibližně 10 miliard dolarů v den IPO, čímž spolu s Amazonem může ovládat přes 35 % této AI společnosti. To ukazuje na strategickou snahu Googlu zajistit si silnou pozici v konkurenčním boji s OpenAI a dalšími AI hráči. Zároveň se blíží earnings 2. února 2027, což přinese zvýšenou volatilitu, zejména pokud trh bude hledat potvrzení zotavení po slabším kvartále. Rizikem je, že ocenění Anthropicu (až 85 USD za akcii při IPO) může být vnímáno jako přemrštěné, což by mohlo zpětně ovlivnit vnímání investice Alphabetu. Pozitivní je, že dlouhodobé prognózy pro Alphabet zůstávají silné díky cloudu, reklamě a AI produktům. V nejbližších týdnech bude klíčové sledovat reakci trhu na IPO Anthropicu a případné další komentáře vedení k výsledkům za poslední kvartál.",
+   "outlook": "neutral"
+  },
+  {
+   "symbol": "META",
+   "name": "Meta Platforms",
+   "quote": {
+    "symbol": "META",
+    "price": 616.38,
+    "change_pct": -0.4023462116438039,
+    "day_high": 620.81,
+    "day_low": 610.3,
+    "day_open": 620.11
+   },
+   "news": [
+    {
+     "headline": "Will Apollo's $40 billion for SpaceX to rent GPUs pay off?",
+     "summary": "Yahoo Finance's Deirdre Bosa and In the Loop host Ejaaz Ahamadeen discuss Apollo (APO) is lining up $40 billion in financing so SpaceX (SPCX) can rent GPUs as a neo cloud, funding CEO Elon Musk's wider ambitions. Disclosure: Yahoo is a portfolio company of funds managed by affiliates of Apollo Global Management.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=e5bbc005df9d945b8cb0b4511d2c9395ae3fd94c79708395d6badb134f945313",
+     "datetime": 1795038106
+    },
+    {
+     "headline": "GoodRx's $32 million privacy settlement: See if you qualify for a payment",
+     "summary": "Used GoodRx? You may qualify for money from a $32 million settlement. Here's how to check.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=b87de6895c5f4cf0a642c49af507b1fc8118aa37751f4b9ef960696e7aeb8c82",
+     "datetime": 1795033146
+    },
+    {
+     "headline": "Should Booking Holdings Stock Investors Worry About Its Outlook?",
+     "summary": "Today's big story: Anthropic IPO: Priced For 2031, Or 2036.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=0f5945c5628f940bf4d94563090d693926313f4758c962be247dcab9a0dcaab9",
+     "datetime": 1795030959
+    },
+    {
+     "headline": "Why Do Nvidia's Customers Owe It $81 Billion?",
+     "summary": "Today's big story: Anthropic IPO: Priced For 2031, Or 2036.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=1eb12137250777364affddd891183b6c6b7b2cff238e563b870a0122986407e7",
+     "datetime": 1795027413
+    },
+    {
+     "headline": "Who Really Pays For Nvidia's $1.2 Trillion?",
+     "summary": "Today's big story: Anthropic IPO: Priced For 2031, Or 2036.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=6f2c4e3d78b3d0221655ba79e66c4890f343d7150c284664b210492e7b67f342",
+     "datetime": 1795027391
+    },
+    {
+     "headline": "Warning for Meta Investors: Muse “Has to Be 20x” What It Is Now to Make an Impact, Says Dan Nathan",
+     "summary": "Key TakeawaysMeta says more than 10 million people set up Muse in about six weeks, but Dan Nathan says that number has to be 20x larger to make an impact. Each new Muse user adds compute cost for Meta before it adds revenue, and that cost is revenue for its chip suppliers.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=dd726fb7d8808b8b16b944dd205efc2f24c52573346b5c8ed9c9abec8f383532",
+     "datetime": 1795024395
+    },
+    {
+     "headline": "Meta’s hope to grow ‘school communities’ was really just a push to get teens hooked, internal docs show",
+     "summary": "Internal Meta documents show its program to grow ‘school communities’ also served as a way to get teens signed up for Instagram",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=5b2bd0f35acb7c431340dd3555e65914e45cb398183c50dddb60e1c10f00c7bb",
+     "datetime": 1795024023
+    },
+    {
+     "headline": "Nvidia Stock At $155: Cheaper Than Its 2018 Low?",
+     "summary": "Today's big story: Anthropic IPO: Priced For 2031, Or 2036.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=70f658ac82e006822b33d0ec12fb9acc8d6ca3fed149bf975ca79f5c2fcf38b0",
+     "datetime": 1795023245
+    }
+   ],
+   "note": null,
+   "earnings_date": "2027-01-26",
+   "next_earnings": {
+    "date": "2027-01-26",
+    "hour": "amc"
+   },
+   "last_earnings": {
+    "date": "2026-09-30",
+    "actual": 7.4,
+    "estimate": 6.87,
+    "beat": true
+   },
+   "week_change_pct": -1.9705138603941006,
+   "analysis": "Meta dnes mírně klesla o 0,40 % na 616,38 USD, za týden je pokles 1,97 %, tedy relativně mírný ve srovnání s Nvidií. Poslední výsledky přitom jasně překonaly odhady (EPS 7,4 vs 6,87), což je silný fundamentální signál. Pozornost však přitahuje kritika analytika Dana Nathana, který upozorňuje, že AI produkt Muse musí být dvacetkrát větší, aby měl reálný dopad na byznys - přes 10 milionů uživatelů za šest týdnů zní impozantně, ale z pohledu nákladů na compute je to zatím málo významné. Dalším rizikovým tématem jsou interní dokumenty ukazující kontroverzní praktiky kolem zapojování teenagerů do platforem Meta, což může přinést regulatorní a reputační riziko. Earnings se blíží už 26. ledna 2027, takže lze očekávat zvýšenou volatilitu před a po zveřejnění výsledků. Meta zůstává jedním z nejagresivnějších investorů do AI infrastruktury, což je dvousečné - šance na růst, ale i riziko vysokých nákladů bez okamžité návratnosti. Krátkodobě bude akcie pravděpodobně kolísat podle celkového sentimentu k AI sektoru.",
+   "outlook": "neutral"
+  },
+  {
+   "symbol": "AAPL",
+   "name": "Apple Inc.",
+   "quote": {
+    "symbol": "AAPL",
+    "price": 352.45,
+    "change_pct": 0.15344832485577664,
+    "day_high": 356.42,
+    "day_low": 351.4706,
+    "day_open": 351.94
+   },
+   "news": [
+    {
+     "headline": "Why Anthropic says cybersecurity is one of its 'most important' opportunities",
+     "summary": "Deirdre Bosa outlines some thoughts on cybersecurity risks just ahead of Anthropic's (ANTH.PVT) long-awaited IPO.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=efae2816fa04de2869c7da6d26e41a249554a1593d0873967fdbbc3a263d2a29",
+     "datetime": 1795038151
+    },
+    {
+     "headline": "Want to Play Defense With Your Stock Portfolio? Here Are Pros’ Picks.",
+     "summary": "Recent market volatility has highlighted the value of defensive names in stock portfolios. We asked investment professionals to name their favorites.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=d62ed4d61040e5366e320739df8a06c547cc90b277b525b9c7549acbcb004733",
+     "datetime": 1795036440
+    },
+    {
+     "headline": "Dan Ives’ Top 5 AI Revolution Stock Picks",
+     "summary": "Dan Ives, who now works at Yorkville Ives & Co., called the November 5 technology rout a “golden buying opportunity” in a note reported by CNBC on November 6. He wrote that the Democratic midterm win could move the peak in Big Tech capital spending growth to 2027 from 2028 or 2029, but that the […]",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=3922849359e47dfadedf53702c1f4d7624fa07ca2bf2bd80dccfe2d8b3fc2d23",
+     "datetime": 1795034471
+    },
+    {
+     "headline": "Which Funds With Semiconductor Exposure Best Capture The China AI Chip Curbs?",
+     "summary": "How different are three funds that all pitch semiconductor exposure when the news hits AI chips this directly? The latest US move to curb China’s access to high end accelerators cuts how many advanced processors American suppliers can ship into Chinese data centers, because export rules now follow both the chip and the cloud capacity that runs it. That change puts VanEck Semiconductor ETF (SMH), iShares Semiconductor ETF (SOXX) and Vanguard Information Technology ETF (VGT) on your comparison...",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=cc4d39685a65f5892b47f21f6ea7be3f14288ce0f837a24f692427c513367abe",
+     "datetime": 1795032571
+    },
+    {
+     "headline": "Could Qualcomm Actually Climb 85%? Or Is Baird Totally Wrong?",
+     "summary": "Key TakeawaysBaird cut its Qualcomm price target to $300 from $320 and kept its Outperform rating, so it still sees [85%] upside. Qualcomm’s handset chip sales are falling as Apple moves to its own modems.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=7bde4a2baf25b7721476c75ee115d9d40848b460391f181e1916cbf9a9e6be76",
+     "datetime": 1795031425
+    },
+    {
+     "headline": "Trump and Xi to Discuss Trade at APEC Summit. What Isn’t Said May Matter More.",
+     "summary": "Trump and Xi are expected to discuss trade and chip export controls in Shenzhen. The allegations involving Nvidia may go unaddressed.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=946dd80b2d957d7dea9c87f0f2d6f00e19d71a133e3d2ce92764cdfbdd5e3880",
+     "datetime": 1795029900
+    },
+    {
+     "headline": "Of 4 Stocks With 80%+ ROE, One Investor Says Only Nvidia Fits “Buffett’s Own Criterion”",
+     "summary": "Key TakeawaysNVIDIA (NVDA) stands out among four high-ROE stocks because its historical returns came largely from operating profitability rather than financial leverage. Home Depot (HD) also generated an ROE above 80%, but its debt increased by nearly $20 billion between fiscal 2021 and fiscal 2025.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=c45ad9c160b8b0effa544a10a37b09a0554d5d8143e05163a1e90e00b5d7c660",
+     "datetime": 1795027675
+    },
+    {
+     "headline": "MP to Become Major Domestic Permanent Magnet Supplier Over Next 3 Years, Says Needham",
+     "summary": "Needham’s bullish thesis is based on government support and MP’s long-term supply agreements with General Motors and Apple.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=d881f9bf5e76d7c139983be04b6fa11a3409638a59eeefd5f0f159892d1d860f",
+     "datetime": 1795023449
+    }
+   ],
+   "note": null,
+   "earnings_date": "2027-01-27",
+   "next_earnings": {
+    "date": "2027-01-27",
+    "hour": ""
+   },
+   "last_earnings": {
+    "date": "2026-09-30",
+    "actual": 2.1,
+    "estimate": 2.03,
+    "beat": true
+   },
+   "week_change_pct": -0.894187779433683,
+   "analysis": "Apple si dnes udržel stabilitu s mírným růstem 0,15 % na 352,45 USD a za týden ztratil jen 0,89 %, což z něj dělá jednu z nejstabilnějších akcií ve sledovaném portfoliu. Poslední výsledky překonaly odhady (EPS 2,1 vs 2,03), což potvrzuje zdravou fundamentální pozici firmy. Analytici Apple často zmiňují jako obrannou volbu pro volatilní trh, což odpovídá i dnešnímu klidnému chování akcie uprostřed širšího tržního napětí. Pozornost přitahuje i zmínka o firmě Qualcomm, jejíž tržby z handsetových čipů klesají kvůli tomu, že Apple přechází na vlastní modemové čipy - to je dlouhodobě pozitivní signál pro marže Applu. Rizikem zůstává obchodní napětí mezi USA a Čínou, které může ovlivnit dodavatelský řetězec a prodeje v Číně. Earnings se blíží 27. ledna 2027, což přinese zvýšenou volatilitu. Celkově Apple působí jako bezpečný přístav v portfoliu uprostřed turbulencí kolem AI akcií a sazeb, ale růstový potenciál je zde menší než u čistě AI zaměřených firem.",
+   "outlook": "neutral"
+  },
+  {
+   "symbol": "MSFT",
+   "name": "Microsoft Corp.",
+   "quote": {
+    "symbol": "MSFT",
+    "price": 508.29,
+    "change_pct": 0.4049462705436179,
+    "day_high": 510.44,
+    "day_low": 501.08,
+    "day_open": 505.5
+   },
+   "news": [
+    {
+     "headline": "Why Anthropic says cybersecurity is one of its 'most important' opportunities",
+     "summary": "Deirdre Bosa outlines some thoughts on cybersecurity risks just ahead of Anthropic's (ANTH.PVT) long-awaited IPO.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=efae2816fa04de2869c7da6d26e41a249554a1593d0873967fdbbc3a263d2a29",
+     "datetime": 1795038151
+    },
+    {
+     "headline": "Will Apollo's $40 billion for SpaceX to rent GPUs pay off?",
+     "summary": "Yahoo Finance's Deirdre Bosa and In the Loop host Ejaaz Ahamadeen discuss Apollo (APO) is lining up $40 billion in financing so SpaceX (SPCX) can rent GPUs as a neo cloud, funding CEO Elon Musk's wider ambitions. Disclosure: Yahoo is a portfolio company of funds managed by affiliates of Apollo Global Management.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=e5bbc005df9d945b8cb0b4511d2c9395ae3fd94c79708395d6badb134f945313",
+     "datetime": 1795038106
+    },
+    {
+     "headline": "AI agent swarms could turn major outages into identity risks: Anthropic investor",
+     "summary": "Deirdre Bosa sits down with IVP General Partner Somesh Dash to discuss how evolving AI agents could turn outages into heightened identity risks. IVP is an investor in Anthropic (ANTH.PVT), which is set to go public via a mega-IPO this Thursday.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=949546e4e9eee68dd441567df847854add3e6e8db561475a7fe9caa62f957404",
+     "datetime": 1795037772
+    },
+    {
+     "headline": "Amazon and Google Have a Stake",
+     "summary": "Amazon.com and Google could soon own more than 35% of Anthropic stock.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=8b2145bf38a6664ab367dc2a40b3ffedb16c8864f3c997df8c898995e5e4dd7b",
+     "datetime": 1795036982
+    },
+    {
+     "headline": "Nvidia highlights open models amid leadership shakeup",
+     "summary": "In its first earnings call since Jensen Huang’s resignation, Nvidia shed light on the growth of open models and the ecosystem it’s helping to build around them.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=91774330e2770f0fc4665b48e92ed16cd7d6ad6df09bb033686d6ef08c227b65",
+     "datetime": 1795036787
+    },
+    {
+     "headline": "Want to Play Defense With Your Stock Portfolio? Here Are Pros’ Picks.",
+     "summary": "Recent market volatility has highlighted the value of defensive names in stock portfolios. We asked investment professionals to name their favorites.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=d62ed4d61040e5366e320739df8a06c547cc90b277b525b9c7549acbcb004733",
+     "datetime": 1795036440
+    },
+    {
+     "headline": "Microsoft expands Azure arsenal at Ignite",
+     "summary": "The tech giant is building out a “single, co-engineered system,” uniting AI models, chips and cloud infrastructure, said Microsoft’s Jeremy Winter.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=f9895ac3cf27b7e004ce1303388cc580587d75fa4a28b0a9519fdcd687a2a119",
+     "datetime": 1795035843
+    },
+    {
+     "headline": "Microsoft Stock (MSFT) Forecast – Mizuho Stays Bullish on Strong Revenue Growth Prospects",
+     "summary": "Tech giant Microsoft (MSFT) unveiled new AI models at its Ignite conference amid intense competition from AI players OpenAI and Anthropic (ANT). Reacting to the updates at the conference, Mizuho analyst Gregg Moskowitz reiterated a Buy rating on MSFT stock with a price target of $625. The analyst believes MSFT’s revenue growth prospects over the medium term and beyond are stronger than many expect, and he remains “very bullish on its tangible AI adoption and monetization levers.” Moskowitz ranks",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=134672af24d15a89a07425ad3f9129dda18348cc7c118db237950dfb1f4fcf94",
+     "datetime": 1795035600
+    }
+   ],
+   "note": null,
+   "earnings_date": "2027-01-26",
+   "next_earnings": {
+    "date": "2027-01-26",
+    "hour": ""
+   },
+   "last_earnings": {
+    "date": "2026-09-30",
+    "actual": 4.89,
+    "estimate": 4.82,
+    "beat": true
+   },
+   "week_change_pct": -2.4629407531782164,
+   "analysis": "Microsoft dnes posílil o 0,40 % na 508,29 USD, přestože za týden ztratil 2,46 %. Poslední výsledky byly nad odhadem (EPS 4,89 vs 4,82), což potvrzuje silnou pozici firmy v cloudu a AI. Na konferenci Ignite Microsoft představil rozšíření Azure a nové AI modely, což analytik Mizuho hodnotí jako důvod zůstat býčí na akcii díky silným vyhlídkám na růst tržeb. Firma buduje takzvaný „single, co-engineered system“ spojující AI modely, čipy a cloudovou infrastrukturu, což ukazuje na snahu o vertikální integraci a konkurenceschopnost vůči OpenAI i Anthropicu. Earnings se blíží už 26. ledna 2027, což přinese zvýšenou volatilitu kolem zveřejnění výsledků. Rizikem zůstává vysoká konkurence v AI cloudovém segmentu a citlivost na celkový sentiment k technologickému sektoru, který je nyní pod tlakem kvůli očekávání dalšího zvyšování sazeb Fedem. Microsoft má ale diverzifikované zdroje příjmů (cloud, software, AI), což ho činí relativně odolnějším vůči jednorázovým šokům. Krátkodobě lze očekávat spíše stabilitu až mírný růst, pokud se potvrdí pozitivní momentum z konference Ignite.",
+   "outlook": "gain"
+  },
+  {
+   "symbol": "VUAA",
+   "name": "S&P 500 (přes SPY)",
+   "quote": {
+    "symbol": "SPY",
+    "price": 730.2,
+    "change_pct": -0.30582709846540457,
+    "day_high": 735.06,
+    "day_low": 726.795,
+    "day_open": 733.37
+   },
+   "news": [
+    {
+     "headline": "Nasdaq Breaks Losing Streak As Dow And S&P Slide Again",
+     "summary": "Nvidiaâs leadership question is now front and center. Interest rate hikes could be a done deal.",
+     "source": "SeekingAlpha",
+     "url": "https://finnhub.io/api/news?id=18ded968830f34e2f4495ea6b67d63eaede3d19741a104fd66fc6bb0a0f38ac9",
+     "datetime": 1795027500
+    },
+    {
+     "headline": "Take-Two Is Surging on GTA VI’s Launch, and Your Index Fund Might Be Along for the Ride Without You Knowing It",
+     "summary": "GTA VI just lit up Take-Two's stock, but the bigger story sits inside your retirement account. Three kinds of funds hold the stock, and they feel this launch very differently, so check which ones you own.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=3e866cfefe226b8efd32714548e62499143464c00d40c7d8138964f29a40ec4c",
+     "datetime": 1795025170
+    },
+    {
+     "headline": "ARKK Is Down, But These 10 Cathie Wood Stocks Have Soared Up to 285% in 2026",
+     "summary": "Cathie Wood has taken a lot of heat in recent years. She became one of Wall Street’s best-known fund managers during the pandemic rally, but her flagship ARK Innovation ETF (BATS:ARKK) fell sharply in 2022 and has trailed the market since. As of mid-November, ARKK is down about 4% in 2026, while the SPDR S&P […]",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=0656403d8aa928df8fa725c9490c6236706648da7c7c271d2af6b875fc1ecb2a",
+     "datetime": 1795023063
+    },
+    {
+     "headline": "Cathie Wood Was Right About These 5 Stocks",
+     "summary": "Cathie Wood became one of Wall Street’s best-known fund managers during the pandemic rally, but her flagship ARK Innovation ETF (BATS:ARKK) fell sharply in 2022 and has trailed the market since. As of mid-November, ARKK is down about 4% in 2026, while the SPDR S&P 500 ETF Trust (NYSEARCA:SPY) is up about 10%. Her trades […]",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=86369434f5f8cfec98ce45e8d8bea9c06765b6a5412240b4278c7aaa44cbda30",
+     "datetime": 1795022182
+    },
+    {
+     "headline": "This AI Wave Is Spent - Time To Wait For The Next",
+     "summary": "Analyst sees AI infrastructure as risky: chip replacement and depreciation could squeeze software margins, while QQQ could correct as the economy grows.",
+     "source": "SeekingAlpha",
+     "url": "https://finnhub.io/api/news?id=d82c8eafe7291245d64dc0cc5f5528db236c0954d377dc187e235fb4fe0160f1",
+     "datetime": 1795020764
+    },
+    {
+     "headline": "SCHD Is Having Its Best Year Since 2013. What Happens Next Year?",
+     "summary": "Today's big story: Anthropic IPO: Priced For 2031, Or 2036.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=444232d2ced61ce3e4c07e695a931f2acbff1ce180b06fd48424ddd3f50ecc32",
+     "datetime": 1795019128
+    }
+   ],
+   "note": "VUAA je evropský ETF na S&P 500 (LSE/Xetra), Finnhub free tier ale evropské burzy nepodporuje. Cena a novinky jsou proto z amerického ETF SPY, který sleduje stejný index 1:1.",
+   "earnings_date": null,
+   "next_earnings": null,
+   "last_earnings": null,
+   "week_change_pct": -3.89702688830101,
+   "analysis": "VUAA, evropský ETF sledující index S&P 500, dnes klesl o 0,31 % na 730,2 USD, za týden je pokles výraznější - 3,90 %. Jelikož Finnhub nepodporuje evropské burzy, data a novinky vycházejí z amerického ETF SPY, který sleduje stejný index 1:1, takže informace jsou plně relevantní. Širší trh je pod tlakem kvůli obavám z dalšího zvyšování úrokových sazeb Fedem, což postihuje zejména růstové a technologické tituly, které mají v S&P 500 velkou váhu. Zmínka o Take-Two a úspěchu hry GTA VI ukazuje, jak jednotlivé firemní události mohou ovlivnit širší indexové fondy, aniž by to investoři vždy vnímali. Diskuze o Cathie Wood a jejích inovativních sázkách naznačuje pokračující polarizaci trhu mezi růstovými a hodnotovými strategiemi. Riziko spočívá v tom, že pokud Fed skutečně přistoupí k agresivnějšímu zvyšování sazeb, širší index může zaznamenat další korekci, zejména u technologických společností s vysokou váhou v indexu. Na druhou stranu dividendové ETF jako SCHD mají podle zpráv nejlepší rok od roku 2013, což naznačuje rotaci směrem k defenzivnějším strategiím. Pro dlouhodobé investory zůstává VUAA/SPY stále diverzifikovaným nástrojem, ale krátkodobě lze očekávat zvýšenou volatilitu kvůli makroekonomické nejistotě.",
+   "outlook": "neutral"
+  }
+ ],
+ "macro_news": [
+  {
+   "headline": "Israel launches ground operation in central Gaza, dozens flee - Reuters",
+   "summary": "Israel launches ground operation in central Gaza, dozens flee  Reuters",
+   "source": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaVdVck4yZnVKU01QQ0Nrd1c2VXRReEloTk1IS0xKWjRkcUdrR3BiTlAyU2dQVm1POVg0MmM5anI0YWlIa0txYms3Sjh6QW9kRjU3bmk0ajlHZ3BZbHM5eHBqazVBbVRvYkt4NENBZ0VuU3NEREFaVGpEOXFyMkdPWEktNE41aUIzY2U3enZDX1dmTTZkQzJPNHh0WktQUV80M2ZTb2o0ZDBYUHR0YmIxRWlB?oc=5",
+   "datetime": 1795034600
+  },
+  {
+   "headline": "Why Anthropic's hot IPO is bringing out sellers — plus, a silver lining of the down market",
+   "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+   "source": "CNBC",
+   "url": "https://www.cnbc.com/investingclub/2026/11/18/why-anthropics-hot-ipo-is-bringing-out-sellers-plus-a-down-market-silver-lining.html",
+   "datetime": 1795031009
+  },
+  {
+   "headline": "US tightens Iran blockade with curbs on oil transfers at sea, advisory shows - Reuters",
+   "summary": "US tightens Iran blockade with curbs on oil transfers at sea, advisory shows  Reuters",
+   "source": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNS21BSEJXWHdIUGpZcWRtZm0tT084cTd5WFpvbFZUeE9wdHkyelI4Y2pFamp5YmY3S09BRm9zMWQ3VE5NcHVnSGZNM20yZ3B5NE1mXzZ4VVg3NUZ5RTVuQ2owQzE4MkxpaTBIcEhCNng4MDE1ZnpyTUVOMUVHVFdzcm14Mkl2TlNGZmNuVFQ1NFMwdGFOT1JSTEFURDNOQ005cWVaUG5ybmtyNWQyTW1QMG82SHhGQXNmb3VMTUtB?oc=5",
+   "datetime": 1795030338
+  },
+  {
+   "headline": "Nvidia interim CEO Kress tells employees ‘let’s move forward’ at first all-hands meeting since Jensen Huang exit",
+   "summary": "Nvidia's interim CEO Colette Kress urges staff forward and offers pay raises after Jensen Huang exit.",
+   "source": "CNBC",
+   "url": "https://www.cnbc.com/2026/11/18/nvidia-interim-ceo-kress-addresses-staff-after-jensen-huang-exit-.html",
+   "datetime": 1795028988
+  },
+  {
+   "headline": "Fed officials expect more rate hikes, worry about AI impact on inflation, minutes show",
+   "summary": "The Federal Reserve on Wednesday released minutes from its October policy meeting at which it voted to hold its benchmark interest rate in a range between 3.75%-4%.",
+   "source": "CNBC",
+   "url": "https://www.cnbc.com/2026/11/18/fed-minutes-october-2026.html",
+   "datetime": 1795028924
+  },
+  {
+   "headline": "Nvidia's earnings report had something for the bulls, bears and everyone in between",
+   "summary": "Nvidia's commentary on its buyback and AI ecosystem support was encouraging. But it's not a shock to see the stock down Wednesday.",
+   "source": "CNBC",
+   "url": "https://www.cnbc.com/investingclub/2026/11/18/nvidias-earnings-report-had-something-for-the-bulls-bears-and-everyone-in-between.html",
+   "datetime": 1795028859
+  },
+  {
+   "headline": "Nvidia reverses, metals crash ahead of Anthropic IPO: Options Action Live",
+   "summary": "Big moves have options traders wondering if Anthropic's IPO is spurring a rotation trade.",
+   "source": "CNBC",
+   "url": "https://www.cnbc.com/2026/11/18/nvidia-reverses-metals-crash-ahead-of-anthropic-ipo-options-action-live.html",
+   "datetime": 1795028222
+  },
+  {
+   "headline": "Democrats nominate Hakeem Jeffries for next US House speaker - Reuters",
+   "summary": "Democrats nominate Hakeem Jeffries for next US House speaker  Reuters",
+   "source": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSFJMeDVVWnRDWmUydUhCQ0lieV9kZjdRc0xKbHA5ZDlMeG1WZ29rTWJpcGxLSE1EZEttb1Vwd2Zrdl8tX0Q1RVNEbGR0OEZqdWxLdnpkZnFBenNBclduTWhENTdhYnY1WXdjZ2RGRTVDMjFPVkpnZnJVZEZ4VngweEtJWTVlakU2ZEtDWUxTMTliZktETXlvcXFXWTFhdU5GeUIyRUxqUkV4aGFX?oc=5",
+   "datetime": 1795027917
+  }
+ ],
+ "macro": [
+  {
+   "time": "21:43",
+   "title": "Izrael zahájil pozemní operaci ve střední Gaze",
+   "body": "Izraelské síly zahájily pozemní operaci ve střední Gaze, desítky lidí prchají z oblasti. Geopolitické napětí na Blízkém východě přidává na celkové nejistotě na trzích. Tyto typy konfliktů mohou ovlivnit ceny ropy a bezpečnostní aktiva jako zlato. Investoři sledují situaci kvůli možným dopadům na globální dodavatelské řetězce.",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaVdVck4yZnVKU01QQ0Nrd1c2VXRReEloTk1IS0xKWjRkcUdrR3BiTlAyU2dQVm1POVg0MmM5anI0YWlIa0txYms3Sjh6QW9kRjU3bmk0ajlHZ3BZbHM5eHBqazVBbVRvYkt4NENBZ0VuU3NEREFaVGpEOXFyMkdPWEktNE41aUIzY2U3enZDX1dmTTZkQzJPNHh0WktQUV80M2ZTb2o0ZDBYUHR0YmIxRWlB?oc=5",
+   "source": "Reuters"
+  },
+  {
+   "time": "20:43",
+   "title": "IPO Anthropicu táhne investory i prodejce, trh zároveň hledá pozitiva propadu",
+   "body": "Horké IPO společnosti Anthropic přitahuje jak kupující, tak prodejce, kteří chtějí realizovat zisky z jiných AI pozic. Investiční klub CNBC upozorňuje, že i přes pokles trhu existují příležitosti pro dlouhodobé investory. Rotace kapitálu směrem k novým AI IPO ovlivňuje zavedené technologické akcie jako Nvidia. Situace ukazuje na zvýšenou citlivost trhu na nové příležitosti v AI sektoru.",
+   "url": "https://www.cnbc.com/investingclub/2026/11/18/why-anthropics-hot-ipo-is-bringing-out-sellers-plus-a-down-market-silver-lining.html",
+   "source": "CNBC"
+  },
+  {
+   "time": "20:08",
+   "title": "Fed naznačuje další zvyšování sazeb kvůli obavám z AI inflace",
+   "body": "Zápisy z říjnového zasedání Fedu ukazují, že úředníci očekávají další zvyšování úrokových sazeb a obávají se dopadu AI investic na inflaci. Fed na říjnovém zasedání ponechal sazby v rozmezí 3,75-4 %, ale minutky naznačují jestřábí tón do budoucna. Tato zpráva vyvolala výraznou nervozitu na akciových trzích, zejména u růstových a technologických titulů. Dow Jones kvůli tomu ztratil 561 bodů ve stejný den.",
+   "url": "https://www.cnbc.com/2026/11/18/fed-minutes-october-2026.html",
+   "source": "CNBC"
+  },
+  {
+   "time": "20:09",
+   "title": "Nový interim šéf Nvidie se snaží uklidnit zaměstnance po odchodu Jensena Huanga",
+   "body": "Interim CEO Nvidie Colette Kress na svém prvním celofiremním setkání od odchodu Jensena Huanga vyzvala zaměstnance, aby „šli vpřed“, a nabídla zvýšení platů. Tato změna vedení přichází v citlivém období, kdy akcie Nvidie čelí tlaku kvůli nejistotě a konkurenci ze strany blížícího se IPO Anthropicu. Vedení se snaží stabilizovat interní náladu i důvěru investorů. Situace zůstává klíčovým tématem pro budoucí směřování firmy.",
+   "url": "https://www.cnbc.com/2026/11/18/nvidia-interim-ceo-kress-addresses-staff-after-jensen-huang-exit-.html",
+   "source": "CNBC"
+  }
+ ],
+ "macro_analysis": "",
+ "tips": [
+  {
+   "ticker": "TSM",
+   "name": "Taiwan Semiconductor Manufacturing",
+   "tag": "výrobní kapacita čipů",
+   "reason": "Jako klíčový výrobce pokročilých čipů pro celý AI sektor je podle některých analytiků aktuálně podhodnocený vzhledem ke svému růstovému potenciálu. Pokles spolu s celým AI sektorem může představovat zajímavý vstupní bod pro další zkoumání."
+  },
+  {
+   "ticker": "CVX",
+   "name": "Chevron",
+   "tag": "mimo tech sektor",
+   "reason": "Energetická společnost s dlouhou historií stabilních dividend, zmiňovaná jako spolehlivá příjmová investice i v nejisté době. Vhodná pro ty, kteří hledají diverzifikaci mimo technologický sektor."
+  },
+  {
+   "ticker": "MP",
+   "name": "MP Materials",
+   "tag": "vzácné kovy",
+   "reason": "Firma těžící vzácné kovy pro permanentní magnety, podle Needham se má stát hlavním domácím dodavatelem v USA díky vládní podpoře a smlouvám s General Motors a Apple."
+  },
+  {
+   "ticker": "SMCI",
+   "name": "Super Micro Computer",
+   "tag": "AI servery",
+   "reason": "Dodavatel serverů s nejnovějšími AMD čipy pro AI a datová centra, podle některých analýz obchodovaný výrazně pod svou fair value navzdory silné poptávce po AI infrastruktuře."
+  }
+ ],
+ "glossary": {
+  "term": "EPS (Earnings Per Share)",
+  "explanation": "EPS neboli zisk na akcii ukazuje, kolik peněz firma vydělala připadajících na jednu vlastněnou akcii. Když skutečný výsledek překoná odhady analytiků, trh to obvykle vnímá jako pozitivní signál pro danou akcii."
+ },
+ "weekly_recap": null
+}
