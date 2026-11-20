@@ -3925,5 +3925,38 @@
     "change_pct": -1.96
    }
   }
+ },
+ {
+  "timestamp": "2026-11-20T23:52:52.518865+00:00",
+  "prices": {
+   "NVDA": {
+    "price": 125.53,
+    "change_pct": -14.01
+   },
+   "AMD": {
+    "price": 424.39,
+    "change_pct": -13.25
+   },
+   "GOOGL": {
+    "price": 265.29,
+    "change_pct": -2.7
+   },
+   "META": {
+    "price": 560.84,
+    "change_pct": -5.93
+   },
+   "AAPL": {
+    "price": 342.56,
+    "change_pct": -1.9
+   },
+   "MSFT": {
+    "price": 484.52,
+    "change_pct": -2.77
+   },
+   "VUAA": {
+    "price": 689.81,
+    "change_pct": -3.64
+   }
+  }
  }
 ]

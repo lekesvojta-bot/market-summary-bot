@@ -1,73 +1,73 @@
 {
- "timestamp": "2026-11-20T00:30:23.239977+00:00",
+ "timestamp": "2026-11-20T23:52:52.518865+00:00",
  "stocks": [
   {
    "symbol": "NVDA",
    "name": "NVIDIA Corp.",
    "quote": {
     "symbol": "NVDA",
-    "price": 145.98,
-    "change_pct": -3.298887122416546,
-    "day_high": 158.1301,
-    "day_low": 145.71,
-    "day_open": 152.915
+    "price": 125.53,
+    "change_pct": -14.008768324427997,
+    "day_high": 143.725,
+    "day_low": 124.5,
+    "day_open": 143.52
    },
    "news": [
     {
-     "headline": "Dow Jones Futures: Ugly Market Reversal To New Lows As Anthropic IPO Debuts, AMD Dives",
-     "summary": "The stock market suffered an ugly reversal as AMD dived and the Anthropic IPO debuted. The S&P 500 and Nasdaq hit new lows.",
+     "headline": "Navitas Sinks 15%, Western Down 12%, Everpure Down 13% as AI Chip Rout Deepens",
+     "summary": "Key TakeawaysNavitas Semiconductor fell 15% today with no news of its own, as an AI chip sell-off that started in Asia deepened in New York. Western Digital, Everpure and D-Wave Quantum fell too, as Anthropic slid on its second trading day and California’s attorney general subpoenaed Nvidia.",
      "source": "Yahoo",
-     "url": "https://finnhub.io/api/news?id=a3449dec0994761a4ab4981a03068555b867f3fee015f9c88730362ff1f4188a",
-     "datetime": 1795131996
+     "url": "https://finnhub.io/api/news?id=e575b463a0d8fb52d476dd9c255620fe722e05485e954bffcec001fc61d4ea5d",
+     "datetime": 1795211451
     },
     {
-     "headline": "The Semiconductor ETF Is on Track to Beat the S&P 500 for a 4th Straight Year. It Has Never Done That Before.",
-     "summary": "The last time this chip fund beat the market three years running, the fourth year cost it around a third of its value.",
+     "headline": "Frontline Ltd. Q3 2026 Earnings Call Summary",
+     "summary": "Moby summary of Frontline Ltd.'s Q3 2026 earnings call",
      "source": "Yahoo",
-     "url": "https://finnhub.io/api/news?id=54d9c4b81cdab8657ec818fb41c8de5ed62101c96f056a9c56f71cccde0d8841",
-     "datetime": 1795131782
+     "url": "https://finnhub.io/api/news?id=f1327a792cf3c52ed8e8450d3dfdab81a85939c95376f241f5eace7b5d081ee6",
+     "datetime": 1795211421
     },
     {
-     "headline": "A 66-Year-Old With $600,000 in VOO Owns Nvidia Without Ever Buying a Share. SCHD Owns None.",
-     "summary": "One simple core fund quietly hands a retiree a stake in the market's biggest tech name, while a dividend-focused rival leaves that company out entirely. Which approach has the edge depends on when you start counting.",
+     "headline": "Dow Jones Futures: Market Has Worst Week Since Covid Amid Nvidia, Anthropic. Does Fear Gauge Offer Hope?",
+     "summary": "The Dow Jones and Nasdaq had their worst week since March 2020, fueled by Nvidia and Anthropic. A fear gauge is soaring. Good news?",
      "source": "Yahoo",
-     "url": "https://finnhub.io/api/news?id=cae41a675ba4fb9bd0c90d83f42b2101c061cad9f592045a51cbf7b783215083",
-     "datetime": 1795131171
+     "url": "https://finnhub.io/api/news?id=a461bf9206b72f4ed5bbda580ba12f32748c5dc1fc3ce52df1fae999182f1a09",
+     "datetime": 1795211354
     },
     {
-     "headline": "Here's What $1,000 Invested at Anthropic's IPO Price Is Worth Now",
-     "summary": "It was a rough day for Anthropic shares, but not for its IPO investors.",
+     "headline": "Anthropic’s IPO Is Triggering a Selloff. How to Play It Now.",
+     "summary": "The IPO set fire to the AI ecosystem and technology stock valuations, creating a historic selloff that should scare investors.",
      "source": "Yahoo",
-     "url": "https://finnhub.io/api/news?id=6d0699e492c838637ffc25715161cc80ce0f6aca8944a70cd9e823cfd79e2783",
-     "datetime": 1795131122
+     "url": "https://finnhub.io/api/news?id=6cb91186b6284f7b92f5bf0ae4c391a4b58178c86bd260599a8e1a877233594a",
+     "datetime": 1795211160
     },
     {
-     "headline": "California AG subpoenas Nvidia over China leak risks and investor disclosures",
-     "summary": "Investing.com -- California Attorney General Rob Bonta served an investigative subpoena on NVIDIA Corporation (NASDAQ:NVDA) on Thursday, escalating regulatory scrutiny into whether the chipmaker misled investors regarding potential leaks of advanced technology and confidential information to China. The California Department of Justice inquiry stems from revelations surrounding former Chief Executive Officer Jensen Huang’s alleged affair with an individual suspected of acting as a Chinese intelli",
+     "headline": "Marvell Reports Dec. 1. History Says What Its Stock Usually Does Next.",
+     "summary": "The chipmaker's stock has swung an average of around 12% the day after its latest reports. Which way will it go this time?",
      "source": "Yahoo",
-     "url": "https://finnhub.io/api/news?id=a6eb04ec2c8411a01e0b5669d704328850400e1e7f745e4e43ad06e4c5a0b14d",
-     "datetime": 1795130632
+     "url": "https://finnhub.io/api/news?id=a5a81bd49609165bce32d1a17bfd8065edc25157c928f66ee22e242aafaa6d58",
+     "datetime": 1795210982
     },
     {
-     "headline": "Cathie Wood sells $85 million of tumbling semiconductor stock",
-     "summary": "Here are Cathie Wood’s latest moves.",
+     "headline": "Nvidia’s Stock Slide Deepens After Report of SEC Accounting Probe",
+     "summary": "The stock fell Friday and closed lower for a seventh-consecutive trading session.",
      "source": "Yahoo",
-     "url": "https://finnhub.io/api/news?id=497c229ff80de1d814efbee78c52d143fa37ac03b3d51d66646773558bc00643",
-     "datetime": 1795130220
+     "url": "https://finnhub.io/api/news?id=8ea45aa89b25bf662ec532ef89c9c04f096153d6e9dc711db4f16a9cd9d560e8",
+     "datetime": 1795210980
     },
     {
-     "headline": "He Retires at 53 on a Decade of AI-Stock Gains and Starts Fixed IRA Withdrawals of $40,000 a Year. Changing the Schedule Before 59½ Triggers a 10% Penalty on Every Past Withdrawal",
-     "summary": "A 53-year-old trades AI-stock winnings for a steady paycheck, but the IRS rule that makes it legal also hides a trapdoor. One misstep, and a market sell-off could turn his careful plan into a bill that dwarfs his income tax.",
+     "headline": "Update: S&P 500, Dow Sink Into Correction Territory as Investors Seek Treasury Cover Amid Plunging Big-Tech",
+     "summary": "(Updates with index/price moves, macroeconomic data, and company news from the first paragraph.)",
      "source": "Yahoo",
-     "url": "https://finnhub.io/api/news?id=996507b0e0bff5d603636ea6b9007534f530d1bd25073bd5ea236a3f175df9a5",
-     "datetime": 1795129386
+     "url": "https://finnhub.io/api/news?id=2bc014c5d63454ba1322e654370ffe43dbf2c6187bcc56732880bc4e100839a7",
+     "datetime": 1795210968
     },
     {
-     "headline": "Grand Theft Auto VI outplays Nvidia and SpaceX",
-     "summary": "Rockstar’s long-awaited blockbuster sends a tokenized stock past Wall Street’s favorite chipmaker, and the game itself is drawing near-perfect reviews.",
+     "headline": "CoreWeave Finds AI Demand Outside the Commercial Market",
+     "summary": "The deal adds another link between Nvidia and CoreWeave.",
      "source": "Yahoo",
-     "url": "https://finnhub.io/api/news?id=8a5478ea738a14a23229365d344d77010c68a68f2aad38d1504731aba89fc3f2",
-     "datetime": 1795129200
+     "url": "https://finnhub.io/api/news?id=aee78667cda8698e3f16e942bf6c428c59b57c4d404bfe79d3d3e2d3f8b53449",
+     "datetime": 1795210742
     }
    ],
    "note": null,
@@ -79,8 +79,8 @@
     "estimate": 2.52,
     "beat": true
    },
-   "week_change_pct": -12.160779830314706,
-   "analysis": "Akcie Nvidie dnes odepsala 3,3 % a za posledních zhruba sedm dní je v minusu přes 12 %, což je výrazně horší výkon než zbytek trhu. Hlavním tématem je vyšetřování kalifornského generálního prokurátora, který firmě poslal předvolání kvůli podezření na únik citlivých informací do Číny a možnému zavádějícímu informování investorů - to je citlivé téma, protože regulatorní rizika dokážou odradit institucionální investory i bez ohledu na fundamenty. Firma zároveň prochází výměnou na pozici CEO, což samo o sobě přináší nejistotu ohledně budoucí strategie v oblasti AI čipů. Poslední kvartální výsledky přitom byly nad očekáváním (EPS 2,68 oproti odhadu 2,52), což ukazuje, že byznys samotný stále funguje dobře a poptávka po čipech neklesá. Trh ale momentálně neodměňuje dobrá čísla, protože se bojí přehřátí AI sektoru a vysokých valuací - ukazuje to i fakt, že známá investorka Cathie Wood prodala podíl v hodnotě 85 milionů dolarů. Debut Anthropicu na burze přitáhl pozornost a likviditu jinam, což krátkodobě tlačí na pokles cen souvisejících AI titulů včetně Nvidie. Rizikem do budoucna je, jak rychle se vyřeší kalifornské vyšetřování a jak noví investoři zareagují na přechod vedení firmy. Sledovat je potřeba i širší sentiment vůči celému sektoru polovodičů, protože Nvidia se pohybuje spolu s ním. Krátkodobě lze čekat pokračující volatilitu, dokud se nevyjasní regulatorní otázky a nenastoupí nový CEO se svou vizí.",
+   "week_change_pct": -22.91679459625422,
+   "analysis": "placeholder",
    "outlook": "loss"
   },
   {
@@ -88,68 +88,68 @@
    "name": "Advanced Micro Devices",
    "quote": {
     "symbol": "AMD",
-    "price": 489.19,
-    "change_pct": -7.724374693477193,
-    "day_high": 555.01,
-    "day_low": 470.56,
-    "day_open": 542.17
+    "price": 424.39,
+    "change_pct": -13.24638688444163,
+    "day_high": 474.79,
+    "day_low": 418.76,
+    "day_open": 471.725
    },
    "news": [
     {
-     "headline": "Dow Jones Futures: Ugly Market Reversal To New Lows As Anthropic IPO Debuts, AMD Dives",
-     "summary": "The stock market suffered an ugly reversal as AMD dived and the Anthropic IPO debuted. The S&P 500 and Nasdaq hit new lows.",
+     "headline": "US Equity Indexes Slump as Clouds Hovering Over Chipmakers, Hawkish Fed Outweigh Anthropic's Nasdaq Debut This Week",
+     "summary": "US equity indexes slumped as Anthropic's (ANT) biggest-ever public listing and Nvidia's (NVDA) blowo",
      "source": "Yahoo",
-     "url": "https://finnhub.io/api/news?id=a3449dec0994761a4ab4981a03068555b867f3fee015f9c88730362ff1f4188a",
-     "datetime": 1795131996
+     "url": "https://finnhub.io/api/news?id=60141d2ab411714a38779a7afb895bba2bed28b8ca77668ebd2cc9a74319ee78",
+     "datetime": 1795209775
     },
     {
-     "headline": "Is Tech in a Bear Market? 20 Tech Stocks Fall Up to 76% From Highs",
-     "summary": "Kobeissi Letter data shows 20 tech stocks down 25% to 76% from record highs as the S&P 500 sheds over $6 trillion.",
+     "headline": "Nvidia’s (NVDA) AI Demand Visibility into 2029 Keeps Me Bullish",
+     "summary": "Nvidia’s (NVDA) visibility into artificial intelligence (AI) demand through 2029 keeps me bullish after its latest results. The AI infrastructure chipmaker faces an uncomfortable leadership transition following Jensen Huang’s departure. Its customers still need more compute, however, and supply plans stretch years ahead. Nvidia’s supply commitments rose to $390 billion from $279 billion last quarter, with visibility extending into the next few years. Interim CEO Colette Kress said, “Vera Rubin i",
      "source": "Yahoo",
-     "url": "https://finnhub.io/api/news?id=0c9c05ee98c603a6323a9897edbca2b2d31586779b2a43f36d4fbd4e84e793c2",
-     "datetime": 1795128039
+     "url": "https://finnhub.io/api/news?id=e2797e086b903544fb54534c582a0df5f4311ee3fb0f55e45a1fa4c27d558081",
+     "datetime": 1795208640
     },
     {
-     "headline": "Stock Market Today, Nov. 19: Nvidia Slides as Investors Weigh CEO Transition Fallout Despite Strong Q3 Results",
-     "summary": "Today, Nov. 19, 2026, Nvidia shares fell despite a strong quarter and an early boost from Anthropic's IPO, as traders continue to weigh the leadership change and what comes next for AI spending.",
+     "headline": "AMD Is Down 26% and Intel Is Down 42%. Which AI Stock Is Worth Buying on the Dip?",
+     "summary": "As Wall Street reassesses the economics of the AI boom, the differences between these two chipmakers are becoming increasingly important.",
      "source": "Yahoo",
-     "url": "https://finnhub.io/api/news?id=ff6906d9c8bf95d3b617a56c7c6235276076ea9c11b9063318e4853a9a4ac933",
-     "datetime": 1795126825
+     "url": "https://finnhub.io/api/news?id=508b47838c9c6b854dc7a819b077dcb76b8aa8601a12831496b1330470110bb2",
+     "datetime": 1795207802
     },
     {
-     "headline": "S&P 500 After-Hours Movers: Nov. 19, 2026",
-     "summary": "After the Nov. 19, 2026 close, S&P 500 after-hours gainers included Accenture, Smurfit Westrock and Centene, while Monolithic Power Systems and Intuit led losses.",
-     "source": "ChartMill",
-     "url": "https://finnhub.io/api/news?id=b9f888aa18dd7a712a02e6811bca564412934f2a6eba2c8270b95ecc1743e291",
-     "datetime": 1795125969
+     "headline": "Why Are Investors Ignoring Qualcomm Stock's High Cash Yield?",
+     "summary": "Today’s big story: Will 2027 Be A 2022 Repeat For Stocks.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=091118ba409f38bd9c28c8c32f5e470e65b4983e2de5c505254a5facdfa1f007",
+     "datetime": 1795202564
     },
     {
-     "headline": "John Forsyth, Cirrus Logic President and CEO, Elected Chair of Semiconductor Industry Association",
-     "summary": "The Semiconductor Industry Association (SIA) today announced that Cirrus Logic (NASDAQ: CRUS) President and CEO John Forsyth has been elected Chair of the SIA Board of Directors. Tom Caulfield, Executive Chairman of GlobalFoundries (NASDAQ: GFS), was elected Vice Chair. AMD (NASDAQ: AMD) Chair and CEO Lisa Su, who served as 2026 Chair, will continue to serve on the Board and the Leadership Committee. SIA, the voice of the semiconductor industry, represents 99% of the U.S. semiconductor industry",
+     "headline": "Stock Market Today: Nasdaq Slides As AI Trade, IPO Anthropic Suffer (Live Coverage)",
+     "summary": "The Nasdaq composite tumbles Friday after Thursday's market sell-off. Anthropic stock plunges after its IPO.",
      "source": "Yahoo",
-     "url": "https://finnhub.io/api/news?id=abd18b4339ca5144d3231279fdab7aa53a4bdad905524673848a8a0bd4abf97e",
-     "datetime": 1795125600
+     "url": "https://finnhub.io/api/news?id=28f14ee11d03c9aab82fdf42672692c5c49a410a251ec35bc607042102664d64",
+     "datetime": 1795201842
     },
     {
-     "headline": "Dow Jones Futures Fall After Ugly Market Reversal To New Lows; Anthropic IPO Debuts, AMD Dives",
-     "summary": "The stock market suffered an ugly reversal as AMD dived and the Anthropic IPO debuted. The S&P 500 and Nasdaq hit new lows.",
+     "headline": "Is Nvidia's $81 Billion Receivables Pile A Risk?",
+     "summary": "Today's big story: Will 2027 Be A 2022 Repeat For Stocks.",
      "source": "Yahoo",
-     "url": "https://finnhub.io/api/news?id=69bbf58b91dbdb01dff38a7d669d331425154da8f5881991f205ab376c7c0be3",
-     "datetime": 1795125140
+     "url": "https://finnhub.io/api/news?id=d0cd4a6ac32dcb1853bd76e3189276a98169e9333bc07f89dda80a3d20670c32",
+     "datetime": 1795201576
     },
     {
-     "headline": "Anthropic, AMD, Alphabet, Palo Alto, Take-Two, Walmart, and More Stocks That Explain Today’s Market",
-     "summary": "Anthropic makes its hotly anticipated trading debut.",
+     "headline": "AMD Stock Just Crashed Nearly 8%: Here's Why and What to Do Now",
+     "summary": "AMD shares fell 7.72% after China-related allegations raised export-control and supply-chain concerns. Should investors hold or wait for a better entry point?",
      "source": "Yahoo",
-     "url": "https://finnhub.io/api/news?id=95b7d457c2f06088bbba42d7f818bf650bbf4afb8c98db8ab1e3103814fb6d5e",
-     "datetime": 1795124820
+     "url": "https://finnhub.io/api/news?id=8255b9b4f62f0f396bff329305bfd61094aaafae3d4bd53baa362210af57276e",
+     "datetime": 1795201200
     },
     {
-     "headline": "Stock Market Today: Dow Tanks 1,100 Points In Bearish Day Despite Anthropic IPO",
-     "summary": "The Dow Jones index flipped lower with other indexes Thursday as Anthropic's splashy IPO debut failed to sustain bullish vibes on Wall Street.",
+     "headline": "AMD Stock Gets Crushed by Anthropic’s Drop and a Short Report. It’s No Time to Panic.",
+     "summary": "AMD is getting pummeled. But the stock remains above a key technical level and its recent closing low.",
      "source": "Yahoo",
-     "url": "https://finnhub.io/api/news?id=a6443a1e99904cd67204c6ec4996985b35bc0d986eeb49e825b1a85bd214fc64",
-     "datetime": 1795124756
+     "url": "https://finnhub.io/api/news?id=59938e5c4e9acbe9e56769e8c136bf92be5cf9344cabbcf56df1f00d73647eb8",
+     "datetime": 1795200120
     }
    ],
    "note": null,
@@ -164,8 +164,8 @@
     "estimate": 1.97,
     "beat": true
    },
-   "week_change_pct": -16.42063898855287,
-   "analysis": "AMD zaznamenalo nejhorší denní propad ze všech sledovaných akcií, -7,72 %, a za týden ztratilo přes 16 % hodnoty, což z něj dělá jasného lídra poklesu v sektoru. Pád nastal v den debutu Anthropicu na burze, což paradoxně mělo trh nažhavit pozitivně, ale místo toho spustilo vlnu výprodejů napříč technologickými tituly - ukazuje to, že investoři jsou nervózní z přehnaných očekávání vůči AI firmám obecně. Poslední výsledky firmy přitom byly nad odhady (EPS 2,09 vs 1,97), takže current propad nelze vysvětlit zhoršením fundamentů, spíše jde o přecenění rizika a výběr zisků po silném růstu v předchozích měsících. Důležité je, že další kvartální výsledky jsou naplánované už na 1. února 2027, a historicky bývá období kolem earnings pro AMD spojeno se zvýšenou volatilitou, protože trh pečlivě sleduje tempo růstu v segmentu datacenter a AI akcelerátorů, kde firma soupeří s Nvidií. Širší kontext ukazuje, že až 20 technologických akcií je nyní 25-76 % pod svými historickými maximy, což signalizuje možný začátek korekce nebo dokonce medvědího trhu v technologickém sektoru. Rizikem je, že pokud se nálada nezlepší, firma může i přes dobré výsledky dál klesat kvůli obecné nechuti riskovat. Na druhou stranu, pokud se ukáže, že jde jen o krátkodobou korekci po přehnaném růstu, mohlo by to být příležitostí pro návrat kupujících. Je potřeba sledovat, zda se podobný pokles opakuje i u konkurentů, což by potvrdilo sektorový, nikoli firemní problém.",
+   "week_change_pct": -20.535145863760622,
+   "analysis": "placeholder",
    "outlook": "loss"
   },
   {
@@ -173,68 +173,68 @@
    "name": "Alphabet Inc.",
    "quote": {
     "symbol": "GOOGL",
-    "price": 272.66,
-    "change_pct": -3.4626823396119435,
-    "day_high": 295.43,
-    "day_low": 272.36,
-    "day_open": 294.3
+    "price": 265.29,
+    "change_pct": -2.7030000733514283,
+    "day_high": 283.15,
+    "day_low": 264.22,
+    "day_open": 274.5
    },
    "news": [
     {
-     "headline": "Anthropic’s Record IPO Is Good News for Hut 8. Here’s the Number That Matters",
-     "summary": "Key TakeawaysAnthropic raised a record $81. 3 billion in its IPO, and its stock opened 34% above its $83 offering price today.",
+     "headline": "Nvidia’s Stock Slide Deepens After Report of SEC Accounting Probe",
+     "summary": "The stock fell Friday and closed lower for a seventh-consecutive trading session.",
      "source": "Yahoo",
-     "url": "https://finnhub.io/api/news?id=76fcb6d4eed4dc02762abea25e857518a6343394df581d38158f71d0d4111c39",
-     "datetime": 1795129525
+     "url": "https://finnhub.io/api/news?id=8ea45aa89b25bf662ec532ef89c9c04f096153d6e9dc711db4f16a9cd9d560e8",
+     "datetime": 1795210980
     },
     {
-     "headline": "Stock Market Today, Nov. 19: Stock Market Today, Nov. 19: Alphabet Shares Fall as Anthropic Nasdaq Debut Puts Fresh Value on Google's Stake",
-     "summary": "Strong corporate earnings and a landmark IPO are providing pockets of optimism, but mounting interest rate and valuation concerns continue to undermine investor confidence.",
+     "headline": "Alphabet Raises $4.19 Billion in Debt as Free Cash Flow Turns Negative",
+     "summary": "The Google parent issued C$6 billion in investment-grade debt as technology companies seek additional funding for infrastructure investments.",
      "source": "Yahoo",
-     "url": "https://finnhub.io/api/news?id=2da92d9ab392349a4bae337b640b778a61668ef7f46641e189891722d7140715",
-     "datetime": 1795129502
+     "url": "https://finnhub.io/api/news?id=fcdf2e7cef07f2d1cc7ec4af08bba571f7f29b3c313c8e1286341af0d72f5f15",
+     "datetime": 1795210869
     },
     {
-     "headline": "Anthropic IPO value surges in stock market debut",
-     "summary": "Economist Justin Wolfers joins The Lead.",
+     "headline": "Nasdaq turns negative: Why Anthropic & other tech stocks are getting crushed",
+     "summary": "The Nasdaq Composite (^IXIC) turned negative for the year as the AI trade takes a turn for the worse. Deirdre Bosa takes a closer look at the market action, highlighting the sell-off's disconnect from record chip sales.",
      "source": "Yahoo",
-     "url": "https://finnhub.io/api/news?id=907f4121b1e20b774cff35af0d614ffc810eefffeb2a5a350bb5eec318cbd3cd",
-     "datetime": 1795128867
+     "url": "https://finnhub.io/api/news?id=3727581ad505816946886143beae7cc306984789dc03346171bca34594c5a843",
+     "datetime": 1795210726
     },
     {
-     "headline": "Morgan Stanley’s Vintage Values 2027: 5 Stocks Analysts See Climbing Further",
-     "summary": "Bloomberg reported on November 13, 2026, that one bank’s strategists expect the S&P 500 to reach 8,700 within 12 months. They also see earnings growth slowing to 11% in 2027 from 36% in 2026. That gap matters because slower profit growth changes what investors reward. According to the report, buyers are willing to pay up […]",
+     "headline": "Atalanta CEO Anjana Rajan Addresses Software Understanding Gap at The National Academies Cyber Resilience Forum",
+     "summary": "The National Academies of Sciences, Engineering, and Medicine's Forum on Cyber Resilience concluded today after two days of sessions with leaders from the NSA, the Department of War, AWS, Google, Microsoft, and others on the technical and operational challenges of closing the software understanding gap.",
      "source": "Yahoo",
-     "url": "https://finnhub.io/api/news?id=ecbd637a919844c95f1eefac51d1d49905fbdbb1a50063465ce8b3e0192d47fe",
-     "datetime": 1795127555
+     "url": "https://finnhub.io/api/news?id=321883b10bae1d5418ed2fa69efb902815d1a3b96325c3f19d7b0867f7f3f4bd",
+     "datetime": 1795209960
     },
     {
-     "headline": "Stock Market Today, Nov. 19: Alphabet Shares Fall as Anthropic Nasdaq Debut Puts Fresh Value on Google's Stake",
-     "summary": "Today, Nov. 19, 2026, Alphabet's slide came as investors weighed its private AI holdings and a heavy trading session.",
+     "headline": "Funds With Anthropic Exposure Got Off To a Rough Start. More Trouble May Be on The Way",
+     "summary": "ETFs that had ties to Anthropic got crushed Thursday in the AI selloff and tumbled again Friday Single-stock funds tied to Anthropic are set to debut too.",
      "source": "Yahoo",
-     "url": "https://finnhub.io/api/news?id=761e947e45580e96816de82c91ae31a183fa7ed0ae3d4dd27e077a2e1bb60bae",
-     "datetime": 1795126710
+     "url": "https://finnhub.io/api/news?id=06ab81f0065a1b9c4360251846e244fbdde7fd0b2f723c4fafd3a7c76849a1cb",
+     "datetime": 1795209660
     },
     {
-     "headline": "Anthropic Closes Up 17% While Nasdaq Falls; Mohamed El-Erian Calls It ‘Making Room’ For AI",
-     "summary": "Anthropic opened on Nasdaq on Thursday at a 34% premium to the offer price of $83 and closed at $97.17.",
+     "headline": "YouTube nears $3B settlement with school districts over addiction claims: report",
+     "summary": "The deal also includes product safeguards for teens and is contingent on a majority of districts signing on, with finalization likely to take a few months, Bloomberg reported.",
      "source": "Yahoo",
-     "url": "https://finnhub.io/api/news?id=708616c2239321ce5029db74ffcc10c19d34de688eff181f1e7d5e13821cf3c3",
-     "datetime": 1795125712
+     "url": "https://finnhub.io/api/news?id=eaec2b0d00c8e28a5daa83530e30e835c7341a5aea927010219a91aea187a71e",
+     "datetime": 1795209479
     },
     {
-     "headline": "Trump’s Latest Media Lawsuit Can Proceed, Judge Rules. What Could Happen If He Prevails.",
-     "summary": "Shares of the New York Times fell 3% Thursday, but the negative sentiment may be premature, based on past court case outcomes.",
+     "headline": "$1,000 in Anthropic or Bitcoin: Which Could Be Worth More by 2030?",
+     "summary": "One stock just debuted at a $1.5 trillion valuation and promptly sank, while the original crypto rebel sits near its yearly low. Before the December Fed decision, one of them offers a far clearer path to growing a $1,000 bet.",
      "source": "Yahoo",
-     "url": "https://finnhub.io/api/news?id=5c95b8fb484dd1220d366b600005bd2165d72c4bd5cc50e3ed4eea209ed78952",
-     "datetime": 1795125360
+     "url": "https://finnhub.io/api/news?id=5ef879f5b021b5831305f2a25e044ee9a7d520a82f3354e79f80765b16f96703",
+     "datetime": 1795209120
     },
     {
-     "headline": "Anthropic, AMD, Alphabet, Palo Alto, Take-Two, Walmart, and More Stocks That Explain Today’s Market",
-     "summary": "Anthropic makes its hotly anticipated trading debut.",
+     "headline": "Amazon Provides Options To Buy Ads Across Entire Ecosystem",
+     "summary": "Amazon Ads Brand Innovation Lab's Holiday Sponsorship Program is an effort to turn its entire media and shopping ecosystem into a large holiday sponsorship opportunity for advertisers and media buyers.",
      "source": "Yahoo",
-     "url": "https://finnhub.io/api/news?id=95b7d457c2f06088bbba42d7f818bf650bbf4afb8c98db8ab1e3103814fb6d5e",
-     "datetime": 1795124820
+     "url": "https://finnhub.io/api/news?id=20ff9736b41cda72cfa81c42424375ca33ab04b0f7e8fb037444a3eda9008122",
+     "datetime": 1795208876
     }
    ],
    "note": null,
@@ -249,8 +249,8 @@
     "estimate": 3.11,
     "beat": false
    },
-   "week_change_pct": -8.717777033813178,
-   "analysis": "Alphabet dnes klesl o 3,46 % a za týden je v minusu téměř 9 %, přičemž hlavním katalyzátorem je přecenění firmy po IPO Anthropicu, ve kterém Google drží významný podíl - trh teď přepočítává, jakou hodnotu tento podíl skutečně představuje, a výsledek zatím vyznívá spíše negativně pro mateřskou akcii. Přidává se k tomu fakt, že poslední kvartální výsledky byly pod odhady (EPS 2,67 oproti čekaným 3,11), což je u firmy velikosti Alphabetu varovný signál a dává výprodeji fundamentální opodstatnění, nejen sentimentální. Kombinace zklamání z výsledků a nejistoty kolem ocenění AI investic vytváří dvojitý tlak na akcii. Důležité je sledovat nadcházející earnings, které jsou naplánované na 2. února 2027 - tam se ukáže, zda šlo o jednorázové zklamání nebo trend zpomalování růstu. Firma zároveň čelí tlaku kvůli medializovaným právním sporům (například žaloba Trumpa na média), což sice přímo nesouvisí s jádrem byznysu, ale přispívá k negativnímu mediálnímu obrazu. Rizikem pro investory je, že pokud se ukáže, že ocenění podílu v Anthropicu bylo přehnané, mohlo by dojít k další korekci. Naopak pozitivní zprávou je, že Alphabet má diverzifikované zdroje příjmů (reklama, cloud, AI), takže krátkodobý výkyv nemusí znamenat dlouhodobý problém. Sledovat je potřeba vývoj regulace velkých technologických firem a případné další zprávy o strategii v AI.",
+   "week_change_pct": -10.305304797646809,
+   "analysis": "placeholder",
    "outlook": "neutral"
   },
   {
@@ -258,68 +258,68 @@
    "name": "Meta Platforms",
    "quote": {
     "symbol": "META",
-    "price": 596.22,
-    "change_pct": -3.2707096271780345,
-    "day_high": 630.06,
-    "day_low": 595.78,
-    "day_open": 624.66
+    "price": 560.84,
+    "change_pct": -5.934051189158363,
+    "day_high": 588.69,
+    "day_low": 558.68,
+    "day_open": 583.91
    },
    "news": [
     {
-     "headline": "S&P 500, Nasdaq, Dow End Lower As Anthropic Trading Debut Fails To Provide Adequate Confidence —  ANT, META, AAPL, GME In Focus",
-     "summary": "Anthropic closed its debut trading session 17% higher from its listing price of $83 a share.",
+     "headline": "Funds With Anthropic Exposure Got Off To a Rough Start. More Trouble May Be on The Way",
+     "summary": "ETFs that had ties to Anthropic got crushed Thursday in the AI selloff and tumbled again Friday Single-stock funds tied to Anthropic are set to debut too.",
      "source": "Yahoo",
-     "url": "https://finnhub.io/api/news?id=f651be9663f5e6db171be082b341381743ec55ca6369c463dcf5dc2c4cb4a997",
-     "datetime": 1795129265
+     "url": "https://finnhub.io/api/news?id=06ab81f0065a1b9c4360251846e244fbdde7fd0b2f723c4fafd3a7c76849a1cb",
+     "datetime": 1795209660
     },
     {
-     "headline": "Stock Market Today, Nov. 19: Alphabet Shares Fall as Anthropic Nasdaq Debut Puts Fresh Value on Google's Stake",
-     "summary": "Today, Nov. 19, 2026, Alphabet's slide came as investors weighed its private AI holdings and a heavy trading session.",
+     "headline": "YouTube nears $3B settlement with school districts over addiction claims: report",
+     "summary": "The deal also includes product safeguards for teens and is contingent on a majority of districts signing on, with finalization likely to take a few months, Bloomberg reported.",
      "source": "Yahoo",
-     "url": "https://finnhub.io/api/news?id=761e947e45580e96816de82c91ae31a183fa7ed0ae3d4dd27e077a2e1bb60bae",
-     "datetime": 1795126710
+     "url": "https://finnhub.io/api/news?id=eaec2b0d00c8e28a5daa83530e30e835c7341a5aea927010219a91aea187a71e",
+     "datetime": 1795209479
     },
     {
-     "headline": "Anthropic Just Finished Its First Day as a Public Company. Five of the Six Biggest Tech IPOs Since Facebook Were Underwater Six Months After Theirs, and Elon Musk’s SpaceX Is Following the Script",
-     "summary": "Warren Buffett told CNBC in 2019 that Berkshire had never bought a new issue in 54 years. Anthropic sold 980 million shares at $83, above its marketed range of $70 to $78, raising $81.3 billion, and closed its first day on the Nasdaq as ANT at $97.17, up 17% from the offer price. From their first-day closes, five of the six biggest tech IPOs since Facebook (Facebook, Alibaba, Uber, Snowflake, Rivian; only Arm rose) were underwater six months later and behind the S&P 500; three lost more than hal",
+     "headline": "Anthropic Stock Came Within 5 Cents of Its $83 IPO Price on Day 2, Then Bounced 6% to Close at $88.30. Facebook Closed Its Day 2 10% Below Its IPO Price",
+     "summary": "Anthropic fell as low as $83.05 on its second day of trading, 5 cents above its $83 IPO price, then closed at $88.30. Facebook closed its second day 10% below its IPO price.",
      "source": "Yahoo",
-     "url": "https://finnhub.io/api/news?id=1cf33f1829c7f247eda06979d40b7e53b01601681357c3689e4a1803ac1364e6",
-     "datetime": 1795126382
+     "url": "https://finnhub.io/api/news?id=656aa700767e15c9c48e52fd9dcf70d23697de73137b37f35398ea52150a3f91",
+     "datetime": 1795209430
     },
     {
-     "headline": "META Plans To Reportedly Charge $300 For Muse Charm Gadget In Hope To Revive Hardware Business",
-     "summary": "Meta targeted nearly 7 million monthly active users for all of its wearable offerings by the end of the year.",
+     "headline": "$1,000 in Anthropic or Bitcoin: Which Could Be Worth More by 2030?",
+     "summary": "One stock just debuted at a $1.5 trillion valuation and promptly sank, while the original crypto rebel sits near its yearly low. Before the December Fed decision, one of them offers a far clearer path to growing a $1,000 bet.",
      "source": "Yahoo",
-     "url": "https://finnhub.io/api/news?id=9cae0dead9e75077897d789306b13e4986b7398f3b335b6ea6ffe979d5eb7212",
-     "datetime": 1795125811
+     "url": "https://finnhub.io/api/news?id=5ef879f5b021b5831305f2a25e044ee9a7d520a82f3354e79f80765b16f96703",
+     "datetime": 1795209120
     },
     {
-     "headline": "The 25 Biggest U.S. IPOs of All Time",
-     "summary": "The biggest IPOS in U.S. history include a major chipmaker, a ride-hailing firm and a handful of global telecoms.",
+     "headline": "“Pretty Bizarre”: Microsoft Is Worth More Than Alphabet. Which Makes No Sense",
+     "summary": "Key TakeawaysAlphabet hit a 52-week low, leaving it worth $3. 34 trillion against Microsoft’s $3.",
      "source": "Yahoo",
-     "url": "https://finnhub.io/api/news?id=7c050ac71aa344e37d9bd3a13713c3b456e199879e13685595bd2d3a37381fa1",
-     "datetime": 1795124338
+     "url": "https://finnhub.io/api/news?id=f3917d843f41b893d16faa82ff8b5ffdf12bc7684c3ffc75c7066654b6aa0860",
+     "datetime": 1795207123
     },
     {
-     "headline": "Intuit Beats Fiscal Q1 Goals, Gives Soft Outlook, Sells Mailchimp",
-     "summary": "Financial software firm Intuit beat Wall Street's estimates for its fiscal first quarter but missed with its outlook.",
+     "headline": "Wall Street Thinks Oklo Is a Buy. Here’s Why I’m Not So Sure.",
+     "summary": "Nearly every Wall Street analyst is bullish on Oklo stock.",
      "source": "Yahoo",
-     "url": "https://finnhub.io/api/news?id=0d6864adb4124b36ab69caef8f0f680eaf3771227e064104784ab4d6266e8792",
-     "datetime": 1795123297
+     "url": "https://finnhub.io/api/news?id=a05aed74ed5db447d9cfb9133d80e44cd1f81870afbe719dcd59c2267cd3b4f6",
+     "datetime": 1795206302
     },
     {
-     "headline": "Meta trades at 21x P/E, yet shareholders face a massive new bill",
-     "summary": "Investing.com and Yahoo Finance LLC may earn commission or revenue on some items through the links below.",
+     "headline": "Apple Plans an AI Agent to Rival Meta's Muse",
+     "summary": "Meta's Muse, ChatGPT and Claude already rank among the App Store's top free apps",
      "source": "Yahoo",
-     "url": "https://finnhub.io/api/news?id=4c978823529e3b521d8c43c053a30b1781bb985fe7c725f99fd83765d83191d9",
-     "datetime": 1795119880
+     "url": "https://finnhub.io/api/news?id=95393650dc2b424e093834ad8cac95425494210e75ab2c2050a7db696a84374f",
+     "datetime": 1795198389
     },
     {
-     "headline": "Turkey’s monopolies watchdog takes on all comers",
-     "summary": "From Meta, Adidas and Coca-Cola to poultry packers and hazelnut traders, the list of companies that have run up against Turkey’s Competition Authority (Rekabet Kurumu, or RK) continues to grow. Established in 1997, in the wake of Turkey’s customs union with the EU, the RK exists to benefit consumers by combatting cartels and monopolies, protecting the market mechanism and lowering barriers to market entry.",
+     "headline": "Meta (META) Stock Looks Discounted As Its 76% Five Year Run Cools",
+     "summary": "Meta Platforms has cooled off after a strong multi year run, and with the stock down in recent months, the live question is whether today's share price still lines up with what its earnings can reasonably support. Over the past 5 years, Meta Platforms has delivered a gain of 76.5%, which puts real pressure on the current earnings base to justify how far the share price has come. Meta's heavy commitment to AI infrastructure and off balance sheet data center financing can reshape the timing...",
      "source": "Yahoo",
-     "url": "https://finnhub.io/api/news?id=7b75d239b5f09e0f235e7cfa6f7888408264298c1447651feb118e4c8cc02a27",
-     "datetime": 1795119686
+     "url": "https://finnhub.io/api/news?id=31717b756c3171ae58c32b534e7c09cd0860d2dab5c7af84beda01a158b04933",
+     "datetime": 1795198251
     }
    ],
    "note": null,
@@ -334,8 +334,8 @@
     "estimate": 6.87,
     "beat": true
    },
-   "week_change_pct": -4.392168182036848,
-   "analysis": "Meta dnes ztratila 3,27 % a za týden je v mírném minusu 4,39 %, což je relativně mírnější propad než u konkurentů jako Nvidia nebo AMD. Firma reportovala výsledky nad očekáváním (EPS 7,4 vs 6,87), což je silný fundamentální základ, ale trh se zaměřuje spíše na vysoké kapitálové výdaje spojené s AI infrastrukturou a na nový hardwarový produkt Muse Charm za 300 dolarů, jehož komerční úspěch je zatím nejistý - firma cílí na téměř 7 milionů měsíčně aktivních uživatelů nositelných zařízení, což je ambiciózní cíl. Analytici upozorňují, že Meta obchoduje na násobku 21x zisku, ale zároveň čelí ",
+   "week_change_pct": -12.599541834842373,
+   "analysis": "placeholder",
    "outlook": "neutral"
   },
   {
@@ -343,68 +343,68 @@
    "name": "Apple Inc.",
    "quote": {
     "symbol": "AAPL",
-    "price": 349.21,
-    "change_pct": -0.919279330401478,
-    "day_high": 355.28,
-    "day_low": 346.47,
-    "day_open": 352.91
+    "price": 342.56,
+    "change_pct": -1.9042982732453189,
+    "day_high": 354.34,
+    "day_low": 340.56,
+    "day_open": 352.865
    },
    "news": [
     {
-     "headline": "S&P 500, Nasdaq, Dow End Lower As Anthropic Trading Debut Fails To Provide Adequate Confidence —  ANT, META, AAPL, GME In Focus",
-     "summary": "Anthropic closed its debut trading session 17% higher from its listing price of $83 a share.",
+     "headline": "Dow Jones Futures: Market Has Worst Week Since Covid Amid Nvidia, Anthropic. Does Fear Gauge Offer Hope?",
+     "summary": "The Dow Jones and Nasdaq had their worst week since March 2020, fueled by Nvidia and Anthropic. A fear gauge is soaring. Good news?",
      "source": "Yahoo",
-     "url": "https://finnhub.io/api/news?id=f651be9663f5e6db171be082b341381743ec55ca6369c463dcf5dc2c4cb4a997",
-     "datetime": 1795129265
+     "url": "https://finnhub.io/api/news?id=a461bf9206b72f4ed5bbda580ba12f32748c5dc1fc3ce52df1fae999182f1a09",
+     "datetime": 1795211354
     },
     {
-     "headline": "3 ETFs for the 58-Year-Old Who Opened the 401(k) Brokerage Window and Did Not Know What to Buy",
-     "summary": "One click turned a short plan menu into thousands of choices, and a 58-year-old froze. Retirement is close, the stakes are high, and a surprisingly small set of funds may cut through the noise.",
+     "headline": "3 Edge AI Stocks To Watch As Apple Pushes More AI On Device",
+     "summary": "Apple’s renewed push into its own AI agent has turned the quiet idea of on-device intelligence into a live contest, with ripple effects running through chip designers, hardware suppliers and software tool makers tied to edge computing. That shift creates both promise and risk for investors who care about where AI actually runs. This article explains how that news relates to three stocks that screen positively on this theme. The stocks highlighted below are only a small sample of the on-device...",
      "source": "Yahoo",
-     "url": "https://finnhub.io/api/news?id=f609a25cfb0308e982f554aa59a8cabca8fdf404a0197a801e33064dcfddad19",
-     "datetime": 1795127820
+     "url": "https://finnhub.io/api/news?id=4aa23d90b2f7216ffcded5e60584dec8a0c5e0f647f611891aa66377dffeba32",
+     "datetime": 1795209245
     },
     {
-     "headline": "Anthropic Closes Up 17% While Nasdaq Falls; Mohamed El-Erian Calls It ‘Making Room’ For AI",
-     "summary": "Anthropic opened on Nasdaq on Thursday at a 34% premium to the offer price of $83 and closed at $97.17.",
+     "headline": "Is Apple Stock Increasing Your Market Risk?",
+     "summary": "Today's big story: Will 2027 Be A 2022 Repeat For Stocks.",
      "source": "Yahoo",
-     "url": "https://finnhub.io/api/news?id=708616c2239321ce5029db74ffcc10c19d34de688eff181f1e7d5e13821cf3c3",
-     "datetime": 1795125712
+     "url": "https://finnhub.io/api/news?id=935619fe4cc137e8cc74cd82a39ce88ddcdf01e17375cd86c0a01b675f1b35a4",
+     "datetime": 1795208025
     },
     {
-     "headline": "Intuit Stock Tumbles After Earnings Beat. It’s Selling Mailchimp.",
-     "summary": "Intuit reported better-than-expected fiscal first-quarter earnings.",
+     "headline": "Apple “Has No Idea What It’s Doing” in AI. Oh, and It’s Building Its Own AI Agent Too",
+     "summary": "Key TakeawaysApple is building its own AI agent that can run devices, browse the web and write code, which puts it up against Anthropic, OpenAI and Alphabet’s Google. Apple trades at 37x forward earnings, the price of a company that collects fees from AI, yet its agent will start from models rebuilt on Google’s Gemini.",
      "source": "Yahoo",
-     "url": "https://finnhub.io/api/news?id=37ba5922a099995f39e17d7f9b5dec87195afcc3c65077c8c79b6015feadf48f",
-     "datetime": 1795125240
+     "url": "https://finnhub.io/api/news?id=32c1a2611f12fba5af8caf9ef9edc004609e4fb53b7ca15db19d284eef3a920e",
+     "datetime": 1795200540
     },
     {
-     "headline": "Bridgewater Warns of AI Security Risk as Anthropic Shares Rise in Debut",
-     "summary": "Bridgewater Associates laid out its thinking on artificial intelligence-related risks in a paper published last week.",
+     "headline": "Micron’s President Says “We Can’t Support Every Customer.” Apple Just Locked In Samsung’s DRAM",
+     "summary": "Key TakeawaysMicron’s president said the company “can’t support every customer,” as Apple reportedly nears a Samsung DRAM deal with the price left open. In a memory shortage that Micron says runs for years, suppliers hold the leverage, which helps explain Micron’s 80.",
      "source": "Yahoo",
-     "url": "https://finnhub.io/api/news?id=86f0f70b3dbbb031578c60d23282f67ec43d96a75a29fe7bcd2b4d1b99d5d3d3",
-     "datetime": 1795122960
+     "url": "https://finnhub.io/api/news?id=a3644917317e0aa3a6dfd10a2be7592cb725beeb479e36b6234ccb9f8dffb3d1",
+     "datetime": 1795199041
     },
     {
-     "headline": "Anthropic has a 17-fold revenue growth hurdle to tackle: A closer look",
-     "summary": "Bessemer Venture Partners partner Byron Deeter sits down with Deirdre Bosa and \"In The Loop\" host Ejaaz Ahamadeen to explain the challenges ahead for Anthropic (ANT) now that the company is public.",
+     "headline": "Is Dell Stock's Steep Fall A Bargain Or A Warning?",
+     "summary": "Today’s big story: Will 2027 Be A 2022 Repeat For Stocks.",
      "source": "Yahoo",
-     "url": "https://finnhub.io/api/news?id=ca982ca003caf78ae6c117f89c4276531cf9e98070ad945b6c2b69782b95d0d3",
-     "datetime": 1795122820
+     "url": "https://finnhub.io/api/news?id=9dc69a9afbf6b1eaa7385ea1d8f7d643fbbefa2fd5795e71110cec536a8a6771",
+     "datetime": 1795198631
     },
     {
-     "headline": "Nvidia Up 8.9% After a Strong Anthropic IPO? That’s What Tilt’s New Investing Tool Modeled",
-     "summary": "Anthropic (NASDAQ:ANT) opened at $111.50 on Thursday, 34% above its $83 IPO price. Investing startup Tilt had modeled what a strong debut might mean for shareholders in two other tech giants. Over 20 days, it put Nvidia Corp. (NASDAQ:NVDA) up...",
+     "headline": "Apple Plans an AI Agent to Rival Meta's Muse",
+     "summary": "Meta's Muse, ChatGPT and Claude already rank among the App Store's top free apps",
      "source": "Yahoo",
-     "url": "https://finnhub.io/api/news?id=e6d85eed59403aca19a8ddbcfd704373d72736ddf902e9bcba5e321daa10f125",
-     "datetime": 1795121046
+     "url": "https://finnhub.io/api/news?id=95393650dc2b424e093834ad8cac95425494210e75ab2c2050a7db696a84374f",
+     "datetime": 1795198389
     },
     {
-     "headline": "Walmart, Costco see some panic-buying after tech outages",
-     "summary": "Outages at Apple, Chase, Microsoft, and US airlines could mean good news for Walmart.",
+     "headline": "What Could Stall Microsoft Stock's Run?",
+     "summary": "Today's big story: Will 2027 Be A 2022 Repeat For Stocks.",
      "source": "Yahoo",
-     "url": "https://finnhub.io/api/news?id=e237600627b6584dd9e34aaa635702babbe79789e726e095ad288897532aa557",
-     "datetime": 1795115962
+     "url": "https://finnhub.io/api/news?id=c02d3c456328997614f3a8d78763870b3317341663bb0a8365e90e750fbfd411",
+     "datetime": 1795197733
     }
    ],
    "note": null,
@@ -419,8 +419,8 @@
     "estimate": 2.03,
     "beat": true
    },
-   "week_change_pct": -1.5977231740306626,
-   "analysis": "Apple byl dnes nejstabilnější ze sledovaných titulů s poklesem jen 0,92 % a týdenní ztrátou 1,6 %, což je výrazně lepší výkon než u ostatních velkých technologických firem. Poslední výsledky byly nad odhadem (EPS 2,1 vs 2,03), což potvrzuje silnou fundamentální pozici firmy i v nejisté tržní náladě. Apple zatím nebyl přímo zasažen žádnou negativní zprávou typu regulatorního vyšetřování nebo zklamání z výsledků, což z něj dělá relativně bezpečný přístav v rámci technologického sektoru během aktuální korekce. Zajímavostí je, že technologické výpadky u konkurentů (Microsoft, banky, aerolinky) vedly k nárůstu ",
+   "week_change_pct": -3.8482050130518934,
+   "analysis": "placeholder",
    "outlook": "neutral"
   },
   {
@@ -428,68 +428,68 @@
    "name": "Microsoft Corp.",
    "quote": {
     "symbol": "MSFT",
-    "price": 498.3,
-    "change_pct": -1.965413445080566,
-    "day_high": 526.49,
-    "day_low": 498.16,
-    "day_open": 519.5
+    "price": 484.52,
+    "change_pct": -2.7654023680513804,
+    "day_high": 503.8,
+    "day_low": 481.03,
+    "day_open": 493.74
    },
    "news": [
     {
-     "headline": "Microsoft reveals 80% server failure behind global outage",
-     "summary": "A months-old software flaw disrupted email and work for millions.",
+     "headline": "Salesforce vs. ServiceNow: Which Technology Stock Is a Better Buy for 2027?",
+     "summary": "Salesforce trades at a lower forward P/E than ServiceNow, yet ServiceNow is growing revenue faster, forcing investors to weigh price against momentum.",
      "source": "Yahoo",
-     "url": "https://finnhub.io/api/news?id=114544199ae83790949084ed5bb219114620f7c8fc010ae5510bc0fb9737272f",
-     "datetime": 1795126620
+     "url": "https://finnhub.io/api/news?id=9e72c9827b130344ad5727844d60aeaeb26fdd16c97401afefcf81254bdadc53",
+     "datetime": 1795211237
     },
     {
-     "headline": "Anthropic Closes Up 17% While Nasdaq Falls; Mohamed El-Erian Calls It ‘Making Room’ For AI",
-     "summary": "Anthropic opened on Nasdaq on Thursday at a 34% premium to the offer price of $83 and closed at $97.17.",
+     "headline": "Atalanta CEO Anjana Rajan Addresses Software Understanding Gap at The National Academies Cyber Resilience Forum",
+     "summary": "The National Academies of Sciences, Engineering, and Medicine's Forum on Cyber Resilience concluded today after two days of sessions with leaders from the NSA, the Department of War, AWS, Google, Microsoft, and others on the technical and operational challenges of closing the software understanding gap.",
      "source": "Yahoo",
-     "url": "https://finnhub.io/api/news?id=708616c2239321ce5029db74ffcc10c19d34de688eff181f1e7d5e13821cf3c3",
-     "datetime": 1795125712
+     "url": "https://finnhub.io/api/news?id=321883b10bae1d5418ed2fa69efb902815d1a3b96325c3f19d7b0867f7f3f4bd",
+     "datetime": 1795209960
     },
     {
-     "headline": "Intuit Stock Tumbles After Earnings Beat. It’s Selling Mailchimp.",
-     "summary": "Intuit reported better-than-expected fiscal first-quarter earnings.",
+     "headline": "Is Apple Stock Increasing Your Market Risk?",
+     "summary": "Today's big story: Will 2027 Be A 2022 Repeat For Stocks.",
      "source": "Yahoo",
-     "url": "https://finnhub.io/api/news?id=37ba5922a099995f39e17d7f9b5dec87195afcc3c65077c8c79b6015feadf48f",
-     "datetime": 1795125240
+     "url": "https://finnhub.io/api/news?id=935619fe4cc137e8cc74cd82a39ce88ddcdf01e17375cd86c0a01b675f1b35a4",
+     "datetime": 1795208025
     },
     {
-     "headline": "Bridgewater Warns of AI Security Risk as Anthropic Shares Rise in Debut",
-     "summary": "Bridgewater Associates laid out its thinking on artificial intelligence-related risks in a paper published last week.",
+     "headline": "“Pretty Bizarre”: Microsoft Is Worth More Than Alphabet. Which Makes No Sense",
+     "summary": "Key TakeawaysAlphabet hit a 52-week low, leaving it worth $3. 34 trillion against Microsoft’s $3.",
      "source": "Yahoo",
-     "url": "https://finnhub.io/api/news?id=86f0f70b3dbbb031578c60d23282f67ec43d96a75a29fe7bcd2b4d1b99d5d3d3",
-     "datetime": 1795122960
+     "url": "https://finnhub.io/api/news?id=f3917d843f41b893d16faa82ff8b5ffdf12bc7684c3ffc75c7066654b6aa0860",
+     "datetime": 1795207123
     },
     {
-     "headline": "Anthropic has a 17-fold revenue growth hurdle to tackle: A closer look",
-     "summary": "Bessemer Venture Partners partner Byron Deeter sits down with Deirdre Bosa and \"In The Loop\" host Ejaaz Ahamadeen to explain the challenges ahead for Anthropic (ANT) now that the company is public.",
+     "headline": "Intuit: 3 Key Takeaways for Long-Term Investors",
+     "summary": "Intuit's AI platform integrations are pulling users into payroll and payment tools at higher rates, a shift that matters for long-term holders.",
      "source": "Yahoo",
-     "url": "https://finnhub.io/api/news?id=ca982ca003caf78ae6c117f89c4276531cf9e98070ad945b6c2b69782b95d0d3",
-     "datetime": 1795122820
+     "url": "https://finnhub.io/api/news?id=ef5c3002e68ccecd2dda335166b677db77415d8ffbf4cbec046656b2d9bc1cdd",
+     "datetime": 1795205912
     },
     {
-     "headline": "Claude Users Excited to Invest in Anthropic, Says Ann Berry",
-     "summary": "Ann Berry, founder and managing partner of Threadneedle, said that the ability to turn user behavior into an investment opportunity creates a 'different kind of buzz' for Anthropic. Berry said that she sees the AI company and its Claude model continuing to grab share from tech companies like Microsoft and shift users from traditional search engines.",
+     "headline": "Cerebras Stock Looks Like a Buy as Customer Base Expands",
+     "summary": "Cerebras stock climbed after adding Microsoft as a customer.",
      "source": "Yahoo",
-     "url": "https://finnhub.io/api/news?id=e874eadc3981d83fa268150bc9da6dbeb23fac6e76a4e9f1840e9256ecc4fb5f",
-     "datetime": 1795122375
+     "url": "https://finnhub.io/api/news?id=077bd8147d4f43a84d75030623589825f50acd34e2a88128ded92230fbe3e01b",
+     "datetime": 1795204202
     },
     {
-     "headline": "Meta trades at 21x P/E, yet shareholders face a massive new bill",
-     "summary": "Investing.com and Yahoo Finance LLC may earn commission or revenue on some items through the links below.",
+     "headline": "Take-Two Smashes Sales Records With 'Grand Theft Auto 6'",
+     "summary": "Take-Two Interactive Software smashed video game sales records with the launch of \"Grand Theft Auto 6.\"",
      "source": "Yahoo",
-     "url": "https://finnhub.io/api/news?id=4c978823529e3b521d8c43c053a30b1781bb985fe7c725f99fd83765d83191d9",
-     "datetime": 1795119880
+     "url": "https://finnhub.io/api/news?id=cd36eb91463868449e0e1ffe73ced6cf09729252933c52cffea6121f5ec0b526",
+     "datetime": 1795203560
     },
     {
-     "headline": "Nebius Stock’s (NBIS) Q3 Sell-Off Looks Like an Opportunity",
-     "summary": "Nebius (NBIS) stock’s Q3 sell-off looks like an attractive opportunity, with shares down almost 64% from their 52-week high. The artificial intelligence (AI) cloud infrastructure provider disappointed investors with another capacity delay, but the underlying business momentum tells a very different story. Rather than pulling back, customers are locking in much larger, multi-year commitments. As CEO Arkady Volozh emphasized on the earnings call, “The demand for AI is real and substantial.” Q3 202",
+     "headline": "Trump vows tax on U.S. firms building data centers abroad",
+     "summary": "Investing.com -- President Donald Trump said Friday he plans to impose a tax on American companies that construct data centers in foreign countries. The president did not provide details on how such a tax would be implemented or the legal authority the government would use.",
      "source": "Yahoo",
-     "url": "https://finnhub.io/api/news?id=7ab3ae9fa6511cff2e929a01558c461e777ab2c42af0f81048702c5ecd0e8c35",
-     "datetime": 1795118268
+     "url": "https://finnhub.io/api/news?id=c6b8a2e8e768012994234b248ead6ebf05a84aa3daa1f4cda2bf2b0b631e2f28",
+     "datetime": 1795201469
     }
    ],
    "note": null,
@@ -504,8 +504,8 @@
     "estimate": 4.82,
     "beat": true
    },
-   "week_change_pct": -4.722753346080304,
-   "analysis": "Microsoft dnes klesl o 1,97 % a za týden ztratil 4,72 %, což je mírnější pokles než u Nvidie, AMD nebo Googlu, ale stále negativní trend. Hlavní aktuální téma je přiznání firmy, že za nedávným globálním výpadkem stála chyba na serverech s 80% selháním způsobená měsíce starou softwarovou chybou - to narušuje důvěru v spolehlivost cloudových služeb, na kterých firma stále více staví svůj byznys model. Pozitivní je, že poslední kvartální výsledky byly nad odhadem (EPS 4,89 vs 4,82), což ukazuje na zdravé fundamenty navzdory technickým problémům. Firma má nadcházející earnings už 26. ledna 2027, kolem kterých lze očekávat zvýšenou volatilitu, obzvláště pokud trh bude chtít vidět, jak výpadek ovlivnil vztahy se zákazníky a případné kompenzace. Rizikem je reputační poškození u velkých firemních klientů, kteří spoléhají na stabilitu Microsoft Cloud služeb. Na druhou stranu historie ukazuje, že podobné technické problémy u velkých firem bývají z dlouhodobého hlediska rychle zapomenuty, pokud se nebudou opakovat. Sledovat je třeba, zda firma zveřejní další detaily o nápravných opatřeních a zda se výpadek neopakuje.",
+   "week_change_pct": -7.513170955180579,
+   "analysis": "placeholder",
    "outlook": "neutral"
   },
   {
@@ -513,183 +513,129 @@
    "name": "S&P 500 (přes SPY)",
    "quote": {
     "symbol": "SPY",
-    "price": 715.87,
-    "change_pct": -1.9624760339633032,
-    "day_high": 739.8999,
-    "day_low": 715.65,
-    "day_open": 737.46
+    "price": 689.81,
+    "change_pct": -3.64032575746994,
+    "day_high": 718.29,
+    "day_low": 686.75,
+    "day_open": 713.56
    },
    "news": [
     {
-     "headline": "$1,000 Invested in Eli Lilly 10 Years Ago Would Be Worth a Fortune Today",
-     "summary": "One molecule turned a diversified drugmaker into a trillion-dollar giant, yet recent buyers have watched shares swing hard even as revenue surged. Does Lilly's next chapter justify today's price, or has the best part already happened?",
+     "headline": "Why Did The Trade Deficit Nearly Triple To $105 Billion?",
+     "summary": "Today's big story: Will 2027 Be A 2022 Repeat For Stocks.",
      "source": "Yahoo",
-     "url": "https://finnhub.io/api/news?id=053647133e25bcfd0a4e91b82ce148fe5a99658d53ebcb1aeeb6bce57612e791",
-     "datetime": 1795112261
+     "url": "https://finnhub.io/api/news?id=6830fa70b50a9b0c2c2185e20e80148b592a13b4248488d2b499eaaca84c315d",
+     "datetime": 1795202821
     },
     {
-     "headline": "The Shenzhen Summit: A New Yalta Or A Nothingburger? The Dates We Need To Watch",
-     "summary": "Analyst sees the Shenzhen summit as a market test: six upcoming dates on trade, chip controls, oil and Ukraine could show its impact on investors.",
+     "headline": "Warren Buffett’s 3 Biggest Investing Lessons for Anyone Retiring in 2027",
+     "summary": "Buffett left his wife a simple 90/10 portfolio, but he never meant it as a paycheck plan. Skip one overlooked check before you retire, and a single bad first year could drain savings you can never rebuild.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=f76ded73248c5771bcfaecdae0cf25508bc26064927d43f08d66290e1a00aaae",
+     "datetime": 1795199370
+    },
+    {
+     "headline": "The Inflation Math In Five Lines",
+     "summary": "Today's big story: Will 2027 Be A 2022 Repeat For Stocks.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=90b58a54db0865bae79e6f008ce9b4b585423131ec23dc8e7ff2ff5c10da4623",
+     "datetime": 1795195918
+    },
+    {
+     "headline": "Managed Futures Are a Hedge Fund Staple. RSST Stacks $1 of Them on Top of $1 of U.S. Stocks",
+     "summary": "Hedge funds have leaned on trend-following futures for decades, yet most S&P 500 holders never touch them. One small ETF promises both in a single ticker, but the fine print on leverage and fees could change who should buy it.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=9345f78bad12b2bf9ba32a41811f42bce4c5d6929c6c9156ad53509761fa18ff",
+     "datetime": 1795192571
+    },
+    {
+     "headline": "The Biggest Winners from the Anthropic IPO Could Be Everyday SPY Investors",
+     "summary": "Anthropic’s IPO debut on Nov. 19, which became the largest on record at about $81 billion, could reward everyday SPY investors more than those chasing the new stock itself.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=8b4bbea0e5f35a78f4342fa3e67e48e9309dcbf40cd74c5a5e4895bf1edff572",
+     "datetime": 1795190524
+    },
+    {
+     "headline": "The Rich Are Keeping The U.S. Economy Afloat - Until Tech Valuations Deflate",
+     "summary": "Analyst urges S&P 500 prudence: a prolonged selloff could weaken spending as the top 10% hold 88.1% of equities. A K-shaped economy explains the disconnect.",
      "source": "SeekingAlpha",
-     "url": "https://finnhub.io/api/news?id=97683b37b35ebf63231878bcf424f10ae691baa42dc3a0f49294b8a77124e1df",
-     "datetime": 1795108509
-    },
-    {
-     "headline": "If You Have $1,000 to Invest Right Now, Here's the 1 ETF I'd Buy Without a Second Thought",
-     "summary": "It’s time to think less surgically and thematically, and more philosophically.",
-     "source": "Yahoo",
-     "url": "https://finnhub.io/api/news?id=becf77d29ce867924cd83558eae491a65f37c78a1272113e129bbbca9c5115d5",
-     "datetime": 1795108382
-    },
-    {
-     "headline": "Do Nvidia, Alphabet, Meta Drops Hurt Your Index Fund?",
-     "summary": "Today's big story: Could Anthropic Stock Fall 25.",
-     "source": "Yahoo",
-     "url": "https://finnhub.io/api/news?id=33adccad1673643dcbd560c1e4d5717d5e7c5714975257aca216975922003847",
-     "datetime": 1795108208
-    },
-    {
-     "headline": "How a 68-Year-Old Collects $5,225 a Month From Just Three Tickers: VYM, DIVO, and ARCC",
-     "summary": "Three funds, one brokerage account, and a monthly check big enough to live on. But one of the three quietly writes more than half the income, and its latest earnings fell short of what it pays out. Is the simplicity worth the risk?",
-     "source": "Yahoo",
-     "url": "https://finnhub.io/api/news?id=cd827f122b33ced8b1e28ba45088fd0b9a138959de12e6df955ce56e61fc462c",
-     "datetime": 1795107948
-    },
-    {
-     "headline": "Anthropic IPO And SpaceX Made Me Rethink The Small-Cap Premium",
-     "summary": "Analyst sees the small-cap premium fading: it turned negative around 2017, with VOO returning 233% versus VB's 123% as ecommerce erodes niche advantages.",
-     "source": "SeekingAlpha",
-     "url": "https://finnhub.io/api/news?id=bc25b8d0c6c7138c51138771ab97a86e4791bd617a950e7d2912e321dfdc8ebb",
-     "datetime": 1795107338
+     "url": "https://finnhub.io/api/news?id=e0fc63cd87278cec556943cfc153d5741c7a07e9d60b2176fd8e06d4512a12a5",
+     "datetime": 1795190422
     }
    ],
    "note": "VUAA je evropský ETF na S&P 500 (LSE/Xetra), Finnhub free tier ale evropské burzy nepodporuje. Cena a novinky jsou proto z amerického ETF SPY, který sleduje stejný index 1:1.",
    "earnings_date": null,
    "next_earnings": null,
    "last_earnings": null,
-   "week_change_pct": -5.448277683854607,
-   "analysis": "VUAA jako evropský ETF kopírující S&P 500 dnes klesl o 1,96 % a za týden ztratil 5,45 %, což odráží širokou slabost velkých technologických firem, které mají v indexu významnou váhu. Protože Finnhub nepodporuje evropské burzy, data a novinky vycházejí z amerického ETF SPY, který sleduje stejný index 1:1, takže informace jsou plně relevantní pro pochopení pohybu VUAA. Propad je logickým důsledkem výprodejů u firem jako Nvidia, AMD, Google nebo Microsoft, které tvoří velkou část váhy indexu S&P 500. Zajímavé je srovnání s dividendovými fondy jako SCHD, které díky jinému složení portfolia nemusí být tak citlivé na propad technologických akcií. Rizikem pro širší index je, že pokud se korekce v AI sektoru prohloubí, ovlivní to i celkový výkon S&P 500 a tím pádem i VUAA. Na druhou stranu dlouhodobí investoři do širokých indexových fondů obvykle takové výkyvy přečkávají bez zásadního dopadu na konečný výnos. Sledovat je potřeba vývoj klíčových komponent indexu, zejména velkých technologických firem, protože jejich osud přímo určuje směr celého ETF. Krátkodobě lze čekat pokračující tlak, dokud se nezklidní nálada kolem AI valuací.",
+   "week_change_pct": -8.558134602383454,
+   "analysis": "placeholder",
    "outlook": "neutral"
   }
  ],
  "macro_news": [
   {
-   "headline": "Backing Trump, US Senate Republicans block Iran war resolution - Reuters",
-   "summary": "Backing Trump, US Senate Republicans block Iran war resolution  Reuters",
+   "headline": "EXCLUSIVE: Nvidia's accounting is a focus of US SEC investigation, sources say - Reuters",
+   "summary": "EXCLUSIVE: Nvidia's accounting is a focus of US SEC investigation, sources say  Reuters",
    "source": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcmstcFNFWmdlWE9OT3pCd2JxN1RvaDZMZ2dlZC01YU9hUVFDdFdETmRJLWYtRWI5bkpNVHgyQUFTRVNncW9kUUZkdGhFRkl1RUx6MGs2eVhNNXhZbzROalJGQnRSSUdqdVBhQ1NuLTRONXEyQWpYemhwenhCd2VlNlY4VUZJT3NRdjBmdzBTZGxreUlHNmgyX0p4TzVxX1FvaXZR?oc=5",
-   "datetime": 1795125369
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMzlPdFVTT2cyVkhmMFVKNWZ1MnpNT0NLcURnblg4THMwUWNuYTRBLWUxU0ZSSUR5bk1zNnBmVlhIUjByNkN6TzVBNC1uaXQxM0dwY2FkMzZQdm00a0xyMXo3NFNpSUNPdERZWU82aGZLa0lNZHpMOXVnVDBVQW9lMmNrWEVRczVYS1Racm1NNlNERDBJeTFJRG1pZVRfTC1LTy1pNjhpVzRaeGRrY25kSzQ1aDNUUQ?oc=5",
+   "datetime": 1795210648
   },
   {
-   "headline": "Houthi strike damages Riyadh’s tallest skyscraper - Reuters",
-   "summary": "Houthi strike damages Riyadh’s tallest skyscraper  Reuters",
+   "headline": "UK finds fix for fridge and freezer vulnerability after European hacks - Reuters",
+   "summary": "UK finds fix for fridge and freezer vulnerability after European hacks  Reuters",
    "source": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBlellNcl9iOFk5YURTaUJXSTRKZkVTWk13NUhyS3ptX3VUOVMzVkV4VFdGQjZpQU9DMFdkNUNXMUZuNWl5SWxxdTZUcXIyNE1NM3VaOHBGWG41RThNQjJ3WjA1Tm0zU28?oc=5",
-   "datetime": 1795124618
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORVlPYjE2cEpJQjlLNzNNcjVjRnI3LUxkcnE5UVJBak9QOTlPUXR2S1htU3BEUWxfM0RfUmo2QVVfX0g3cXpzTjdUSFNRMERVR0FKUVJ4T21TYUhUU2d3bE9tV2hpaGo1bUxqc25WR0VYWFl0Z0UxZDBiMGM3RUdYODlURmFxYnVvcm9KTXVhZWdObGl0bTZfNENXTTlhdG9ibzVNX1hCOFpkQ1k?oc=5",
+   "datetime": 1795210429
   },
   {
-   "headline": "Trump says no rush on Iran decision, looks to next year - Reuters",
-   "summary": "Trump says no rush on Iran decision, looks to next year  Reuters",
+   "headline": "Trump cites good talks with Putin on Ukraine, holds back on security guarantees - Reuters",
+   "summary": "Trump cites good talks with Putin on Ukraine, holds back on security guarantees  Reuters",
    "source": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQkkzQVk3M3pnOXRWVlFCMmVzUEN0alhCS0gzQUhYNkhCMDhCOUM0N0tmMFpZNVNKcnVNbktaYXV5MV9ERm13WHoxTEVtUGRMUkZwT3dJZmlRZ2pyRE1WMGoyZW1VcXVWdTVRTmxZV1RISHNXWE9YY1BUUC1EWlJWRWRsYzlGTXo0WmhjaUxiUnAyMDl2OU9mWmliYndLd0htWGVLYWFUUldMOUIzLV9TSnBB?oc=5",
-   "datetime": 1795124176
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQX3JPLTZVMmozZDY5c0piSTJBajFkeXRoMVc0UWVRRVVtZTdHb3BNcU8temVfeW1TNWRzZzBGVVVTUEs4TGl3eFpuSGNCNFpsLUpPRE1PSjdQYzZDbl9LM2NkMlo3TmpFVEV5QkNhODJyZy1qTUc3U0VNSFhUZHhqWWowLUxSamJlUlIxYjgyVV81ZjFOYmM0ZjdDUQ?oc=5",
+   "datetime": 1795208671
   },
   {
-   "headline": "Gap names new Athleta CEO, lowers full-year guidance",
-   "summary": "Gap on Thursday announced Ashley Kechter as the new CEO of Athleta. The retailer also reported mixed fiscal third-quarter earnings.",
+   "headline": "Intensifying AI rout wipes out Nasdaq's 2026 gains. Alphabet is a tech bright spot",
+   "summary": "Every weekday, the Investing Club releases the Homestretch, an actionable afternoon update just in time for the last hour of trading.",
    "source": "CNBC",
-   "url": "https://www.cnbc.com/2026/11/19/gap-gap-q3-2026-earnings.html",
-   "datetime": 1795123343
+   "url": "https://www.cnbc.com/investingclub/2026/11/20/ai-rout-wipes-out-nasdaqs-2026-gains-alphabet-is-a-tech-bright-spot.html",
+   "datetime": 1795205172
   },
   {
-   "headline": "3-step method to influence people and win them over, from a Stanford expert: ‘Your voice is like a muscle’",
-   "summary": "Stanford University communications lecturer Matt Abrahams teaches current and future leaders how to train their voices to be more engaging and persuasive.",
+   "headline": "A massive bearish trade just happened in the chip stocks",
+   "summary": "Options traders place big bets that semiconductor stocks have further to fall",
    "source": "CNBC",
-   "url": "https://www.cnbc.com/make-it/2026/11/19/matt-abrahams-persuasive-speaking-tips.html",
-   "datetime": 1795119456
+   "url": "https://www.cnbc.com/2026/11/20/a-massive-bearish-trade-just-happened-in-the-chip-stocks.html",
+   "datetime": 1795203211
   },
   {
-   "headline": "Somalia orders UAE ambassador to leave, citing 'invasion' - Reuters",
-   "summary": "Somalia orders UAE ambassador to leave, citing 'invasion'  Reuters",
+   "headline": "Saudi-led forces strike Yemen port as Houthis warn airlines off the kingdom - Reuters",
+   "summary": "Saudi-led forces strike Yemen port as Houthis warn airlines off the kingdom  Reuters",
    "source": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWEg3aWNsUnlnMDBWSmdjZGtyWjJrMXROTHFNMXlycC15MU14bzV1UjUwVVJzR1JFek53RDVnV05DSkdtZnVzLUpQdFEyMGFLbDdpZEc0MlNUNzFFVHV2YkxLMnlHd2hBUVA2M1BlaW5OT041Y0s1OERhT1o3YTRXZ2d6aUl4NGs2cFVyRnQ0VmhLOXJUMkRCQWpmZ3FYODMwTU1iekNoelc?oc=5",
-   "datetime": 1795118988
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQUE1UEFGeklRZGtscWJhNkdxRWpyWHkwQ29IcVQ1Umc2VHlkWlJGZzZPTC00SFl2a3J0SXY3TGo0X0t2a3A5ckMzbmtZXy1mYzdoa0F5Vmo1TGFaU1RIbEZHak5iTi1oRXhWWF9CbWZ2QWFLRG1HSG5Rc1dSbHZlaGNNSDlvZ2RiekJzbnpqMC1aektLZU1MSHBWN25PYURzUGduTjhURQ?oc=5",
+   "datetime": 1795202213
   },
   {
-   "headline": "S&P 500 heads for 6th straight decline. Plus, J&J advances two key products",
-   "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+   "headline": "A wave of 'pent-up quits' could boost turnover in the job market, expert says: 'The labor market is a bit like a coiled spring'",
+   "summary": "Unhappy workers are staying put at their jobs as anxiety around the job market looms. If conditions improve, these workers could be the first to quit, according to experts.",
    "source": "CNBC",
-   "url": "https://www.cnbc.com/investingclub/2026/11/19/sp-500-heads-for-6th-straight-decline-plus-jj-advances-two-key-products.html",
-   "datetime": 1795117926
+   "url": "https://www.cnbc.com/make-it/2026/11/20/worker-turnover-quits-hiring-2027.html",
+   "datetime": 1795200939
   },
   {
-   "headline": "As Sanofi's Pompe drug shortage drags on, some patients struggle to access treatments",
-   "summary": "An ongoing shortage of Sanofi’s Pompe disease treatment is forcing some patients to miss critical doses. They worry their health is at risk.",
-   "source": "CNBC",
-   "url": "https://www.cnbc.com/2026/11/19/as-pompe-drug-shortage-drags-on-patients-struggle-to-get-treatments.html",
-   "datetime": 1795114557
+   "headline": "Houthi attacks add to worries over Trump Saudi nuclear power pact - Reuters",
+   "summary": "Houthi attacks add to worries over Trump Saudi nuclear power pact  Reuters",
+   "source": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeERTd2VXX21mYUpEQUFyRjN2dk5Hdkl3RTZLTDUzbV9HRzE5cy1CcThnQkF3WVNsMDR0bWsxZDMxTlI1d0o2dFZwNjEtX0ZKSVBYQmFycVN2dGNYaXVTRnh3a2Y2M09uM0RkQU4wSDdGWEo3TF94ZlVySy1RNTNEaGhjZmlQZFJ4VjNzM094Rmp4Y0RJZHJZZG5MZVB1VHBkUjJxTmUwUlpBc1JFa2NhQkdGTVhOcGc?oc=5",
+   "datetime": 1795199371
   }
  ],
- "macro": [
-  {
-   "time": "22:56",
-   "title": "Senát blokuje rezoluci proti válce s Íránem",
-   "body": "Republikánští senátoři v USA zablokovali rezoluci, která by omezila vojenské akce prezidenta Trumpa vůči Íránu. Trump zároveň uvedl, že se s rozhodnutím o dalším postupu nebude spěchat a odkázal jej na příští rok. Toto téma zvyšuje geopolitickou nejistotu, která se promítá do opatrnosti investorů na akciových trzích. Napětí na Blízkém východě bývá historicky spojeno s výkyvy cen ropy a růstem averze k riziku.",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcmstcFNFWmdlWE9OT3pCd2JxN1RvaDZMZ2dlZC01YU9hUVFDdFdETmRJLWYtRWI5bkpNVHgyQUFTRVNncW9kUUZkdGhFRkl1RUx6MGs2eVhNNXhZbzROalJGQnRSSUdqdVBhQ1NuLTRONXEyQWpYemhwenhCd2VlNlY4VUZJT3NRdjBmdzBTZGxreUlHNmgyX0p4TzVxX1FvaXZR?oc=5",
-   "source": "Reuters"
-  },
-  {
-   "time": "22:43",
-   "title": "Útok Hútíů poškodil nejvyšší mrakodrap v Rijádu",
-   "body": "Jemenští Hútíové provedli útok, který poškodil nejvyšší mrakodrap v saúdskoarabském Rijádu. Jde o eskalaci konfliktu v regionu, která zvyšuje rizika pro globální dodavatelské řetězce a ceny energií. Podobné incidenty tradičně zvyšují volatilitu na trzích s ropou a bezpečnostními aktivy.",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBlellNcl9iOFk5YURTaUJXSTRKZkVTWk13NUhyS3ptX3VUOVMzVkV4VFdGQjZpQU9DMFdkNUNXMUZuNWl5SWxxdTZUcXIyNE1NM3VaOHBGWG41RThNQjJ3WjA1Tm0zU28?oc=5",
-   "source": "Reuters"
-  },
-  {
-   "time": "20:52",
-   "title": "S&P 500 míří k šesté denní ztrátě v řadě",
-   "body": "Index S&P 500 směřuje k šestému poklesu v řadě, což naznačuje širší ochlazení zájmu o riziková aktiva napříč trhem, nejen u jednotlivých technologických titulů. Tento trend potvrzuje, že aktuální výprodej není omezen jen na AI sektor, ale zasahuje celý trh. Investoři sledují, zda se jedná o zdravou korekci po dlouhém růstu, nebo o začátek hlubšího propadu.",
-   "url": "https://www.cnbc.com/investingclub/2026/11/19/sp-500-heads-for-6th-straight-decline-plus-jj-advances-two-key-products.html",
-   "source": "CNBC"
-  },
-  {
-   "time": "22:22",
-   "title": "Gap jmenuje nového CEO Athleta a snižuje výhled",
-   "body": "Společnost Gap oznámila Ashley Kechter jako novou generální ředitelku značky Athleta a zároveň zveřejnila smíšené výsledky za třetí fiskální čtvrtletí se sníženým výhledem na celý rok. Jde o signál, že i mimo technologický sektor firmy opatrně revidují očekávání kvůli nejistému spotřebitelskému prostředí. Tato zpráva doplňuje širší obraz zpomalujícího ekonomického sentimentu.",
-   "url": "https://www.cnbc.com/2026/11/19/gap-gap-q3-2026-earnings.html",
-   "source": "CNBC"
-  }
- ],
+ "macro": [],
  "macro_analysis": "",
- "tips": [
-  {
-   "ticker": "AVGO",
-   "name": "Broadcom Inc.",
-   "tag": "AI síťování",
-   "reason": "Broadcom těží z rostoucí poptávky po vlastních AI čipech a síťových řešeních pro velká datacentra, což z něj dělá alternativu k Nvidii a AMD v AI infrastruktuře."
-  },
-  {
-   "ticker": "LLY",
-   "name": "Eli Lilly and Company",
-   "tag": "mimo tech sektor",
-   "reason": "Lilly zaznamenala obrovský dlouhodobý růst díky lékům na hubnutí a diabetes a nabízí diverzifikaci mimo technologický sektor, který momentálně prochází korekcí."
-  },
-  {
-   "ticker": "CRUS",
-   "name": "Cirrus Logic Inc.",
-   "tag": "polovodičový průmysl",
-   "reason": "CEO firmy byl právě zvolen předsedou Semiconductor Industry Association, což může zvýšit viditelnost a vliv firmy v rámci celého odvětví polovodičů."
-  },
-  {
-   "ticker": "WMT",
-   "name": "Walmart Inc.",
-   "tag": "defenzivní retail",
-   "reason": "Walmart těžil z panického nákupu během nedávných technologických výpadků u konkurence, což ukazuje na jeho roli jako defenzivní investice v nejistých dobách."
-  }
- ],
+ "tips": [],
  "glossary": {
-  "term": "IPO",
-  "explanation": "IPO (Initial Public Offering) je první veřejný prodej akcií firmy na burze, kdy firma získá peníze od investorů výměnou za podíl ve společnosti. Od tohoto okamžiku se akcie dají běžně kupovat a prodávat na burzovním trhu."
+  "term": "x",
+  "explanation": "y"
  },
  "weekly_recap": null
 }
