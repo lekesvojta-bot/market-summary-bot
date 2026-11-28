@@ -1,0 +1,579 @@
+{
+ "timestamp": "2026-11-28T01:17:35.024186+00:00",
+ "stocks": [
+  {
+   "symbol": "NVDA",
+   "name": "NVIDIA Corp.",
+   "quote": {
+    "symbol": "NVDA",
+    "price": 150.49,
+    "change_pct": 0.7970529135967834,
+    "day_high": 151.98,
+    "day_low": 145.39,
+    "day_open": 151.895
+   },
+   "news": [
+    {
+     "headline": "Billionaire Chase Coleman’s Tiger Global Raised Its Cerebras Stake 48% to $790 Million",
+     "summary": "A famed hedge fund keeps buying a newly public AI chipmaker even as the stock sinks far below its debut high. Before retirement investors copy the move, one detail about how Tiger sized the bet matters more than the purchase itself.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=157bab7006e16a9eaba041f568718eced7841420efee12833f6fe2254f526c93",
+     "datetime": 1795815477
+    },
+    {
+     "headline": "Jensen Huang Is Back. Nvidia’s (NVDA) Bull Case Remains",
+     "summary": "Jensen Huang is back at the helm, and Nvidia’s (NVDA) bull case remains in play. Nvidia shares surged 31.5% on November 23 after news of Jensen Huang’s reinstatement, underscoring how closely investor confidence in the company is tied to its co-founder. While near-term volatility is likely to persist, I remain decisively Bullish over the long term. Nvidia makes the chips, networking gear, and software powering the artificial intelligence (AI) boom, and its earnings story is strong enough to ride",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=a3adb5dfaf174dffb6f21e2a31c6eadd3eb5208d57c2c682d0a5fd92dc772fb4",
+     "datetime": 1795813560
+    },
+    {
+     "headline": "Review & Preview: Gratitude Trade",
+     "summary": "Stocks rallied on Friday, giving indexes their best week since 2008.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=9c412fdb16fefa5cb36526e93c7965a25b77bd8fb9b71704b1ca0b674aff048d",
+     "datetime": 1795813200
+    },
+    {
+     "headline": "Can Record Black Friday Spending Lift Amazon Stock?",
+     "summary": "Amazon stock has held up amid the tech selloff. Can holiday demand and strong AWS growth drive shares higher?",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=7aa445f3c05f8dbd715315f2c351988e8a2e6eb98f4c2803720b3f3d8d50d033",
+     "datetime": 1795811700
+    },
+    {
+     "headline": "TSLA Stock Clocks Best Week In 18 Months: Tesla Reportedly Eyes Buying German Toolmaker Amid Cybercab, Optimus Scaling Plans",
+     "summary": "The company has submitted deal plans to Germany’s competition authority without providing details of the transaction, Automotive World reported on Friday.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=ca84633dd52240b00db7b72a75d92570875cda4eec12ac7da9ffc80aa5298d64",
+     "datetime": 1795809354
+    },
+    {
+     "headline": "Big Tech Turns Down The Volume On 'AI'",
+     "summary": "Each quarter for the past few years, we count how often âAIâ comes up on earnings calls for six mega-cap tech stocks.",
+     "source": "SeekingAlpha",
+     "url": "https://finnhub.io/api/news?id=aef6883f0edd44bd985466f1f77642e50d0ce6c3d071f418318dc35e4767467f",
+     "datetime": 1795809000
+    },
+    {
+     "headline": "Nvidia Stocks Slip 1.66% as S&P Weighs Downgrade Over Key-Man Risk",
+     "summary": "Jensen Huang is back as CEO, but a possible cut to AA- puts board oversight and succession planning under a 90-day spotlight.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=6e3204be59ea37f81ad7a186dc63f1972f26ae9d79b0bd5267c3f24444d438ca",
+     "datetime": 1795808976
+    },
+    {
+     "headline": "Should You Buy Nvidia Stock Before CEO Jensen Huang Testifies in Front of Congress on Dec. 1 and Dec. 3?",
+     "summary": "Huang is set to testify before Congress next week, both publicly and behind closed doors.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=6485c9afc0ccda7c8349157b048306d43cc7dfa4db44f087308da73de51263b5",
+     "datetime": 1795808889
+    }
+   ],
+   "note": null,
+   "earnings_date": "2027-02-23",
+   "next_earnings": {
+    "date": "2027-02-23",
+    "hour": "amc"
+   },
+   "last_earnings": {
+    "date": "2026-12-31",
+    "actual": 2.68,
+    "estimate": 2.53,
+    "beat": true
+   },
+   "week_change_pct": 19.883693141081817,
+   "analysis": "Nvidia dnes přidala 0,80 % a za poslední týden vzrostla téměř o 20 %, což je výrazný pohyb odrážející návrat Jensena Huanga do vedení firmy po předchozích spekulacích o jeho roli. Trh tuto zprávu přivítal velmi pozitivně, protože Huang je vnímán jako klíčová postava stojící za úspěchem Nvidie v éře AI čipů, a jeho návrat prakticky okamžitě vyvolal skokový nárůst akcie o více než 31 % v jednom dni. Nicméně právě tato závislost na jedné osobě teď přináší nové riziko – ratingová agentura S&P zvažuje snížení úvěrového hodnocení kvůli tzv. key-man risk a firma čelí devadesátidennímu období zvýšené pozornosti ohledně nástupnictví a dohledu představenstva. Dalším citlivým bodem je plánované svědectví Huanga před americkým Kongresem na začátku prosince, které by mohlo vnést do hry regulatorní nejistotu, zejména ohledně vývozu čipů a vztahů s Čínou. Z fundamentálního hlediska firma naposledy překonala odhady analytiků (EPS 2,68 vs. 2,53), což potvrzuje silnou poptávku po AI infrastruktuře. Nejbližší čtvrtletní výsledky jsou však vzdálené, až 23. února 2027, takže zatím nehrozí bezprostřední volatilita z této strany. Investoři by měli sledovat vývoj kolem ratingu, politické kauzy a obecný sentiment k AI sektoru, který byl v posledních týdnech dost nervózní – Nasdaq nedávno klesl o 20 % od říjnového maxima, než se částečně zotavil. Celkově je Nvidia stále vnímána jako lídr AI hardwaru, ale zvýšená pozornost na firemní governance a politické tlaky mohou krátkodobě zvyšovat kolísavost akcie.",
+   "outlook": "gain"
+  },
+  {
+   "symbol": "AMD",
+   "name": "Advanced Micro Devices",
+   "quote": {
+    "symbol": "AMD",
+    "price": 424.54,
+    "change_pct": 4.558776445090277,
+    "day_high": 426.88,
+    "day_low": 398.5901,
+    "day_open": 420.27
+   },
+   "news": [
+    {
+     "headline": "Jensen Huang Is Back. Nvidia’s (NVDA) Bull Case Remains",
+     "summary": "Jensen Huang is back at the helm, and Nvidia’s (NVDA) bull case remains in play. Nvidia shares surged 31.5% on November 23 after news of Jensen Huang’s reinstatement, underscoring how closely investor confidence in the company is tied to its co-founder. While near-term volatility is likely to persist, I remain decisively Bullish over the long term. Nvidia makes the chips, networking gear, and software powering the artificial intelligence (AI) boom, and its earnings story is strong enough to ride",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=a3adb5dfaf174dffb6f21e2a31c6eadd3eb5208d57c2c682d0a5fd92dc772fb4",
+     "datetime": 1795813560
+    },
+    {
+     "headline": "AMD Stocks Rise Despite Erste Group Downgrade on Valuation",
+     "summary": "Erste cut the chipmaker to Hold from Buy, citing a P/E near 87 times, as an early 4% gain faded through the morning.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=098ee2c774d0732b0376ef4eca591c1e8716eb3a65f85b006d31879eb25ce692",
+     "datetime": 1795807088
+    },
+    {
+     "headline": "Jim Cramer Is Still Bullish On These 5 Tech Stocks Despite AI Bear Market",
+     "summary": "The Nasdaq-100 briefly fell 20% below its October 6 record closing high on November 25 before recovering much of the day’s loss. The sell-off had picked up weeks earlier. On November 5, the Nasdaq Composite fell 5.5% as investors reconsidered how quickly the U.S. could build out AI infrastructure after the midterm elections. By late […]",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=aa66c798afc8263a9b4653b973996f8039704ac7c6ec480edbb30dbda5100594",
+     "datetime": 1795805361
+    },
+    {
+     "headline": "Not AMD. This Is the 1 Company Nvidia Should Worry About Most.",
+     "summary": "Broadcom's custom AI chips are impressive.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=6f2097fac680351b4ce1c65f00d9185bf46a5849bfd117b281efa732e51b436c",
+     "datetime": 1795800902
+    }
+   ],
+   "note": null,
+   "earnings_date": "2027-02-01",
+   "next_earnings": {
+    "date": "2027-02-01",
+    "hour": "amc"
+   },
+   "last_earnings": {
+    "date": "2026-09-30",
+    "actual": 2.09,
+    "estimate": 1.97,
+    "beat": true
+   },
+   "week_change_pct": 0.03534484789934591,
+   "analysis": "AMD dnes vystřelilo o 4,56 % a dotklo se denního maxima 426,88 USD, i když za celý týden je výkon prakticky na nule, což naznačuje, že nedávný pohyb je spíš krátkodobá reakce na sentiment než trvalý trend. Zajímavé je, že analytici z Erste Group snížili doporučení na \"Hold\" kvůli vysokému ocenění s P/E kolem 87, což je extrémně vysoké číslo i pro technologický sektor, a přesto se ranní propad rychle smazal – ukazuje to na silnou víru investorů v budoucí růst firmy spojený s AI čipy. Poslední výsledky firmy překonaly očekávání (EPS 2,09 vs. 1,97), což podporuje narativ, že AMD si drží tempo v konkurenci s Nvidií. Nicméně se objevuje varování, že právě Broadcom se svými vlastními (custom) AI čipy může být pro Nvidii větším konkurenčním rizikem než AMD, což by mohlo relativizovat pozici AMD v očích některých investorů. Jim Cramer zmiňuje AMD mezi akciemi, které zůstávají jeho favority i přes současný AI medvědí trh, což dodává firmě určitou psychologickou podporu. Výsledky za další kvartál přijdou až 1. února 2027, takže v mezidobí bude cena akcie patrně dál reagovat hlavně na širší sentiment k AI sektoru a na zprávy od konkurence. Vysoké ocenění znamená, že akcie je zranitelnější vůči náhlým výprodejům, pokud se objeví negativní zprávy z odvětví. Celkově je výhled pozitivní, ale s vědomím zvýšené volatility kvůli ocenění a konkurenčnímu tlaku.",
+   "outlook": "gain"
+  },
+  {
+   "symbol": "GOOGL",
+   "name": "Alphabet Inc.",
+   "quote": {
+    "symbol": "GOOGL",
+    "price": 274.96,
+    "change_pct": 0.6810692054192445,
+    "day_high": 279.58,
+    "day_low": 270.03,
+    "day_open": 279.135
+   },
+   "news": [
+    {
+     "headline": "Jensen Huang Is Back. Nvidia’s (NVDA) Bull Case Remains",
+     "summary": "Jensen Huang is back at the helm, and Nvidia’s (NVDA) bull case remains in play. Nvidia shares surged 31.5% on November 23 after news of Jensen Huang’s reinstatement, underscoring how closely investor confidence in the company is tied to its co-founder. While near-term volatility is likely to persist, I remain decisively Bullish over the long term. Nvidia makes the chips, networking gear, and software powering the artificial intelligence (AI) boom, and its earnings story is strong enough to ride",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=a3adb5dfaf174dffb6f21e2a31c6eadd3eb5208d57c2c682d0a5fd92dc772fb4",
+     "datetime": 1795813560
+    },
+    {
+     "headline": "Alphabet Down Nearly 20%: What Would Its CEO Say?",
+     "summary": "Today's big story: Anthropic Broke Its $83 IPO Price. What Did Facebook Do Next.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=29855fa31f3e1aeb9b90a71c6ac4405c1d0fe62c74956217a16b9e1ffff9d6c3",
+     "datetime": 1795811113
+    },
+    {
+     "headline": "Big Tech Turns Down The Volume On 'AI'",
+     "summary": "Each quarter for the past few years, we count how often âAIâ comes up on earnings calls for six mega-cap tech stocks.",
+     "source": "SeekingAlpha",
+     "url": "https://finnhub.io/api/news?id=aef6883f0edd44bd985466f1f77642e50d0ce6c3d071f418318dc35e4767467f",
+     "datetime": 1795809000
+    },
+    {
+     "headline": "Alphabet Stocks Move Lower as Record Credit Spreads Shadow AI Spending",
+     "summary": "Shares lag a tech rebound near a 52-week low, after $51.4 billion of quarterly capex pushed free cash flow negative.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=c4f248232a08a6eeada46dedfc8efb6cc06860300056a0f6da493d69ad558f9f",
+     "datetime": 1795807119
+    },
+    {
+     "headline": "Jim Cramer Is Still Bullish On These 5 Tech Stocks Despite AI Bear Market",
+     "summary": "The Nasdaq-100 briefly fell 20% below its October 6 record closing high on November 25 before recovering much of the day’s loss. The sell-off had picked up weeks earlier. On November 5, the Nasdaq Composite fell 5.5% as investors reconsidered how quickly the U.S. could build out AI infrastructure after the midterm elections. By late […]",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=aa66c798afc8263a9b4653b973996f8039704ac7c6ec480edbb30dbda5100594",
+     "datetime": 1795805361
+    },
+    {
+     "headline": "Top Stock Reports for Alphabet, Meta & Bank of America",
+     "summary": "Top stock reports for Alphabet, Meta and Bank of America spotlight AI-driven growth, advertising gains and rising interest income amid mounting cost pressures.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=f91b2d3ba76cb8fb0419b65518914d1a60d5f0a1610c8c71cda29eab59fb8c9a",
+     "datetime": 1795804860
+    },
+    {
+     "headline": "AppLovin vs. Magnite: Which Technology Stock Is a Better Buy for 2027?",
+     "summary": "Two ad-tech stocks, one with explosive growth and sky-high margins, the other a conservative bet on connected TV, with very different balance sheets.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=7c28502531c24e46c34f3a61bf24a094fbd91e5fe10600c813f2109691f673a1",
+     "datetime": 1795803374
+    },
+    {
+     "headline": "What Does Alphabet (GOOGL) Need To Prove After The Air Force Cloud Breach?",
+     "summary": "Alphabet (NasdaqGS:GOOGL) is a key provider to the US Air Force's Cloud One platform that has been breached by hackers. The cyber intrusion disrupted parts of Cloud One operations and potentially exposed sensitive military and logistics information, according to initial Air Force briefings. Cloud One also relies on infrastructure from Microsoft, Amazon and Oracle, raising wider questions about security coordination across major contractors. The Cloud One breach involving Alphabet's...",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=09420bdb8738b20d8df31ee16ba375a402049e78b854c752e3203a8091b3651f",
+     "datetime": 1795803025
+    }
+   ],
+   "note": null,
+   "earnings_date": "2027-02-02",
+   "next_earnings": {
+    "date": "2027-02-02",
+    "hour": "amc"
+   },
+   "last_earnings": {
+    "date": "2026-09-30",
+    "actual": 2.67,
+    "estimate": 3.11,
+    "beat": false
+   },
+   "week_change_pct": 3.6450676618040476,
+   "analysis": "Alphabet dnes přidal 0,68 %, ale akcie zůstává blízko svého 52týdenního minima a je stále skoro 20 % pod nedávnými maximy, což ukazuje na přetrvávající obavy investorů. Hlavním důvodem je kombinace slabších posledních výsledků (EPS 2,67 vs. odhad 3,11, tedy výrazný miss) a enormně vysokých kapitálových výdajů na AI infrastrukturu – 51,4 miliardy dolarů za jeden kvartál, což tlačí volný cash flow do záporných čísel. Trh si klade otázku, zda se tyto obrovské investice do AI skutečně promění v odpovídající růst výnosů, a tato nejistota drží akcii pod tlakem i přes celkové oživení technologického sektoru. K tomu se přidal bezpečnostní incident – hackeři prolomili cloudovou platformu Cloud One, kterou Google provozuje pro americké letectvo, což může poškodit důvěru ve vládní a podnikové zákazníky v cloudovém segmentu. Pozitivní zprávou je, že za týden akcie přesto posílila o 3,65 %, což naznačuje určitou stabilizaci po předchozím prudkém propadu. Firma bude muset v nadcházejících týdnech přesvědčit trh, že investice do AI přinesou návratnost, jinak hrozí další tlak na ocenění. Příští výsledky budou klíčové pro posouzení, zda se trend obrátí – přijdou 2. února 2027. Rizikem zůstává i regulatorní a bezpečnostní tlak spojený s vládními zakázkami.",
+   "outlook": "neutral"
+  },
+  {
+   "symbol": "META",
+   "name": "Meta Platforms",
+   "quote": {
+    "symbol": "META",
+    "price": 628.96,
+    "change_pct": 3.126793356178991,
+    "day_high": 636.62,
+    "day_low": 620.8,
+    "day_open": 628.39
+   },
+   "news": [
+    {
+     "headline": "Meta’s (META) Muse Could Unlock a New Revenue Stream",
+     "summary": "Meta Platforms, Inc. (META) could unlock a new revenue stream through Muse, its personal artificial intelligence (AI) agent. The social media platform operator has historically monetized its massive user base, which reached 3.64 billion daily active people (DAP) in September, primarily through advertising. Now, after investing $220 billion in capital expenditures between Q1 2023 and Q3 2026 and projecting $135 billion to $145 billion in full-year 2026 capex, Meta is looking to turn its AI invest",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=6c0b1d8a81b7a16611173daa81e760f9518d0e515d9496b2b0ffc6437b553dc5",
+     "datetime": 1795821833
+    },
+    {
+     "headline": "Jensen Huang Is Back. Nvidia’s (NVDA) Bull Case Remains",
+     "summary": "Jensen Huang is back at the helm, and Nvidia’s (NVDA) bull case remains in play. Nvidia shares surged 31.5% on November 23 after news of Jensen Huang’s reinstatement, underscoring how closely investor confidence in the company is tied to its co-founder. While near-term volatility is likely to persist, I remain decisively Bullish over the long term. Nvidia makes the chips, networking gear, and software powering the artificial intelligence (AI) boom, and its earnings story is strong enough to ride",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=a3adb5dfaf174dffb6f21e2a31c6eadd3eb5208d57c2c682d0a5fd92dc772fb4",
+     "datetime": 1795813560
+    },
+    {
+     "headline": "Can Meta's Business Pay For Its Spending?",
+     "summary": "Today's big story: Anthropic Broke Its $83 IPO Price. What Did Facebook Do Next.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=d710d9383dd9f54f4dce4ab2f8a23d21703b039faecf2916fcfe668dfadd1a7a",
+     "datetime": 1795810558
+    },
+    {
+     "headline": "Big Tech Turns Down The Volume On 'AI'",
+     "summary": "Each quarter for the past few years, we count how often âAIâ comes up on earnings calls for six mega-cap tech stocks.",
+     "source": "SeekingAlpha",
+     "url": "https://finnhub.io/api/news?id=aef6883f0edd44bd985466f1f77642e50d0ce6c3d071f418318dc35e4767467f",
+     "datetime": 1795809000
+    },
+    {
+     "headline": "Don't have time to shop Black Friday? AI will do it for you",
+     "summary": "AI is everywhere, and now it's even jumping into the holiday shopping season, with Meta's Muse set to take over Black Friday shopping for many consumers. On this episode of Market Hang, Wall Street veteran Turney Duff discusses the latest trend with FAS Wealth Partners Chief Investment Strategist Mike Rode; Founder, ETFs Partner, and Portfolio Manager Michael Monaghan; Tema ETFs Head of Investment Strategy Paisley Nardini; and 22V Research President Dennis DeBusschere.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=d9916236f0f3c255d8ae29d8f0c317ca7691690e33eea4891cff4ec337716931",
+     "datetime": 1795807083
+    },
+    {
+     "headline": "Top Stock Reports for Alphabet, Meta & Bank of America",
+     "summary": "Top stock reports for Alphabet, Meta and Bank of America spotlight AI-driven growth, advertising gains and rising interest income amid mounting cost pressures.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=f91b2d3ba76cb8fb0419b65518914d1a60d5f0a1610c8c71cda29eab59fb8c9a",
+     "datetime": 1795804860
+    },
+    {
+     "headline": "AppLovin vs. Magnite: Which Technology Stock Is a Better Buy for 2027?",
+     "summary": "Two ad-tech stocks, one with explosive growth and sky-high margins, the other a conservative bet on connected TV, with very different balance sheets.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=7c28502531c24e46c34f3a61bf24a094fbd91e5fe10600c813f2109691f673a1",
+     "datetime": 1795803374
+    },
+    {
+     "headline": "Sector Update: Energy Stocks Rise Friday Afternoon",
+     "summary": "Energy stocks were higher Friday afternoon, with the NYSE Energy Sector Index rising 1.6% and the St",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=b59c85cc0dd16b1c9893d1569ad901efb3ce27956eeec186986fc2cfd657c58d",
+     "datetime": 1795801481
+    }
+   ],
+   "note": null,
+   "earnings_date": "2027-01-26",
+   "next_earnings": {
+    "date": "2027-01-26",
+    "hour": "amc"
+   },
+   "last_earnings": {
+    "date": "2026-09-30",
+    "actual": 7.4,
+    "estimate": 6.87,
+    "beat": true
+   },
+   "week_change_pct": 12.146066614364168,
+   "analysis": "Meta zaznamenala silný den (+3,13 %) i týden (+12,15 %), což z ní dělá jednoho z nejvýraznějších vítězů mezi sledovanými technologickými giganty. Hlavním katalyzátorem je očekávání kolem nového AI asistenta Muse, který by mohl firmě otevřít zcela nový zdroj příjmů tím, že bude nakupovat jménem uživatelů během vánoční sezóny, včetně Black Friday. Tento krok ukazuje, jak Meta hledá způsoby monetizace své obrovské uživatelské základny nad rámec tradiční reklamy, což investoři vnímají velmi pozitivně. Poslední čtvrtletní výsledky navíc jasně překonaly odhady (EPS 7,40 vs. 6,87), což potvrzuje, že základní byznys firmy je zdravý i přes vysoké investiční výdaje do AI. Otázkou zůstává, zda dokáže Meta své masivní výdaje na AI zpětně zúročit v podobě tržeb – podobný problém řeší i konkurenční Alphabet. Pozitivní sentiment kolem Meta je také podpořen obecným návratem chuti investorů riskovat v AI segmentu po období nervozity. Příští výsledky budou zveřejněny už 26. ledna 2027, a trh bude bedlivě sledovat, jak se Muse promítá do reálných čísel. Krátkodobě lze očekávat pokračující zájem investorů, ale je třeba sledovat, zda hype okolo Muse obstojí v praxi.",
+   "outlook": "gain"
+  },
+  {
+   "symbol": "AAPL",
+   "name": "Apple Inc.",
+   "quote": {
+    "symbol": "AAPL",
+    "price": 358.54,
+    "change_pct": 0.8324427695596031,
+    "day_high": 359.5,
+    "day_low": 355.64,
+    "day_open": 358.21
+   },
+   "news": [
+    {
+     "headline": "AI Chip Stocks Swung Wildly—While Warren Buffett’s Apple Climbed 26%",
+     "summary": "Investing.com and Yahoo Finance LLC may earn commission or revenue on some items through the links below.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=dc91559ee9ae23aba325f5aa93ab40862e6b6bcce93b8b7d76986c08d0a009c2",
+     "datetime": 1795812089
+    },
+    {
+     "headline": "Amazon, Target and Walmart Chase Holiday Toy Spending",
+     "summary": "Popular toys, gaming consoles and electronic devices are driving competition among retailers during the holiday shopping season.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=840977565a9d89c2455920404316fc6aa754f0743a6e22669d2000a694ad2ec1",
+     "datetime": 1795809188
+    },
+    {
+     "headline": "Big Tech Turns Down The Volume On 'AI'",
+     "summary": "Each quarter for the past few years, we count how often âAIâ comes up on earnings calls for six mega-cap tech stocks.",
+     "source": "SeekingAlpha",
+     "url": "https://finnhub.io/api/news?id=aef6883f0edd44bd985466f1f77642e50d0ce6c3d071f418318dc35e4767467f",
+     "datetime": 1795809000
+    }
+   ],
+   "note": null,
+   "earnings_date": "2027-01-27",
+   "next_earnings": {
+    "date": "2027-01-27",
+    "hour": ""
+   },
+   "last_earnings": {
+    "date": "2026-09-30",
+    "actual": 2.1,
+    "estimate": 2.03,
+    "beat": true
+   },
+   "week_change_pct": 4.664876226062593,
+   "analysis": "Apple si dnes připsal mírný růst 0,83 % a za týden posílil o 4,66 %, čímž potvrzuje roli stabilního \"bezpečného přístavu\" uprostřed turbulentního AI sektoru. Zatímco akcie čipařů a dalších AI firem v posledních týdnech divoce kolísaly, Apple klidně stoupal – podle jedné ze zpráv dokonce o 26 %, což je spojováno i s pokračující důvěrou Warrena Buffetta, jehož Berkshire Hathaway drží velký podíl ve firmě. Tato stabilita přitahuje konzervativnější investory, kteří hledají expozici vůči technologickému sektoru bez extrémní volatility spojené s čistě AI tématy. Poslední výsledky firmy překonaly odhady analytiků (EPS 2,10 vs. 2,03), což potvrzuje zdravý základní byznys, zejména v oblasti hardwaru a služeb. Blížící se vánoční nákupní sezóna, zmiňovaná i v souvislosti s konkurencí od Amazonu, Targetu a Walmartu, může dále podpořit tržby z prodeje zařízení. Firma zatím nečelí žádným výrazně negativním zprávám, což z ní dělá relativně nízkorizikovou volbu v aktuálně nejistém prostředí. Příští výsledky budou zveřejněny 27. ledna 2027, a vzhledem k silné vánoční sezóně budou zajímavé zejména čísla o prodejích iPhonů a služeb. Celkově zůstává výhled pro Apple pozitivní, podpořený stabilitou a důvěrou dlouhodobých investorů.",
+   "outlook": "gain"
+  },
+  {
+   "symbol": "MSFT",
+   "name": "Microsoft Corp.",
+   "quote": {
+    "symbol": "MSFT",
+    "price": 492.85,
+    "change_pct": 0.5960035107056142,
+    "day_high": 500.465,
+    "day_low": 488.83,
+    "day_open": 499.755
+   },
+   "news": [
+    {
+     "headline": "Billionaire Chase Coleman’s Tiger Global Raised Its Cerebras Stake 48% to $790 Million",
+     "summary": "A famed hedge fund keeps buying a newly public AI chipmaker even as the stock sinks far below its debut high. Before retirement investors copy the move, one detail about how Tiger sized the bet matters more than the purchase itself.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=157bab7006e16a9eaba041f568718eced7841420efee12833f6fe2254f526c93",
+     "datetime": 1795815477
+    },
+    {
+     "headline": "Should You Pick Palantir Over Its Big Tech Rivals?",
+     "summary": "Today's big story: Anthropic Broke Its $83 IPO Price. What Did Facebook Do Next.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=4a7f034c51c2d80d968bb3d780789e526e2b17a6b2394b32564dc556666c53c0",
+     "datetime": 1795809561
+    },
+    {
+     "headline": "Big Tech Turns Down The Volume On 'AI'",
+     "summary": "Each quarter for the past few years, we count how often âAIâ comes up on earnings calls for six mega-cap tech stocks.",
+     "source": "SeekingAlpha",
+     "url": "https://finnhub.io/api/news?id=aef6883f0edd44bd985466f1f77642e50d0ce6c3d071f418318dc35e4767467f",
+     "datetime": 1795809000
+    },
+    {
+     "headline": "IREN (NasdaqGS:IREN) Stock Sees Modest Fair Value Cut After AI Cloud Sentiment Swings",
+     "summary": "The analyst fair value estimate for IREN has shifted from US$56.69 to US$52.74, pointing to a modest reset in the price target used in current valuation work. This updated view comes against a backdrop of sharp share price swings following IREN’s Q1 update, moves in Microsoft’s capex guidance, and sentiment shifts around AI cloud infrastructure tied to Nvidia’s GPU ecosystem. As you read on, you will see how these valuation changes fit into the broader IREN story and what to watch as the...",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=b7762b4a4534ab4ac0e667892554d5b72949ba20071b2450379b0f6dccb7ac52",
+     "datetime": 1795806562
+    },
+    {
+     "headline": "Microsoft Stocks Rise 0.26% as Code Red Targets One-Hour Outage Recovery",
+     "summary": "Internal memos show Microsoft overhauling Microsoft 365 reliability after a near 24-hour outage hit Outlook, Teams and Copilot worldwide.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=b01b1b43c7fc14689e5ddc05cc999caaff5b4b4626020bab18fff3a3bd53b140",
+     "datetime": 1795803800
+    },
+    {
+     "headline": "What Does Alphabet (GOOGL) Need To Prove After The Air Force Cloud Breach?",
+     "summary": "Alphabet (NasdaqGS:GOOGL) is a key provider to the US Air Force's Cloud One platform that has been breached by hackers. The cyber intrusion disrupted parts of Cloud One operations and potentially exposed sensitive military and logistics information, according to initial Air Force briefings. Cloud One also relies on infrastructure from Microsoft, Amazon and Oracle, raising wider questions about security coordination across major contractors. The Cloud One breach involving Alphabet's...",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=09420bdb8738b20d8df31ee16ba375a402049e78b854c752e3203a8091b3651f",
+     "datetime": 1795803025
+    },
+    {
+     "headline": "Franklin Templeton Flags Hidden Risk in S&P 500 Investing",
+     "summary": "Wall Street's biggest growth story comes with a catch.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=6b741eaabadea5c1133ac344199758ac77d0db41abf443feaf638a41272b3dcf",
+     "datetime": 1795802423
+    },
+    {
+     "headline": "Oracle Has Frustrated Me, but Even With Zero AI Revenue the Stock Is Worth $133—So I’m Buying at $104",
+     "summary": "Oracle has piled on debt, diluted shareholders, and burned cash, yet one analyst's brutal stress test suggests the old business alone may protect new buyers. What happens when every AI contract is assumed to fail?",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=3f399fcf14a2962c86a6bd2df47d240a7e43b501d9610241b203ea886a39f926",
+     "datetime": 1795801551
+    }
+   ],
+   "note": null,
+   "earnings_date": "2027-01-26",
+   "next_earnings": {
+    "date": "2027-01-26",
+    "hour": ""
+   },
+   "last_earnings": {
+    "date": "2026-09-30",
+    "actual": 4.89,
+    "estimate": 4.82,
+    "beat": true
+   },
+   "week_change_pct": 1.7192272764798238,
+   "analysis": "Microsoft dnes přidal mírných 0,60 % a za týden posílil o 1,72 %, což je ve srovnání s divočejšími pohyby jiných technologických gigantů relativně klidný vývoj. Firma však čelí reputačnímu problému po téměř 24hodinovém globálním výpadku služeb Microsoft 365, který postihl Outlook, Teams i Copilot a vedl k internímu programu s názvem \"Code Red\" zaměřenému na zlepšení spolehlivosti infrastruktury. Tento incident může krátkodobě poškodit důvěru firemních zákazníků, kteří jsou na těchto nástrojích silně závislí pro každodenní provoz. Na druhou stranu poslední čtvrtletní výsledky překonaly očekávání (EPS 4,89 vs. 4,82), což ukazuje na solidní základní byznys navzdory provozním potížím. Microsoft je také nepřímo zmiňován v souvislosti s širší debatou o riziku koncentrace velkých technologických firem v indexu S&P 500, na což upozornila analýza Franklin Templeton. Firma pokračuje v investicích do AI a cloudových služeb, ale musí teď ukázat, že dokáže zajistit stabilitu svých klíčových produktů, jinak hrozí odliv zákazníků ke konkurenci. Příští výsledky budou zveřejněny 26. ledna 2027, což bude klíčový moment pro posouzení dopadu výpadku na tržby a důvěru zákazníků. Celkově zůstává výhled smíšený – silné fundamenty, ale zvýšené provozní riziko v krátkodobém horizontu.",
+   "outlook": "neutral"
+  },
+  {
+   "symbol": "VUAA",
+   "name": "S&P 500 (přes SPY)",
+   "quote": {
+    "symbol": "SPY",
+    "price": 728.32,
+    "change_pct": 1.6213199386075072,
+    "day_high": 729.15,
+    "day_low": 719.61,
+    "day_open": 725.86
+   },
+   "news": [
+    {
+     "headline": "S&P 500, Nasdaq End Best Week In Over A Year As AI Optimism Makes Comeback — VZ, ANT, ADBE, TSLA In Focus",
+     "summary": "Meanwhile, the Dow Jones index recorded its best week since October 2022.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=062c6dc9674f05d9484818878dd1f4fe3421a09d91f9f95f021d086f85ff05c8",
+     "datetime": 1795814986
+    },
+    {
+     "headline": "Fidelity Counted 654,000 401(k) Millionaires in the Third Quarter of 2025, Up From 544,000 a Year Earlier",
+     "summary": "Seven-figure 401(k) accounts are multiplying, yet the typical saver holds a fraction of that. The age-by-age balances and one long-term habit reveal how wide the gap runs and what separates the two groups.",
+     "source": "Yahoo",
+     "url": "https://finnhub.io/api/news?id=5cd8745bbc1ecedfe66ea5d960193532f6e56de50b07f48b5b23e100112f8a49",
+     "datetime": 1795806196
+    }
+   ],
+   "note": "VUAA je evropský ETF na S&P 500 (LSE/Xetra), Finnhub free tier ale evropské burzy nepodporuje. Cena a novinky jsou proto z amerického ETF SPY, který sleduje stejný index 1:1.",
+   "earnings_date": null,
+   "next_earnings": null,
+   "last_earnings": null,
+   "week_change_pct": 5.582696684594325,
+   "analysis": "VUAA jako evropský ETF kopírující index S&P 500 dnes posílil o 1,62 % a za týden o slušných 5,58 %, což odráží celkově silný týden na amerických akciových trzích – S&P 500 i Nasdaq zaznamenaly nejlepší týdenní výkon za více než rok, Dow Jones dokonce nejlepší od října 2022. Tento návrat optimismu je z velké části spojen s obnovenou důvěrou v AI sektor, zejména po návratu Jensena Huanga do vedení Nvidie, což uklidnilo investory po předchozím výprodeji technologických akcií. Je důležité upozornit, že data o ceně a novinkách pro VUAA jsou čerpána z amerického ETF SPY, protože evropské burzy (LSE/Xetra), kde se VUAA skutečně obchoduje, nejsou v použitém datovém zdroji podporovány – nicméně SPY sleduje stejný index 1:1, takže vývoj by měl být velmi podobný. Jako širce diverzifikovaný fond zahrnující 500 největších amerických firem je VUAA přirozeně méně volatilní než jednotlivé technologické akcie, ale zároveň má významnou váhu v technologickém sektoru, takže těží i trpí podobnými trendy jako Nvidia, Meta či Apple. Pozitivní zpráva o rostoucím počtu dolárových milionářů v 401(k) účtech naznačuje dlouhodobě rostoucí důvěru běžných investorů v akciové trhy. Rizikem zůstává přetrvávající nervozita kolem AI ocenění a možnost náhlého obratu sentimentu, pokud se objeví negativní makro zprávy. Pro dlouhodobé investory zůstává ETF na S&P 500 relativně bezpečnou volbou i uprostřed krátkodobé volatility.",
+   "outlook": "gain"
+  }
+ ],
+ "macro_news": [
+  {
+   "headline": "Son of Hamas chief survives Israeli strike, Hamas says - Reuters",
+   "summary": "Son of Hamas chief survives Israeli strike, Hamas says  Reuters",
+   "source": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQXhxUTlzbVROVWJBME9JOGtIQnZUczNMMXdBTUV0QlByWWRCWThyeXlfcDA0T2MyaHlVbFlFSW0wbkpjbGd1WXVjQkZQaDNuZFM1VFkxaU9fN2lXUGtwa0xmQ0xHZHVaYko0M3FfVmdmd0l1LUpJOVhrNF9vTzk2OUJ0bVB4MU9JNnFCWFdESncyd0NBbHJodGpyUlRLNXRRRjhDYXJTRQ?oc=5",
+   "datetime": 1795821996
+  },
+  {
+   "headline": "EXCLUSIVE: Hackers breach US Air Force flagship Cloud One computing platform - Reuters",
+   "summary": "EXCLUSIVE: Hackers breach US Air Force flagship Cloud One computing platform  Reuters",
+   "source": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQnhWb2oyc2Qta3k0bUhwbGZTcWZMREZ0VU41eVNZWDJZTDlBcmMxZzFrLXlmVGJpUHBRbVdBRlNoQU9lWUlIcVpMcXQwWWpyYVJ2eDJQa1ZvNFU5MUFHLWdpQW1BVloyUW5lTUlVSlFpLXJwVHNLMl9fQnBFTTNnemY4Q0JiUkN3SXFndG1pX1l1TmdySFJDOHJlWC1fMnE3cjlaVFB5M1hWbU0?oc=5",
+   "datetime": 1795812961
+  },
+  {
+   "headline": "US disables ship trying to leave Iran, as Tehran vows to confront blockade - Reuters",
+   "summary": "US disables ship trying to leave Iran, as Tehran vows to confront blockade  Reuters",
+   "source": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbzhtZElCdnJJN0hCYkdsQ1lTWHc5UDRtNGE4cF9sWE14dlpacmk2blU5cXJMTHp0MGNaMElaQzdSem91dXNpNVRtd1k4ekZza09jVEpubTh3cjlpbE9CNWdMSU1seV9vNDFEeGQ1aDZBY1J1R0JoNVdlcjJaQnlWcU5Ib3ZISHVmNHA4eklQclI2WDIzR0VtNVp0NEJjaDZfcTlKNHRNbW54bGF2TExrR1NaSFJvLUxRcnc?oc=5",
+   "datetime": 1795810017
+  },
+  {
+   "headline": "Jensen Huang's return did little to ease AI jitters. We used the weakness to buy",
+   "summary": "Jensen Huang's return sparked a fleeting AI rally, but persistent market volatility gave us another opportunity to put cash to work.",
+   "source": "CNBC",
+   "url": "https://www.cnbc.com/investingclub/2026/11/27/jensen-huangs-return-did-little-to-ease-ai-jitters-we-bought-on-weakness.html",
+   "datetime": 1795805180
+  }
+ ],
+ "macro": [
+  {
+   "time": "21:56",
+   "title": "Hackeři prolomili cloudovou platformu amerického letectva",
+   "body": "Podle exkluzivní zprávy Reuters hackeři napadli klíčovou výpočetní platformu Cloud One, kterou pro americké letectvo provozuje Google. Incident narušil část operací a potenciálně vystavil citlivá data riziku úniku. Událost zvyšuje obavy o kybernetickou bezpečnost velkých cloudových dodavatelů pracujících s vládními zakázkami a může ovlivnit důvěru v Alphabet jako dodavatele.",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQnhWb2oyc2Qta3k0bUhwbGZTcWZMREZ0VU41eVNZWDJZTDlBcmMxZzFrLXlmVGJpUHBRbVdBRlNoQU9lWUlIcVpMcXQwWWpyYVJ2eDJQa1ZvNFU5MUFHLWdpQW1BVloyUW5lTUlVSlFpLXJwVHNLMl9fQnBFTTNnemY4Q0JiUkN3SXFndG1pX1l1TmdySFJDOHJlWC1fMnE3cjlaVFB5M1hWbU0?oc=5",
+   "source": "Reuters"
+  },
+  {
+   "time": "21:06",
+   "title": "USA zneškodnily íránskou loď, Teherán vyhrožuje reakcí",
+   "body": "Americké síly zneškodnily loď mířící z íránského přístavu, která se podle agentury Reuters snažila opustit oblast navzdory blokádě. Írán následně prohlásil, že se proti blokádě postaví. Napětí na Blízkém východě tak nadále roste a může zvyšovat nejistotu na globálních trzích, zejména v souvislosti s cenami ropy.",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbzhtZElCdnJJN0hCYkdsQ1lTWHc5UDRtNGE4cF9sWE14dlpacmk2blU5cXJMTHp0MGNaMElaQzdSem91dXNpNVRtd1k4ekZza09jVEpubTh3cjlpbE9CNWdMSU1seV9vNDFEeGQ1aDZBY1J1R0JoNVdlcjJaQnlWcU5Ib3ZISHVmNHA4eklQclI2WDIzR0VtNVp0NEJjaDZfcTlKNHRNbW54bGF2TExrR1NaSFJvLUxRcnc?oc=5",
+   "source": "Reuters"
+  },
+  {
+   "time": "19:46",
+   "title": "Huangův návrat jen krátce uklidnil nervozitu kolem AI akcií",
+   "body": "Podle CNBC vyvolal návrat Jensena Huanga do čela Nvidie jen krátkodobou úlevnou rally, ale volatilita na trhu s AI akciemi přetrvává. Investoři podle redakce využili následné slabosti k dalším nákupům, což naznačuje, že dlouhodobá důvěra v AI sektor zůstává i přes krátkodobé výkyvy. Zpráva potvrzuje, že sentiment kolem AI je stále velmi citlivý na personální a politické zprávy.",
+   "url": "https://www.cnbc.com/investingclub/2026/11/27/jensen-huangs-return-did-little-to-ease-ai-jitters-we-bought-on-weakness.html",
+   "source": "CNBC"
+  },
+  {
+   "time": "00:26",
+   "title": "Syn vůdce Hamásu přežil izraelský úder",
+   "body": "Podle agentury Reuters syn vůdce Hamásu přežil útok izraelských sil. Zpráva přichází uprostřed pokračujícího konfliktu na Blízkém východě, který zvyšuje geopolitickou nejistotu v regionu. Takové události mohou mít nepřímý dopad na globální trhy, zejména přes ceny energií a celkový rizikový sentiment investorů.",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQXhxUTlzbVROVWJBME9JOGtIQnZUczNMMXdBTUV0QlByWWRCWThyeXlfcDA0T2MyaHlVbFlFSW0wbkpjbGd1WXVjQkZQaDNuZFM1VFkxaU9fN2lXUGtwa0xmQ0xHZHVaYko0M3FfVmdmd0l1LUpJOVhrNF9vTzk2OUJ0bVB4MU9JNnFCWFdESncyd0NBbHJodGpyUlRLNXRRRjhDYXJTRQ?oc=5",
+   "source": "Reuters"
+  }
+ ],
+ "macro_analysis": "",
+ "tips": [
+  {
+   "ticker": "AVGO",
+   "name": "Broadcom Inc.",
+   "tag": "AI čipy",
+   "reason": "Broadcom vyrábí vlastní (custom) AI čipy, které jsou podle některých analytiků pro Nvidii větším konkurenčním rizikem než AMD. Firma těží z rostoucí poptávky po specializovaném AI hardwaru od velkých cloudových firem."
+  },
+  {
+   "ticker": "CRBS",
+   "name": "Cerebras Systems",
+   "tag": "nový AI čipař",
+   "reason": "Hedge fond Tiger Global nedávno zvýšil svůj podíl v Cerebras o 48 % na 790 milionů dolarů, přestože akcie od vstupu na burzu výrazně klesla. Jde o zajímavý příklad kontrariánské sázky na nově veřejnou AI firmu."
+  },
+  {
+   "ticker": "ORCL",
+   "name": "Oracle Corporation",
+   "tag": "hodnota mimo AI hype",
+   "reason": "Podle jedné z analýz má Oracle hodnotu kolem 133 dolarů na akcii i bez jakýchkoliv příjmů z AI, pouze na základě tradičního byznysu. To může znamenat zajímavý poměr rizika a výnosu pro investory hledající méně spekulativní technologickou sázku."
+  },
+  {
+   "ticker": "WMT",
+   "name": "Walmart Inc.",
+   "tag": "mimo tech sektor",
+   "reason": "Walmart těží z vánoční nákupní sezóny a silné poptávky po hračkách, herních konzolích a elektronice. Jde o stabilní maloobchodní hráčku mimo technologický sektor, vhodnou pro diverzifikaci portfolia."
+  }
+ ],
+ "glossary": {
+  "term": "Key-man risk",
+  "explanation": "Riziko, že firma je příliš závislá na jedné klíčové osobě, například generálním řediteli. Pokud by tato osoba firmu opustila nebo nemohla vykonávat svou roli, mohlo by to výrazně ohrozit chod a hodnotu celé společnosti."
+ },
+ "weekly_recap": null
+}
